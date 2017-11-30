@@ -1,0 +1,11 @@
+backend:
+  name: github
+  repo: n3xtcoder/send
+  branch: master
+
+publish_mode: editorial_workflow
+media_folder: "images/uploads"
+collections:
+  - name: "pages"
+    label: "Page"
+    folder: "src/pages"
