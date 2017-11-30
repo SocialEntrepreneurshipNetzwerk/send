@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: n3xtcoder/send
-  branch: master
+  branch: cms
 
 media_folder: static/img
 public_folder: /img
