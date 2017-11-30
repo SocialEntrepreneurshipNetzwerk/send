@@ -1,64 +1,50 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
-import Helmet from 'react-helmet'
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
+import github from '../img/github-icon.svg';
+import logo from '../img/logo.svg';
+import './all.sass';
 
-import './index.css'
-
-const Header = () => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
-          Gatsby
+const Navbar = () => (
+  <nav className="navbar is-transparent">
+    <div className="container">
+      <div className="navbar-brand">
+        <Link to="/" className="navbar-item">
+          <figure className="image">
+            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+          </figure>
         </Link>
-      </h1>
+      </div>
+      <div className="navbar-start">
+        <Link className="navbar-item" to="/about">
+          About
+        </Link>
+        <Link className="navbar-item" to="/products">
+          Products
+        </Link>
+      </div>
+      <div className="navbar-end">
+        <a className="navbar-item" href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate" target="_blank" rel="noopener noreferrer">
+          <span className="icon">
+            <img src={github} alt="Github" />
+          </span>
+        </a>
+      </div>
     </div>
-  </div>
-)
+  </nav>
+);
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet
-      title="Gatsby Default Starter"
-      meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
-      ]}
-    />
-    <Header />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
-      }}
-    >
-      {children()}
-    </div>
+    <Helmet title="Home | Gatsby + Netlify CMS" />
+    <Navbar />
+    <div>{children()}</div>
   </div>
-)
+);
 
 TemplateWrapper.propTypes = {
-  children: PropTypes.func,
-}
+  children: PropTypes.func
+};
 
-export default TemplateWrapper
+export default TemplateWrapper;
