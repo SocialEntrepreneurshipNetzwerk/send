@@ -77,11 +77,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject(result.errors);
     }
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      createPage({
-        path: node.frontmatter.path,
-        component: node.frontmatter.templateKey ? path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`) : path.resolve('src/pages/index.js'),
-        context: {} // additional data can be passed via context
-      });
+        if (node.frontmatter.path){
+            createPage({
+              path: node.frontmatter.path,
+              component: node.frontmatter.templateKey ? path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`) : path.resolve('src/pages/index.js'),
+              context: {} // additional data can be passed via context
+            });
+        }
     });
   });
 };

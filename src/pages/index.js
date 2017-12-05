@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import Script from 'react-load-script';
+import MemberCTASection from '../components/MemberCTASection'
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -19,35 +20,47 @@ export default class IndexPage extends React.Component {
 
   render() {
     const { data } = this.props;
-    const frontmatter = data.markdownRemark.frontmatter;
+    const frontmatterHome = data.frontmatterHome.frontmatter;
+    const frontmatterMemberCTASection = data.frontmatterMemberCTASection.frontmatter;
     return (
-        <section>
-            {frontmatter.tagline.split("\n").map(item => (
-                <h1>{item}</h1>
-            ))}
-            <p>{frontmatter.tagline_large}</p>
-            <h4>{frontmatter.title}</h4>
-            {frontmatter.content.blurbs.map((item)=><p>{item}</p>)}
-            {frontmatter.boxes.blurbs.map((item)=><p>{item}</p>)}
-        </section>
+        <div>
+            <section>
+                {frontmatterHome.tagline.split("\n").map(item => (
+                    <h1>{item}</h1>
+                ))}
+                <p>{frontmatterHome.tagline_large}</p>
+                <h4>{frontmatterHome.title}</h4>
+                {frontmatterHome.content.blurbs.map((item)=><p>{item}</p>)}
+                {frontmatterHome.boxes.blurbs.map((item)=><p>{item}</p>)}
+            </section>
+            <MemberCTASection data={frontmatterMemberCTASection}/>
+        </div>
     );
   }
 }
 
-export const pageQuery = graphql`
-  query IndexQuery ($path: String!){
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+export const IndexQuery = graphql`
+  query Index {
+    frontmatterHome: markdownRemark(frontmatter: { path: { eq: "/" } }) {
         frontmatter {
-        title
-        tagline
-        tagline_large
-        content {
-            blurbs
-        }
-        boxes {
-            blurbs
-        }
+            title
+            tagline
+            tagline_large
+            content {
+                blurbs
+            }
+            boxes {
+                blurbs
+            }
         }
     }
-  }
+    frontmatterMemberCTASection: markdownRemark(frontmatter:  { component: { eq:"MemberCTASection"}}){
+        frontmatter{
+            title
+            content {
+              blurbs
+            }
+        }
+      }
+}
 `;
