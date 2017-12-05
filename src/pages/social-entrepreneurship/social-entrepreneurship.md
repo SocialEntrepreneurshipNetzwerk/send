@@ -1,14 +1,11 @@
 ---
 templateKey: product-page
-path: /products
-title: Our Coffee
-image: /img/products-grid3.jpg
-heading: What we offer
+path: /social-entrepreneurship
+title: Social Entrepreneurship
+image: /img/21191154_361881567578079_2082964139_o.jpg
+heading: Social
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    "Unter Social Entrepreneurship oder sozialem Unternehmertum bzw. Sozialunternehmertum versteht man eine unternehmerische Tätigkeit, die sich innovativ, pragmatisch und langfristig für die Lösung sozialer Probleme oder allgemeiner: für einen wesentlichen, positiven Wandel einer Gesellschaft (für sog. metaökonomische Oberziele) einsetzen will."
 intro:
   blurbs:
     - image: /img/coffee-gear.png
@@ -99,4 +96,3 @@ pricing:
       plan: Custom
       price: '??'
 ---
-
