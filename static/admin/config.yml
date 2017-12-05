@@ -32,8 +32,9 @@ collections:
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "text"}
           - {label: Content, name: content, widget: object, fields: [ {label: Blurbs, name: blurbs, widget: list, fields: [ {label: Text, name: text, widget: text}]}]}
-    - name: "components"
-      label: "Components"
+  - name: "components"
+    label: "Components"
+    files:
       - file: "src/pages/components/member-cta-section.md"
         label: "Member CTA Section"
         name: "member-cta-section"
