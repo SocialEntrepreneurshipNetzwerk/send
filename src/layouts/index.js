@@ -41,11 +41,20 @@ const Navbar = () => (
   </nav>
 );
 
+const Footer = () => {
+    const style =  {
+        backgroundColor: '#3daef2',
+        height: '100px'
+    };
+    return <footer style={style}>FOOTER PLACEHOLDER</footer>
+};
+
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Home | Gatsby + Netlify CMS" />
     <Navbar />
     <div>{children()}</div>
+    <Footer/>
   </div>
 );
 
