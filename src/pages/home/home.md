@@ -5,10 +5,12 @@ tagline: |-
     gemeinsam.
     wirken.
 tagline_large: Social Entrepreneurship  Netzwerk Deutschland e.V. Das Netzwerk für Social Entrepreneure  und Social Startups in Deutschland.
-intro:
+content:
     blurbs: 
-        - Wir fördern die Entwicklung  sozialer Innovationen und  verankern unsere Ziele  in Politik und Gesellschaft!
-        - Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!
+        - text: > 
+        Wir fördern die Entwicklung  sozialer Innovationen und  verankern unsere Ziele  in Politik und Gesellschaft!
+        - text: >
+        Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!
 boxes: 
     blurbs:
         - SEND vertritt die Interessen  von Social Entrepreneurship in Deutschland, um die Rahmenbedingungen für Sozialunternehmer*innen zu verbessern.
