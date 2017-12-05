@@ -31,3 +31,4 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "text"}
+          - {label: Content, name: content, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Content-Column, name: content-column, widget: text}]}]}
