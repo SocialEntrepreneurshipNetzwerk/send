@@ -40,5 +40,3 @@ collections:
         name: "member-cta-section"
         fields:
             - {label: "Title", name: "title", widget: "string"}
-            - {label: Content, name: content, widget: object, fields: [ {label: Blurbs, name: blurbs, widget: list, fields: [ {label: Text, name: text, widget: text}]}]}
-            - {label: "Button Label", name: "button-label", widget: "string"}
