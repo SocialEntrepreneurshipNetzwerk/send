@@ -16,6 +16,14 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               date
               title
+              tagline
+              tagline_large
+              content {
+                  blurbs
+              }
+              boxes {
+                  blurbs
+              }
               image
               heading
               description
@@ -71,7 +79,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
-        component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
+        component: node.frontmatter.templateKey ? path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`) : path.resolve('src/pages/index.js'),
         context: {} // additional data can be passed via context
       });
     });

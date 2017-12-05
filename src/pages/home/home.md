@@ -1,10 +1,12 @@
 ---
-tagline: gemeinsam. wirken.
-tagline-large: Social Entrepreneurship  Netzwerk Deutschland e.V.
-Das Netzwerk für Social Entrepreneure  und Social Startups in Deutschland.
+path: /
 title: Was wir tun
+tagline: |- 
+    gemeinsam.
+    wirken.
+tagline_large: Social Entrepreneurship  Netzwerk Deutschland e.V. Das Netzwerk für Social Entrepreneure  und Social Startups in Deutschland.
 content:
-    blurbs:
+    blurbs: 
         - Wir fördern die Entwicklung  sozialer Innovationen und  verankern unsere Ziele  in Politik und Gesellschaft!
         - Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!
 boxes: 
