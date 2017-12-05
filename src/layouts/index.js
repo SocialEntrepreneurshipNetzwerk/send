@@ -17,11 +17,17 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
+        <Link className="navbar-item" to="/ueber-uns">
+          Über uns
         </Link>
-        <Link className="navbar-item" to="/products">
-          Products
+        <Link className="navbar-item" to="/social-entrepreneurship">
+          Social Entrepreneurship
+        </Link>
+        <Link className="navbar-item" to="/positionen">
+          Positionen
+        </Link>
+        <Link className="navbar-item" to="/netzwerk">
+          Netzwerk
         </Link>
       </div>
       <div className="navbar-end">
