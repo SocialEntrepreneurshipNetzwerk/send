@@ -29,4 +29,5 @@ collections:
         fields:
           - {label: "Path", name: "path", widget: "hidden", default: "/about"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "text"}
