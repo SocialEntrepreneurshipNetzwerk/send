@@ -13,8 +13,8 @@
     "gatsby-remark-images": "^1.5.18",
     "gatsby-source-filesystem": "^1.5.5",
     "gatsby-transformer-remark": "^1.7.17",
-    "react-load-script": "0.0.6",
-    "gatsby-transformer-sharp": "^1.6.13"
+    "gatsby-transformer-sharp": "^1.6.13",
+    "react-load-script": "0.0.6"
   },
   "keywords": [
     "gatsby"
@@ -29,6 +29,8 @@
     "heroku-postbuild": "gatsby build"
   },
   "devDependencies": {
-    "prettier": "^1.7.4"
+    "eslint": "^4.12.1",
+    "eslint-config-idiomatic": "^4.0.0",
+    "eslint-plugin-react": "^7.5.1"
   }
 }
