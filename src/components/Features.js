@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
-    {gridItems.map(item => (
+    {gridItems.map( item => (
       <div key={item.image} className="column is-6">
         <section className="section">
           <p className="has-text-centered">
