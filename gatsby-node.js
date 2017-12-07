@@ -2,7 +2,6 @@ const path = require( 'path' );
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
-
   return graphql( `
     {
       allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, limit: 1000) {
@@ -81,7 +80,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         createPage({
           path: node.frontmatter.path,
           component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( 'src/pages/index.js' ),
-          context: {} // additional data can be passed via context
+          // additional data can be passed via context
+          context: {}
         });
       }
     });
