@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">

@@ -1,10 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
-import Link from "gatsby-link";
-import Helmet from "react-helmet";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
-import "./all.sass";
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
+import github from '../img/github-icon.svg';
+import logo from '../img/logo.svg';
+import './all.sass';
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
@@ -12,7 +12,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
           </figure>
         </Link>
       </div>
@@ -43,8 +43,8 @@ const Navbar = () => (
 
 const Footer = () => {
   const style = {
-    backgroundColor: "#3daef2",
-    height: "100px"
+    backgroundColor: '#3daef2',
+    height: '100px'
   };
   return <footer style={style}>FOOTER PLACEHOLDER</footer>;
 };

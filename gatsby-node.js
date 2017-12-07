@@ -1,4 +1,4 @@
-const path = require( "path" );
+const path = require( 'path' );
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -80,7 +80,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       if ( node.frontmatter.path ) {
         createPage({
           path: node.frontmatter.path,
-          component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( "src/pages/index.js" ),
+          component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( 'src/pages/index.js' ),
           context: {} // additional data can be passed via context
         });
       }

@@ -1,7 +1,7 @@
-import React from "react";
-import Features from "../components/Features";
-import Testimonials from "../components/Testimonials";
-import Pricing from "../components/Pricing";
+import React from 'react';
+import Features from '../components/Features';
+import Testimonials from '../components/Testimonials';
+import Pricing from '../components/Pricing';
 
 export default ({ data }) => {
   const { frontmatter } = data.markdownRemark;
@@ -19,10 +19,10 @@ export default ({ data }) => {
                   <h2
                     className="has-text-weight-bold is-size-1"
                     style={{
-                      boxShadow: "0.5rem 0 0 #f40, -0.5rem 0 0 #f40",
-                      backgroundColor: "#f40",
-                      color: "white",
-                      padding: "1rem"
+                      boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+                      backgroundColor: '#f40',
+                      color: 'white',
+                      padding: '1rem'
                     }}
                   >
                     {frontmatter.title}
@@ -47,7 +47,7 @@ export default ({ data }) => {
                       <div className="tile is-parent is-vertical">
                         <article className="tile is-child">
                           <img
-                            style={{ borderRadius: "5px" }}
+                            style={{ borderRadius: '5px' }}
                             src={frontmatter.main.image1.image}
                             alt=""
                           />
@@ -56,7 +56,7 @@ export default ({ data }) => {
                       <div className="tile is-parent">
                         <article className="tile is-child">
                           <img
-                            style={{ borderRadius: "5px" }}
+                            style={{ borderRadius: '5px' }}
                             src={frontmatter.main.image2.image}
                             alt=""
                           />
@@ -66,7 +66,7 @@ export default ({ data }) => {
                     <div className="tile is-parent">
                       <article className="tile is-child">
                         <img
-                          style={{ borderRadius: "5px" }}
+                          style={{ borderRadius: '5px' }}
                           src={frontmatter.main.image3.image}
                           alt=""
                         />

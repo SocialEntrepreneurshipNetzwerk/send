@@ -1,16 +1,16 @@
-import React from "react";
+import React from 'react';
 //import Link from "gatsby-link";
 //import Helmet from "react-helmet";
 //import Script from "react-load-script";
-import MemberCTASection from "../components/MemberCTASection";
+import MemberCTASection from '../components/MemberCTASection';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
     if ( window.netlifyIdentity ) {
-      window.netlifyIdentity.on( "init", user => {
+      window.netlifyIdentity.on( 'init', user => {
         if ( !user ) {
-          window.netlifyIdentity.on( "login", () => {
-            document.location.href = "/admin/";
+          window.netlifyIdentity.on( 'login', () => {
+            document.location.href = '/admin/';
           });
         }
       });
@@ -25,7 +25,7 @@ export default class IndexPage extends React.Component {
     return (
       <div>
         <section>
-          {frontmatterHome.tagline.split( "\n" ).map( item => (
+          {frontmatterHome.tagline.split( '\n' ).map( item => (
             <h1>{item}</h1>
           ))}
           <p>{frontmatterHome.tagline_large}</p>
