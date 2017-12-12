@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
 import Script from 'react-load-script';
+import MemberCTASection from '../components/MemberCTASection'
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -19,59 +20,47 @@ export default class IndexPage extends React.Component {
 
   render() {
     const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const frontmatterHome = data.frontmatterHome.frontmatter;
+    const frontmatterMemberCTASection = data.frontmatterMemberCTASection.frontmatter;
     return (
-      <section className="section">
-        <Script
-          url="https://identity.netlify.com/v1/netlify-identity-widget.js"
-          onLoad={this.handleScriptLoad.bind(this)}
-        />
-        <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
-          {posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({ node: post }) => {
-            return (
-              <div className="content" style={{ border: '1px solid #eaecee', padding: '2em 4em' }} key={post.id}>
-                <p>
-                  <Link className="has-text-primary" to={post.frontmatter.path}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </div>
-            );
-          })}
+        <div>
+            <section>
+                {frontmatterHome.tagline.split("\n").map(item => (
+                    <h1>{item}</h1>
+                ))}
+                <p>{frontmatterHome.tagline_large}</p>
+                <h4>{frontmatterHome.title}</h4>
+                {frontmatterHome.content.blurbs.map((item)=><p>{item}</p>)}
+                {frontmatterHome.boxes.blurbs.map((item)=><p>{item}</p>)}
+            </section>
+            <MemberCTASection data={frontmatterMemberCTASection}/>
         </div>
-      </section>
     );
   }
 }
 
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          frontmatter {
+export const IndexQuery = graphql`
+  query Index {
+    frontmatterHome: markdownRemark(frontmatter: { path: { eq: "/" } }) {
+        frontmatter {
             title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            path
-          }
+            tagline
+            tagline_large
+            content {
+                blurbs
+            }
+            boxes {
+                blurbs
+            }
+        }
+    }
+    frontmatterMemberCTASection: markdownRemark(frontmatter:  { component: { eq:"MemberCTASection"}}){
+        frontmatter{
+            title
+            content {
+              blurbs
+            }
         }
       }
-    }
-  }
+}
 `;
