@@ -1,14 +1,18 @@
 import React from 'react';
-import Link from 'gatsby-link';
-import Helmet from 'react-helmet';
-import Script from 'react-load-script';
+//import Link from "gatsby-link";
+//import Helmet from "react-helmet";
+//import Script from "react-load-script";
+import TopImage from '../components/top-image/TopImage.js';
+import Box from '../components/box/box';
+import topImage from '../img/Opener.png';
+import styles from './index.module.css';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.on('init', user => {
-        if (!user) {
-          window.netlifyIdentity.on('login', () => {
+    if ( window.netlifyIdentity ) {
+      window.netlifyIdentity.on( 'init', user => {
+        if ( !user ) {
+          window.netlifyIdentity.on( 'login', () => {
             document.location.href = '/admin/';
           });
         }
@@ -19,59 +23,42 @@ export default class IndexPage extends React.Component {
 
   render() {
     const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { frontmatter } = data.markdownRemark;
     return (
-      <section className="section">
-        <Script
-          url="https://identity.netlify.com/v1/netlify-identity-widget.js"
-          onLoad={this.handleScriptLoad.bind(this)}
-        />
-        <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
-          {posts.filter(post => post.node.frontmatter.templateKey === 'blog-post').map(({ node: post }) => {
-            return (
-              <div className="content" style={{ border: '1px solid #eaecee', padding: '2em 4em' }} key={post.id}>
-                <p>
-                  <Link className="has-text-primary" to={post.frontmatter.path}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.frontmatter.path}>
-                    Keep Reading →
-                  </Link>
-                </p>
-              </div>
-            );
-          })}
+      <div>
+        <TopImage imageSource={topImage} isHome={true}/>
+        <div className={styles.content} >
+          <section>
+            {frontmatter.tagline.split( '\n' ).map( item => (
+              <h1>{item}</h1>
+            ))}
+            <p>{frontmatter.tagline_large}</p>
+            <h4>{frontmatter.title}</h4>
+            <p className={styles.paragraph}>{frontmatter.section_1.paragraph}</p>
+            <div className={styles.column}>
+              {frontmatter.section_1.boxes.map(( item ) => <Box content={item}/> )}
+            </div>
+          </section>
         </div>
-      </section>
+      </div>
     );
   }
 }
 
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          frontmatter {
+export const IndexQuery = graphql`
+  query Index {
+    markdownRemark(frontmatter: { path: { eq: "/" } }) {
+        frontmatter {
             title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-            path
-          }
+            tagline
+            tagline_large
+            section_1 {
+              title
+              paragraph
+              boxes
+            }
+            content 
         }
-      }
     }
-  }
+}
 `;

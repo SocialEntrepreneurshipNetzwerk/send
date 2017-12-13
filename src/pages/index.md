@@ -1,0 +1,20 @@
+---
+path: /
+title: Was wir tun
+image: '../img/roses.jpg'
+tagline: |- 
+  gemeinsam.
+  wirken.
+tagline_large: Social Entrepreneurship  Netzwerk Deutschland e.V. Das Netzwerk für Social Entrepreneure  und Social Startups in Deutschland.
+section_1: 
+  title: Was wir tun
+  paragraph: Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!
+  boxes: 
+    - SEND vertritt die Interessen  von Social Entrepreneurship in Deutschland, um die Rahmenbedingungen für Sozialunternehmer*innen zu verbessern.
+    - SEND fördert die Sichtbar-keit von Sozial-unternehmer*innen und ihren Lösungen in der Öffentlichkeit.
+    - SEND setzt auf Vernetzung, Bildung und Qualifizierung über Fachgruppen, Workshops und Events.
+    - SEND baut Brücken zu Akteuren aus der Wohlfahrt, Politik und Wirtschaft.
+content:
+  - Wir fördern die Entwicklung  sozialer Innovationen und  verankern unsere Ziele  in Politik und Gesellschaft!
+  - Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!
+---
