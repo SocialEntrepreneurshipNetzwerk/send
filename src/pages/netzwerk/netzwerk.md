@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'netzwerk'
 path: /netzwerk
 title: Netzwerk
 ---

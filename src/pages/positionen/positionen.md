@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: positionen
 path: /positionen
 title: Positionen
 ---

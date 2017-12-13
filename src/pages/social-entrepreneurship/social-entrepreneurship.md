@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: socialEntrepreneurship
 path: /social-entrepreneurship
 title: Social Entrepreneurship
 image: /img/21191154_361881567578079_2082964139_o.jpg
