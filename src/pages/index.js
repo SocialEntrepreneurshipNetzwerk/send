@@ -2,7 +2,10 @@ import React from 'react';
 //import Link from "gatsby-link";
 //import Helmet from "react-helmet";
 //import Script from "react-load-script";
-import MemberCTASection from '../components/MemberCTASection';
+import TopImage from '../components/top-image/TopImage.js';
+import Box from '../components/box/box';
+import topImage from '../img/Opener.png';
+import styles from './index.module.css';
 
 export default class IndexPage extends React.Component {
   handleScriptLoad() {
@@ -20,20 +23,23 @@ export default class IndexPage extends React.Component {
 
   render() {
     const { data } = this.props;
-    const frontmatterHome = data.frontmatterHome.frontmatter;
-    const frontmatterMemberCTASection = data.frontmatterMemberCTASection.frontmatter;
+    const { frontmatter } = data.markdownRemark;
     return (
       <div>
-        <section>
-          {frontmatterHome.tagline.split( '\n' ).map( item => (
-            <h1>{item}</h1>
-          ))}
-          <p>{frontmatterHome.tagline_large}</p>
-          <h4>{frontmatterHome.title}</h4>
-          {frontmatterHome.content.blurbs.map(( item ) => <p>{item}</p> )}
-          {frontmatterHome.boxes.blurbs.map(( item ) => <p>{item}</p> )}
-        </section>
-        <MemberCTASection data={frontmatterMemberCTASection}/>
+        <TopImage imageSource={topImage} isHome={true}/>
+        <div className={styles.content} >
+          <section>
+            {frontmatter.tagline.split( '\n' ).map( item => (
+              <h1>{item}</h1>
+            ))}
+            <p>{frontmatter.tagline_large}</p>
+            <h4>{frontmatter.title}</h4>
+            <p className={styles.paragraph}>{frontmatter.section_1.paragraph}</p>
+            <div className={styles.column}>
+              {frontmatter.section_1.boxes.map(( item ) => <Box content={item}/> )}
+            </div>
+          </section>
+        </div>
       </div>
     );
   }
@@ -41,26 +47,18 @@ export default class IndexPage extends React.Component {
 
 export const IndexQuery = graphql`
   query Index {
-    frontmatterHome: markdownRemark(frontmatter: { path: { eq: "/" } }) {
+    markdownRemark(frontmatter: { path: { eq: "/" } }) {
         frontmatter {
             title
             tagline
             tagline_large
-            content {
-                blurbs
+            section_1 {
+              title
+              paragraph
+              boxes
             }
-            boxes {
-                blurbs
-            }
+            content 
         }
     }
-    frontmatterMemberCTASection: markdownRemark(frontmatter:  { component: { eq:"MemberCTASection"}}){
-        frontmatter{
-            title
-            content {
-              blurbs
-            }
-        }
-      }
 }
 `;
