@@ -24,8 +24,8 @@ export default ({ data }) => {
 };
 
 export const NetzwerkPageQuery = graphql`
-  query NetzwerkPage  {
-    markdownRemark(frontmatter: { path: { eq: "/netzwerk" } }) {
+  query NetzwerkPage($path: String!)  {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         path

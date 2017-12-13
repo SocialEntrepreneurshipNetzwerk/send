@@ -97,8 +97,8 @@ export default ({ data }) => {
 };
 
 export const SocialEntrepreneurshipPageQuery = graphql`
-  query SocialEntrepreneurshipPage {
-    markdownRemark(frontmatter: { path: { eq: "/social-entrepreneurship"} }) {
+  query SocialEntrepreneurshipPage($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path} }) {
       frontmatter {
         title
         path
