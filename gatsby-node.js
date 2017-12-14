@@ -1,5 +1,21 @@
 const path = require( 'path' );
 
+exports.createLayouts = ({ boundActionCreators }) => {
+  const { createLayout } = boundActionCreators;
+
+  const component = path.resolve( 'src/layouts/index.js' );
+  const layouts = [ 'one', 'two' ].map( name => ({
+    id: `layout-${ name }`,
+    component,
+    context: {
+      name: `layout ${ name }`,
+    }
+  }));
+
+  layouts.map( l => createLayout( l ));
+};
+
+
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
   return graphql( `
@@ -72,6 +88,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         createPage({
           path: node.frontmatter.path,
           component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( 'src/pages/index.js' ),
+          layout: 'layout-one',
           // additional data can be passed via context
           context: {}
         });
