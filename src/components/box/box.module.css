@@ -1,0 +1,8 @@
+.box {
+  width: 100%;
+  padding: 50px;
+}
+
+.box p {
+  font-weight: 700;
+}
