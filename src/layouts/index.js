@@ -1,45 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
 import Helmet from 'react-helmet';
-import github from '../img/github-icon.svg';
-import logo from '../img/logo.svg';
-import './all.sass';
+import TopNav from '../components/top-nav/TopNav.js';
+import './global.css';
 
-const Navbar = () => (
-  <nav className="navbar is-transparent">
-    <div className="container">
-      <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
-        </Link>
-      </div>
-      <div className="navbar-start">
-        <Link className="navbar-item" to="/ueber-uns">
-          Über uns
-        </Link>
-        <Link className="navbar-item" to="/social-entrepreneurship">
-          Social Entrepreneurship
-        </Link>
-        <Link className="navbar-item" to="/positionen">
-          Positionen
-        </Link>
-        <Link className="navbar-item" to="/netzwerk">
-          Netzwerk
-        </Link>
-      </div>
-      <div className="navbar-end">
-        <a className="navbar-item" href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate" target="_blank" rel="noopener noreferrer">
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
-      </div>
-    </div>
-  </nav>
+
+const helmet = () => (
+  <helmet>
+    <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet"/>
+  </helmet>
 );
+
 
 const Footer = () => {
   const style = {
@@ -51,8 +22,8 @@ const Footer = () => {
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
-    <Navbar />
+    <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
+    <TopNav />
     <div>{children()}</div>
     <Footer/>
   </div>

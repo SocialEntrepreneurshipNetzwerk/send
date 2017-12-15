@@ -15,14 +15,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               date
               title
-              tagline
-              tagline_large
-              content {
-                  blurbs
-              }
-              boxes {
-                  blurbs
-              }
               image
               heading
               description

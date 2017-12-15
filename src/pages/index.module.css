@@ -1,0 +1,22 @@
+@import "../layouts/variables.css";
+
+.content{
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.content h4 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+
+.paragraph {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.column {
+  column-count: 2;
+}
