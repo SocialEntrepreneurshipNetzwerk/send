@@ -3,6 +3,7 @@ import React from 'react';
 //import Helmet from "react-helmet";
 //import Script from "react-load-script";
 import TopImage from '../components/top-image/TopImage.js';
+import PageHelmet from '../components/PageHelmet';
 import Box from '../components/box/box';
 import topImage from '../img/Opener.png';
 import styles from './index.module.css';
@@ -26,6 +27,7 @@ export default class IndexPage extends React.Component {
     const { frontmatter } = data.markdownRemark;
     return (
       <div>
+        <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} isHome={true}/>
         <div className={styles.content} >
           <section>
