@@ -32,31 +32,31 @@ export default class IndexPage extends React.Component {
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} isHome={true}/>
-        <div className={styles.content} >
-          {tagline.split( '\n' ).map( item => (
-            <h1>{item}</h1>
-          ))}
+        <header className={styles.header}>
+          <h1>{tagline}</h1>
           <p>{tagline_large}</p>
-          <h2>{paragraph}</h2>
+        </header>
+        <main className={styles.main} >
+          <h1>{paragraph}</h1>
           <section>
-            <h4><span>{section_1.title}</span></h4>
+            <h1><span>{section_1.title}</span></h1>
             <p className={styles.paragraph}>{section_1.paragraph}</p>
             <div className={styles.column}>
               {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
             </div>
           </section>
           <section>
-            <h4><span>{section_2.title}</span></h4>
-            <p>{section_2.subtitle}</p>
+            <h1><span>{section_2.title}</span></h1>
+            <h2>{section_2.subtitle}</h2>
             <div className={styles.column}>
               {section_2.boxes.map(( item ) => <ProfileBox content={item}/> )}
             </div>
             <p className={styles.paragraph}>{section_2.paragraph}</p>
           </section>
           <section>
-            <h4><span>{section_3.title}</span></h4>
+            <h1><span>{section_3.title}</span></h1>
           </section>
-        </div>
+        </main>
       </div>
     );
   }

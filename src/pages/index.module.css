@@ -1,22 +1,33 @@
 @import "../layouts/variables.css";
 
-.content{
-  width: 100%;
-  max-width: 1400px;
-  margin: 0 auto;
+.header {
+  position: relative;
+  top: -360px;
+  margin: 0 210px;
 }
 
-.content h4 {
-  text-align: center;
-  text-decoration: underline;
-  text-decoration-color: green;
+.header h1 {
+  max-width: 420px;
+  font-size: 72px;
+  line-height: 1.06;
+  color: white;
 }
 
-.paragraph {
-  width: 70%;
-  margin: 0 auto;
+.header p {
+  margin-top: 100px;
+  max-width: 310px;
+  font-size: 16px;
+  line-height: 1.25;
+}
+
+.main {
+  margin-top: -240px;
 }
 
 .column {
-  column-count: 2;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 120px;
 }

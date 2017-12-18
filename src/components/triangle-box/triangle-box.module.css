@@ -1,8 +1,10 @@
 .box {
-  width: 100%;
-  padding: 50px;
+  display: inline-block;
+  width: 45%;
+  padding-bottom: 50px;
 }
 
 .box p {
+  position: relative;
   font-weight: 700;
 }

@@ -33,7 +33,7 @@
 }
 
 .ul li a {
-  color: darkblue;
+  color: deep-blue;
   font-weight: 700;
   padding: 5px;
   transition: all 200ms;
@@ -41,6 +41,6 @@
 
 .ul li a:hover {
   color: white;
-  background-color: darkblue;
+  background-color: deep-blue;
     transition: all 200ms;
 }
