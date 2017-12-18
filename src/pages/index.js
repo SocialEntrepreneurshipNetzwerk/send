@@ -2,15 +2,10 @@ import React from 'react';
 //import Link from "gatsby-link";
 //import Helmet from "react-helmet";
 //import Script from "react-load-script";
-<<<<<<< HEAD
 import TopImage from '../components/top-image/TopImage';
 import TriangleBox from '../components/triangle-box/TriangleBox';
 import ProfileBox from '../components/profile-box/ProfileBox';
-=======
-import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
-import Box from '../components/box/box';
->>>>>>> cms
 import topImage from '../img/Opener.png';
 import styles from './index.module.css';
 
@@ -30,7 +25,8 @@ export default class IndexPage extends React.Component {
 
   render() {
     const { data } = this.props;
-    const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = data.markdownRemark.frontmatter;
+    const frontmatter = data.markdownRemark.frontmatter;
+    const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
     console.log( section_2 );
     return (
       <div>
