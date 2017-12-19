@@ -9,18 +9,9 @@ export default ({ data }) => {
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
-      <TopImage imageSource={topImage}/>
+      <TopImage imageSource={topImage} clip={frontmatter.clip}/>
       <section className="section section--gradient">
-        <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">{post.frontmatter.title}</h2>
-                <div className="content" dangerouslySetInnerHTML={{ __html: post.html }} />
-              </div>
-            </div>
-          </div>
-        </div>
+        <h1><span>{frontmatter.title}</span></h1>
       </section>
     </div>
   );
@@ -33,6 +24,7 @@ export const NetzwerkPageQuery = graphql`
       frontmatter {
         path
         title
+        clip
       }
     }
   }

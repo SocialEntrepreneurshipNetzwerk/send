@@ -9,6 +9,7 @@
   height: 120px;
   width: 100%;
   font-size: 16px;
+  z-index: 10;
 }
 
 .figure {
