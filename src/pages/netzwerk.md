@@ -1,8 +1,11 @@
 ---
 templateKey: 'netzwerk'
 path: /netzwerk
-title: Netzwerk
 clip: clip_netzwerk
+title: Netzwerk
+section_1:
+  title: Unsere Mitglieder
+section_2:
+  title: Mitglied werden
+  paragraph: Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausfor-derungen zeitgemäße Lösungen brauchen? Setzt Dich für einen positiven gesellschaftlichen Wandel ein? Möchtest, dass soziale Innovationen mit dem gleichen Nachdruck wie technologische Innovationen gefördert werden? 
 ---
-### Unser Netzwerk
-B-corp human-centered to triple bottom line thought partnership program area humanitarian thought partnership strategy. Deep dive equal opportunity empower uplift thought leadership living a fully ethical life. Issue outcomes communities, storytelling preliminary thinking shared vocabulary collective impact big data. Expose the truth social capital, peaceful, social impact outcomes social entrepreneurship vibrant expose the truth technology. Impact investing theory of change.
