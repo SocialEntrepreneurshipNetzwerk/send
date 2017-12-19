@@ -1,20 +1,28 @@
 .box {
-  break-inside: avoid-column;
+  display: flex;
+  height: 400px;
+  text-align: center;
 }
 
-.box img {
-  border-radius: 50%;
-  padding: 10px;
-}
-
-.box p{
+.box p {
   font-size: 14px;
   line-height: 2.14;
   letter-spacing: 2px;
   font-weight: 700;
 }
 
-.box p:first-of-type{
+.flex_wrapper{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.flex_top img {
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.flex_top p{
   font-size: 17px;
   line-height: 1.41;
   letter-spacing: normal;
@@ -22,6 +30,6 @@
   font-style: italic;
 }
 
-.box p:last-of-type {
+.flex_bottom p:last-child {
   font-weight: 500;
 }

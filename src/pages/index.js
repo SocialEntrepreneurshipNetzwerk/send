@@ -40,7 +40,7 @@ export default class IndexPage extends React.Component {
           <h1>{paragraph}</h1>
           <section>
             <h1><span>{section_1.title}</span></h1>
-            <p className={styles.paragraph}>{section_1.paragraph}</p>
+            <p>{section_1.paragraph}</p>
             <div className={styles.column2}>
               {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
             </div>
