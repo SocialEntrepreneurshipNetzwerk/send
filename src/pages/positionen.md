@@ -2,6 +2,7 @@
 templateKey: positionen
 path: /positionen
 clip: clip_positionen
+title: Positionen
 section_1:
   title: Social Entrepreneurship
   paragraph: |- 

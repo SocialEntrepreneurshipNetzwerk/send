@@ -1,13 +1,16 @@
 import React from 'react';
+import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBox from '../components/triangle-box/TriangleBox';
 import topImage from '../img/positionen.jpg';
 import styles from './positionen.module.css';
 
 export default ({ data }) => {
-  const { clip, section_1, section_2 } = data.markdownRemark.frontmatter;
+  const frontmatter = data.markdownRemark.frontmatter;
+  const { clip, section_1, section_2 } = frontmatter;
   return (
     <div>
+      <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
       <main>
         <section>
@@ -30,6 +33,7 @@ export const PositionenPageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: "/positionen" } }) {
         frontmatter {
             clip
+            title
             section_1 {
               title
               paragraph
