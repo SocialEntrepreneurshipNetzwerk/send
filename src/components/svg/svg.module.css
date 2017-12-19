@@ -11,3 +11,12 @@
   left:-15px;
   mix-blend-mode: multiply;
 }
+
+.background_turquoise {
+  position: absolute;
+  z-index:-1;
+  width:99.5vw;
+  left: 50%;
+  margin-left:-50vw;
+  height: 700px;
+}

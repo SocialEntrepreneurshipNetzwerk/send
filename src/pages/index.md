@@ -20,13 +20,16 @@ section_2:
     Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? 
     Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied. als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam. wirken.
   boxes:
-    - name: Attila von Unruh
+    - image: "https://placebear.com/120/120"
+      name: Attila von Unruh
       project: TEAM U — RESTART gGmbH
       description: Soziale Innovatoren brauchen eine starke Stimme –  TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
-    - name: Katja Urbatsch
+    - image: "http://placebeard.it/120"
+      name: Katja Urbatsch
       project: ArbeiterKind.de
       description: Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel, Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu artikulieren und zu erfüllen.
-    - name: Laura Kromminga 
+    - image: "https://www.placecage.com/120/120"
+      name: Laura Kromminga 
       project: Social Finance Consulting
       description: Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen zu können
 section_3:

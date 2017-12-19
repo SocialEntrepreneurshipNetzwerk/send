@@ -1,3 +1,27 @@
 .box {
-  
+  break-inside: avoid-column;
+}
+
+.box img {
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.box p{
+  font-size: 14px;
+  line-height: 2.14;
+  letter-spacing: 2px;
+  font-weight: 700;
+}
+
+.box p:first-of-type{
+  font-size: 17px;
+  line-height: 1.41;
+  letter-spacing: normal;
+  color: white;
+  font-style: italic;
+}
+
+.box p:last-of-type {
+  font-weight: 500;
 }

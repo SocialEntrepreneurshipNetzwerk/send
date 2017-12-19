@@ -6,6 +6,7 @@ import TopImage from '../components/top-image/TopImage';
 import TriangleBox from '../components/triangle-box/TriangleBox';
 import ProfileBox from '../components/profile-box/ProfileBox';
 import PageHelmet from '../components/PageHelmet';
+import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import topImage from '../img/Opener.png';
 import styles from './index.module.css';
 
@@ -27,7 +28,6 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
     const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
-    console.log( section_2 );
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -41,14 +41,15 @@ export default class IndexPage extends React.Component {
           <section>
             <h1><span>{section_1.title}</span></h1>
             <p className={styles.paragraph}>{section_1.paragraph}</p>
-            <div className={styles.column}>
+            <div className={styles.column2}>
               {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
             </div>
           </section>
           <section>
+            <BackgroundTurquoise/>
             <h1><span>{section_2.title}</span></h1>
             <h2>{section_2.subtitle}</h2>
-            <div className={styles.column}>
+            <div className={styles.column3}>
               {section_2.boxes.map(( item ) => <ProfileBox content={item}/> )}
             </div>
             <p className={styles.paragraph}>{section_2.paragraph}</p>
@@ -79,6 +80,7 @@ export const IndexQuery = graphql`
               subtitle
               paragraph
               boxes {
+                image
                 name
                 project
                 description
