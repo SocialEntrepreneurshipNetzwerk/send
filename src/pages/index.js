@@ -50,7 +50,7 @@ export default class IndexPage extends React.Component {
             <h1><span>{section_2.title}</span></h1>
             <h2>{section_2.subtitle}</h2>
             <div className={styles.column3}>
-              {section_2.boxes.map(( item ) => <ProfileBox content={item}/> )}
+              {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
             </div>
             <p className={styles.paragraph}>{section_2.paragraph}</p>
           </section>
@@ -79,7 +79,7 @@ export const IndexQuery = graphql`
               title
               subtitle
               paragraph
-              boxes {
+              profile_boxes {
                 image
                 name
                 project

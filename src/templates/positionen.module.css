@@ -1,0 +1,12 @@
+.columns{
+  column-count: 2;
+  column-gap: 46px;
+}
+
+.boxes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 120px;
+}
