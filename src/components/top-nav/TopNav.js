@@ -14,7 +14,7 @@ const TopNav = () => (
         </figure>
       </Link>
       <ul className={styles.ul}>
-        <li>
+        {/*<li>
           <Link className="navbar-item" to="/ueber-uns">
               Über uns
           </Link>
@@ -23,7 +23,7 @@ const TopNav = () => (
           <Link className="navbar-item" to="/social-entrepreneurship">
               Social Entrepreneurship
           </Link>
-        </li>
+        </li>*/}
         <li>
           <Link className="navbar-item" to="/positionen">
               Positionen
