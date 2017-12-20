@@ -1,7 +1,5 @@
 import React from 'react';
-//import Link from "gatsby-link";
-//import Helmet from "react-helmet";
-//import Script from "react-load-script";
+//import Script from 'react-load-script'; // not sure if we need this for cms. seems to work without it?
 import TopImage from '../components/top-image/TopImage';
 import TriangleBox from '../components/triangle-box/TriangleBox';
 import ProfileBox from '../components/profile-box/ProfileBox';
