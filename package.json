@@ -4,16 +4,15 @@
   "version": "1.0.0",
   "author": "Austin Green",
   "dependencies": {
-    "bulma": "^0.6.0",
-    "gatsby": "^1.9.63",
-    "gatsby-link": "^1.6.21",
+    "gatsby": "^1.9.142",
+    "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.5",
-    "gatsby-plugin-sass": "^1.0.12",
-    "gatsby-plugin-sharp": "^1.6.18",
-    "gatsby-remark-images": "^1.5.18",
-    "gatsby-source-filesystem": "^1.5.5",
-    "gatsby-transformer-remark": "^1.7.17",
-    "gatsby-transformer-sharp": "^1.6.13",
+    "gatsby-plugin-sass": "^1.0.15",
+    "gatsby-plugin-sharp": "^1.6.24",
+    "gatsby-remark-images": "^1.5.36",
+    "gatsby-source-filesystem": "^1.5.11",
+    "gatsby-transformer-remark": "^1.7.25",
+    "gatsby-transformer-sharp": "^1.6.16",
     "react-load-script": "0.0.6"
   },
   "keywords": [
@@ -29,7 +28,7 @@
     "heroku-postbuild": "gatsby build"
   },
   "devDependencies": {
-    "eslint": "^4.12.1",
+    "eslint": "^4.13.1",
     "eslint-config-idiomatic": "^4.0.0",
     "eslint-plugin-react": "^7.5.1"
   }

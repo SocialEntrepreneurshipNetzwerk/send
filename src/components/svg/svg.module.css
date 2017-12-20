@@ -1,0 +1,23 @@
+.background_header{
+  position: fixed;
+  top:0;
+  width:100%;
+  height: 120px;
+  z-index:9
+}
+
+.triangle {
+  position:absolute;
+  top: -15px;
+  left:-15px;
+  mix-blend-mode: multiply;
+}
+
+.background_turquoise {
+  position: absolute;
+  z-index:-1;
+  width:99.5vw;
+  left: 50%;
+  margin-left:-50vw;
+  height: 700px;
+}

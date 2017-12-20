@@ -1,0 +1,68 @@
+@import "variables.css";
+
+
+:global * {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+/* base font styles */
+:global body {
+  margin: 0;
+  font-size: 20px;
+  color: deep-blue;
+  font-family: 'Karla', sans-serif;
+  background-color: paper;
+}
+
+/* base element styles */
+
+:global a {
+  text-decoration: none;
+  color: active;
+}
+
+:global p {
+  line-height: 1.5;
+}
+
+:global main {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1800px;
+  padding: 0 200px;
+}
+
+:global main h1 {
+  font-size: 48px;
+  line-height: 1.15;
+  color: aqua;
+}
+
+:global section {
+  padding-bottom: 200px;
+}
+
+:global section h1 {
+  text-align: center;
+  color: deep-blue;
+  font-size: 36px;
+  padding: 40px;
+}
+
+:global section h1 span {
+  display: inline-block;
+  line-height: 2;
+  border-bottom: 3px solid deep-see-green;
+}
+
+:global section h2 {
+  top:30px;
+  text-align: center;
+  margin-top: -25px;
+  font-size: 14px;
+  line-height: 2.14;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  padding-bottom: 40px;
+}
