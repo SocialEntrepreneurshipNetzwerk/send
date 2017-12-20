@@ -25,7 +25,6 @@ const TemplateWrapper = ({ children }) => (
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
     <TopNav />
     <div>{children()}</div>
-    <Footer/>
   </div>
 );
 
