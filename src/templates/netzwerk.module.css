@@ -6,6 +6,10 @@
   padding-top: 60px;
 }
 
+.main section p {
+  padding-bottom: 20px;
+}
+
 .boxes{
   display: flex;
   flex-wrap: wrap;

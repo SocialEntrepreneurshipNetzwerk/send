@@ -3,6 +3,7 @@ import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBox from '../components/triangle-box/TriangleBox';
 import topImage from '../img/positionen.jpg';
+import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
 
 export default ({ data }) => {
@@ -15,7 +16,7 @@ export default ({ data }) => {
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
-          <p className={styles.columns}>{section_1.paragraph}</p>
+          <p className={styles.columns}><ReactMarkdown source={section_1.paragraph}/></p>
         </section>
         <section>
           <h1><span>{section_2.title}</span></h1>
