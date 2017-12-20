@@ -9,10 +9,10 @@ section_1:
   title: Was wir tun
   paragraph: "Das **Social Entrepreneurship Netzwerk Deutschland** ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!"
   boxes: 
-    - SEND vertritt die Interessen  von Social Entrepreneurship in Deutschland, um die Rahmenbedingungen für Sozialunternehmer*innen zu verbessern.
-    - SEND fördert die Sichtbar-keit von Sozial-unternehmer*innen und ihren Lösungen in der Öffentlichkeit.
-    - SEND setzt auf Vernetzung, Bildung und Qualifizierung über Fachgruppen, Workshops und Events.
-    - SEND baut Brücken zu Akteuren aus der Wohlfahrt, Politik und Wirtschaft.
+    - "**SEND vertritt die Interessen  von Social Entrepreneurship in Deutschland, um die Rahmenbedingungen für Sozialunternehmer*innen zu verbessern.**"
+    - "**SEND fördert die Sichtbar-keit von Sozial-unternehmer*innen und ihren Lösungen in der Öffentlichkeit.**"
+    - "**SEND setzt auf Vernetzung, Bildung und Qualifizierung über Fachgruppen, Workshops und Events.**"
+    - "**SEND baut Brücken zu Akteuren aus der Wohlfahrt, Politik und Wirtschaft.**"
 section_2:
   title: gemeinsam. wirken.
   subtitle: Netzwerk
