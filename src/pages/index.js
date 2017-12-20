@@ -67,6 +67,7 @@ export const IndexQuery = graphql`
   query Index {
     markdownRemark(frontmatter: { path: { eq: "/" } }) {
         frontmatter {
+            title
             tagline
             tagline_large
             paragraph

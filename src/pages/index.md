@@ -1,6 +1,6 @@
 ---
 path: /
-title: Was wir tun
+title: Home
 image: '../img/roses.jpg'
 tagline: gemeinsam. wirken.
 tagline_large: Social Entrepreneurship  Netzwerk Deutschland e.V. Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland.
