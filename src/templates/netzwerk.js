@@ -4,6 +4,7 @@ import TriangleBoxLarge from '../components/triangle-box/TriangleBoxLarge';
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/netzwerk.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
+import ReactMarkdown from 'react-markdown';
 import styles from './netzwerk.module.css';
 
 
@@ -26,7 +27,7 @@ export default ({ data }) => {
           <BackgroundTurquoise/>
           <div className={styles.turquoise_content}>
             <h1><span>{section_2.title}</span></h1>
-            <p>{section_2.paragraph}</p>
+            <p><ReactMarkdown source={section_2.paragraph}/></p>
           </div>
           <div className={styles.boxes}>
             {section_2.profile_boxes.map(( boxes ) => <TriangleBoxLarge box={boxes}/> )}
