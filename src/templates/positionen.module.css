@@ -3,6 +3,10 @@
   column-gap: 46px;
 }
 
+.columns p {
+  padding-bottom: 40px;
+}
+
 .boxes{
   display: flex;
   flex-wrap: wrap;
