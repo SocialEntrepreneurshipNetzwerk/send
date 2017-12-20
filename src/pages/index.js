@@ -8,6 +8,7 @@ import ProfileBox from '../components/profile-box/ProfileBox';
 import PageHelmet from '../components/PageHelmet';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import topImage from '../img/Opener.png';
+import ReactMarkdown from 'react-markdown';
 import styles from './index.module.css';
 
 export default class IndexPage extends React.Component {
@@ -34,13 +35,13 @@ export default class IndexPage extends React.Component {
         <TopImage imageSource={topImage} isHome={true}/>
         <header className={styles.header}>
           <h1>{tagline}</h1>
-          <p>{tagline_large}</p>
+          <p><ReactMarkdown source={tagline_large}/></p>
         </header>
         <main className={styles.main} >
           <h1>{paragraph}</h1>
           <section>
             <h1><span>{section_1.title}</span></h1>
-            <p>{section_1.paragraph}</p>
+            <p><ReactMarkdown source={section_1.paragraph}/></p>
             <div className={styles.column2}>
               {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
             </div>
@@ -52,7 +53,7 @@ export default class IndexPage extends React.Component {
             <div className={styles.column3}>
               {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
             </div>
-            <p className={styles.paragraph}>{section_2.paragraph}</p>
+            <p className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></p>
           </section>
           <section>
             <h1><span>{section_3.title}</span></h1>
