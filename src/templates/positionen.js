@@ -1,7 +1,8 @@
 import React from 'react';
 import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
-import TriangleBox from '../components/triangle-box/TriangleBox';
+import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
+import TriangleBox from '../components/triangle-boxes/TriangleBoxSmall';
 import topImage from '../img/positionen.jpg';
 import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
@@ -20,9 +21,7 @@ export default ({ data }) => {
         </section>
         <section>
           <h1><span>{section_2.title}</span></h1>
-          <div className={styles.boxes}>
-            {section_2.boxes.map(( box ) => <TriangleBox box={box}/> )}
-          </div>
+          <TriangleBoxContainer boxes={section_2.boxes} size="small"/>
         </section>
       </main>
     </div>
