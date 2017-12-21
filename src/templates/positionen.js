@@ -2,7 +2,6 @@ import React from 'react';
 import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
-import TriangleBox from '../components/triangle-boxes/TriangleBoxSmall';
 import topImage from '../img/positionen.jpg';
 import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
