@@ -1,7 +1,7 @@
 import React from 'react';
 //import Script from 'react-load-script'; // not sure if we need this for cms. seems to work without it?
 import TopImage from '../components/top-image/TopImage';
-import TriangleBox from '../components/triangle-box/TriangleBox';
+import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ProfileBox from '../components/profile-box/ProfileBox';
 import PageHelmet from '../components/PageHelmet';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
@@ -40,9 +40,7 @@ export default class IndexPage extends React.Component {
           <section>
             <h1><span>{section_1.title}</span></h1>
             <p><ReactMarkdown source={section_1.paragraph}/></p>
-            <div className={styles.column2}>
-              {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
-            </div>
+            <TriangleBoxContainer boxes={section_1.boxes} size="small"/>
           </section>
           <section>
             <BackgroundTurquoise/>
@@ -73,7 +71,9 @@ export const IndexQuery = graphql`
             section_1 {
               title
               paragraph
-              boxes
+              boxes {
+                description
+              }
             }
             section_2 {
               title

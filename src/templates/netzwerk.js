@@ -1,6 +1,6 @@
 import React from 'react';
 import TopImage from '../components/top-image/TopImage.js';
-import TriangleBoxLarge from '../components/triangle-box/TriangleBoxLarge';
+import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/netzwerk.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
@@ -19,9 +19,7 @@ export default ({ data }) => {
       <main className={styles.main}>
         <section>
           <h1><span>{section_1.title}</span></h1>
-          <div className={styles.boxes}>
-            {section_1.profile_boxes.map(( boxes ) => <TriangleBoxLarge box={boxes}/> )}
-          </div>
+          <TriangleBoxContainer boxes={section_1.triangle_boxes_large} size="large"/>
         </section>
         <section>
           <BackgroundTurquoise/>
@@ -29,9 +27,7 @@ export default ({ data }) => {
             <h1><span>{section_2.title}</span></h1>
             <p><ReactMarkdown source={section_2.paragraph}/></p>
           </div>
-          <div className={styles.boxes}>
-            {section_2.profile_boxes.map(( boxes ) => <TriangleBoxLarge box={boxes}/> )}
-          </div>
+          <TriangleBoxContainer boxes={section_2.triangle_boxes_large} size="large"/>
         </section>
       </main>
     </div>
@@ -46,7 +42,7 @@ export const NetzwerkPageQuery = graphql`
             title
             section_1 {
               title
-              profile_boxes {
+              triangle_boxes_large {
                 image
                 name
                 description
@@ -56,7 +52,7 @@ export const NetzwerkPageQuery = graphql`
             section_2 {
               title
               paragraph
-              profile_boxes {
+              triangle_boxes_large {
                 image
                 name
                 description

@@ -12,19 +12,23 @@ section_1:
 section_2: 
   title: Positionen
   boxes:
-    - "**1 | Finanzierung sozialer Innovationen**
+    - icon: financing
+      description: "**1 | Finanzierung sozialer Innovationen**
     
     
       Social Entrepreneurship ist ein Hybrid klassischer Startups und gemeinnütziger Organisationen. Öffentliche Finanzierungsinstrumente fokussieren sich meist auf eine der beiden Möglichkeiten. Um soziale Innovationen voranzubringen, sollten die erfolgreichen Programme der klassischen Gründungs- und Innovationsfinanzierung ausgeweitet werden und/oder eigene Finanzierungsinstrumente aufgebaut werden. Wichtig ist die Integration der sozialunternehmerischen Interessenvertretung für einen praxisnahen Aufbau der Finanzierungsinstrumente."
-    - "**2 | Sichtbarkeit und Vernetzung**
+    - icon: visibility
+      description: "**2 | Sichtbarkeit und Vernetzung**
     
     
       Um mehr Menschen das Potenzial von der unternehmerischen Lösung gesellschaftlicher Herausforderungen aufzuzeigen, ist es wichtig, mehr Sichtbarkeit und Vernetzungsmöglichkeiten für den jungen Sektor zu schaffen."
-    - "**3 | Einstiegshürden für die Gründung eines Social Startups abbauen**
+    - icon: obstacles
+      description: "**3 | Einstiegshürden für die Gründung eines Social Startups abbauen**
     
     
       Für den Aufbau eines erfolgreichen Social Entrepreneurship Sektor ist die Ermöglichung von Neugründungen maßgeblich."
-    - "**4 | Talente für eine Karriere im Bereich Sozialunternehmertum begeistern**
+    - icon: talents
+      description: "**4 | Talente für eine Karriere im Bereich Sozialunternehmertum begeistern**
     
     
       Eine Gewinnung und Begeisterung qualifizierter Talente ist für den Ausbau von Social Entrepreneurship in Deutschland nötig." 

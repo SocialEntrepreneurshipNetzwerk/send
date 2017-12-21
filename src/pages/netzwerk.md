@@ -5,7 +5,7 @@ clip: clip_netzwerk
 title: Netzwerk
 section_1:
   title: Unsere Mitglieder
-  profile_boxes:
+  triangle_boxes_large:
     - image: "https://picsum.photos/240/380/?random"
       name: SchulePLUS GmbH
       description: SchulePLUS ist als Sozialunternehmen spezialisiert auf moderne Berufsorientierung, wobei wir an über 100 Schulen in Berlin und Brandenburg Schulprojekte zur Berufsorientierung durchführen. Unser Herzstück ist die Entwicklung digitaler Produkte, die junge Menschen einen chancengerechten Zugang zur Berufsorientierung bieten.
@@ -33,7 +33,7 @@ section_2:
   
   
   **Dann werde Teil von SEND.** Ob als Sozialunternehmer\\*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns gemeinsam. wirken.**"
-  profile_boxes:
+  triangle_boxes_large:
     - image: 
       name: Name
       description: Personal description
@@ -42,7 +42,7 @@ section_2:
       name: Name
       description: Personal description
       link: a link
-    - image: 
+    - image:
       name: Name
       description: Personal description
       link: a link
