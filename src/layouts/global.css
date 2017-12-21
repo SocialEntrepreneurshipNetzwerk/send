@@ -33,7 +33,7 @@
   padding: 0 200px;
 }
 
-@media (max-width:980px){
+@media (max-width: break-main-padding){
   :global main {
     padding: 0 50px;
   }
