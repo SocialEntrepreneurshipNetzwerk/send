@@ -21,7 +21,7 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_2.title}</span></h1>
           <div className={styles.boxes}>
-            {section_2.boxes.map(( item ) => <TriangleBox content={item}/> )}
+            {section_2.boxes.map(( box ) => <TriangleBox box={box}/> )}
           </div>
         </section>
       </main>
@@ -41,7 +41,10 @@ export const PositionenPageQuery = graphql`
             }
             section_2 {
               title
-              boxes
+              boxes{
+                icon
+                description
+              }
             }
         }
     }

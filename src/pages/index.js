@@ -41,7 +41,7 @@ export default class IndexPage extends React.Component {
             <h1><span>{section_1.title}</span></h1>
             <p><ReactMarkdown source={section_1.paragraph}/></p>
             <div className={styles.column2}>
-              {section_1.boxes.map(( item ) => <TriangleBox content={item}/> )}
+              {section_1.boxes.map(( box ) => <TriangleBox box={box}/> )}
             </div>
           </section>
           <section>
@@ -73,7 +73,9 @@ export const IndexQuery = graphql`
             section_1 {
               title
               paragraph
-              boxes
+              boxes {
+                description
+              }
             }
             section_2 {
               title
