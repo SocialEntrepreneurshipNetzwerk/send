@@ -1,5 +1,6 @@
 .columns{
   column-count: 2;
+  column-width: 350px;
   column-gap: 46px;
 }
 

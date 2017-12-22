@@ -21,7 +21,7 @@
 }
 @media (max-width: break-main-padding){
   .figure{
-    padding-left: calc(mobile-padding/4);
+    padding-left: mobile-padding-nav;
   }
 }
 
@@ -35,7 +35,7 @@
 }
 @media (max-width: break-main-padding){
   .ul{
-    padding-right: calc(mobile-padding/4);
+    padding-right: mobile-padding-nav;
   }
 }
 
