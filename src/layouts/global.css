@@ -35,7 +35,7 @@
 
 @media (max-width: break-main-padding){
   :global main {
-    padding: 0 50px;
+    padding: 0 mobile-padding;
   }
 }
 
