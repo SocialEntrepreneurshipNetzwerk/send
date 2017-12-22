@@ -5,9 +5,13 @@
   top: -360px;
   margin: 0 210px;
 }
+@media (max-width: break-mobile) {
+  .header{
+    top: -300px; 
+  }
+}
 @media (max-width: break-main-padding) {
   .header{
-    top: -300px;
     margin: 0 mobile-padding;  
   }
 }
@@ -18,19 +22,19 @@
   line-height: 1.06;
   color: white;
 }
-@media (max-width: break-main-padding) {
+@media (max-width: break-mobile) {
   .header h1 {
-    font-size: 52px; 
+    font-size: 48px; 
   }
 }
 
 .header p {
-  margin-top: 100px;
+  margin-top: 140px;
   max-width: 310px;
   font-size: 16px;
   line-height: 1.25;
 }
-@media (max-width:400px) {
+@media (max-width: break-mobile) {
   .header p {
     margin-top: 200px;
     font-size: 22px; 

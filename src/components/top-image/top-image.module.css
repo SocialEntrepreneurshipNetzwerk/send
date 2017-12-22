@@ -1,3 +1,5 @@
+@import "../../layouts/variables.css";
+
 .background_image{
     background-size: cover;
     background-position: center;
@@ -8,4 +10,9 @@
     background-size: cover;
     margin-top: 110px;
     height: 100vh;
+}
+@media (max-width: break-mobile) {
+  .background_image_home {
+    background-position: -100px 0;
+  }
 }
