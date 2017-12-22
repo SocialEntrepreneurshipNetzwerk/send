@@ -5,6 +5,12 @@
   top: -360px;
   margin: 0 210px;
 }
+@media (max-width: break-main-padding) {
+  .header{
+    top: -300px;
+    margin: 0 mobile-padding;  
+  }
+}
 
 .header h1 {
   max-width: 420px;
@@ -12,12 +18,24 @@
   line-height: 1.06;
   color: white;
 }
+@media (max-width: break-main-padding) {
+  .header h1 {
+    font-size: 52px; 
+  }
+}
 
 .header p {
   margin-top: 100px;
   max-width: 310px;
   font-size: 16px;
   line-height: 1.25;
+}
+@media (max-width:400px) {
+  .header p {
+    margin-top: 200px;
+    font-size: 22px; 
+    line-height: 1.14;
+  }
 }
 
 .main {
