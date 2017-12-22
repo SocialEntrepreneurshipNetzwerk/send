@@ -10,6 +10,7 @@ const TriangleBoxLarge = ( props ) => {
     </div>
     <h1>{props.box.name}</h1>
     <p>{props.box.description}</p>
+    <br/>
     <a href={props.box.link}>{props.box.link}</a>
     <TriangleBottom/>
   </div> );

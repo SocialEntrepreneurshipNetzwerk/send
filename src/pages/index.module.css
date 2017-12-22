@@ -5,6 +5,16 @@
   top: -360px;
   margin: 0 210px;
 }
+@media (max-width: break-mobile) {
+  .header{
+    top: -300px; 
+  }
+}
+@media (max-width: break-main-padding) {
+  .header{
+    margin: 0 mobile-padding;  
+  }
+}
 
 .header h1 {
   max-width: 420px;
@@ -12,12 +22,24 @@
   line-height: 1.06;
   color: white;
 }
+@media (max-width: break-mobile) {
+  .header h1 {
+    font-size: 48px; 
+  }
+}
 
 .header p {
-  margin-top: 100px;
+  margin-top: 140px;
   max-width: 310px;
   font-size: 16px;
   line-height: 1.25;
+}
+@media (max-width: break-mobile) {
+  .header p {
+    margin-top: 200px;
+    font-size: 22px; 
+    line-height: 1.14;
+  }
 }
 
 .main {
@@ -39,6 +61,11 @@
 .column3 {
   column-count: 3;
   column-gap: 40px;
+}
+@media (max-width: break-boxes){
+  .column3 {
+    column-count: 1;
+  }
 }
 
 .paragraph {
