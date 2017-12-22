@@ -27,7 +27,6 @@ export default ({ data }) => {
             <h1><span>{section_2.title}</span></h1>
             <p><ReactMarkdown source={section_2.paragraph}/></p>
           </div>
-          <TriangleBoxContainer boxes={section_2.triangle_boxes_large} size="large"/>
         </section>
       </main>
     </div>
