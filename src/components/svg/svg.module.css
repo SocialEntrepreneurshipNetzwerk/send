@@ -1,3 +1,5 @@
+@import "../../layouts/variables.css";
+
 .background_header{
   position: fixed;
   top:0;
@@ -20,6 +22,21 @@
   left: 50%;
   margin-left:-50vw;
   height: 700px;
+}
+@media (max-width: break-boxes){
+  .background_turquoise {
+      height: 1400px;
+  }
+}
+@media (max-width: break-main-padding){
+  .background_turquoise {
+      height: 1520px;
+  }
+}
+@media (max-width: break-mobile){
+  .background_turquoise {
+      height: 2020px;
+  }
 }
 
 .positionen_icon{
