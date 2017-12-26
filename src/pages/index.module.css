@@ -50,6 +50,10 @@
   padding-top: 60px;
 }
 
+.main section p:first-child {
+  padding-bottom: 30px;
+}
+
 .column2 {
   display: flex;
   flex-wrap: wrap;
