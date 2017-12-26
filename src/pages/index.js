@@ -43,11 +43,13 @@ export default class IndexPage extends React.Component {
             <TriangleBoxContainer boxes={section_1.boxes} size="small"/>
           </section>
           <section>
-            <BackgroundTurquoise/>
-            <h1><span>{section_2.title}</span></h1>
-            <h2>{section_2.subtitle}</h2>
-            <div className={styles.column3}>
-              {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
+            <div className={styles.turquoise_wrapper}>
+              <BackgroundTurquoise/>
+              <h1><span>{section_2.title}</span></h1>
+              <h2>{section_2.subtitle}</h2>
+              <div className={styles.column3}>
+                {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
+              </div>
             </div>
             <p className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></p>
           </section>

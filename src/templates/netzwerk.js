@@ -21,7 +21,7 @@ export default ({ data }) => {
           <h1><span>{section_1.title}</span></h1>
           <TriangleBoxContainer boxes={section_1.triangle_boxes_large} size="large"/>
         </section>
-        <section>
+        <section className={styles.turquoise_section}>
           <BackgroundTurquoise/>
           <div className={styles.turquoise_content}>
             <h1><span>{section_2.title}</span></h1>

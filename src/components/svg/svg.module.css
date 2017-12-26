@@ -21,8 +21,9 @@
   width:99.5vw;
   left: 50%;
   margin-left:-50vw;
-  height: 700px;
+  height: 100%;
 }
+/*
 @media (max-width: break-boxes){
   .background_turquoise {
       height: 1400px;
@@ -38,7 +39,7 @@
       height: 2020px;
   }
 }
-
+*/
 .positionen_icon{
   display:block;
   margin: 0 auto;

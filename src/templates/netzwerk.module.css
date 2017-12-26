@@ -18,10 +18,13 @@
   margin-top: 120px;
 }
 
+.turquoise_section {
+  position: relative;
+}
+
 .turquoise_content{
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  height: 700px;
 }
