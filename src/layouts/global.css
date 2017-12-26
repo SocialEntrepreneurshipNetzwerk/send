@@ -48,7 +48,8 @@
   :global main>h1 {
     display:none;
   }
-}@media (max-width: break-main-padding){
+}
+@media (max-width: break-main-padding){
   :global main>h1 {
     font-size: 28px;
   }
@@ -56,6 +57,11 @@
 
 :global section {
   padding: 70px 0;
+}
+@media (max-width: break-mobile){
+  :global section {
+    padding: 40px 0;
+  }
 }
 
 :global section h1 {
