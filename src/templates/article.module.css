@@ -4,6 +4,22 @@
   max-width: 700px;
 }
 
+.article h1 {
+  font-size: 28px;
+  line-height: 1.14;
+  text-align: left;
+}
+
+.article h2 {
+  font-size: 12px;
+  line-height: 1.81;
+  color: aqua;
+  text-align: left;
+  letter-spacing: normal;
+  font-weight: 700;
+  padding: 10px 0;
+}
+
 .article p {
   padding: 10px 0;
 }
