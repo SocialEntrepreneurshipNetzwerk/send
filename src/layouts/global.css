@@ -98,3 +98,18 @@
   padding-bottom: 20px;
   
 }
+
+:global article h1 {
+  font-size: 28px;
+  line-height: 1.14;
+  text-align: left;
+}
+
+:global article h2 {
+  font-size: 12px;
+  line-height: 1.81;
+  color: aqua;
+  text-align: left;
+  letter-spacing: normal;
+  font-weight: 700;
+}
