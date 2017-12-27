@@ -50,6 +50,14 @@
   padding-top: 60px;
 }
 
+.main section>p:first-of-type {
+  padding-bottom: 30px;
+}
+
+.turquoise_wrapper {
+  position:relative;
+}
+
 .column2 {
   display: flex;
   flex-wrap: wrap;
@@ -61,6 +69,7 @@
 .column3 {
   column-count: 3;
   column-gap: 40px;
+  padding-bottom: 120px;
 }
 @media (max-width: break-boxes){
   .column3 {
@@ -69,5 +78,5 @@
 }
 
 .paragraph {
-  padding-top:200px;
+  padding-top: 90px;
 }

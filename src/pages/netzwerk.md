@@ -22,11 +22,6 @@ section_1:
       name: AfB gemeinnützige GmbH
       description: "AfB ist auf die Abholung, zertifizierte Löschung und Wiedervermarktung gebrauchter IT-Hardware spezialisiert. An über 18 Standorten in Europa werden mehr als 300.000 IT-Geräte und Smartphones von über 280 Mitarbeitern für mehr als 1.000 Unternehmen bearbeitet. Das Besondere: 50% der Mitarbeiter sind Menschen mit einer Beeinträchtigung und wir reduzieren nachweislich den ökologischen Fußabdruck unserer Partnerunternehmen."
       link: www.afb-group.eu
-    - image: "https://picsum.photos/240/380/?random"
-      name: SchulePLUS GmbH
-      description: SchulePLUS ist als Sozialunternehmen spezialisiert auf moderne Berufsorientierung, wobei wir an über 100 Schulen in Berlin und Brandenburg Schulprojekte zur Berufsorientierung durchführen. Unser Herzstück ist die Entwicklung digitaler Produkte, die junge Menschen einen chancengerechten Zugang zur Berufsorientierung bieten.
-      link: www.schule-plus.de
-
 section_2:
   title: Mitglied werden
   paragraph: "Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausfor-derungen   zeitgemäße Lösungen brauchen? Setzt Dich für einen positiven gesellschaftlichen Wandel ein? Möchtest, dass soziale Innovationen mit dem gleichen Nachdruck wie technologische Innovationen gefördert werden?

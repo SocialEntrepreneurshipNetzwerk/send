@@ -3,9 +3,6 @@ import styles from './svg.module.css';
 
 const BackgroundTurquoise = () => (
   <svg viewBox="0 0 1440 697" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" className={styles.background_turquoise}>
-    <title>Mitglied werden</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Symbols" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
       <g id="Background-Turquoise" fill="#0FCECE">
         <g id="Mitglied-werden">

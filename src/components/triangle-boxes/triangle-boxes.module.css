@@ -5,7 +5,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   width: 100%;
-  padding-top: 120px;
+  padding-top: 30px;
 }
 @media (max-width: break-boxes) {
   .triangle_box_container{
@@ -16,7 +16,7 @@
 .box_small {
   width: 45%;
   min-height: 200px;
-  padding-bottom: 80px;
+  padding-bottom: 100px;
 }
 @media (max-width: break-boxes) {
   .box_small{
@@ -38,10 +38,16 @@
   margin-bottom: 150px;
   text-align: left;
 }
+.box_large:last-child, .box_large:nth-last-child(2) {
+  margin-bottom: 0;
+}
 @media (max-width: break-boxes) {
   .box_large{
     width:100%;
     height: auto;
+  }
+  .box_large:nth-last-child(2){
+    margin-bottom:150px;
   }
 }
 

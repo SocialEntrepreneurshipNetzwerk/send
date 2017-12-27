@@ -48,20 +48,26 @@
   :global main>h1 {
     display:none;
   }
-}@media (max-width: break-main-padding){
+}
+@media (max-width: break-main-padding){
   :global main>h1 {
     font-size: 28px;
   }
 }
 
 :global section {
-  padding-bottom: 200px;
+  padding: 70px 0;
+}
+@media (max-width: break-mobile){
+  :global section {
+    padding: 40px 0;
+  }
 }
 
 :global section h1 {
   text-align: center;
   font-size: 36px;
-  padding: 40px 0;
+  padding-bottom: 70px;
 }
 @media (max-width: break-mobile){
   :global section h1 {
@@ -78,7 +84,7 @@
 :global section h2 {
   top:30px;
   text-align: center;
-  margin-top: -25px;
+  margin-top: -55px;
   font-size: 14px;
   line-height: 2.14;
   letter-spacing: 10px;
