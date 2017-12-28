@@ -10,19 +10,19 @@ const TriangleBoxContainer = ( props ) => {
     return (
       <div className={styles.triangle_box_container_article}>
         <TriangleBoxLarge box={largeArticle} excerpt={autoExcerpt} article={props.article}/>
-        {props.boxes.slice( 1 ).map(( box ) => {
-          return <TriangleBoxSmall box={box.node.childMarkdownRemark.frontmatter} article={props.article}/>;
+        {props.boxes.slice( 1 ).map(( box, index ) => {
+          return <TriangleBoxSmall box={box.node.childMarkdownRemark.frontmatter} article={props.article} key={index}/>;
         })}
       </div>
     );
   } else {
     return (
       <div className={styles.triangle_box_container}>
-        {props.boxes.map(( box ) => {
+        {props.boxes.map(( box, index ) => {
           if ( props.size === 'small' ) {
-            return <TriangleBoxSmall box={box}/>;
+            return <TriangleBoxSmall box={box} key={index}/>;
           } else if ( props.size === 'large' ) {
-            return <TriangleBoxLarge box={box} />;
+            return <TriangleBoxLarge box={box} key={index} />;
           } else {
             null;
           }

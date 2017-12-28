@@ -85,7 +85,7 @@
   }
 }
 
-.box_small_article p {
+.box_small_article div {
   position: relative;
   padding-bottom: 10px;
 }
