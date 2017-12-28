@@ -8,10 +8,10 @@ const TriangleBox = ( props ) => {
   return (
     <div className={styles.box_small}>
       {props.box.icon && <PositionenIcon {... props.box}/>}
-      <p>
+      <div>
         <Triangle/>
         <ReactMarkdown source={props.box.description}/>
-      </p>
+      </div>
 
     </div>
 

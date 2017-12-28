@@ -25,7 +25,7 @@ export default ({ data }) => {
           <BackgroundTurquoise/>
           <div className={styles.turquoise_content}>
             <h1><span>{section_2.title}</span></h1>
-            <p><ReactMarkdown source={section_2.paragraph}/></p>
+            <ReactMarkdown source={section_2.paragraph}/>
           </div>
         </section>
       </main>
