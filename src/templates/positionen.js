@@ -16,7 +16,7 @@ export default ({ data }) => {
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
-          <p className={styles.columns}><ReactMarkdown source={section_1.paragraph}/></p>
+          <div className={styles.columns}><ReactMarkdown source={section_1.paragraph}/></div>
         </section>
         <section>
           <h1><span>{section_2.title}</span></h1>

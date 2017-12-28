@@ -10,9 +10,9 @@ const TriangleBox = ( props ) => {
   return (
     <div className={box_styles}>
       {props.box.icon && <PositionenIcon {... props.box}/>}
-      <p>
+      <div>
         <Triangle/>
-      </p>
+      </div>
       {props.article ?
         <article>
           <h1>{props.box.title}</h1>

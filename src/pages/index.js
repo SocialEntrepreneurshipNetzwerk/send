@@ -34,13 +34,13 @@ export default class IndexPage extends React.Component {
         <TopImage imageSource={topImage} isHome={true}/>
         <header className={styles.header}>
           <h1>{tagline}</h1>
-          <p><ReactMarkdown source={tagline_large}/></p>
+          <ReactMarkdown source={tagline_large}/>
         </header>
         <main className={styles.main} >
           <h1>{paragraph}</h1>
           <section>
             <h1><span>{section_1.title}</span></h1>
-            <p><ReactMarkdown source={section_1.paragraph}/></p>
+            <div className={styles.section_paragraph}><ReactMarkdown source={section_1.paragraph}/></div>
             <TriangleBoxContainer boxes={section_1.boxes} size="small"/>
           </section>
           <section>
@@ -49,10 +49,10 @@ export default class IndexPage extends React.Component {
               <h1><span>{section_2.title}</span></h1>
               <h2>{section_2.subtitle}</h2>
               <div className={styles.column3}>
-                {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
+                {section_2.profile_boxes.map(( item, index ) => <ProfileBox content={item} key={index}/> )}
               </div>
             </div>
-            <p className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></p>
+            <div className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></div>
           </section>
           <section>
             <h1><span>{section_3.title}</span></h1>
