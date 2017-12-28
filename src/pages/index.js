@@ -48,7 +48,7 @@ export default class IndexPage extends React.Component {
               <h1><span>{section_2.title}</span></h1>
               <h2>{section_2.subtitle}</h2>
               <div className={styles.column3}>
-                {section_2.profile_boxes.map(( item ) => <ProfileBox content={item}/> )}
+                {section_2.profile_boxes.map(( item, index ) => <ProfileBox content={item} key={index}/> )}
               </div>
             </div>
             <p className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></p>
