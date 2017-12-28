@@ -24,7 +24,6 @@
   min-width: 248px;
   width: max-content;
   max-width: 80%;
-  line-height: 58px;
   background-color: paper;
   border-style: solid;
   border-color: active;
@@ -33,7 +32,7 @@
   vertical-align: middle;
   font-size: 16px;
   font-weight: 700;
-  padding: 0 40px ;
+  padding: 20px 40px ;
   margin: 40px auto;
   transition: all 0.1s;
 }
@@ -49,7 +48,6 @@
   min-width: 248px;
   width: max-content;
   max-width: 80%;
-  line-height: 58px;
   background-color: initial;
   border-style: solid;
   border-color: white;
@@ -59,7 +57,7 @@
   font-size: 16px;
   font-weight: 700;
   color: white;
-  padding: 0 40px;
+  padding: 20px 40px;
   margin: 40px auto;
   transition: all 0.1s;
 }
