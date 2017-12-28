@@ -17,7 +17,7 @@ const TriangleBox = ( props ) => {
         <article>
           <h1>{props.box.title}</h1>
           <h2>{props.box.date} | {props.box.category}</h2>
-          <Link to={props.box.path}>Mehr lesen</Link>
+          <Link to={props.box.path}><span>Mehr lesen</span></Link>
         </article> :
         <ReactMarkdown source={props.box.description}/>
       }

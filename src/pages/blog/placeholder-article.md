@@ -3,7 +3,7 @@ templateKey: 'article'
 path: /placeholder-article
 clip: clip_article
 title: You won't believe what just happened
-excerpt: stuff
+excerpt: stuff challenges and opportunities blended value the resistance then. Outcomes parse natural resources venture
 image: "https://picsum.photos/240/380/?random"
 date: today
 category: fun

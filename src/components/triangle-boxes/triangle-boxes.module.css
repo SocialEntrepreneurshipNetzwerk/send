@@ -35,6 +35,7 @@
   line-height: 1.81;
   color: aqua;
   font-weight: 700;
+  padding: 10px 0;
 }
 
 .triangle_box_container_article article p {
@@ -42,10 +43,19 @@
 }
 
 .triangle_box_container_article article a {
-  position: relative;
-  top: 40px;
+  color: deep-blue;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 }
 
+.triangle_box_container_article article a span {
+  display: inline-block;
+  line-height: 2;
+  border-bottom: 3px solid deep-see-green;
+}
 
 .box_small {
   width: 45%;
@@ -70,13 +80,19 @@
 }
 @media (max-width: break-boxes) {
   .box_small_article{
-    width: auto;
+    width: 100%;
+    max-width: 520px;
   }
 }
 
 .box_small_article p {
   position: relative;
   padding-bottom: 10px;
+}
+
+.box_small_article a {
+  position: relative;
+  top: 40px;
 }
 
 .box_large {
@@ -110,7 +126,7 @@
 .box_large_article h1 {
   font-size: 28px;
   line-height: 1.14;
-  padding: 20px 0 10px 0;
+  padding-top: 20px;
 }
 
 .box_large p {
@@ -118,7 +134,9 @@
   line-height: 1.43;
   font-weight: 500;
 }
-
+.box_large_article p {
+  margin-bottom: 50px;
+}
 
 .box_large a {
   position: absolute;
@@ -129,6 +147,11 @@
   letter-spacing: 1px;
   color: aqua;
   font-weight: 700;
+}
+.box_large_article a {
+  position: absolute;
+  bottom:0;
+  left:0;
 }
 
 .box_large_image{
