@@ -18,3 +18,48 @@
   fill: dark-active;
     transition: all 0.3s;
 }
+
+.button_pink {
+  display: block;
+  width: 248px;
+  line-height: 58px;
+  background-color: paper;
+  border-style: solid;
+  border-color: active;
+  border-width: 2px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 40px auto;
+  transition: all 0.1s;
+}
+.button_pink:hover {
+  background-color: active;
+  border-color: paper;
+  color: white;
+  transition: all 0.1s;
+}
+
+.button_white {
+  display: block;
+  width: 248px;
+  line-height: 58px;
+  background-color: initial;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  margin: 40px auto;
+  transition: all 0.1ms;
+}
+.button_white:hover {
+  background-color: aqua;
+  border-color: null;
+  color: aqua;
+  transition: all 0.1ms;
+}
