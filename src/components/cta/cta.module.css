@@ -6,7 +6,7 @@
   right:-1px;
   z-index:5;
   width:260px;
-
+  max-width: 40%;
 }
 
 .sticky_cta polygon{
