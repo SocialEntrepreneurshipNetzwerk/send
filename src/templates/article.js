@@ -28,8 +28,8 @@ export default ({ data }) => {
   );
 };
 
-export const ArticlPageQuery = graphql`
-  query ArticePage {
+export const ArticlePageQuery = graphql`
+  query ArticlePage {
     markdownRemark(frontmatter: { path: { eq: "/placeholder-article" } }) {
         frontmatter {
             clip
