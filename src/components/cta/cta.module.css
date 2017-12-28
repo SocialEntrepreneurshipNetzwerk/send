@@ -22,6 +22,7 @@
 .button_pink {
   display: block;
   width: 248px;
+  max-width: 80%;
   line-height: 58px;
   background-color: paper;
   border-style: solid;
@@ -44,6 +45,7 @@
 .button_white {
   display: block;
   width: 248px;
+  max-width: 80%;
   line-height: 58px;
   background-color: initial;
   border-style: solid;
@@ -55,11 +57,11 @@
   font-weight: 700;
   color: white;
   margin: 40px auto;
-  transition: all 0.1ms;
+  transition: all 0.1s;
 }
 .button_white:hover {
-  background-color: aqua;
+  background-color: white;
   border-color: null;
   color: aqua;
-  transition: all 0.1ms;
+  transition: all 0.1s;
 }

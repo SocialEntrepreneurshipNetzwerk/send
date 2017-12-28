@@ -4,6 +4,7 @@ import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContai
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/netzwerk.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
+import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import styles from './netzwerk.module.css';
 
@@ -26,6 +27,7 @@ export default ({ data }) => {
           <div className={styles.turquoise_content}>
             <h1><span>{section_2.title}</span></h1>
             <ReactMarkdown source={section_2.paragraph}/>
+            <ButtonCTA color="white" label={section_2.cta.label} link={section_2.cta.link}/>
           </div>
         </section>
       </main>
@@ -51,6 +53,10 @@ export const NetzwerkPageQuery = graphql`
             section_2 {
               title
               paragraph
+              cta {
+                label
+                link
+              }
               triangle_boxes_large {
                 image
                 name
