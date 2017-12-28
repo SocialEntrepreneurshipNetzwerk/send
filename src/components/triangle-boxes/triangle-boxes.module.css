@@ -13,9 +13,53 @@
   }
 }
 
+.triangle_box_container_article {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: space-around;
+  height: 800px;
+  width: 100%;
+  padding-top: 30px;
+}
+@media (max-width: break-boxes) {
+  .triangle_box_container_article{
+    flex-wrap: nowrap;
+    align-items: center;
+    height: auto;
+  }
+}
+
+.triangle_box_container_article article h2 {
+  font-size: 12px;
+  line-height: 1.81;
+  color: aqua;
+  font-weight: 700;
+  padding: 10px 0;
+}
+
+.triangle_box_container_article article p {
+  padding: 5px 0;
+}
+
+.triangle_box_container_article article a {
+  color: deep-blue;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.triangle_box_container_article article a span {
+  display: inline-block;
+  line-height: 2;
+  border-bottom: 3px solid deep-see-green;
+}
+
 .box_small {
   width: 45%;
-  min-height: 200px;
+  min-height: 250px;
   padding-bottom: 100px;
 }
 @media (max-width: break-boxes) {
@@ -27,6 +71,28 @@
 .box_small div {
   position: relative;
   padding-bottom: 10px;
+}
+
+.box_small_article {
+  width: 30%;
+  min-height: 250px;
+  padding-bottom: 100px;
+}
+@media (max-width: break-boxes) {
+  .box_small_article{
+    width: 100%;
+    max-width: 520px;
+  }
+}
+
+.box_small_article p {
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.box_small_article a {
+  position: relative;
+  top: 40px;
 }
 
 .box_large {
@@ -57,16 +123,19 @@
   font-size: 28px;
   line-height: 1.21;
 }
-
-.box_large div {
-  position: relative;
-  font-weight: 700;
+.box_large_article h1 {
+  font-size: 28px;
+  line-height: 1.14;
+  padding-top: 20px;
 }
 
 .box_large p {
   font-size: 14px;
   line-height: 1.43;
   font-weight: 500;
+}
+.box_large_article p {
+  margin-bottom: 50px;
 }
 
 .box_large a {
@@ -79,6 +148,11 @@
   color: aqua;
   font-weight: 700;
 }
+.box_large_article a {
+  position: absolute;
+  bottom:0;
+  left:0;
+}
 
 .box_large_image{
   width:100%;
@@ -89,6 +163,28 @@
 }
 
 .box_large svg:last-of-type {
+  position:absolute;
+  bottom: -14px;
+  right: -14px;
+}
+
+.box_large_article {
+  position: relative;
+  display: inline-block;
+  width: 60%;
+  max-width: 520px;
+  height: 600px;
+  margin-bottom: 150px;
+  text-align: left;
+}
+@media (max-width: break-boxes) {
+  .box_large_article{
+    width:100%;
+    height: auto;
+  }
+}
+
+.box_large_article svg:last-of-type {
   position:absolute;
   bottom: -14px;
   right: -14px;

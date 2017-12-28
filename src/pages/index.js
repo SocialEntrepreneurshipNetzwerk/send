@@ -27,6 +27,7 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
     const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
+    const newsEdges = data.allFile.edges;
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -55,6 +56,7 @@ export default class IndexPage extends React.Component {
           </section>
           <section>
             <h1><span>{section_3.title}</span></h1>
+            <TriangleBoxContainer boxes={newsEdges} article={true}/>
           </section>
         </main>
       </div>
@@ -93,5 +95,16 @@ export const IndexQuery = graphql`
             }
         }
     }
+    allFile(filter:{relativeDirectory:{eq: "blog"}}){edges{node{name childMarkdownRemark {
+          excerpt(pruneLength: 300)
+  frontmatter {
+    title
+    excerpt
+    path
+    image
+    date
+    category
+  }
+}}}}
 }
 `;
