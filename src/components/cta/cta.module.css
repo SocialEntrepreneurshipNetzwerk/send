@@ -1,7 +1,20 @@
+@import "../../layouts/variables.css";
+
 .sticky_cta{
   position: fixed;
   top: 160px;
   right:-1px;
   z-index:5;
   width:260px;
+
+}
+
+.sticky_cta polygon{
+  fill: active;
+  transition: all 0.3s;
+}
+
+.sticky_cta:hover polygon{
+  fill: dark-active;
+    transition: all 0.3s;
 }
