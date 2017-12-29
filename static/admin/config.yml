@@ -28,7 +28,7 @@ collections:
         name: "index"
         fields:
           - {label: "Path", name: "path", widget: "hidden", default: "/404"}
-          - {label: "Image", name: "image", widget: "file"}
+          - {label: "Image", name: "image", widget: "image"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "markdown"}
@@ -48,7 +48,7 @@ collections:
                 {label: "Link", name: "link", widget: "string"}
               ]},
               {label: Profile Boxes, name: profile_boxes, widget: list, fields: [ 
-                  {label: "Profile Image", name: "image", widget: "file"},
+                  {label: "Profile Image", name: "image", widget: "image"},
                   {label: "Name", name: "name", widget: "string"},
                   {label: "Project", name: "project", widget: "string"},
                   {label: "Description", name: "description", widget: "string"}
