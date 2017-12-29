@@ -31,7 +31,7 @@ section_2:
       name: Laura Kromminga 
       project: Social Finance Consulting
       description: Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen zu können
-    - image: Katja_Urbatsch.jpg
+    - image: /Katja_Urbatsch.jpg
       name: Katja Urbatsch
       project: ArbeiterKind.de
       description: Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel, Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu artikulieren und zu erfüllen.

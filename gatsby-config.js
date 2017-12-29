@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter'
   },
-  pathPrefix: '/',
+  pathPrefix: '/uploads',
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',

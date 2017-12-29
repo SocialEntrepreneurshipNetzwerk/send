@@ -3,8 +3,8 @@ backend:
   repo: n3xtcoder/send
   branch: cms
 
-media_folder: static/img
-public_folder: /img
+media_folder: static/uploads
+public_folder: /uploads
 
 collections:
   - name: "blog"
@@ -23,11 +23,12 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/home/home.md"
+      - file: "src/pages/index.md"
         label: "Home"
-        name: "home"
+        name: "index"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/about"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/404"}
+          - {label: "Image", name: "image", widget: "file"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "text"}
