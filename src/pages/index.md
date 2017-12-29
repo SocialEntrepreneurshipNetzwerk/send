@@ -1,7 +1,6 @@
 ---
 path: /
 title: Home
-image: '../img/roses.jpg'
 tagline: gemeinsam. wirken.
 tagline_large: "**Social Entrepreneurship  Netzwerk Deutschland e.V.** Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland."
 paragraph: Wir wollen in einer Gesellschaft leben,  in der alle Menschen vom Fortschritt profitieren. Dafür vernetzen wir den Social Entrepreneurship Sektor und geben ihm eine Stimme.

@@ -28,7 +28,6 @@ collections:
         name: "index"
         fields:
           - {label: "Path", name: "path", widget: "hidden", default: "/404"}
-          - {label: "Image", name: "image", widget: "image"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "markdown"}
