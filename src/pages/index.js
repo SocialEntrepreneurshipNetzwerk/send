@@ -5,6 +5,7 @@ import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContai
 import ProfileBox from '../components/profile-box/ProfileBox';
 import PageHelmet from '../components/PageHelmet';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
+import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/Opener.png';
 import ReactMarkdown from 'react-markdown';
 import styles from './index.module.css';
@@ -53,6 +54,7 @@ export default class IndexPage extends React.Component {
               </div>
             </div>
             <div className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></div>
+            <ButtonCTA color="active" label={section_2.cta.label} link={section_2.cta.link}/>
           </section>
           <section>
             <h1><span>{section_3.title}</span></h1>
@@ -83,6 +85,10 @@ export const IndexQuery = graphql`
               title
               subtitle
               paragraph
+              cta {
+                label
+                link
+              }
               profile_boxes {
                 image
                 name

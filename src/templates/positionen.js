@@ -2,6 +2,7 @@ import React from 'react';
 import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
+import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/positionen.jpg';
 import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
@@ -21,6 +22,7 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_2.title}</span></h1>
           <TriangleBoxContainer boxes={section_2.boxes} size="small"/>
+          <ButtonCTA color="active" label={section_2.cta.label} link={section_2.cta.link}/>
         </section>
       </main>
     </div>
@@ -39,6 +41,10 @@ export const PositionenPageQuery = graphql`
             }
             section_2 {
               title
+              cta {
+                label
+                link
+              }
               boxes{
                 icon
                 description

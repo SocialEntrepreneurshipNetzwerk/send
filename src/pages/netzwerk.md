@@ -28,6 +28,9 @@ section_2:
   
   
   **Dann werde Teil von SEND.** Ob als Sozialunternehmer\\*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns gemeinsam. wirken.**"
+  cta:
+    label: Jetzt anmelden
+    link: https://wikipedia.de
   triangle_boxes_large:
     - image: "https://picsum.photos/240/380/?random"
       name: Name
