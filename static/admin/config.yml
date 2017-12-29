@@ -27,15 +27,15 @@ collections:
         label: "Home"
         name: "index"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/404"}
+          - {label: "Path", name: "path", widget: "hidden"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "markdown"}
-          - {label: Section 1, name: section_1, widget: object, fields: [ 
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
               {label: "Title", name: "title", widget: "string"},
               {label: "Paragraph", name: "paragraph", widget: "markdown"},
-              {label: Boxes, name: boxes, widget: list, fields: [ 
-                {label: Box, name: description, widget: markdown}
+              {label: "Boxes", name: "boxes", widget: "list", fields: [ 
+                {label: "Box", name: "description", widget: "markdown"}
               ]}
             ]}
           - {label: Section 2, name: section_2, widget: object, fields: [ 
@@ -46,13 +46,67 @@ collections:
                 {label: "Label", name: "label", widget: "string"},
                 {label: "Link", name: "link", widget: "string"}
               ]},
-              {label: Profile Boxes, name: profile_boxes, widget: list, fields: [ 
+              {label: "Profile Boxes", name: "profile_boxes", widget: "list", fields: [ 
                   {label: "Profile Image", name: "image", widget: "image"},
                   {label: "Name", name: "name", widget: "string"},
                   {label: "Project", name: "project", widget: "string"},
                   {label: "Description", name: "description", widget: "string"}
               ]}
             ]}
-          - {label: Section 3, name: section_3, widget: object, fields: [ 
+          - {label: "Section 3", name: "section_3", widget: "object", fields: [ 
               {label: "Title", name: "title", widget: "string"}
+            ]}
+      - file: "src/pages/netzwerk.md"
+        label: "Netzwerk"
+        name: "netzwerk"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Member-Boxes Part 1", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Member-Boxes Part 2", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+      - file: "src/pages/positionen.md"
+        label: "Positionen"
+        name: "positionen"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Boxes", name: "boxes", widget: "list", fields: [ 
+                {label: "Illustration", name: "icon", widget: "hidden"},
+                {label: "Description", name: "description", widget: "markdown"}
+              ]}
             ]}
