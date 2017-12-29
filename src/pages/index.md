@@ -23,15 +23,15 @@ section_2:
     label: Jetzt mitmachen!
     link: https://wikipedia.de
   profile_boxes:
-    - image: "https://placebear.com/120/120"
+    - image: /von-Unruh.jpg
       name: Attila von Unruh
       project: TEAM U — RESTART gGmbH
       description: Soziale Innovatoren brauchen eine starke Stimme –  TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
-    - image: "https://www.placecage.com/120/120"
+    - image: /Laura_Kromminga.jpg
       name: Laura Kromminga 
       project: Social Finance Consulting
       description: Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen zu können
-    - image: "http://placebeard.it/120"
+    - image: Katja_Urbatsch.jpg
       name: Katja Urbatsch
       project: ArbeiterKind.de
       description: Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel, Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu artikulieren und zu erfüllen.
