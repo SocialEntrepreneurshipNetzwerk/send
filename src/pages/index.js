@@ -28,7 +28,11 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
     const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
-    const newsEdges = data.allFile.edges;
+    const newsEdges = data.allFile.edges.sort( function( a, b ) {
+      return ( a.node.childMarkdownRemark.frontmatter.date > b.node.childMarkdownRemark.frontmatter.date ) ? -1 : (( b.node.childMarkdownRemark.frontmatter.date > a.node.childMarkdownRemark.frontmatter.date ) ? 1 : 0 );
+    });
+
+    console.log( newsEdges );
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
