@@ -28,8 +28,8 @@ export default ({ data }) => {
 };
 
 export const ArticlePageQuery = graphql`
-  query ArticlePage {
-    markdownRemark(frontmatter: { path: { eq: "/placeholder-article" } }) {
+  query ArticlePage ($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path  } }) {
         frontmatter {
             clip
             title
