@@ -22,7 +22,7 @@ const TriangleBoxLarge = ( props ) => {
         <h1>{props.box.name}</h1>
         <p>{props.box.description}</p>
         <br/>
-        <a href={props.box.link}>{props.box.link.replace( /https?:\/\//, '' )}</a>
+        <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>
       </div>}
     <TriangleBottom/>
   </div> );
