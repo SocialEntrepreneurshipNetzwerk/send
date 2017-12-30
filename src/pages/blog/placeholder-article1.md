@@ -5,7 +5,7 @@ clip: clip_article
 title: alternative title
 excerpt: meh
 image: /uploads/von-Unruh.jpg
-date: today
+date: "2017-08-12"
 category: fun
 ---
 

@@ -5,7 +5,7 @@ clip: clip_article
 title: Second title
 excerpt: bla
 image: /uploads/Laura_Kromminga.jpg
-date: today
+date: "2017-08-11"
 category: fun
 ---
 om line invest, synergy academic because. Peaceful systems thinking; humanitarian; academic LGBTQ+.

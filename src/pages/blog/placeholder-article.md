@@ -5,7 +5,7 @@ clip: clip_article
 title: You won't believe what just happened
 excerpt: stuff challenges and opportunities blended value the resistance then. Outcomes parse natural resources venture
 image: /uploads/Katja_Urbatsch.jpg
-date: today
+date: "2017-08-10"
 category: fun
 ---
 
