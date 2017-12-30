@@ -30,6 +30,9 @@ export default ({ data }) => {
             <ButtonCTA color="white" label={section_2.cta.label} link={section_2.cta.link}/>
           </div>
         </section>
+        <section>
+          <TriangleBoxContainer boxes={section_2.triangle_boxes_large} size="large"/>
+        </section>
       </main>
     </div>
   );
