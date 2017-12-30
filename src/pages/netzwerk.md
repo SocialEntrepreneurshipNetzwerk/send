@@ -9,7 +9,7 @@ section_1:
     - image: /uploads/SEA_logo_rgb.jpg
       name: Social Entrepreneurship Akademie
       description: "Als universitäre Netzwerk-Organisation bilden wir unter dem Leitspruch „Education for Societal Change“ Sozialunternehmer/Innen und alle, die aktiv die Welt verändern wollen, aus. Durch unsere vielfältigen Qualifizierungsprogramme, der maßgeschneiderten Gründungsförderung und dem weitreichenden Netzwerk findet jeder das nötige Know-How, die Tools und das Netzwerk, um die Probleme unserer Welt anzugehen und auf unternehmerische Weise zu lösen."
-      email:
+      email: ""
       link: http://www.seakademie.de
     - image: /uploads/170411_Sira_Einrichtung-024.jpg 
       name: sira Kinderbetreuung
@@ -39,7 +39,7 @@ section_2:
     - image: /uploads/Das_macht_Schule.jpg
       name: Das macht Schule Förderverein e.V.
       description: Das macht Schule hilft Lehrern Praxisprojekte umzusetzen und damit Schüler stark für die Zukunft zu machen. In den Projekten übernehmen Schüler Verantwortung, erleben Teilhabe, verbessern ihre Sozial- und Handlungskompetenzen und trainieren durch Erfahrungslernen Kreativität, Kommunikation, Zusammenarbeit und kritisches Denken.
-      email:
+      email: ""
       link: https://www.das-macht-schule.net/
     - image: /uploads/Hilfswerft_Logo.jpg
       name: Hilfswerft gGmbH
