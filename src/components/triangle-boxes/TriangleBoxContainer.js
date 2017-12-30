@@ -10,7 +10,7 @@ const TriangleBoxContainer = ( props ) => {
     return (
       <div className={styles.triangle_box_container_article}>
         <TriangleBoxLarge box={largeArticle} excerpt={autoExcerpt} article={props.article}/>
-        {props.boxes.slice( 1 ).map(( box, index ) => {
+        {props.boxes.slice( 1, 4 ).map(( box, index ) => {
           return <TriangleBoxSmall box={box.node.childMarkdownRemark.frontmatter} article={props.article} key={index}/>;
         })}
       </div>

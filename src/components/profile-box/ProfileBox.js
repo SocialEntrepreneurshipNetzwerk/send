@@ -1,11 +1,12 @@
 import React from 'react';
+import { withPrefix } from 'gatsby-link';
 import styles from './profile-box.module.css';
 
 const ProfileBox = ( props ) => (
   <div className={styles.box}>
     <div className={styles.flex_wrapper}>
       <div className={styles.flex_top}>
-        <img src={props.content.image}></img>
+        <img src={__PATH_PREFIX__ + props.content.image} alt={`Foto ${props.content.name}`} />
         <p>{props.content.description}</p>
       </div>
       <div className={styles.flex_bottom}>

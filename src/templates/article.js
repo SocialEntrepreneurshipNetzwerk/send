@@ -1,19 +1,18 @@
 import React from 'react';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/placeholder-article.jpg';
 import styles from './article.module.css';
 
 
 
 export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
-  const { clip, title, date, category } = frontmatter;
+  const { clip, title, image, date, category } = frontmatter;
   const content = data.markdownRemark.html;
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
-      <TopImage imageSource={topImage} clip={clip}/>
+      <TopImage imageSource={image} clip={clip}/>
       <main className={styles.main}>
         <section>
           <article className={styles.article}>
@@ -29,12 +28,13 @@ export default ({ data }) => {
 };
 
 export const ArticlePageQuery = graphql`
-  query ArticlePage {
-    markdownRemark(frontmatter: { path: { eq: "/placeholder-article" } }) {
+  query ArticlePage ($path: String!) {
+    markdownRemark(frontmatter: { path: { eq: $path  } }) {
         frontmatter {
             clip
             title
-            date
+            image
+            date (formatString: "DD MMMM, YYYY")
             category
         }
         html
