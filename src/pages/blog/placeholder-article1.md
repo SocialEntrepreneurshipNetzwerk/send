@@ -1,10 +1,10 @@
 ---
 templateKey: 'article'
-path: /placeholder-article
+path: /placeholder-article0
 clip: clip_article
-title: You won't believe what just happened
+title: alternative title
 excerpt: meh
-image: /uploads/Katja_Urbatsch.jpg
+image: /uploads/von-Unruh.jpg
 date: today
 category: fun
 ---
