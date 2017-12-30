@@ -50,6 +50,7 @@ export const NetzwerkPageQuery = graphql`
                 image
                 name
                 description
+                email
                 link
               }
             }
@@ -64,6 +65,7 @@ export const NetzwerkPageQuery = graphql`
                 image
                 name
                 description
+                email
                 link
               }
             }

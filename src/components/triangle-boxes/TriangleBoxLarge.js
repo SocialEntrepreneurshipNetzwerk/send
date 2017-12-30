@@ -22,7 +22,10 @@ const TriangleBoxLarge = ( props ) => {
         <h1>{props.box.name}</h1>
         <p>{props.box.description}</p>
         <br/>
-        <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>
+        <div>
+          {props.box.email && <a href={`mailto:${props.box.email}`}>{props.box.email}</a>}
+          {props.box.link && <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>}
+        </div>
       </div>}
     <TriangleBottom/>
   </div> );

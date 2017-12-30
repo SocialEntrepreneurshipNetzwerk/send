@@ -71,6 +71,7 @@ collections:
                 {label: "Image", name: "image", widget: "image"},
                 {label: "Name", name: "name", widget: "string"},
                 {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
                 {label: "Link", name: "link", widget: "string"}
               ]}
             ]}
@@ -85,6 +86,7 @@ collections:
                 {label: "Image", name: "image", widget: "image"},
                 {label: "Name", name: "name", widget: "string"},
                 {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
                 {label: "Link", name: "link", widget: "string"}
               ]}
             ]}
