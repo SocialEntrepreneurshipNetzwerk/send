@@ -1,7 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import TopNav from '../components/top-nav/TopNav.js';
+import TopNav from '../components/top-nav/TopNav';
+import StickyCTA from '../components/cta/StickyCTA';
 import './global.css';
 
 
@@ -24,6 +25,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
     <TopNav />
+    <StickyCTA/>
     <div>{children()}</div>
   </div>
 );

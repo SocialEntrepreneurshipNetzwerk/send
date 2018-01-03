@@ -2,16 +2,31 @@ import React from 'react';
 import Triangle from '../svg/Triangle.js';
 import TriangleBottom from '../svg/TriangleBottom.js';
 import styles from './triangle-boxes.module.css';
+import ReactMarkdown from 'react-markdown';
+import Link from 'gatsby-link';
 
 const TriangleBoxLarge = ( props ) => {
-  return ( <div className={styles.box_large}>
+  const box_styles = props.article ? styles.box_large_article : styles.box_large;
+  return ( <div className={box_styles}>
     <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
       <Triangle/>
     </div>
-    <h1>{props.box.name}</h1>
-    <p>{props.box.description}</p>
-    <br/>
-    <a href={props.box.link}>{props.box.link}</a>
+    {props.article ?
+      <article>
+        <h1>{props.box.title}</h1>
+        <h2>{props.box.date} | {props.box.category}</h2>
+        {props.box.excerpt ? <ReactMarkdown source={props.box.excerpt}/> : <p>{props.excerpt}</p>}
+        <Link to={props.box.path}><span>Mehr lesen</span></Link>
+      </article> :
+      <div>
+        <h1>{props.box.name}</h1>
+        <p>{props.box.description}</p>
+        <br/>
+        <div>
+          {props.box.email && <a href={`mailto:${props.box.email}`}>{props.box.email}</a>}
+          {props.box.link && <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>}
+        </div>
+      </div>}
     <TriangleBottom/>
   </div> );
 

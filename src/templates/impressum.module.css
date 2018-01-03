@@ -1,0 +1,55 @@
+@import "../layouts/variables.css";
+
+.paragraph{
+  font-size: 14px;
+}
+
+.hello {
+  font-size: 34px;
+}
+
+main section {
+  max-width: 700px;
+  padding-top: 200px;
+}
+
+.article h1 {
+  font-size: 28px;
+  line-height: 1.14;
+  text-align: left;
+}
+
+.article h2 {
+  font-size: 12px;
+  line-height: 1.81;
+  color: aqua;
+  text-align: left;
+  letter-spacing: normal;
+  font-weight: 700;
+  padding: 10px 0;
+}
+
+.article p {
+  padding: 10px 0;
+}
+
+.article ul {
+    padding: 0 1em;
+    list-style: none;
+}
+.article li:last-child{
+  padding-bottom: 10px;
+}
+.article li:before { 
+    content: "";
+    border-color: transparent deep-see-green;
+    border-style: solid;
+    border-width: 0.45em 0 0.45em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 1.1em;
+    position: relative;
+    transform: rotate(45deg);
+}
