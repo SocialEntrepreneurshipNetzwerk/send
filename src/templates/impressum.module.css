@@ -1,0 +1,18 @@
+@import "../layouts/variables.css";
+
+.main{
+  padding-top: 200px;
+}
+
+.main h1 {
+  font-size: 25px;
+  line-height: 1.14;
+}
+
+section h2 {
+  font-size: 20px;
+}
+
+.button {
+  
+}

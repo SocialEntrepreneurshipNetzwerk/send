@@ -39,6 +39,11 @@ const TopNav = () => (
               Netzwerk
           </Link>
         </li>
+        <li>
+          <Link className="navbar-item" to="/impressum" activeStyle={activeStyle}>
+              Impressum
+          </Link>
+        </li>
       </ul>
     </nav>
   </div>
