@@ -1,7 +1,6 @@
 ---
 path: /
 title: Home
-image: '../img/roses.jpg'
 tagline: gemeinsam. wirken.
 tagline_large: "**Social Entrepreneurship  Netzwerk Deutschland e.V.** Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland."
 paragraph: Wir wollen in einer Gesellschaft leben,  in der alle Menschen vom Fortschritt profitieren. Dafür vernetzen wir den Social Entrepreneurship Sektor und geben ihm eine Stimme.
@@ -19,16 +18,19 @@ section_2:
   paragraph: "### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? 
   
   Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied. als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam. wirken."
+  cta: 
+    label: Jetzt mitmachen!
+    link: https://wikipedia.de
   profile_boxes:
-    - image: "https://placebear.com/120/120"
+    - image: /uploads/von-Unruh.jpg
       name: Attila von Unruh
       project: TEAM U — RESTART gGmbH
       description: Soziale Innovatoren brauchen eine starke Stimme –  TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
-    - image: "https://www.placecage.com/120/120"
+    - image: /uploads/Laura_Kromminga.jpg
       name: Laura Kromminga 
       project: Social Finance Consulting
       description: Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen zu können
-    - image: "http://placebeard.it/120"
+    - image: /uploads/Katja_Urbatsch.jpg
       name: Katja Urbatsch
       project: ArbeiterKind.de
       description: Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel, Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu artikulieren und zu erfüllen.

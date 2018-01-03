@@ -23,23 +23,7 @@
   margin-left:-50vw;
   height: 100%;
 }
-/*
-@media (max-width: break-boxes){
-  .background_turquoise {
-      height: 1400px;
-  }
-}
-@media (max-width: break-main-padding){
-  .background_turquoise {
-      height: 1520px;
-  }
-}
-@media (max-width: break-mobile){
-  .background_turquoise {
-      height: 2020px;
-  }
-}
-*/
+
 .positionen_icon{
   display:block;
   margin: 0 auto;

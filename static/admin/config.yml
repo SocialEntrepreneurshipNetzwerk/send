@@ -3,42 +3,147 @@ backend:
   repo: n3xtcoder/send
   branch: cms
 
-media_folder: static/img
-public_folder: /img
+media_folder: static/uploads
+public_folder: /uploads
 
 collections:
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Path", name: "path", widget: "string"}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
+      - {label: "Image Mask", name: "clip", widget: "hidden", default: "clip_article"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false }
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Category", name: "category", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/home/home.md"
+      - file: "src/pages/index.md"
         label: "Home"
-        name: "home"
+        name: "index"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/about"}
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
-          - {label: "Tagline-Large", name: "tagline_large", widget: "text"}
-          - {label: Content, name: content, widget: object, fields: [ {label: Blurbs, name: blurbs, widget: list, fields: [ {label: Text, name: text, widget: text}]}]}
-  - name: "components"
-    label: "Components"
-    files:
-      - file: "src/pages/components/member-cta-section.md"
-        label: "Member CTA Section"
-        name: "member-cta-section"
+          - {label: "Tagline-Large", name: "tagline_large", widget: "markdown"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"},
+              {label: "Boxes", name: "boxes", widget: "list", fields: [ 
+                {label: "Box", name: "description", widget: "markdown"}
+              ]}
+            ]}
+          - {label: Section 2, name: section_2, widget: object, fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Subtitle", name: "subtitle", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Profile Boxes", name: "profile_boxes", widget: "list", fields: [ 
+                  {label: "Profile Image", name: "image", widget: "image"},
+                  {label: "Name", name: "name", widget: "string"},
+                  {label: "Project", name: "project", widget: "string"},
+                  {label: "Description", name: "description", widget: "string"}
+              ]}
+            ]}
+          - {label: "Section 3", name: "section_3", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"}
+            ]}
+      - file: "src/pages/netzwerk.md"
+        label: "Netzwerk"
+        name: "netzwerk"
         fields:
-            - {label: "Title", name: "title", widget: "string"}
-            - {label: Content, name: content, widget: object, fields: [ {label: Blurbs, name: blurbs, widget: list, fields: [ {label: Text, name: text, widget: text}]}]}
-            - {label: "Button Label", name: "button-label", widget: "string"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Member-Boxes Part 1", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Member-Boxes Part 2", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+      - file: "src/pages/positionen.md"
+        label: "Positionen"
+        name: "positionen"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Boxes", name: "boxes", widget: "list", fields: [ 
+                {label: "Illustration", name: "icon", widget: "hidden"},
+                {label: "Description", name: "description", widget: "markdown"}
+              ]}
+            ]}
+      - file: "src/pages/impressum.md"
+        label: "Impressum"
+        name: "impressum"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragrap", name: "paragrap", widget: "markdown"},
+              {label: "Member-Boxes Part 1", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+              {label: "Member-Boxes Part 2", name: "triangle_boxes_large", widget: "list", fields: [ 
+                {label: "Image", name: "image", widget: "image"},
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Description", name: "description", widget: "text"},
+                {label: "Email", name: "email", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}

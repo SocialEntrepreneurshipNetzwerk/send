@@ -4,6 +4,11 @@ import BackgroundHeader from '../svg/BackgroundHeader.js';
 import Link from 'gatsby-link';
 import styles from './top-nav.module.css';
 
+const activeStyle = {
+  color: 'white',
+  backgroundColor: '#00027f'
+};
+
 const TopNav = () => (
   <div>
     <BackgroundHeader/>
@@ -25,13 +30,18 @@ const TopNav = () => (
           </Link>
         </li>*/}
         <li>
-          <Link className="navbar-item" to="/positionen">
+          <Link className="navbar-item" to="/positionen" activeStyle={activeStyle}>
               Positionen
           </Link>
         </li>
         <li>
-          <Link className="navbar-item" to="/netzwerk">
+          <Link className="navbar-item" to="/netzwerk" activeStyle={activeStyle}>
               Netzwerk
+          </Link>
+        </li>
+        <li>
+          <Link className="navbar-item" to="/impressum" activeStyle={activeStyle}>
+              Impressum
           </Link>
         </li>
       </ul>

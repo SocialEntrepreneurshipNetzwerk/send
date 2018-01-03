@@ -64,13 +64,13 @@
   }
 }
 
-:global section h1 {
+:global section>h1, :global section>div>h1 {
   text-align: center;
   font-size: 36px;
   padding-bottom: 70px;
 }
 @media (max-width: break-mobile){
-  :global section h1 {
+  :global section>h1, :global section1>div>h1 {
     font-size: 32px;
   }
 }
@@ -81,7 +81,7 @@
   border-bottom: 3px solid deep-see-green;
 }
 
-:global section h2 {
+:global section > div > h2 {
   top:30px;
   text-align: center;
   margin-top: -55px;
