@@ -1,6 +1,7 @@
 import React from 'react';
 import ClipPositionen from '../svg/ClipPositionen';
 import ClipNetzwerk from '../svg/ClipNetzwerk';
+import ClipArticle from '../svg/ClipArticle';
 import styles from './top-image.module.css';
 
 
@@ -14,6 +15,7 @@ const TopImage = ( props ) => {
     }}>
       <ClipPositionen/>
       <ClipNetzwerk/>
+      <ClipArticle/>
     </div> );
 };
 

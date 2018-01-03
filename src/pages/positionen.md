@@ -11,6 +11,9 @@ section_1:
   Beispiele für erfolgreiche Social Entrepreneure findet Ihr unter [unseren Mitgliedern](/netzwerk)."
 section_2: 
   title: Positionen
+  cta: 
+    label: Hier Positionspapier herunterladen
+    link: https://wikipedia.de
   boxes:
     - icon: financing
       description: "**1 | Finanzierung sozialer Innovationen**
