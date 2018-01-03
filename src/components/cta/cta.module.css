@@ -2,7 +2,7 @@
 
 .sticky_cta{
   position: fixed;
-  top: 160px;
+  top: 140px;
   right:-1px;
   z-index:5;
   width:260px;
