@@ -1,9 +1,11 @@
 ---
+templateKey: 'impressum'
+path: /impressum
 title: Social Entrepreneurship Netzwerk Deutschland e. V. (i. Gr.)
-address: Social Entrepreneurship Netzwerk Deutschland e. V. (i.Gr.) c/o Bundesverband Deutsche Startups e. V.
+address: 'Social Entrepreneurship Netzwerk Deutschland e. V. (i.Gr.) c/o Bundesverband Deutsche Startups e. V.
 im Haus der Bundesverbandndespressekonferenz
 Schiffbauerdamm 40
-10117 Berlin
+10117 Berlin'
 email: info@send-ev.de
 section_1:
   title: Satzung
