@@ -34,7 +34,7 @@ section_2:
   **Dann werde Teil von SEND.** Ob als Sozialunternehmer\\*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns gemeinsam. wirken.**"
   cta:
     label: Jetzt anmelden
-    link: https://wikipedia.de
+    link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
   triangle_boxes_large:
     - image: /uploads/Das_macht_Schule.jpg
       name: Das macht Schule Förderverein e.V.
