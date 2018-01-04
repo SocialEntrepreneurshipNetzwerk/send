@@ -13,7 +13,7 @@ section_2:
   title: Positionen
   cta: 
     label: Hier Positionspapier herunterladen
-    link: https://wikipedia.de
+    link: /uploads/SEND_Positionspapier_Bund.pdf
   boxes:
     - icon: financing
       description: "**1 | Finanzierung sozialer Innovationen**
