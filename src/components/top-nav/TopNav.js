@@ -15,7 +15,7 @@ const TopNav = () => (
     <nav className={styles.nav}>
       <Link to="/" className="navbar-item">
         <figure className={styles.figure}>
-          <img src={logo} alt="Send" style={{ width: '140px' }} />
+          <img src={logo} alt="Send" style={{ width: '240px' }} />
         </figure>
       </Link>
       <ul className={styles.ul}>
