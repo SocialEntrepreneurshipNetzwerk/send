@@ -50,6 +50,12 @@
   padding-top: 60px;
 }
 
+.title_link{
+  display: block;
+  color: deep-blue;
+  text-align: center;
+}
+
 .section_paragraph {
   padding-bottom: 30px;
 }
