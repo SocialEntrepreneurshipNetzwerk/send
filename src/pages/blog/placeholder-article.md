@@ -2,20 +2,10 @@
 templateKey: 'article'
 path: /placeholder-article
 clip: clip_article
-title: You won't believe what just happened
-excerpt: stuff challenges and opportunities blended value the resistance then. Outcomes parse natural resources venture
-image: /uploads/Katja_Urbatsch.jpg
+title: Title 
+excerpt: Accessibility outcomes because, initiative and innovation. Co-create strategy co-create, families resilient, black lives matter invest. Humanitarian gender rights collaborative cities, philanthropy challenges and opportunities ecosystem compelling. Policymaker big data issue outcomes gender rights vibrant. 
+image: /uploads/crclr.jpg
 date: "2017-08-10"
-category: fun
+category: category
 ---
-
-###lorem opposum.
-
-Emerging [dynamic](https://www.wikipedia.de) circular 
-
-- none
-- two
-- three
-- triangles!
-
-shared unit of analysis *commitment* paradigm **collaborate**. Corporate social responsibility policymaker expose the truth ecosystem families leverage. Efficient scale and impact blended value, philanthropy blended value social entrepreneurship families. Program area compelling, strategy, energize; paradigm compelling efficient storytelling. Disrupt state of play philanthropy human-centered indicators but. Scale and impact social capital challenges and opportunities blended value the resistance then. Outcomes parse natural resources venture philanthropy compelling LGBTQ+ shine triple bottom line transparent. Design thinking; framework co-create youth global. Parse; paradigm collaborative cities inclusion segmentation milestones. Indicators, then strengthening infrastructure, social intrapreneurship NGO living a fully ethical life ecosystem. Capacity building circular, green space co-create, strategy do-gooder external partners. Best practices catalyze, segmentation program area global corporate social responsibility LGBTQ+ resist. Sustainable empower blended value a cultivate cultivate resilient. Global revolutionary equal opportunity movements fairness. Triple bottom line invest, synergy academic because. Peaceful systems thinking; humanitarian; academic LGBTQ+.
+Accessibility outcomes because, initiative and innovation. Co-create strategy co-create, families resilient, black lives matter invest. Humanitarian gender rights collaborative cities, philanthropy challenges and opportunities ecosystem compelling. Policymaker big data issue outcomes gender rights vibrant. Technology black lives matter, the we must stand up natural resources her body her rights commitment policymaker. Policymaker venture philanthropy, challenges and opportunities emerging collaborative cities. Her body her rights cultivate contextualize transparent thought leadership. Scalable, strengthening infrastructure compelling gender rights scalable efficient bandwidth resist. Empower communities invest, segmentation paradigm, empower communities social entrepreneurship strengthening infrastructure a. Outcomes, thought leadership, storytelling, inclusion mobilize collaborative cities transparent effective altruism. Scalable resist unprecedented challenge boots on the ground communities B-corp thought partnership boots on the ground. Optimism ecosystem, social innovation resist; NGO support. When, when; inclusion preliminary thinking families cultivate. Ecosystem then resilient, communities justice when, technology. Communities do-gooder collaborate, shared unit of analysis, thought provoking; humanitarian silo.

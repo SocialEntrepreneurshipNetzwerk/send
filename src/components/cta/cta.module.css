@@ -2,22 +2,23 @@
 
 .sticky_cta{
   position: fixed;
-  top: 160px;
+  top: 140px;
   right:-1px;
   z-index:5;
   width:260px;
   max-width: 40%;
 }
 
-.sticky_cta polygon{
+.sticky_cta_polygon {
   fill: active;
   transition: all 0.3s;
 }
 
-.sticky_cta:hover polygon{
+.sticky_cta_polygon:hover {
   fill: dark-active;
     transition: all 0.3s;
 }
+
 
 .button_pink {
   display: block;

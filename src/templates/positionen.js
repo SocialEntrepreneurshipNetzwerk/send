@@ -3,7 +3,7 @@ import PageHelmet from '../components/PageHelmet';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ButtonCTA from '../components/cta/ButtonCTA';
-import topImage from '../img/positionen.jpg';
+import topImage from '../img/positionen_minified.jpg';
 import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
 

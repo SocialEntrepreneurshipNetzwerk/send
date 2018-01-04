@@ -6,7 +6,7 @@ title: Netzwerk
 section_1:
   title: Unsere Mitglieder
   triangle_boxes_large:
-    - image: /uploads/SEA_logo_rgb.jpg
+    - image: /uploads/SEA_logo.png
       name: Social Entrepreneurship Akademie
       description: "Als universitäre Netzwerk-Organisation bilden wir unter dem Leitspruch „Education for Societal Change“ Sozialunternehmer/Innen und alle, die aktiv die Welt verändern wollen, aus. Durch unsere vielfältigen Qualifizierungsprogramme, der maßgeschneiderten Gründungsförderung und dem weitreichenden Netzwerk findet jeder das nötige Know-How, die Tools und das Netzwerk, um die Probleme unserer Welt anzugehen und auf unternehmerische Weise zu lösen."
       email: ""
@@ -41,7 +41,7 @@ section_2:
       description: Das macht Schule hilft Lehrern Praxisprojekte umzusetzen und damit Schüler stark für die Zukunft zu machen. In den Projekten übernehmen Schüler Verantwortung, erleben Teilhabe, verbessern ihre Sozial- und Handlungskompetenzen und trainieren durch Erfahrungslernen Kreativität, Kommunikation, Zusammenarbeit und kritisches Denken.
       email: ""
       link: https://www.das-macht-schule.net/
-    - image: /uploads/Hilfswerft_Logo.jpg
+    - image: /uploads/Hilfswerft_Logo.png
       name: Hilfswerft gGmbH
       description: Die Hilfswerft bringt Social Entrepreneurship an deutsche Hochschulen! Dafür veranstalten wir sogenannte „Social Entrepreneurship Camps“, für die wir 2017/18 vom Weltaktionsprogramm für Bildung für nachhaltige Entwicklung (UNESCO) ausgezeichnet wurden.
       email:
@@ -56,7 +56,7 @@ section_2:
       description: Social Finance Consulting und Program Manager für Investment Readiness Programme.
       email: laura@kromminga.org
       link:
-    - image: /uploads/diversicon_logo_neu_v01_mit-claim_900x342.jpg
+    - image: /uploads/diversicon_logo_neu_v01_mit-claim_900x342.png
       name: diversicon gGmbH
       description: "diversicon fördert, vermittelt und coacht qualifizierte Fachkräfte mit Autismus. Mit unserem sozialunternehmerischen Ansatz möchten wir dazu beitragen, die hohe Arbeitslosigkeit von Menschen mit Autismus zu verringern und gleichzeitig Arbeitgeber*innen dabei begleiten, Inklusion und Diversity tagtäglich zu leben. #verschiedenistnormal"
       email:
@@ -66,7 +66,7 @@ section_2:
       description: "ArbeiterKind.de ist Deutschlands größte gemeinnützige, spendenfinanzierte Organisation für Studierende der ersten Generation. Wir ermutigen Schülerinnen und Schüler aus Familien ohne Hochschulerfahrung dazu, als erste in ihrer Familie zu studieren. 6.000 Ehrenamtliche engagierten sich bundesweit in 75 lokalen ArbeiterKind.de-Gruppen, um Schülerinnen und Schüler über die Möglichkeit eines Studiums zu informieren und sie auf ihrem Weg vom Studieneinstieg bis zum erfolgreichen Studienabschluss und Berufseinstieg zu unterstützen."
       email:
       link: http://www.arbeiterkind.de
-    - image: /uploads/Logo_AfB_sgIT_400x400px.jpg
+    - image: /uploads/Logo_AfB.png
       name: AfB gemeinnützige GmbH
       description: "AfB ist auf die Abholung, zertifizierte Löschung und Wiedervermarktung gebrauchter IT-Hardware spezialisiert. An über 18 Standorten in Europa werden mehr als 300.000 IT-Geräte und Smartphones von über 280 Mitarbeitern für mehr als 1.000 Unternehmen bearbeitet. Das Besondere: 50% der Mitarbeiter sind Menschen mit einer Beeinträchtigung und wir reduzieren nachweislich den ökologischen Fußabdruck unserer Partnerunternehmen."
       email:

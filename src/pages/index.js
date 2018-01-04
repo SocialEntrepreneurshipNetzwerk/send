@@ -6,7 +6,7 @@ import ProfileBox from '../components/profile-box/ProfileBox';
 import PageHelmet from '../components/PageHelmet';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonCTA from '../components/cta/ButtonCTA';
-import topImage from '../img/Opener.png';
+import topImage from '../img/Opener.jpg';
 import ReactMarkdown from 'react-markdown';
 import styles from './index.module.css';
 

@@ -2,7 +2,7 @@ import React from 'react';
 import TopImage from '../components/top-image/TopImage.js';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/netzwerk.jpg';
+import topImage from '../img/netzwerk_min.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
