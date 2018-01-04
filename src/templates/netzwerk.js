@@ -20,6 +20,8 @@ export default ({ data }) => {
       <main className={styles.main}>
         <section>
           <h1><span>{section_1.title}</span></h1>
+          <ReactMarkdown source={section_1.paragraph}/>
+          <br/>
           <TriangleBoxContainer boxes={section_1.triangle_boxes_large} size="large"/>
         </section>
         <section className={styles.turquoise_section}>
@@ -46,6 +48,7 @@ export const NetzwerkPageQuery = graphql`
             title
             section_1 {
               title
+              paragraph
               triangle_boxes_large {
                 image
                 name

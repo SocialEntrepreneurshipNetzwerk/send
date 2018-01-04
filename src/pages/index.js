@@ -8,6 +8,7 @@ import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/Opener.jpg';
 import ReactMarkdown from 'react-markdown';
+import Link from 'gatsby-link';
 import styles from './index.module.css';
 
 export default class IndexPage extends React.Component {
@@ -49,8 +50,10 @@ export default class IndexPage extends React.Component {
           <section>
             <div className={styles.turquoise_wrapper}>
               <BackgroundTurquoise/>
-              <h1><span>{section_2.title}</span></h1>
-              <h2>{section_2.subtitle}</h2>
+              <Link to="/netzwerk" className={styles.title_link}>
+                <h1><span>{section_2.title}</span></h1>
+                <h2>{section_2.subtitle}</h2>
+              </Link>
               <div className={styles.column3}>
                 {section_2.profile_boxes.map(( item, index ) => <ProfileBox content={item} key={index}/> )}
               </div>

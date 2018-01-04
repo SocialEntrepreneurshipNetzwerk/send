@@ -17,7 +17,7 @@ export default ({ data }) => {
         <section>
           <article className={styles.article}>
             <h1>{title}</h1>
-            <h2>{date} | {category}</h2>
+            <h3>{date} | {category}</h3>
             <div dangerouslySetInnerHTML={{ __html: content }}>
             </div>
           </article>
