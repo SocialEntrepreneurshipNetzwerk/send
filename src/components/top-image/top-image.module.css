@@ -1,6 +1,7 @@
 @import "../../layouts/variables.css";
 
 .background_image{
+    display: flex;
     background-size: cover;
     background-position: center;
     height:75vh;
