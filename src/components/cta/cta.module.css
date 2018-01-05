@@ -9,6 +9,11 @@
   max-width: 40%;
 }
 
+/* HACK selector for ie11 only */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	. { top: 0; }
+}
+
 .sticky_cta_polygon {
   fill: active;
   transition: all 0.3s;

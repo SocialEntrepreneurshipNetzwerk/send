@@ -54,6 +54,9 @@
   display: inline-block;
   height: 120px;
   width: 124px;
-  background-size: contain;
+  background-size: cover;
   clip-path: url(#clip_profile);
 }
+
+/* Internet Explorer 10+, Microsoft Edge Browser HACK */
+_:-ms-lang(x), .clip_profile { border-radiuas: 50%; } 
