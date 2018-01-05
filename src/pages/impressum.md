@@ -1,16 +1,24 @@
 ---
 templateKey: 'impressum'
 path: /impressum
-title: Social Entrepreneurship Netzwerk Deutschland e. V. (i. Gr.)
-address: 'Social Entrepreneurship Netzwerk Deutschland e. V. (i.Gr.)
-c/o Bundesverband Deutsche Startups e. V.
-im Haus der Bundesverbandndespressekonferenz
-Schiffbauerdamm 40
+title: Social Entrepreneurship Netzwerk Deutschland e. V. 
+address: 'Social Entrepreneurship Netzwerk Deutschland e. V. 
+
+
+c/o Bundesverband Deutsche Startups e. V. 
+
+
+im Haus der Bundesverbandndespressekonferenz 
+
+
+Schiffbauerdamm 40 
+
+
 10117 Berlin'
 email: info@send-ev.de
 section_1:
   title: Satzung
-  content: Lade hier unsere Satzung in der Fassung vom 24.05.2017 herunter
+  content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
     label: Satzung herunterladen
     link: http://socentnet.de/wp-content/uploads/2017/06/SEND_Satzung_170524.pdf

@@ -14,8 +14,8 @@ export default ({data}) => {
 	  	<main className={styles.main}>	  		
 	  		<h1>{title}</h1>
 	  		<section>
-	  			<p>{address}</p>
-	  			<p>{email}</p>
+	  			<ReactMarkdown source={address}/>
+	  			<p><a href={"mailto:" + email}>{email}</a></p>
 	  		</section>	  		
 	  		<section>
 	  			<h1>{section_1.title}</h1>
