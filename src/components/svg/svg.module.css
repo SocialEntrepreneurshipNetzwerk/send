@@ -15,6 +15,11 @@
   mix-blend-mode: multiply;
 }
 
+
+/* Internet Explorer 10+, Microsoft Edge Browser HACK */
+
+_:-ms-lang(x), .triangle { opacity: 0.6; } 
+
 .background_turquoise {
   position: absolute;
   z-index:-1;
