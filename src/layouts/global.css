@@ -4,6 +4,7 @@
 :global * {
   box-sizing: border-box;
   margin: 0;
+  border: 2px solid red;
 }
 
 /* base font styles */
