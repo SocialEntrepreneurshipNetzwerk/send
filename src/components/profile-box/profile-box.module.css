@@ -27,6 +27,7 @@
 
 .flex_wrapper{
   display:flex;
+  flex-basis: 100%;
   flex-direction: column;
   justify-content: space-between;
 }
