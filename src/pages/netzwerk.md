@@ -27,16 +27,6 @@ section_1:
       description: "Die Africa GreenTec AG ist ein Social Enterpreneurship, welches mobile Solaranlagen, „Solartainer“, baut, finanziert und in Afrika betreibt. Ziel ist die Elektrifizierung und Entwicklung von ländlichen Regionen in Afrika. Bisher ist Africa GreenTec in Niger und Mali aktiv."
       email: info@africagreentec.com
       link: https://www.africagreentec.com
-section_2:
-  title: Mitglied werden
-  paragraph: "Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausfor-derungen   zeitgemäße Lösungen brauchen? Setzt Dich für einen positiven gesellschaftlichen Wandel ein? Möchtest, dass soziale Innovationen mit dem gleichen Nachdruck wie technologische Innovationen gefördert werden?
-  
-  
-  **Dann werde Teil von SEND.** Ob als Sozialunternehmer\\*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns gemeinsam. wirken.**"
-  cta:
-    label: Jetzt anmelden
-    link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
-  triangle_boxes_large:
     - image: /uploads/Das_macht_Schule.jpg
       name: Das macht Schule Förderverein e.V.
       description: Das macht Schule hilft Lehrern Praxisprojekte umzusetzen und damit Schüler stark für die Zukunft zu machen. In den Projekten übernehmen Schüler Verantwortung, erleben Teilhabe, verbessern ihre Sozial- und Handlungskompetenzen und trainieren durch Erfahrungslernen Kreativität, Kommunikation, Zusammenarbeit und kritisches Denken.
@@ -77,4 +67,13 @@ section_2:
       description: "Soziale Innovatoren braucht eine starke Stimme - TEAM U engagiert sich bei SEND, weil wir nur gemeinsam Veränderungen bewirken können"
       email: avunruh@team-u.de
       link: https://www.team-u.de
+section_2:
+  title: Mitglied werden
+  paragraph: "Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausfor-derungen   zeitgemäße Lösungen brauchen? Setzt Dich für einen positiven gesellschaftlichen Wandel ein? Möchtest, dass soziale Innovationen mit dem gleichen Nachdruck wie technologische Innovationen gefördert werden?
+  
+  
+  **Dann werde Teil von SEND.** Ob als Sozialunternehmer\\*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden Netzwerks und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns gemeinsam. wirken.**"
+  cta:
+    label: Jetzt anmelden
+    link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
 ---
