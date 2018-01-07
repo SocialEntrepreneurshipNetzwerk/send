@@ -5,7 +5,7 @@ clip: clip_article
 title: SEND - Auftaktevent am 1.Februar
 excerpt:
 image: /uploads/auftakt-minified.jpg
-date: "2018-01-05"
+date: "2018-02-01"
 category: event
 ---
 Am 01. Februar begehen   
