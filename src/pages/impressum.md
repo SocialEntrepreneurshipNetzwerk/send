@@ -21,15 +21,20 @@ section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
     label: Satzung herunterladen
-    link: http://socentnet.de/wp-content/uploads/2017/06/SEND_Satzung_170524.pdf
-section_2: 
+    link: /uploads/Satzung SEND 29.11.2017-final.pdf
+section_2:
+  title: Beitragsordnung
+  content: Lade hier unsere Beitragsordnung in der Fassung vom 19.07.2017 herunter
+  cta:
+    label: Beitragsordnung herunterladen
+    link: /uploads/SEND_Beitragsordnung_170719.pdf
+section_3: 
   title: Vorstand
   content: Markus Sauerhammer (Vorsitzender), Birgit Heilig, Norbert Kunz, Leon Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
-section_3:
+section_4:
   title: Logodesign und Corporate Design
   content: Moritz Kuhn | MOWAJA | 3D Visualisierung und Kommunikationsdesign | moritz.kuhn@mowaja.de | www.mowaja.de 
-
-section_4:
+section_5:
   title: Haftungsausschluss
 ---
 
