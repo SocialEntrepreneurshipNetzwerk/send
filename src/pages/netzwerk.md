@@ -64,7 +64,7 @@ section_1:
       link: https://www.afb-group.de
     - image: /uploads/von-Unruh.jpg
       name: TEAM U - RESTART gGmbH
-      description: "Soziale Innovatoren braucht eine starke Stimme - TEAM U engagiert sich bei SEND, weil wir nur gemeinsam Veränderungen bewirken können"
+      description: "TEAM U unterstützt UnternehmerInnen und Selbständige in Krisen beim erfolgreichen Turnaround. Mit Erfolg! Mit unserem Sozialunternehmen haben wir mehr als 14.000 Menschen beraten, Unternehmen und Arbeitsplätze gerettet und zahlreiche Insolvenzen verhindert."
       email: avunruh@team-u.de
       link: https://www.team-u.de
 section_2:
