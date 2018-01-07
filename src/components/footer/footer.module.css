@@ -1,0 +1,79 @@
+@import "../../layouts/variables.css";
+
+
+.footer{
+  width: 100%;
+  height: 342px;
+  position: fixed;
+  bottom: 0; 
+  padding: 0;
+  margin: 0; 
+}
+
+.top{
+  width: 100%;
+  height: 247px;
+  padding: 0;
+  margin: 0;  
+}
+
+.bottom{
+  width: 100%;
+  height: 95px;
+}
+
+.links{
+  margin: 80px auto;
+  width: 80%;
+  /*background: #000;*/
+}
+
+.links ul li {
+  padding: 5px 0;
+}
+
+.linkList{
+  float: right;
+  list-style: none;
+  width: 20%;
+  height: 150px;
+  /*background: #555;*/
+}
+
+.linkList li {
+  margin: 0;
+  padding: 0;
+}
+
+.linkList li a{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fdfcf4;
+}
+
+.socialNetworks{
+  float: right;
+  list-style: none;
+  width: 80px;
+  height: 150px;
+}
+
+.send_logo_negative{
+  
+}
+
+
+
+
+
+
+
+
+
