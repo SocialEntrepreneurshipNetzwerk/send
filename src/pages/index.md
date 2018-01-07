@@ -17,21 +17,24 @@ section_2:
   subtitle: Netzwerk
   paragraph: "### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? 
   
-  Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied. als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam. wirken."
+  Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam.wirken."
   cta: 
     label: Jetzt mitmachen!
     link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
   profile_boxes:
     - image: /uploads/von-Unruh.jpg
       name: Attila von Unruh
+      email: avunruh@team-u.de
       project: TEAM U — RESTART gGmbH
       description: Soziale Innovatoren brauchen eine starke Stimme – TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
     - image: /uploads/Laura_Kromminga.jpg
       name: Laura Kromminga 
+      email: laura@kromminga.org
       project: Social Finance Consulting
       description: Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen zu können
     - image: /uploads/Katja_Urbatsch.jpg
       name: Katja Urbatsch
+      email: presse@arbeiterkind.de
       project: ArbeiterKind.de
       description: Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel, Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu artikulieren und zu erfüllen.
 section_3:

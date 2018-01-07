@@ -2,7 +2,7 @@
 
 .box {
   display: flex;
-  height: 400px;
+  height: 420px;
   text-align: center;
 }
 @media (max-width:break-boxes ){
@@ -47,8 +47,16 @@
   }
 }
 
-.flex_bottom p:last-child {
+.flex_bottom p:nth-child(2) {
   font-weight: 500;
+}
+
+.flex_bottom a {
+  color: deep-blue;
+  font-size: 14px;
+  line-height: 2.14;
+  letter-spacing: 2px;
+  font-weight: 700;
 }
 
 .clip_profile{

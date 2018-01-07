@@ -32,9 +32,6 @@ export default ({ data }) => {
             <ButtonCTA color="white" label={section_2.cta.label} link={section_2.cta.link}/>
           </div>
         </section>
-        <section>
-          <TriangleBoxContainer boxes={section_2.triangle_boxes_large} size="large"/>
-        </section>
       </main>
     </div>
   );
@@ -62,13 +59,6 @@ export const NetzwerkPageQuery = graphql`
               paragraph
               cta {
                 label
-                link
-              }
-              triangle_boxes_large {
-                image
-                name
-                description
-                email
                 link
               }
             }
