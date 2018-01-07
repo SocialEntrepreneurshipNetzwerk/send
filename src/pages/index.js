@@ -97,6 +97,7 @@ export const IndexQuery = graphql`
               profile_boxes {
                 image
                 name
+                email
                 project
                 description
               }

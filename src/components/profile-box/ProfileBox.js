@@ -15,6 +15,7 @@ const ProfileBox = ( props ) => (
       <div className={styles.flex_bottom}>
         <p>{props.content.name}</p>
         <p>{props.content.project}</p>
+        <a href={`mailto:${props.content.email}`}>{props.content.email}</a>
       </div>
     </div>
   </div>
