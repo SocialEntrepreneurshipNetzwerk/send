@@ -35,7 +35,7 @@ const TopNav = () => (
         </li>*/}
         <li>
           <Link className="navbar-item" to="/positionen" activeStyle={activeStyle} className={styles.label_mobile}>
-              SocEntNet
+              SocEnt
           </Link>
           <Link className="navbar-item" to="/positionen" activeStyle={activeStyle} className={styles.label_desktop}>
               Social Entrepreneurship
