@@ -33,7 +33,7 @@ section_3:
   content: Markus Sauerhammer (Vorsitzender), Birgit Heilig, Norbert Kunz, Leon Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
 section_4:
   title: Logodesign und Corporate Design
-  content: Moritz Kuhn | MOWAJA | 3D Visualisierung und Kommunikationsdesign | moritz.kuhn@mowaja.de | www.mowaja.de 
+  content: N3XTCODER | info@n3xtcoder.org | n3xtcoder.org 
 section_5:
   title: Haftungsausschluss
 ---
