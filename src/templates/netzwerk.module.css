@@ -25,3 +25,7 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.turquoise_content div{
+  width: 100%;
+}
