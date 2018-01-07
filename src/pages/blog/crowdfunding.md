@@ -3,7 +3,7 @@ templateKey: 'article'
 path: /Crowdfunding
 clip: clip_article
 title: Unser Crowdfunding ist gestartet – am 1. Tag gleich 1/4 der ersten Schwelle erreicht
-excerpt: Citizen-centered; capacity building uplift but, technology humanitarian circular parse expose the truth. 
+excerpt:
 image: /uploads/crowdfunding.jpg
 date: "2017-09-04"
 category: news

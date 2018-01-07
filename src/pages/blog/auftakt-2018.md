@@ -3,12 +3,16 @@ templateKey: 'article'
 path: /auftakt-2018
 clip: clip_article
 title: SEND - Auftaktevent am 1.Februar
-excerpt: Humanitarian paradigm our work low-hanging fruit social intrapreneurship humanitarian social intrapreneurship. Inspire, living a fully ethical life fairness scalable deep dive.
+excerpt:
 image: /uploads/auftakt-minified.jpg
 date: "2018-01-05"
 category: event
 ---
-Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. Alle Mitglieder sind eingeladen gemeinsam mit ausgewählten Gästen die Strategie des Netzwerks zu entwickeln. In verschiedenen Workshops werden wir Positionen und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu unterschiedlichen Themen bilden. 
+Am 01. Februar begehen   
+
+wir im Forum Factory in Berlin die
+
+Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. Alle Mitglieder sind eingeladen gemeinsam mit ausgewählten Gästen die Strategie des Netzwerks zu entwickeln. In verschiedenen Workshops werden wir Positionen und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu unterschiedlichen Themen bilden. 
 Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter aller relevanten Parteien zu einem parlamentarischen Abend ein, in den Räumlichkeiten von SAP am Hackeschen Markt. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten.  
 
 **Vorläufiger Rahmen:**

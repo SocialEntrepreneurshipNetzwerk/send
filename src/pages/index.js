@@ -108,7 +108,7 @@ export const IndexQuery = graphql`
         }
     }
     allFile(filter:{relativeDirectory:{eq: "blog"}}){edges{node{name childMarkdownRemark {
-          excerpt(pruneLength: 300)
+          excerpt(pruneLength: 200)
   frontmatter {
     title
     excerpt
