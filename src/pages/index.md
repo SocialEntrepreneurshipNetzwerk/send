@@ -17,7 +17,7 @@ section_2:
   subtitle: Netzwerk
   paragraph: "### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? 
   
-  Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied. als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam. wirken."
+  Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns gemeinsam.wirken."
   cta: 
     label: Jetzt mitmachen!
     link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true

@@ -5,7 +5,7 @@ clip: clip_netzwerk
 title: Netzwerk
 section_1:
   title: Unsere Mitglieder
-  paragraph: "Unser Netzwerk zählt bereits über 140 Mitglieder: innovative Sozialunternehmen, aufstrebende Social Start Ups, engagierte Sozialunternehmer*innen,  sowie engagierte Förderpartner aus Wirtschaft und Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt wird."
+  paragraph: "Unser Netzwerk zählt bereits über 140 Mitglieder: innovative Sozialunternehmen, aufstrebende Social Start Ups, engagierte Sozialunternehmer*innen, sowie Förderpartner aus Wirtschaft und Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt wird."
   triangle_boxes_large:
     - image: /uploads/SEA_logo.png
       name: Social Entrepreneurship Akademie
