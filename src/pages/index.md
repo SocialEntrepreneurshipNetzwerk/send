@@ -2,12 +2,12 @@
 path: /
 title: Home
 tagline: gemeinsam. wirken.
-tagline_large: "**Social Entrepreneurship  Netzwerk Deutschland e.V.** Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland."
-paragraph: Wir wollen in einer Gesellschaft leben,  in der alle Menschen vom Fortschritt profitieren. Dafür vernetzen wir den Social Entrepreneurship Sektor und geben ihm eine Stimme.
-section_1: 
+tagline_large: "**Social Entrepreneurship Netzwerk Deutschland e.V.** Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland."
+paragraph: Wir wollen in einer Gesellschaft leben, in der alle Menschen vom Fortschritt profitieren. Dafür vernetzen wir den Social Entrepreneurship Sektor und geben ihm eine Stimme.
+section_1:
   title: Was wir tun
   paragraph: "Das **Social Entrepreneurship Netzwerk Deutschland** ist die Anlaufstelle für das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme!"
-  boxes: 
+  boxes:
     - description: "**SEND vertritt die Interessen  von Social Entrepreneurship in Deutschland, um die Rahmenbedingungen für Sozialunternehmer*innen zu verbessern.**"
     - description: "**SEND fördert die Sichtbar-keit von Sozial-unternehmer*innen und ihren Lösungen in der Öffentlichkeit.**"
     - description: "**SEND setzt auf Vernetzung, Bildung und Qualifizierung über Fachgruppen, Workshops und Events.**"
@@ -25,7 +25,7 @@ section_2:
     - image: /uploads/von-Unruh.jpg
       name: Attila von Unruh
       project: TEAM U — RESTART gGmbH
-      description: Soziale Innovatoren brauchen eine starke Stimme –  TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
+      description: Soziale Innovatoren brauchen eine starke Stimme – TEAM U engagiert sich bei SEND, weil wir nur  gemeinsam Veränderungen bewirken können
     - image: /uploads/Laura_Kromminga.jpg
       name: Laura Kromminga 
       project: Social Finance Consulting
