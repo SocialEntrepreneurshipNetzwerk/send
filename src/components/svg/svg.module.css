@@ -42,25 +42,3 @@ _:-ms-lang(x), .triangle { opacity: 0.6; }
   margin-bottom: 40px;
   margin-top: -30px;
 }
-
-.facebook {
-  height: iconSize;
-  width: iconSize;
-}
-
-.facebook path {
-  fill: paper;
-}
-.facebook:hover path {
-  fill: unset;
-}
-
-.facebook rect {
-  fill: none;
-  rx: 5px;
-  ry: 5px;
-}
-
-.facebook:hover rect {
-  fill: paper;
-}

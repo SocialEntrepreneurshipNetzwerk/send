@@ -4,6 +4,8 @@ import logo from '../../img/logo-negative.svg';
 import Facebook from '../svg/icons_logos/Facebook.js';
 import Twitter from '../svg/icons_logos/Twitter.js';
 import Youtube from '../svg/icons_logos/Youtube.js';
+import BMW from '../svg/icons_logos/BMW.js';
+import BVDS from '../svg/icons_logos/BVDS.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
@@ -26,7 +28,8 @@ const Footer = () => (
         <li><Link to="/impressum">Impressum</Link></li>
       </ul>
     </div>
-
+    <BMW/>
+    <BVDS/>
   </footer>
 );
 

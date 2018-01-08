@@ -38,3 +38,26 @@
 .youtube:hover polygon {
   fill: #FDFCF4;
 }
+
+.bmw {
+  position: absolute;
+  bottom: 0;
+  width:140px;
+  fill: grey;
+}
+
+.bmw:hover {
+  fill: paper;
+}
+
+.bvds{
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+  width:140px;
+}
+
+.bvds:not(:hover) stop , .bvds:not(:hover) path {
+  stop-color: grey;
+  fill: grey;
+}
