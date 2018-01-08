@@ -1,0 +1,24 @@
+@import "../../../layouts/variables.css";
+
+
+.facebook {
+  height: iconSize;
+  width: iconSize;
+}
+
+.facebook path {
+  fill: paper;
+}
+.facebook:hover path {
+  fill: #214CDB;
+}
+
+.facebook rect {
+  fill: none;
+  rx: 5px;
+  ry: 5px;
+}
+
+.facebook:hover rect {
+  fill: paper;
+}

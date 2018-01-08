@@ -1,7 +1,7 @@
 import React from 'react';
 import BackgroundFooter from '../svg/BackgroundFooter.js';
 import logo from '../../img/logo-negative.svg';
-import Facebook from '../svg/Facebook.js';
+import Facebook from '../svg/socialIcons/Facebook.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
