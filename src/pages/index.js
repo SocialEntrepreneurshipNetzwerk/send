@@ -61,7 +61,7 @@ export default class IndexPage extends React.Component {
             <div className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></div>
             <ButtonCTA color="active" label={section_2.cta.label} link={section_2.cta.link}/>
           </section>
-          <section>
+          <section id="aktuelles">
             <h1><span>{section_3.title}</span></h1>
             <TriangleBoxContainer boxes={newsEdges} article={true}/>
           </section>

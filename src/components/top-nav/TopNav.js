@@ -46,6 +46,11 @@ const TopNav = () => (
               Netzwerk
           </Link>
         </li>
+        <li>
+          <Link className="navbar-item" to="/#aktuelles" activeStyle={activeStyle} className={styles.no_landscape}>
+              Aktuelles
+          </Link>
+        </li>
       </ul>
     </nav>
   </div>

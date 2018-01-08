@@ -11,6 +11,11 @@
   font-size: 16px;
   z-index: 10;
 }
+@media (max-width: break-mobile){
+  .nav{
+    height: 100px;
+  }
+}
 
 .figure_desktop {
   display: inline-block;
@@ -99,5 +104,11 @@
 @media (min-width: break-main-padding){
   .label_mobile {
     display: none; 
+  }
+}
+
+@media (max-width: break-main-padding) and (orientation: landscape){
+  .no_landscape{
+     display:none;
   }
 }
