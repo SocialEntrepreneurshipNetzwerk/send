@@ -28,7 +28,7 @@
   padding: 10px 0;
 }
 
-.footer ul li a {
+.footer ul li a, .footer section {
   margin: 0;
   padding: 0;
   font-size: 14px;
@@ -45,4 +45,26 @@
   .linkList {
     display:none;
   }
+}
+
+.footer section {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.footer section>div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer section p {
+  margin: 0 auto;
+  color: grey;
+}
+
+.footer section svg {
+  margin: 20px 40px;
 }

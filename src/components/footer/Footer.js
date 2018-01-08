@@ -28,8 +28,13 @@ const Footer = () => (
         <li><Link to="/impressum">Impressum</Link></li>
       </ul>
     </div>
-    <BMW/>
-    <BVDS/>
+    <section>
+      <p>Kooperationspartner und Premiumförderer</p>
+      <div>
+        <BVDS/>
+        <BMW/>
+      </div>
+    </section>
   </footer>
 );
 

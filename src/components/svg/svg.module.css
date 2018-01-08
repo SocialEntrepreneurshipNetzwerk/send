@@ -15,6 +15,10 @@
   z-index:-1;
 }
 
+.lowerGroup{
+  transform: scaleY(1.5) translate(1px, 140px);
+}
+
 .triangle {
   position:absolute;
   top: -15px;
