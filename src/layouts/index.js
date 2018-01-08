@@ -26,9 +26,9 @@ const Footer = () => {
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
-    <TopNav />
     <StickyCTA/>
     <div>{children()}</div>
+    <TopNav />
     <Footer/>
   </div>
 );
