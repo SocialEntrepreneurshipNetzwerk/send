@@ -3,6 +3,7 @@ import BackgroundFooter from '../svg/BackgroundFooter.js';
 import logo from '../../img/logo-negative.svg';
 import Facebook from '../svg/socialIcons/Facebook.js';
 import Twitter from '../svg/socialIcons/Twitter.js';
+import Youtube from '../svg/socialIcons/Youtube.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
@@ -17,7 +18,7 @@ const Footer = () => (
       <ul className={styles.socialNetworks}>
         <li><Link to="/positionen"><Facebook /></Link></li>
         <li><Link to="/positionen"><Twitter /></Link></li>
-        <li><Link to="/positionen"><Facebook /></Link></li>
+        <li><Link to="/positionen"><Youtube /></Link></li>
       </ul>
       <ul className={styles.linkList}>
         <li><Link to="/positionen">Social Entrepreneurship</Link></li>

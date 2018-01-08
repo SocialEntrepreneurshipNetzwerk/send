@@ -1,12 +1,12 @@
 @import "../../../layouts/variables.css";
 
 
-.facebook, .twitter {
+.facebook, .twitter, .youtube {
   height: iconSize;
   width: iconSize;
 }
 
-.facebook path, .twitter path {
+.facebook path, .twitter path, .youtube path {
   fill: paper;
 }
 .facebook:hover path {
@@ -25,4 +25,16 @@
 
 .twitter:hover path {
   fill: unset;
+}
+
+.youtube polygon {
+  fill: #00027F;
+}
+
+.youtube:hover path {
+  fill: #FF0000;
+}
+
+.youtube:hover polygon {
+  fill: #FDFCF4;
 }
