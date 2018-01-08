@@ -11,7 +11,8 @@ const TopImage = ( props ) => {
   return (
     <div className={imageStyle} style={{
       backgroundImage: `url(${props.imageSource})`,
-      clipPath: `url(#${props.clip})`
+      clipPath: `url(#${props.clip})`,
+      WebkitClipPath: `url(#${props.clip})`
     }}>
       <ClipPositionen/>
       <ClipNetzwerk/>

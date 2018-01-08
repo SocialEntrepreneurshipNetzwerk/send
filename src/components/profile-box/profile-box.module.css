@@ -61,10 +61,12 @@
 
 .clip_profile{
   display: inline-block;
+  position:relative;
   height: 120px;
   width: 124px;
   background-size: cover;
   clip-path: url(#clip_profile);
+  z-index:9;
 }
 
 /* Internet Explorer 10+, Microsoft Edge Browser HACK */

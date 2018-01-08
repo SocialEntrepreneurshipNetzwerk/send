@@ -8,12 +8,9 @@ image: /uploads/auftakt-minified.jpg
 date: "2018-01-05"
 category: event
 ---
-Am 01. Februar begehen   
+Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. An diesem Tag wollen wir erstmalig die Gemeinschaft von Social Entrepreneurs in Deutschland zusammenbringen, uns vernetzen und gemeinsame Projekte angehen.  In verschiedenen Workshops werden wir Strategien und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu Euren Themen bilden. 
 
-wir im Forum Factory in Berlin die
-
-Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. Alle Mitglieder sind eingeladen gemeinsam mit ausgewählten Gästen die Strategie des Netzwerks zu entwickeln. In verschiedenen Workshops werden wir Positionen und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu unterschiedlichen Themen bilden. 
-Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter aller relevanten Parteien zu einem parlamentarischen Abend ein, in den Räumlichkeiten von SAP am Hackeschen Markt. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten.  
+Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter aller relevanten Parteien zu einem parlamentarischen Abend ein, in den Räumlichkeiten von SAP am Hackeschen Markt. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten. 
 
 **Vorläufiger Rahmen:**
 
@@ -22,14 +19,15 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 - 10:30: Workshops / Strategieentwicklung SEND
 - 12:30: Mittagspause
 - 13:30: Impuls
-- 14:00:  Workshops / Barcamp Prinzip 
+- 14:00:  Barcamp 
 - 16:00: Präsentation der Ergebnisse
 - 17:00: Ausblick / nächste Schritte
 
-*Übergang zur Abendveranstaltung bei SAP am Hackeschen Markt*
+*Übergang zur Abendveranstaltung bei SAP in Mitte*
 
-- 18:00: Einlass 
-- 18:30: Begrüßung und Keynote
+- 18:00: Einlass 
+- 18:30: Begrüßung 
+- 18:40: Keynote Götz Werner (angefragt)
 - 19:00: Politische Diskussionsrunde mit Vertretern der relevanten Parteien
 - ab 20:00: Empfang und Ausklang
 
