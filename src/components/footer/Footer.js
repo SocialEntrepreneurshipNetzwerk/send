@@ -31,8 +31,8 @@ const Footer = () => (
     <section>
       <p>Kooperationspartner und Premiumförderer</p>
       <div>
-        <BVDS/>
-        <BMW/>
+        <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
+        <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
       </div>
     </section>
   </footer>
