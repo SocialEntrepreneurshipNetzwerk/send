@@ -1,9 +1,9 @@
 import React from 'react';
 import BackgroundFooter from '../svg/BackgroundFooter.js';
 import logo from '../../img/logo-negative.svg';
-import Facebook from '../svg/socialIcons/Facebook.js';
-import Twitter from '../svg/socialIcons/Twitter.js';
-import Youtube from '../svg/socialIcons/Youtube.js';
+import Facebook from '../svg/icons_logos/Facebook.js';
+import Twitter from '../svg/icons_logos/Twitter.js';
+import Youtube from '../svg/icons_logos/Youtube.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
