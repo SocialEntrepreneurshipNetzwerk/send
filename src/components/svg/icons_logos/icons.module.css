@@ -1,0 +1,58 @@
+@import "../../../layouts/variables.css";
+
+
+.facebook, .twitter, .youtube {
+  height: iconSize;
+  width: iconSize;
+}
+
+.facebook path, .twitter path, .youtube path {
+  fill: paper;
+}
+.facebook:hover path {
+  fill: #214CDB;
+}
+
+.facebook rect {
+  fill: none;
+  rx: 5px;
+  ry: 5px;
+}
+
+.facebook:hover rect {
+  fill: paper;
+}
+
+.twitter:hover path {
+  fill: unset;
+}
+
+.youtube polygon {
+  fill: #00027F;
+}
+
+.youtube:hover path {
+  fill: #FF0000;
+}
+
+.youtube:hover polygon {
+  fill: #FDFCF4;
+}
+
+.bmw {
+  width:140px;
+  fill: grey;
+}
+
+.bmw:hover {
+  fill: paper;
+}
+
+.bvds{
+  width:140px;
+}
+
+.bvds:not(:hover) stop , .bvds:not(:hover) path {
+  stop-color: grey;
+  fill: grey;
+}

@@ -7,7 +7,11 @@
 @value deep-see-green: #05ffa9;
 @value white: #fff;
 @value black: #000;
+@value grey: #91918b;
 
+/*sizes*/
+@value iconSize: 16px;
+@value maxContainerWidth: 1800px;
 /* mobile breakpoints and values*/
 
 @value break-boxes: 1200px;

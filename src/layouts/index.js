@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import TopNav from '../components/top-nav/TopNav';
 import StickyCTA from '../components/cta/StickyCTA';
+import Footer from '../components/footer/Footer';
 import './global.css';
 
 
@@ -12,7 +13,7 @@ const helmet = () => (
   </helmet>
 );
 
-
+/*
 const Footer = () => {
   const style = {
     backgroundColor: '#3daef2',
@@ -20,6 +21,7 @@ const Footer = () => {
   };
   return <footer style={style}>FOOTER PLACEHOLDER</footer>;
 };
+*/
 
 const TemplateWrapper = ({ children }) => (
   <div>
@@ -27,6 +29,7 @@ const TemplateWrapper = ({ children }) => (
     <TopNav />
     <StickyCTA/>
     <div>{children()}</div>
+    <Footer/>
   </div>
 );
 

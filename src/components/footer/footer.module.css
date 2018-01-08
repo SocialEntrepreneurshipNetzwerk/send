@@ -1,0 +1,87 @@
+@import "../../layouts/variables.css";
+
+
+.footer{
+  position: relative;
+  width: 99vw;
+  height: 342px;
+  overflow: hidden;
+}
+
+.footer div {
+  padding: 40px auto;
+}
+
+.footer figure img {
+  width: 160px;
+  float: left;
+  margin: 80px;
+}
+@media (max-width: break-mobile){
+  .footer figure img {
+    width: 120px;
+    margin: 40px;
+    margin-top: 100px;
+  }
+}
+
+.footer ul {
+  padding: 60px;
+  float: right;
+}
+
+.footer ul:last-child {
+  padding-right: 5%;
+  float: right;
+}
+
+.footer ul li{
+  list-style: none;
+  padding: 10px 0;
+}
+
+.footer ul li a, .footer section {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.29;
+  color: paper;
+}
+
+.footer ul li:hover a {
+  color: deep-see-green;
+}
+
+@media (max-width: break-mobile){
+  .linkList {
+    display:none;
+  }
+}
+
+.footer section {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.footer section>div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer section p {
+  margin: 0 auto;
+  color: grey;
+}
+
+.footer section svg {
+  margin: 20px 40px;
+}
+@media (max-width: break-mobile){
+  .footer section svg {
+    margin: 20px;
+  }
+}

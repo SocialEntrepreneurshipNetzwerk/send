@@ -8,6 +8,17 @@
   z-index:9
 }
 
+.background_footer{
+  position: absolute;
+  width: 99.5vw;
+  height: 100%;
+  z-index:-1;
+}
+
+.lowerGroup{
+  transform: scaleY(1.5) translate(1px, 140px);
+}
+
 .triangle {
   position:absolute;
   top: -15px;
