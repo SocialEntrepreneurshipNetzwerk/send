@@ -2,6 +2,7 @@ import React from 'react';
 import BackgroundFooter from '../svg/BackgroundFooter.js';
 import logo from '../../img/logo-negative.svg';
 import Facebook from '../svg/socialIcons/Facebook.js';
+import Twitter from '../svg/socialIcons/Twitter.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
@@ -15,7 +16,7 @@ const Footer = () => (
       </figure>
       <ul className={styles.socialNetworks}>
         <li><Link to="/positionen"><Facebook /></Link></li>
-        <li><Link to="/positionen"><Facebook /></Link></li>
+        <li><Link to="/positionen"><Twitter /></Link></li>
         <li><Link to="/positionen"><Facebook /></Link></li>
       </ul>
       <ul className={styles.linkList}>

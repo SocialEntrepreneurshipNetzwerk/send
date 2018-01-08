@@ -1,12 +1,12 @@
 @import "../../../layouts/variables.css";
 
 
-.facebook {
+.facebook, .twitter {
   height: iconSize;
   width: iconSize;
 }
 
-.facebook path {
+.facebook path, .twitter path {
   fill: paper;
 }
 .facebook:hover path {
@@ -21,4 +21,8 @@
 
 .facebook:hover rect {
   fill: paper;
+}
+
+.twitter:hover path {
+  fill: unset;
 }
