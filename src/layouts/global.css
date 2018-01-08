@@ -32,7 +32,6 @@
   margin: 0 auto;
   max-width: maxContainerWidth;
   padding: 0 200px;
-  overflow:hidden;
 }
 
 @media (max-width: break-main-padding){
