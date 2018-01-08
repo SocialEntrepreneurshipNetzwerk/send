@@ -16,9 +16,9 @@ const Footer = () => (
         <img src={logo} alt="Send" />
       </figure>
       <ul className={styles.socialNetworks}>
-        <li><Link to="/positionen"><Facebook /></Link></li>
-        <li><Link to="/positionen"><Twitter /></Link></li>
-        <li><Link to="/positionen"><Youtube /></Link></li>
+        <li><a href="https://www.facebook.com/SocEntNetDe/" target="_blank"><Facebook /></a></li>
+        <li><a href="https://twitter.com/send_ev" target="_blank"><Twitter /></a></li>
+        <li><a href="https://www.youtube.com/channel/UCnWi-MJEheSG_n48VlBCJoQ/videos" target="_blank"><Youtube /></a></li>
       </ul>
       <ul className={styles.linkList}>
         <li><Link to="/positionen">Social Entrepreneurship</Link></li>
