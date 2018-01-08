@@ -8,6 +8,9 @@
 @value white: #fff;
 @value black: #000;
 
+/*sizes*/
+@value iconSize: 16px;
+@value maxContainerWidth: 1800px;
 /* mobile breakpoints and values*/
 
 @value break-boxes: 1200px;

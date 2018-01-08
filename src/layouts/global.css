@@ -30,7 +30,7 @@
   display: block;
   width: 100%;
   margin: 0 auto;
-  max-width: 1800px;
+  max-width: maxContainerWidth;
   padding: 0 200px;
 }
 

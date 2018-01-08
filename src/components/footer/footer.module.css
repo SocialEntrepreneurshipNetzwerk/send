@@ -2,78 +2,47 @@
 
 
 .footer{
-  width: 100%;
+  position: relative;
+  width: 99.5vw;
   height: 342px;
-  position: fixed;
-  bottom: 0; 
-  padding: 0;
-  margin: 0; 
 }
 
-.top{
-  width: 100%;
-  height: 247px;
-  padding: 0;
-  margin: 0;  
+.footer div {
+  padding: 40px auto;
 }
 
-.bottom{
-  width: 100%;
-  height: 95px;
+.footer figure img {
+  width: 160px;
+  float: left;
+  margin: 80px;
 }
 
-.links{
-  margin: 80px auto;
-  width: 80%;
-  /*background: #000;*/
-}
 
-.links ul li {
-  padding: 5px 0;
-}
-
-.linkList{
+.footer ul {
+  padding: 60px 5%;
   float: right;
+}
+
+.footer ul li{
   list-style: none;
-  width: 20%;
-  height: 150px;
-  /*background: #555;*/
+  padding: 10px 0;
 }
 
-.linkList li {
-  margin: 0;
-  padding: 0;
-}
-
-.linkList li a{
+.footer ul li a {
   margin: 0;
   padding: 0;
   font-size: 14px;
   font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
   line-height: 1.29;
-  letter-spacing: normal;
-  text-align: left;
-  color: #fdfcf4;
+  color: paper;
 }
 
-.socialNetworks{
-  float: right;
-  list-style: none;
-  width: 80px;
-  height: 150px;
+.footer ul li:hover a {
+  color: deep-see-green;
 }
 
-.send_logo_negative{
-  
+@media (max-width: break-mobile){
+  .linkList {
+    display:none;
+  }
 }
-
-
-
-
-
-
-
-
-

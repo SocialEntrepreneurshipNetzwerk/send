@@ -8,6 +8,13 @@
   z-index:9
 }
 
+.background_footer{
+  position: absolute;
+  width: 99.5vw;
+  height: 100%;
+  z-index:-1;
+}
+
 .triangle {
   position:absolute;
   top: -15px;
@@ -34,4 +41,26 @@ _:-ms-lang(x), .triangle { opacity: 0.6; }
   margin: 0 auto;
   margin-bottom: 40px;
   margin-top: -30px;
+}
+
+.facebook {
+  height: iconSize;
+  width: iconSize;
+}
+
+.facebook path {
+  fill: paper;
+}
+.facebook:hover path {
+  fill: unset;
+}
+
+.facebook rect {
+  fill: none;
+  rx: 5px;
+  ry: 5px;
+}
+
+.facebook:hover rect {
+  fill: paper;
 }
