@@ -3,8 +3,9 @@
 
 .footer{
   position: relative;
-  width: 99.5vw;
+  width: 99vw;
   height: 342px;
+  overflow: hidden;
 }
 
 .footer div {
@@ -16,10 +17,21 @@
   float: left;
   margin: 80px;
 }
-
+@media (max-width: break-mobile){
+  .footer figure img {
+    width: 120px;
+    margin: 40px;
+    margin-top: 100px;
+  }
+}
 
 .footer ul {
-  padding: 60px 5%;
+  padding: 60px;
+  float: right;
+}
+
+.footer ul:last-child {
+  padding-right: 5%;
   float: right;
 }
 
@@ -67,4 +79,9 @@
 
 .footer section svg {
   margin: 20px 40px;
+}
+@media (max-width: break-mobile){
+  .footer section svg {
+    margin: 20px;
+  }
 }
