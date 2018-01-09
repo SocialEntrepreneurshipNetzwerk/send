@@ -5,7 +5,7 @@ clip: clip_article
 title: SEND - Auftaktevent am 1.Februar
 excerpt:
 image: /uploads/auftakt-minified.jpg
-date: "2017-12-12"
+date: "2018-01-05"
 category: event
 ---
 Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. An diesem Tag wollen wir erstmalig die Gemeinschaft von Social Entrepreneurs in Deutschland zusammenbringen, uns vernetzen und gemeinsame Projekte angehen.  In verschiedenen Workshops werden wir Strategien und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu Euren Themen bilden. 
