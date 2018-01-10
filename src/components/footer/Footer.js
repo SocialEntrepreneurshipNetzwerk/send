@@ -24,7 +24,7 @@ const Footer = () => (
       </ul>
       <ul className={styles.linkList}>
         <li><Link to="/positionen">Social Entrepreneurship</Link></li>
-        <li><Link to="/positionen">Netzwerk</Link></li>
+        <li><Link to="/netzwerk">Netzwerk</Link></li>
         <li><Link to="/impressum">Impressum</Link></li>
       </ul>
     </div>

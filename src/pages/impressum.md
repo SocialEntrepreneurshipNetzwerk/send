@@ -8,7 +8,7 @@ address: 'Social Entrepreneurship Netzwerk Deutschland e. V.
 c/o Bundesverband Deutsche Startups e. V. 
 
 
-im Haus der Bundesverbandndespressekonferenz 
+im Haus der Bundespressekonferenz 
 
 
 Schiffbauerdamm 40 
