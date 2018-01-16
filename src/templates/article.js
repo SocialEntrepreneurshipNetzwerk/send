@@ -34,7 +34,7 @@ export const ArticlePageQuery = graphql`
             clip
             title
             image
-            date (formatString: "DD MMMM, YYYY")
+            date (formatString: "DD MM, YYYY")
             category
         }
         html
