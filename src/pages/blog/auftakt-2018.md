@@ -1,11 +1,14 @@
 ---
-templateKey: 'article'
 path: /auftakt-2018
+templateKey: article
 clip: clip_article
 title: SEND - Auftaktevent am 1.Februar
-excerpt:
+excerpt: >-
+  Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung
+  des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. An
+  diesem Tag wollen wir...
 image: /uploads/auftakt-minified.jpg
-date: "2018-01-05"
+date: '2018-01-05'
 category: event
 ---
 Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. 
