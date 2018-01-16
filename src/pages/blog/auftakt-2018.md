@@ -17,7 +17,7 @@ Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung d
 
 An diesem Tag wollen wir erstmalig die Gemeinschaft von Social Entrepreneurs in Deutschland zusammenbringen, uns vernetzen und gemeinsame Projekte angehen.  In verschiedenen Workshops werden wir Strategien und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu Euren Themen bilden. 
 
-Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter verschiedener Parteien zu einem parlamentarischen Abend zum Thema Social Entrepreneurship ein, in den Räumlichkeiten von SAP am Hackeschen Markt. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten. 
+Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter verschiedener Parteien zu einem parlamentarischen Abend zum Thema Social Entrepreneurship ein,  im SAP Casino, [Rosenthaler Straße 30](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g) in Berlin-Mitte. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten. 
 
 **Vorläufiger Rahmen:**
 
