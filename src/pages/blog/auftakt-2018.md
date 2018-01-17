@@ -26,7 +26,7 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 * 10:30: Workshops / Strategieentwicklung SEND
 * 12:30: Mittagspause
 * 13:30: Impuls
-* 14:00:  Barcamp 
+* 14:00: Barcamp 
 * 16:00: Präsentation der Ergebnisse
 * 17:00: Ausblick / nächste Schritte
 
@@ -38,9 +38,9 @@ _Übergang zur Abendveranstaltung im SAP Casino,_[_ Rosenthaler Straße 30_](htt
 * 19:00: Politische Diskussionsrunde mit Vertretern verschiedener Parteien
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
   * MdB Dieter Janecek, Bündnis 90/die Grünen
-  * MdB Jimmy Schulz, FDP (angefragt)
+  * Mdb Michael Theurer, Stellvertretender Vorsitzender der FDP
   * MdB Dr. Andreas Lenz, CSU (angefragt)
-  * MdB Anke Domscheit Berg, Die Linke (angefragt)
+  * MdB Anke Domscheit Berg, Die Linke
 * ab 20:00: Empfang und Ausklang
 
 Bis zum 24.01. könnt ihr euch [HIER](https://www.eventbrite.com/e/send-auftaktevent-tickets-41754325311) für die Tagesveranstaltung anmelden. Für den parlamentarischen Abend meldet Euch bitte [HIER](https://www.eventbrite.de/e/politischer-dialog-zum-thema-social-entrepreneurship-tickets-42017476403?utm_term=eventurl_text) an. Alle Mitglieder erhalten einen Zugangscode für die kostenlose Registrierung (bitte meldet Euch bei [Katrin](mailto:katrin.elsemann@send-ev.de), falls ihr keinen Zugangscode bekommen habt oder noch schnell Mitglied werden wollt)
