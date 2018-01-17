@@ -26,7 +26,7 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 * 10:30: Workshops / Strategieentwicklung SEND
 * 12:30: Mittagspause
 * 13:30: Impuls
-* 14:00:  Barcamp 
+* 14:00: Barcamp 
 * 16:00: Präsentation der Ergebnisse
 * 17:00: Ausblick / nächste Schritte
 
