@@ -40,7 +40,7 @@ _Übergang zur Abendveranstaltung im SAP Casino,_[_ Rosenthaler Straße 30_](htt
   * MdB Dieter Janecek, Bündnis 90/die Grünen
   * MdB Jimmy Schulz, FDP (angefragt)
   * MdB Dr. Andreas Lenz, CSU (angefragt)
-  * MdB Anke Domscheit Berg, Die Linke (angefragt)
+  * MdB Anke Domscheit Berg, Die Linke
 * ab 20:00: Empfang und Ausklang
 
 Bis zum 24.01. könnt ihr euch [HIER](https://www.eventbrite.com/e/send-auftaktevent-tickets-41754325311) für die Tagesveranstaltung anmelden. Für den parlamentarischen Abend meldet Euch bitte [HIER](https://www.eventbrite.de/e/politischer-dialog-zum-thema-social-entrepreneurship-tickets-42017476403?utm_term=eventurl_text) an. Alle Mitglieder erhalten einen Zugangscode für die kostenlose Registrierung (bitte meldet Euch bei [Katrin](mailto:katrin.elsemann@send-ev.de), falls ihr keinen Zugangscode bekommen habt oder noch schnell Mitglied werden wollt)
