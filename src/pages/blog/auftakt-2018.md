@@ -39,7 +39,7 @@ _Übergang zur Abendveranstaltung im SAP Casino,_[_ Rosenthaler Straße 30_](htt
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
   * MdB Dieter Janecek, Bündnis 90/die Grünen
   * Mdb Michael Theurer, Stellvertretender Vorsitzender der FDP Bundestagsfraktion
-  * MdB Dr. Andreas Lenz, CSU (angefragt)
+  * MdB Dr. Andreas Lenz, CSU 
   * MdB Anke Domscheit Berg, Die Linke
 * ab 20:00: Empfang und Ausklang
 
