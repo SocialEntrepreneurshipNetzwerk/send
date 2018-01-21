@@ -38,7 +38,7 @@ _Übergang zur Abendveranstaltung im SAP Berlin,_[_ Rosenthaler Straße 30_](htt
 * 19:00: Politische Diskussionsrunde mit Vertretern verschiedener Parteien
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
   * MdB Dieter Janecek, Bündnis 90/die Grünen
-  * Mdb Michael Theurer, Stellvertretender Vorsitzender der FDP Bundestagsfraktion
+  * MdB Michael Theurer, Stellvertretender Vorsitzender der FDP Bundestagsfraktion
   * MdB Dr. Andreas Lenz, CSU 
   * MdB Anke Domscheit Berg, Die Linke
 * ab 20:00: Empfang und Ausklang
