@@ -33,7 +33,7 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 _Übergang zur Abendveranstaltung im SAP Berlin,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
 
 * 18:00: Einlass 
-* 18:30: Begrüßung 
+* 18:30: Begrüßung durch Martin Heinig, COO of SAP´s Innovation Center Network & SAP Labs und Markus Sauerhammer, Vorsitzender SEND e.V.
 * 18:40: Keynote Anke Odrig,  Gründerin [Little Bird](www.little-bird.de)
 * 19:00: Politische Diskussionsrunde mit Vertretern verschiedener Parteien
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
