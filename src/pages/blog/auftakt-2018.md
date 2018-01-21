@@ -30,7 +30,7 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 * 16:00: Präsentation der Ergebnisse
 * 17:00: Ausblick / nächste Schritte
 
-_Übergang zur Abendveranstaltung im SAP Casino,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
+_Übergang zur Abendveranstaltung im SAP Berlin,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
 
 * 18:00: Einlass 
 * 18:30: Begrüßung 
