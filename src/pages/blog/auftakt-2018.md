@@ -17,7 +17,7 @@ Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung d
 
 An diesem Tag wollen wir erstmalig die Gemeinschaft von Social Entrepreneurs in Deutschland zusammenbringen, uns vernetzen und gemeinsame Projekte angehen.  In verschiedenen Workshops werden wir Strategien und Aktivitäten in relevanten Bereichen wie z.B. Finanzierung, Lobbyarbeit, Kommunikation etc. entwickeln sowie konkrete Arbeitsgruppen zu Euren Themen bilden. 
 
-Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter verschiedener Parteien zu einem parlamentarischen Abend zum Thema Social Entrepreneurship ein,  im SAP Casino, [Rosenthaler Straße 30](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g) in Berlin-Mitte. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten. 
+Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter verschiedener Parteien zu einem parlamentarischen Abend zum Thema Social Entrepreneurship ein,  im SAP Berlin, [Rosenthaler Straße 30](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g) in Berlin-Mitte. Nach den Wahlprüfsteinen zum Thema Social Entrepreneurship ist das die Gelegenheit für uns, mit der Politik in direkten Dialog zu treten. 
 
 **Vorläufiger Rahmen:**
 
@@ -30,15 +30,15 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Start Ups Vertreter 
 * 16:00: Präsentation der Ergebnisse
 * 17:00: Ausblick / nächste Schritte
 
-_Übergang zur Abendveranstaltung im SAP Casino,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
+_Übergang zur Abendveranstaltung im SAP Berlin,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
 
 * 18:00: Einlass 
-* 18:30: Begrüßung 
+* 18:30: Begrüßung durch Martin Heinig, COO of SAP´s Innovation Center Network & SAP Labs und Markus Sauerhammer, Vorsitzender SEND e.V.
 * 18:40: Keynote Anke Odrig,  Gründerin [Little Bird](www.little-bird.de)
 * 19:00: Politische Diskussionsrunde mit Vertretern verschiedener Parteien
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
   * MdB Dieter Janecek, Bündnis 90/die Grünen
-  * Mdb Michael Theurer, Stellvertretender Vorsitzender der FDP Bundestagsfraktion
+  * MdB Michael Theurer, Stellvertretender Vorsitzender der FDP Bundestagsfraktion
   * MdB Dr. Andreas Lenz, CSU 
   * MdB Anke Domscheit Berg, Die Linke
 * ab 20:00: Empfang und Ausklang
