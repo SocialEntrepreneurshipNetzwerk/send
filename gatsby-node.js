@@ -1,7 +1,17 @@
 const path = require( 'path' );
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
-  const { createPage } = boundActionCreators;
+  const { createPage, createRedirect } = boundActionCreators;
+
+  const homePath = `/`
+
+  createRedirect({
+    fromPath: `/page2`,
+    isPermanent: true,
+    toPath: `/`
+  })
+
+
   return graphql( `
     {
       allMarkdownRemark {
