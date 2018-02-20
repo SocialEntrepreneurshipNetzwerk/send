@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: n3xtcoder/send
-  branch: r5-jenn-imprint-fields
+  branch: content
 
 media_folder: static/uploads
 public_folder: /uploads
