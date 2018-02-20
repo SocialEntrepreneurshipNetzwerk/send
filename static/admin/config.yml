@@ -117,8 +117,8 @@ collections:
               ]}
             ]}
       - file: "src/pages/impressum.md"
-        label: "Positionen"
-        name: "positionen"
+        label: "Impressum"
+        name: "impressum"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
           - {label: "Path", name: "path", widget: "hidden"}
