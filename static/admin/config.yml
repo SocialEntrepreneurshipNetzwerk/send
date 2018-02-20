@@ -122,7 +122,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
           - {label: "Path", name: "path", widget: "hidden"}
-          - {label: "Adress", name: "adress", widget: "markdown"}
+          - {label: "Address", name: "address", widget: "markdown"}
           - {label: "Email", name: "email", widget: "string"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
