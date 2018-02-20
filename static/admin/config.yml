@@ -3,6 +3,8 @@ backend:
   repo: n3xtcoder/send
   branch: content
 
+publish_mode: editorial_workflow
+
 media_folder: static/uploads
 public_folder: /uploads
 
