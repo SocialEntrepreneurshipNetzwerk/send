@@ -2,7 +2,7 @@ backend:
   name: github
   repo: n3xtcoder/send
   branch: content
-  base_url: https://send-auth.herokuapp.com/
+  base_url: https://send-auth.herokuapp.com
 
 media_folder: static/uploads
 public_folder: /uploads
