@@ -2,6 +2,7 @@ backend:
   name: github
   repo: n3xtcoder/send
   branch: content
+  base_url: https://send-auth.herokuapp.com
 
 media_folder: static/uploads
 public_folder: /uploads
@@ -116,3 +117,40 @@ collections:
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
             ]}
+      - file: "src/pages/impressum.md"
+        label: "Impressum"
+        name: "impressum"
+        fields:
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Path", name: "path", widget: "hidden"}
+          - {label: "Address", name: "address", widget: "markdown"}
+          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "content", widget: "text"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]},
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "content", widget: "text"},
+              {label: "Button", name: "cta", widget: "object", fields: [
+                {label: "Label", name: "label", widget: "string"},
+                {label: "Link", name: "link", widget: "string"}
+              ]}
+            ]}
+          - {label: "Section 3", name: "section_3", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "content", widget: "text"}
+            ]}
+          - {label: "Section 4", name: "section_4", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "content", widget: "text"}
+            ]}
+          - {label: "Section 5", name: "section_5", widget: "object", fields: [ 
+              {label: "Title", name: "title", widget: "string"},
+            ]}
+          - {label: "Body", name: "body", widget: "markdown"}
