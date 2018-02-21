@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: n3xtcoder/send
-  branch: r5-jenn-cms-update
+  branch: r5-jenn-update-cms
 
 publish_mode: editorial_workflow
 
