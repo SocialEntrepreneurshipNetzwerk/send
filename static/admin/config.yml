@@ -15,7 +15,7 @@ collections:
     folder: "src/pages/blog"
     create: true
     fields:
-      - {label: "Path", name: "path"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
       - {label: "Image Mask", name: "clip", widget: "hidden", default: "clip_article"}
       - {label: "Title", name: "title", widget: "string"}
