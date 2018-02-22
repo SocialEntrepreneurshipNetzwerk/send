@@ -142,5 +142,6 @@ section_2:
     Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns
     gemeinsam. wirken.**
   title: Mitglied werden
+  triangle_boxes_large: []
 ---
 
