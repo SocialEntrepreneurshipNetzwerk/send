@@ -123,6 +123,11 @@ section_1:
       image: /uploads/von-Unruh.jpg
       link: 'https://www.team-u.de'
       name: TEAM U - RESTART gGmbH
+    - description: bla
+      email: bla
+      image: /uploads/170411_Sira_Einrichtung-024.jpg
+      link: bla
+      name: TEST ADDING
 section_2:
   cta:
     label: Jetzt anmelden
