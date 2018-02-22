@@ -123,6 +123,11 @@ section_1:
       image: /uploads/von-Unruh.jpg
       link: 'https://www.team-u.de'
       name: TEAM U - RESTART gGmbH
+    - description: new
+      email: email@emial.de
+      image: /uploads/170411_Sira_Einrichtung-024.jpg
+      link: link
+      name: new
 section_2:
   cta:
     label: Jetzt anmelden
@@ -142,5 +147,6 @@ section_2:
     Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. **Lass uns
     gemeinsam. wirken.**
   title: Mitglied werden
+  triangle_boxes_large: []
 ---
 
