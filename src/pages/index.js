@@ -115,7 +115,6 @@ export const IndexQuery = graphql`
   frontmatter {
     title
     excerpt
-    path
     image
     date (formatString: "DD MM, YYYY")
     category
