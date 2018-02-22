@@ -7,9 +7,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       allMarkdownRemark {
         edges {
           node {
-            excerpt(pruneLength: 400)
-            html
-            id
             frontmatter {
               templateKey
               path
