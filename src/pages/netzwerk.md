@@ -1,6 +1,5 @@
 ---
 templateKey: netzwerk
-path: /netzwerk
 clip: clip_netzwerk
 title: Netzwerk
 section_1:
@@ -143,4 +142,3 @@ section_2:
     gemeinsam. wirken.**
   title: Mitglied werden
 ---
-
