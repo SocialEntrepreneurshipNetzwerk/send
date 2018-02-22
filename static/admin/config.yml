@@ -13,6 +13,7 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
