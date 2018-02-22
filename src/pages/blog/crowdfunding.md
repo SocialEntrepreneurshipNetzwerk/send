@@ -1,6 +1,5 @@
 ---
 templateKey: 'article'
-path: /Crowdfunding
 clip: clip_article
 title: Unser Crowdfunding ist gestartet – am 1. Tag gleich 1/4 der ersten Schwelle erreicht
 excerpt:

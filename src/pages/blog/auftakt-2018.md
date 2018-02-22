@@ -1,5 +1,4 @@
 ---
-path: /auftakt-2018
 templateKey: article
 clip: clip_article
 title: SEND - Auftaktevent am 1.Februar
