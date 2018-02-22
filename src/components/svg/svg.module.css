@@ -48,6 +48,11 @@ _:-ms-lang(x), .triangle { opacity: 0.6; }
 }
 
 .close {
+  position: absolute;
+  top:0;
+  right:0;
   height: 40px;
   width: 40px;
+  margin: 50px;
+  cursor: pointer;
 }

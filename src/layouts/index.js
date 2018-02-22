@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import MobileNav from '../components/mobile-nav/MobileNav';
 import TopNav from '../components/top-nav/TopNav';
 import StickyCTA from '../components/cta/StickyCTA';
 import Footer from '../components/footer/Footer';
@@ -27,7 +26,6 @@ const Footer = () => {
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
-    <MobileNav/>
     <StickyCTA/>
     <div>{children()}</div>
     <TopNav />
