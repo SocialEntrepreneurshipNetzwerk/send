@@ -73,7 +73,7 @@ export default class IndexPage extends React.Component {
 
 export const IndexQuery = graphql`
   query Index {
-    markdownRemark(frontmatter: { path: { eq: "/" } }) {
+    markdownRemark(fields: { slug: { eq: "/" } }) {
         frontmatter {
             title
             tagline

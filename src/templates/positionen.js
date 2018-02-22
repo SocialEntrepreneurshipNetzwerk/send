@@ -31,7 +31,7 @@ export default ({ data }) => {
 
 export const PositionenPageQuery = graphql`
   query Positionen {
-    markdownRemark(frontmatter: { path: { eq: "/positionen" } }) {
+    markdownRemark(fields: { slug: { eq: "/positionen" } }) {
         frontmatter {
             clip
             title
