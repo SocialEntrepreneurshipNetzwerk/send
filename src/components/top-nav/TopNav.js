@@ -48,23 +48,13 @@ class TopNav extends Component {
             </figure>
           </Link>
           <ul className={styles.ul}>
-            {/*<li>
-              <Link className="navbar-item" to="/ueber-uns">
-                  Über uns
-              </Link>
-            </li>
             <li>
-              <Link className="navbar-item" to="/social-entrepreneurship">
-                  Social Entrepreneurship
-              </Link>
-            </li>*/}
-            <li>
-              <Link className="navbar-item" to="/positionen" activeStyle={activeStyle}>
+              <Link to="/positionen" activeStyle={activeStyle}>
                   Social Entrepreneurship
               </Link>
             </li>
             <li>
-              <Link className="navbar-item" to="/netzwerk" activeStyle={activeStyle}>
+              <Link to="/netzwerk" activeStyle={activeStyle}>
                   Netzwerk
               </Link>
             </li>
