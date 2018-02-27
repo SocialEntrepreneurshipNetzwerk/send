@@ -13,16 +13,16 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     create: true
     fields:
-      - {label: "Path", name: "path", widget: "string"}
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
       - {label: "Image Mask", name: "clip", widget: "hidden", default: "clip_article"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false }
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options:["news","event"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
@@ -31,7 +31,6 @@ collections:
         label: "Home"
         name: "index"
         fields:
-          - {label: "Path", name: "path", widget: "hidden"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Tagline", name: "tagline", widget: "string"}
           - {label: "Tagline-Large", name: "tagline_large", widget: "markdown"}
@@ -67,7 +66,6 @@ collections:
         name: "netzwerk"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
-          - {label: "Path", name: "path", widget: "hidden"}
           - {label: "Image Mask", name: "clip", widget: "hidden"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
@@ -101,7 +99,6 @@ collections:
         name: "positionen"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
-          - {label: "Path", name: "path", widget: "hidden"}
           - {label: "Image Mask", name: "clip", widget: "hidden"}
           - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
@@ -125,7 +122,6 @@ collections:
         fields:
           - {label: "Page Title ", name: "title", widget: "string"}
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
-          - {label: "Path", name: "path", widget: "hidden"}
           - {label: "Address", name: "address", widget: "markdown"}
           - {label: "Email", name: "email", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [ 

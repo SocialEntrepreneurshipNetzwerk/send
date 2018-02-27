@@ -13,16 +13,6 @@ const helmet = () => (
   </helmet>
 );
 
-/*
-const Footer = () => {
-  const style = {
-    backgroundColor: '#3daef2',
-    height: '100px'
-  };
-  return <footer style={style}>FOOTER PLACEHOLDER</footer>;
-};
-*/
-
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />

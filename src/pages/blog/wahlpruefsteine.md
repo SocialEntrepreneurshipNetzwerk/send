@@ -1,5 +1,4 @@
 ---
-path: /wahlpruefsteine
 templateKey: article
 clip: clip_article
 title: '11 Fragen, 5 Parteien – alle Positionen zu Social Entrepreneurship'

@@ -28,8 +28,8 @@ export default ({ data }) => {
 };
 
 export const ArticlePageQuery = graphql`
-  query ArticlePage ($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path  } }) {
+  query ArticlePage ($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug  } }) {
         frontmatter {
             clip
             title

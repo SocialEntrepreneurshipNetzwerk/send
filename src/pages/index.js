@@ -73,7 +73,7 @@ export default class IndexPage extends React.Component {
 
 export const IndexQuery = graphql`
   query Index {
-    markdownRemark(frontmatter: { path: { eq: "/" } }) {
+    markdownRemark(fields: { slug: { eq: "/" } }) {
         frontmatter {
             title
             tagline
@@ -109,10 +109,12 @@ export const IndexQuery = graphql`
     }
     allFile(filter:{relativeDirectory:{eq: "blog"}}){edges{node{name childMarkdownRemark {
           excerpt(pruneLength: 200)
+          fields {
+            slug
+          }
   frontmatter {
     title
     excerpt
-    path
     image
     date (formatString: "DD MM, YYYY")
     category

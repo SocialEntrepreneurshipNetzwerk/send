@@ -16,7 +16,7 @@ const TriangleBoxLarge = ( props ) => {
         <h1>{props.box.title}</h1>
         <h2>{props.box.date} | {props.box.category}</h2>
         {props.box.excerpt ? <ReactMarkdown source={props.box.excerpt}/> : <p>{props.excerpt}</p>}
-        <Link to={props.box.path}><span>Mehr lesen</span></Link>
+        <Link to={props.slug}><span>Mehr lesen</span></Link>
       </article> :
       <div>
         <h1>{props.box.name}</h1>

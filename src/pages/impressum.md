@@ -1,6 +1,5 @@
 ---
 templateKey: 'impressum'
-path: /impressum
 title: Social Entrepreneurship Netzwerk Deutschland e. V. 
 address: 'Social Entrepreneurship Netzwerk Deutschland e. V. 
 
