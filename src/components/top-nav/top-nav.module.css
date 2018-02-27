@@ -89,7 +89,7 @@
   width: 100vw;
   background-color: paper;
   opacity: 0.95;
-  z-index:15;
+  z-index:10;
 }
 
 .overlayOpen {
@@ -101,10 +101,10 @@
   width: 100vw;
   background-color: paper;
   opacity: 0.95;
-  z-index:15;
+  z-index: 10;
 }
 
-.hamburger {
+.toggle {
   display:none;
   position: absolute;
   top: 0;
@@ -114,14 +114,25 @@
   margin: 20px;
 }
 @media (max-width: break-main-padding){
-  .hamburger{
+  .toggle{
     display: block;
   }
 }
 
-.hamburger p {
+.iconOpen p {
+  display:block;
   height: 2px;
   width: 100%;
   background-color: deep-blue;
   margin-bottom: 10px;
+}
+
+.iconClose {
+  display: block;
+  position: absolute;
+  top:0;
+}
+
+.iconHidden{
+  display:none;
 }

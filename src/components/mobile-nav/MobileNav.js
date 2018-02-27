@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import CloseIcon from '../svg/CloseIcon';
 import Facebook from '../svg/icons_logos/Facebook.js';
 import Twitter from '../svg/icons_logos/Twitter.js';
 import Youtube from '../svg/icons_logos/Youtube.js';
@@ -11,7 +10,6 @@ class MobileNav extends Component {
   render() {
     return (
       <div className={this.props.style}>
-        <CloseIcon toggle={this.props.toggle}/>
         <ul className={styles.ul}>
           <li>
             <Link className={styles.bold} to="/positionen" >
