@@ -49,6 +49,7 @@
 
 
 .ul {
+  display: block;
   margin: 0;
   padding: 28px;
   display: inline-block;
@@ -57,19 +58,13 @@
 }
 @media (max-width: break-main-padding){
   .ul{
-    padding-right: mobile-padding-nav;
+    display: none;
   }
 }
 
 .ul li {
   display: inline-block;
   padding-left: 20px;
-}
-@media (max-width: break-main-padding){
-  .ul li{
-    display:block;
-    padding-bottom: 10px;
-  }
 }
 
 .ul li a {
@@ -84,24 +79,6 @@
   background-color: deep-blue;
     transition: all 200ms;
 }
-
-.label_desktop{
-  display: none; 
-}
-@media (min-width: break-main-padding){
-  .label_desktop{
-    display: block; 
-  }
-}
-.label_mobile {
-  display: block; 
-}
-@media (min-width: break-main-padding){
-  .label_mobile {
-    display: none; 
-  }
-}
-
 
 .overlay{
   display: none;
@@ -125,4 +102,26 @@
   background-color: paper;
   opacity: 0.95;
   z-index:15;
+}
+
+.hamburger {
+  display:none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 48px;
+  width: 48px;
+  margin: 20px;
+}
+@media (max-width: break-main-padding){
+  .hamburger{
+    display: block;
+  }
+}
+
+.hamburger p {
+  height: 2px;
+  width: 100%;
+  background-color: deep-blue;
+  margin-bottom: 10px;
 }

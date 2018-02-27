@@ -47,7 +47,7 @@ class TopNav extends Component {
               <img src={logo_mobile} alt="Send" style={{ width: '140px' }} />
             </figure>
           </Link>
-          <ul className={styles.ul} onClick={this.mobileNavToggle}>
+          <ul className={styles.ul}>
             {/*<li>
               <Link className="navbar-item" to="/ueber-uns">
                   Über uns
@@ -59,10 +59,7 @@ class TopNav extends Component {
               </Link>
             </li>*/}
             <li>
-              <Link className="navbar-item" to="/positionen" activeStyle={activeStyle} className={styles.label_mobile}>
-                  SocEnt
-              </Link>
-              <Link className="navbar-item" to="/positionen" activeStyle={activeStyle} className={styles.label_desktop}>
+              <Link className="navbar-item" to="/positionen" activeStyle={activeStyle}>
                   Social Entrepreneurship
               </Link>
             </li>
@@ -72,6 +69,12 @@ class TopNav extends Component {
               </Link>
             </li>
           </ul>
+          <div className={styles.hamburger} onClick={this.mobileNavToggle}>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+          </div>
         </nav>
       </div>
     )
