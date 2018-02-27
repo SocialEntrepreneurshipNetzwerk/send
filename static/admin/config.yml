@@ -22,7 +22,7 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "markdown", required: false }
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Date", name: "date", widget: "date"}
-      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options:["news","event"]}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
