@@ -28,7 +28,6 @@ class TopNav extends Component {
         openIconStyle: styles.iconOpen,
         closeIconStyle: styles.iconHidden
       })
-      console.log( "now closed")
     } else {
       this.setState({
         mobileNavOpen: true,
@@ -36,7 +35,6 @@ class TopNav extends Component {
         openIconStyle: styles.iconHidden,
         closeIconStyle: styles.iconClose
       })
-      console.log( "now open")
     }
   }
   
