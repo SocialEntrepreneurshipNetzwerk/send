@@ -1,6 +1,5 @@
 ---
 templateKey: netzwerk
-path: /netzwerk
 clip: clip_netzwerk
 title: Netzwerk
 section_1:
@@ -144,4 +143,3 @@ section_2:
   title: Mitglied werden
   triangle_boxes_large: []
 ---
-

@@ -1,6 +1,5 @@
 ---
 templateKey: positionen
-path: /positionen
 clip: clip_positionen
 title: Positionen
 section_1:
@@ -69,4 +68,3 @@ section_2:
     link: /uploads/SEND_Positionspapier_Bund.pdf
   title: Positionen
 ---
-

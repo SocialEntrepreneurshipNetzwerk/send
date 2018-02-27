@@ -1,4 +1,17 @@
 const path = require( 'path' );
+const { createFilePath } = require( 'gatsby-source-filesystem' );
+
+exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
+  const { createNodeField } = boundActionCreators;
+  if ( node.internal.type === 'MarkdownRemark' ) {
+    const slug = createFilePath({ node, getNode, basePath: 'blog', trailingSlash: false });
+    createNodeField({
+      node,
+      name: 'slug',
+      value: slug,
+    });
+  }
+};
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -7,12 +20,11 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       allMarkdownRemark {
         edges {
           node {
-            excerpt(pruneLength: 400)
-            html
-            id
+            fields {
+               slug
+             }
             frontmatter {
               templateKey
-              path
             }
           }
         }
@@ -24,14 +36,14 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       return Promise.reject( result.errors );
     }
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      if ( node.frontmatter.path ) {
-        createPage({
-          path: node.frontmatter.path,
-          component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( 'src/pages/index.js' ),
-          // additional data can be passed via context
-          context: {}
-        });
-      }
+      createPage({
+        path: node.fields.slug,
+        component: node.frontmatter.templateKey ? path.resolve( `src/templates/${String( node.frontmatter.templateKey )}.js` ) : path.resolve( 'src/pages/index.js' ),
+        // additional data can be passed via context
+        context: {
+          slug: node.fields.slug,
+        },
+      });
     });
   });
 };

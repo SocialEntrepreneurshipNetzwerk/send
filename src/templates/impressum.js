@@ -46,7 +46,7 @@ export default ({ data }) => {
 
 export const mpressumPageQuery = graphql`
   query ImpressumPage {
-    markdownRemark(frontmatter: { path: { eq: "/impressum" } }) {
+    markdownRemark(fields: { slug: { eq: "/impressum" } }) {
         frontmatter {            
 	          title	         
 	          address

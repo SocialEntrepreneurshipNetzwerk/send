@@ -1,5 +1,4 @@
 ---
-path: /
 title: Home
 tagline: gemeinsam. wirken.
 tagline_large: |-
@@ -72,4 +71,3 @@ section_2:
 section_3:
   title: Aktuelles
 ---
-
