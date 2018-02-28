@@ -1,0 +1,44 @@
+/* some styles are passed down from TopNav.js */
+@import "../../layouts/variables.css";
+
+.ul {
+  list-style: none;
+  margin: 150px 10% 0 20%;  
+  padding: 0;
+  width: 70%;
+}
+
+.div {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin: 0 10% 80px 20%;  
+  padding: 0;
+  width: 70%;
+}
+
+.ul a {
+  display: inline-block;
+  font-size: 32px;
+  line-height: 1;
+  color: deep-blue;
+  margin-bottom: 30px;
+}
+
+.social svg {
+  margin-right: 45px;
+  width: 35px;
+  height: 35px;
+}
+
+.social path, .social svg:hover path {
+  fill: deep-blue;
+}
+
+.social polygon, .social svg:hover polygon {
+  fill: white;
+}
+
+.bold {
+  font-weight: 700;
+}

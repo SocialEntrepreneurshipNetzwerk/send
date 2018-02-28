@@ -46,3 +46,9 @@ _:-ms-lang(x), .triangle { opacity: 0.6; }
   margin-bottom: 40px;
   margin-top: -30px;
 }
+
+.close {
+  height: 38px;
+  width: 38px;
+  cursor: pointer;
+}

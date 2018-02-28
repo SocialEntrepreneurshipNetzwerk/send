@@ -19,6 +19,7 @@ const TemplateWrapper = ({ children }) => (
     <StickyCTA/>
     <div>{children()}</div>
     <TopNav />
+
     <Footer/>
   </div>
 );
