@@ -12,17 +12,17 @@ class MobileNav extends Component {
       <div className={this.props.style}>
         <ul className={styles.ul}>
           <li>
-            <Link className={styles.bold} to="/positionen" onClick={this.props.toggle}>
+            <Link className={styles.bold} to="/positionen" onClick={this.props.mobileNavClose}>
                 Social Entrepreneurship
             </Link>
           </li>
           <li>
-            <Link className={styles.bold} to="/netzwerk" onClick={this.props.toggle}>
+            <Link className={styles.bold} to="/netzwerk" onClick={this.props.mobileNavClose}>
                 Netzwerk
             </Link>
           </li>
           <li>
-            <Link to="/impressum" onClick={this.props.toggle} >
+            <Link to="/impressum" onClick={this.props.mobileNavClose} >
                 Impressum
             </Link>
           </li>
