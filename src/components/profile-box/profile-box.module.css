@@ -25,6 +25,18 @@
   }
 }
 
+.box2 {
+  width: 25%;
+  margin: 40px 0;
+}
+.box2 p:first-child {
+  transform:translateX(25%);
+  margin-bottom: 40px;
+}
+.box2 p:nth-child(2) {
+  font-weight: 700;
+}
+
 .flex_wrapper{
   display:flex;
   flex-basis: 100%;
