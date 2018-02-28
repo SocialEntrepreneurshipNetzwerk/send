@@ -1,1 +1,25 @@
 @import "../layouts/variables.css";
+
+.tagline {
+  font-size: 30px;
+  color: paper;
+  line-height: 1.31;
+  font-weight: 700;
+  text-align: center;
+  width: 50%;
+  padding: 60px 0;
+  margin: 0 auto;
+}
+
+@media (max-width: break-boxes){
+  .tagline {
+    font-size: 24px;
+    width: 80%;
+  }
+}
+
+.turquoise_section {
+  position: relative;
+  top: -80px;
+  z-index: 1;
+}
