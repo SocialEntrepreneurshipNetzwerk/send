@@ -1,7 +1,8 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/ueber-uns.jpg';
+import topImage from '../img/ueber-uns_min.jpg';
 import BackgroundTurquoise2 from '../components/svg/BackgroundTurquoise2';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import styles from './about.module.css';
@@ -10,7 +11,7 @@ import styles from './about.module.css';
 export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
-  const { tagline, section_1 } = frontmatter;
+  const { paragraph, section_1 } = frontmatter;
 
   return (
     <div>
@@ -18,7 +19,7 @@ export default ({ data }) => {
       <TopImage imageSource={topImage}/>
       <div className={styles.turquoise_section}>
         <BackgroundTurquoise2/>
-        <p className={styles.tagline}>{tagline}</p>
+        <p className={styles.paragraph}><ReactMarkdown source={paragraph}/></p>
       </div>
       <main>
         <section>
@@ -41,7 +42,7 @@ export const AbouPageQuery = graphql`
     markdownRemark(fields: { slug: { eq: "/ueber-uns" } }) {
         frontmatter {
             title
-            tagline
+            paragraph
             section_1 {
               title
               profile_boxes {

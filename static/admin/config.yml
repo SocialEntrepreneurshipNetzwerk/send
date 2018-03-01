@@ -116,6 +116,22 @@ collections:
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
             ]}
+      - file: "src/pages/ueber-uns.md"
+        label: "Über uns"
+        name: "ueber-uns"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Paragraph", name: "paragraph", widget: "markdown"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Profile Boxes", name: "profile_boxes", widget: "list", fields: [
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Rolle", name: "role", widget: "string"},
+                {label: "Organisation", name: "organization", widget: "string"},
+                {label: "Image", name: "image", widget: "image"}
+              ]}
+            ]}
       - file: "src/pages/impressum.md"
         label: "Impressum"
         name: "impressum"
