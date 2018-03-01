@@ -72,11 +72,11 @@ collections:
               {label: "Title", name: "title", widget: "string"},
               {label: "Paragraph", name: "paragraph", widget: "markdown"},
               {label: "Member-Boxes Part 1", name: "triangle_boxes_large", widget: "list", fields: [ 
-                {label: "Image", name: "image", widget: "image"},
                 {label: "Name", name: "name", widget: "string"},
                 {label: "Description", name: "description", widget: "text"},
                 {label: "Email", name: "email", widget: "string"},
-                {label: "Link", name: "link", widget: "string"}
+                {label: "Link", name: "link", widget: "string"},
+                {label: "Image", name: "image", widget: "image"}
               ]}
             ]}
           - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
@@ -87,11 +87,11 @@ collections:
                 {label: "Link", name: "link", widget: "string"}
               ]},
               {label: "Member-Boxes Part 2", name: "triangle_boxes_large", widget: "list", fields: [ 
-                {label: "Image", name: "image", widget: "image"},
                 {label: "Name", name: "name", widget: "string"},
                 {label: "Description", name: "description", widget: "text"},
                 {label: "Email", name: "email", widget: "string"},
-                {label: "Link", name: "link", widget: "string"}
+                {label: "Link", name: "link", widget: "string"},
+                {label: "Image", name: "image", widget: "image"}
               ]}
             ]}
       - file: "src/pages/positionen.md"
