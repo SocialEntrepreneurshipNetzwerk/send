@@ -1,5 +1,5 @@
 ---
-name: sira Kinderbetreuung
+title: sira Kinderbetreuung
 description: >-
     sira baut und betreibt betriebliche Mini-Kitas (Großtagespflegen) in
     Zusammenarbeit mit Arbeitgebern zur Verwirklichung einer echten
