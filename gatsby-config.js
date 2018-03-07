@@ -14,6 +14,20 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/img`,
+        name: 'images'
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/members`,
+        name: 'members'
+      }
+    },
+    {
       resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './src/favicon.svg',
@@ -29,13 +43,6 @@ module.exports = {
           yandex: false,
           windows: false
         }
-      }
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/img`,
-        name: 'images'
       }
     },
     'gatsby-plugin-sharp',

@@ -24,6 +24,16 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "select", options:["news","event"]}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "members"
+    label: "Mitglieder"
+    folder: "src/members"
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Email", name: "email", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
   - name: "pages"
     label: "Pages"
     files:
