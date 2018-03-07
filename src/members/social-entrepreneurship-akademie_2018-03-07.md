@@ -8,7 +8,7 @@ description: >-
   weitreichenden Netzwerk findet jeder das nötige Know-How, die Tools und das
   Netzwerk, um die Probleme unserer Welt anzugehen und auf unternehmerische
   Weise zu lösen.
-email: ' info@seakademie.de'
+email: info@seakademie.de
 link: 'http://www.seakademie.de/'
 image: /uploads/SEA_logo.png
 ---
