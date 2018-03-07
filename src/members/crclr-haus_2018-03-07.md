@@ -7,7 +7,7 @@ description: >-
   Projekten der zirkulären Wirtschaft zu arbeiten. Denn wir sind davon
   überzeugt, dass ein neuer, anderer Weg des Zusammenlebens und
   Zusammenarbeitens sowohl nötig als auch möglich ist.
-email: ' alice@crclr.org'
+email: alice@crclr.org
 link: 'https://crclr.org/'
 image: /uploads/crclr.jpg
 ---
