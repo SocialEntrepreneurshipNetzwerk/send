@@ -23,7 +23,7 @@ const TriangleBoxLarge = ( props ) => {
         <div style={{ backgroundImage: `url(${props.box.node.frontmatter.image})` }} className={styles.box_large_image}>
           <Triangle/>
         </div>
-        <h1>{props.box.node.frontmatter.name}</h1>
+        <h1>{props.box.node.frontmatter.title}</h1>
         <p>{props.box.node.frontmatter.description}</p>
         <br/>
         <div>

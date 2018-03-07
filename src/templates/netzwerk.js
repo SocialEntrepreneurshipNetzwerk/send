@@ -63,7 +63,7 @@ export const NetzwerkPageQuery = graphql`
       edges {
         node {
           frontmatter{
-            name
+            title
             description
             email
             link
