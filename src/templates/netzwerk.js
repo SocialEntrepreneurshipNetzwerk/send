@@ -59,7 +59,7 @@ export const NetzwerkPageQuery = graphql`
             }
         }
     }
-    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(members)/.*\\.md$/"}}) {
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/members/"}}) {
       edges {
         node {
           frontmatter{
