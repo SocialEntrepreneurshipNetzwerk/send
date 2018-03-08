@@ -12,7 +12,9 @@ import styles from './netzwerk.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
+  const members = data.allMarkdownRemark.edges;
   const { clip, section_1, section_2 } = frontmatter;
+
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
@@ -22,7 +24,7 @@ export default ({ data }) => {
           <h1><span>{section_1.title}</span></h1>
           <ReactMarkdown source={section_1.paragraph}/>
           <br/>
-          <TriangleBoxContainer boxes={section_1.triangle_boxes_large} size="large"/>
+          <TriangleBoxContainer boxes={members} size="large"/>
         </section>
         <section className={styles.turquoise_section}>
           <BackgroundTurquoise/>
@@ -46,13 +48,6 @@ export const NetzwerkPageQuery = graphql`
             section_1 {
               title
               paragraph
-              triangle_boxes_large {
-                image
-                name
-                description
-                email
-                link
-              }
             }
             section_2 {
               title
@@ -63,6 +58,19 @@ export const NetzwerkPageQuery = graphql`
               }
             }
         }
+    }
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/members/"}}) {
+      edges {
+        node {
+          frontmatter{
+            title
+            description
+            email
+            link
+            image
+          }
+        }
+      }
     }
 }
 `;
