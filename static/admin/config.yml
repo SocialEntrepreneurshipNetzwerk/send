@@ -27,7 +27,7 @@ collections:
   - name: "members"
     label: "Mitglieder"
     folder: "src/members"
-    slug: "{{slug}}"
+    slug: "{{slug}}_{{year}}-{{month}}-{{day}}"
     create: true
     fields:
       - {label: "Name", name: "title", widget: "string"}
