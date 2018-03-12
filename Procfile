@@ -1,1 +1,1 @@
-web: gatsby serve -p $PORT
+web: node server.js
