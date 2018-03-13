@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "author": "Austin Green",
   "dependencies": {
+    "axios": "0.18.0",
+    "elasticlunr": "0.9.5",
     "express": "4.16.2",
     "gatsby": "^1.9.147",
     "gatsby-link": "^1.6.32",
@@ -15,6 +17,7 @@
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-remark": "^1.7.25",
     "gatsby-transformer-sharp": "^1.6.16",
+    "gray-matter": "3.1.1",
     "react-load-script": "0.0.6",
     "react-markdown": "^3.1.3"
   },

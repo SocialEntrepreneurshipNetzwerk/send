@@ -20,15 +20,15 @@ const TriangleBoxLarge = ( props ) => {
         <Link to={props.slug}><span>Mehr lesen</span></Link>
       </article> :
       <div>
-        <div style={{ backgroundImage: `url(${props.box.node.frontmatter.image})` }} className={styles.box_large_image}>
+        <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
           <Triangle/>
         </div>
-        <h1>{props.box.node.frontmatter.title}</h1>
-        <p>{props.box.node.frontmatter.description}</p>
+        <h1>{props.box.title}</h1>
+        <p>{props.box.description}</p>
         <br/>
         <div>
-          {props.box.node.frontmatter.email && <a href={`mailto:${props.box.node.frontmatter.email}`}>{props.box.node.frontmatter.email}</a>}
-          {props.box.node.frontmatter.link && <a href={props.box.node.frontmatter.link} target="_blank">{props.box.node.frontmatter.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>}
+          {props.box.email && <a href={`mailto:${props.box.email}`}>{props.box.email}</a>}
+          {props.box.link && <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>}
         </div>
       </div>}
     <TriangleBottom/>
