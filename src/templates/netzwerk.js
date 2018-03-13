@@ -7,23 +7,31 @@ import topImage from '../img/netzwerk_min.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
+import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Netzwerk extends Component {
-
+  
   state = {
     q: undefined,
     members: undefined,
     offset: 0,
     limit: 4,
-    count: 0
+    count: 0,
+    suggestion: 0
   };
-
+  
+  suggestMember = (e) => {
+    const suggestionArray = this.props.data.allMarkdownRemark.edges.map(i => i.node.frontmatter.title);
+    this.setState({suggestion: suggestionArray[Math.floor(Math.random()*suggestionArray.length)] })
+  }
 
   handleUpdateQuery = (e) => {
     const q = e.target.value;
     const limit = this.state.limit;
 
+    this.suggestMember();
+    
     axios({
       method: 'get',
       url: '/api/search',
@@ -36,6 +44,8 @@ export default class Netzwerk extends Component {
 
   componentDidMount = () => {
     const {q, offset, limit} = this.state;
+    
+    this.suggestMember();
 
     axios({
       method: 'get',
@@ -85,7 +95,7 @@ export default class Netzwerk extends Component {
             <br/>
             <div className={styles.search}>
               <span> Mitglieder finden: </span>
-              <input type='text' placeholder="z.B. CRCLR" onChange={this.handleUpdateQuery} />
+              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
             <TriangleBoxContainer boxes={members} size="large"/>
