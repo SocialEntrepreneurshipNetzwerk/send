@@ -5,6 +5,7 @@ import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContai
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/netzwerk_min.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
+import ButtonLoadMore from '../components/cta/ButtonLoadMore';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
@@ -100,7 +101,7 @@ export default class Netzwerk extends Component {
             </div>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
-          {showLoadMore && <a onClick={this.handleLoadMore}>Load More</a>}
+          {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
 
           <section className={styles.turquoise_section}>
             <BackgroundTurquoise/>
