@@ -1,23 +1,13 @@
-const dummyData = [
-  {
-    title: 'Das macht Schule Förderverein e.V.',
-    description: '\
-  Das macht Schule hilft Lehrern Praxisprojekte umzusetzen und damit Schüler \
-stark für die Zukunft zu machen. In den Projekten übernehmen Schüler \
-Verantwortung, erleben Teilhabe, verbessern ihre Sozial- und \
-Handlungskompetenzen und trainieren durch Erfahrungslernen Kreativität, \
-  Kommunikation, Zusammenarbeit und kritisches Denken. \
-  ',
-    email: 'gebert@das-macht-schule.net',
-    link: 'https://www.das-macht-schule.net/',
-    image: '/uploads/Das_macht_Schule.jpg'
-  }
-]
+const search = require('./search')
 
-const search = (req, res) => {
-  res.json(dummyData)
+const searchAction = (req, res) => {
+  const offset    = parseInt(req.query.offset, 10) || 0
+  const limit     = parseInt(req.query.limit, 10) || 5
+  const q         = req.query.q || ''
+
+  res.json(search(q, offset, limit))
 }
 
 module.exports = (app) => {
-  app.get('/api/search', search)
+  app.get('/api/search', searchAction)
 }
