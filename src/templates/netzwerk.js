@@ -83,7 +83,11 @@ export default class Netzwerk extends Component {
             <h1><span>{section_1.title}</span></h1>
             <ReactMarkdown source={section_1.paragraph}/>
             <br/>
-            <input type='text' onChange={this.handleUpdateQuery}/>
+            <div className={styles.search}>
+              <span> Mitglieder finden: </span>
+              <input type='text' placeholder="z.B. CRCLR" onChange={this.handleUpdateQuery} />
+              <SearchIcon/>
+            </div>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <a onClick={this.handleLoadMore}>Load More</a>}

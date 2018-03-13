@@ -1,9 +1,50 @@
+@import "../layouts/variables.css";
+
 .main section:nth-of-type(2) h1 {
   padding-top: 60px;
 }
 
 .main section p {
   padding-bottom: 20px;
+}
+
+.search{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width:100%;
+  max-width: 700px;
+  margin: 20px 0;
+}
+
+.search span {
+  font-size: 28px;
+  padding: 20px 20px 20px 0;
+}
+
+.search input {
+  flex-grow: 1;
+  border-style: solid;
+  border-color: deep-blue;
+  background-color: paper;
+  outline: none;
+  height: 40px;
+  color: deep-blue;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+}
+
+.search input::placeholder{
+  font-size: 18px;
+  color: grey;
+  opacity: 1;
+}
+
+.search svg{
+  position: relative;
+  right: 35px;
+  fill: deep-blue;
 }
 
 .boxes{
