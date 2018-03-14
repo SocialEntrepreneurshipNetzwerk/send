@@ -24,6 +24,17 @@ collections:
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Category", name: "category", widget: "select", options:["news","event"]}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "members"
+    label: "Mitglieder"
+    folder: "src/members"
+    slug: "{{slug}}_{{year}}-{{month}}-{{day}}"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Link", name: "link", widget: "string", required: false}
+      - {label: "Image", name: "image", widget: "image"}
   - name: "pages"
     label: "Pages"
     files:
@@ -71,13 +82,6 @@ collections:
           - {label: "Section 1", name: "section_1", widget: "object", fields: [ 
               {label: "Title", name: "title", widget: "string"},
               {label: "Paragraph", name: "paragraph", widget: "markdown"},
-              {label: "Member-Boxes Part 1", name: "triangle_boxes_large", widget: "list", fields: [ 
-                {label: "Name", name: "name", widget: "string"},
-                {label: "Description", name: "description", widget: "text"},
-                {label: "Email", name: "email", widget: "string"},
-                {label: "Link", name: "link", widget: "string"},
-                {label: "Image", name: "image", widget: "image"}
-              ]}
             ]}
           - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
               {label: "Title", name: "title", widget: "string"},
@@ -85,13 +89,6 @@ collections:
               {label: "Button", name: "cta", widget: "object", fields: [
                 {label: "Label", name: "label", widget: "string"},
                 {label: "Link", name: "link", widget: "string"}
-              ]},
-              {label: "Member-Boxes Part 2", name: "triangle_boxes_large", widget: "list", fields: [ 
-                {label: "Name", name: "name", widget: "string"},
-                {label: "Description", name: "description", widget: "text"},
-                {label: "Email", name: "email", widget: "string"},
-                {label: "Link", name: "link", widget: "string"},
-                {label: "Image", name: "image", widget: "image"}
               ]}
             ]}
       - file: "src/pages/positionen.md"

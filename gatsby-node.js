@@ -17,7 +17,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
   return graphql( `
     {
-      allMarkdownRemark {
+      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/"}}) {
         edges {
           node {
             fields {
