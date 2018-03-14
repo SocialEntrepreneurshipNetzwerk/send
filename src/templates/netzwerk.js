@@ -24,7 +24,10 @@ export default class Netzwerk extends Component {
   
   suggestMember = (e) => {
     const suggestionArray = this.props.data.allMarkdownRemark.edges.map(i => i.node.frontmatter.title);
-    this.setState({suggestion: suggestionArray[Math.floor(Math.random()*suggestionArray.length)] })
+    const bias = Array(Math.round(suggestionArray.length/3)).fill("N3XTCODER");
+    const biasedSuggestion = suggestionArray.concat(bias);
+    console.log(biasedSuggestion)
+    this.setState({suggestion: biasedSuggestion[Math.floor(Math.random()*biasedSuggestion.length)] })
   }
 
   handleUpdateQuery = (e) => {
