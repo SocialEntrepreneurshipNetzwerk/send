@@ -3,7 +3,7 @@ import styles from './icons.module.css';
 
 const BMW = () => (
   <svg viewBox="0 0 139 29" version="1.1" xmlns="http://www.w3.org/2000/svg" className={styles.bmw}>
-    <g id="Symbols" stroke="none" stroke-width="1" fillRule="evenodd">
+    <g id="Symbols" stroke="none" strokeWidth="1" fillRule="evenodd">
       <g id="Footer,-Hover" transform="translate(-756.000000, -286.000000)" >
         <g id="BMW-white" transform="translate(756.000000, 286.000000)">
           <path d="M86.1744,23.8329 L89.2414,23.8329 C89.2414,22.6869 88.7284,21.9229 87.7144,21.9229 C86.7594,21.9229 86.1744,22.8649 86.1744,23.8329 Z M87.7144,21.2659 C89.4804,21.2659 90.1014,22.5669 90.1014,24.0119 L90.1014,24.4769 L86.1744,24.4769 C86.1744,26.0519 86.9624,26.7799 87.9284,26.7799 C88.8114,26.7799 89.2184,26.2669 89.5404,25.9089 L89.9224,26.4929 C89.5404,26.8759 89.0744,27.4479 87.9284,27.4479 C85.9714,27.4479 85.2424,25.9799 85.2424,24.3109 C85.2424,22.8299 85.9474,21.2659 87.7144,21.2659 Z" id="Fill-1"></path>
