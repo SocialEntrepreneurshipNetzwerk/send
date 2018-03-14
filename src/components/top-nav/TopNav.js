@@ -66,12 +66,7 @@ class TopNav extends Component {
               <Link to="/netzwerk" activeStyle={activeStyle}>
                   Netzwerk
               </Link>
-            </li>
-            <li>
-              <Link to="/ueber-uns" activeStyle={activeStyle}>
-                  Über uns
-              </Link>
-            </li>            
+            </li>           
           </ul>
           <div className={styles.toggle} onClick={this.mobileNavToggle}>
             <div className={this.state.openIconStyle}>
