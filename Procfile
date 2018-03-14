@@ -1,1 +1,1 @@
-
+web: gatsby serve
