@@ -23,8 +23,7 @@ const Footer = () => (
         <li><a href="https://www.youtube.com/channel/UCnWi-MJEheSG_n48VlBCJoQ/videos" target="_blank"><Youtube /></a></li>
       </ul>
       <ul className={styles.linkList}>
-        <li><Link to="/positionen">Social Entrepreneurship</Link></li>
-        <li><Link to="/netzwerk">Netzwerk</Link></li>
+        <li><a href="https://send-ev.us16.list-manage.com/subscribe?u=0bd9d2e440fd70368ee268dc7&id=ba0ebebd3d">Newsletter</a></li>
         <li><Link to="/impressum">Impressum</Link></li>
       </ul>
     </div>
