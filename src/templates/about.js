@@ -19,7 +19,7 @@ export default ({ data }) => {
       <TopImage imageSource={topImage}/>
       <div className={styles.turquoise_section}>
         <BackgroundTurquoise2/>
-        <p className={styles.paragraph}><ReactMarkdown source={paragraph}/></p>
+        <div className={styles.paragraph}><ReactMarkdown source={paragraph}/></div>
       </div>
       <main>
         <section>
