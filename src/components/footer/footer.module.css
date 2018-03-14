@@ -55,13 +55,7 @@
 @media (max-width: break-mobile){
   .footer .linkList {
     padding:0;
-    margin: 110px 0 0 20px;
-  }
-  .linkList li{
-    display:none;
-  }
-  .linkList li:last-child {
-    display: block;
+    margin: 85px 0 0 20px;
   }
   .socialNetworks{
     display:none;
