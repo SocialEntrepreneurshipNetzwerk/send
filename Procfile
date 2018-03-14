@@ -1,1 +1,1 @@
-web: gatsby serve
+web: gatsby serve -p $PORT
