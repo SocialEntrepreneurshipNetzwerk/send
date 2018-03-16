@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "0.18.0",
     "elasticlunr": "0.9.5",
-    "express": "4.16.2",
+    "express": "^4.16.2",
     "gatsby": "^1.9.147",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-favicon": "^2.1.1",

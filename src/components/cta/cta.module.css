@@ -4,7 +4,7 @@
   position: fixed;
   top: 140px;
   right:-1px;
-  z-index:5;
+  z-index:10;
   width:260px;
   height: 120px;
   max-width: 40%;

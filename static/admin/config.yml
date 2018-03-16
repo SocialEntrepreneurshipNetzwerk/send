@@ -106,11 +106,27 @@ collections:
               {label: "Title", name: "title", widget: "string"},
               {label: "Button", name: "cta", widget: "object", fields: [
                 {label: "Label", name: "label", widget: "string"},
-                {label: "Link", name: "link", widget: "string"}
+                {label: "File", name: "link", widget: "file"}
               ]},
               {label: "Boxes", name: "boxes", widget: "list", fields: [ 
                 {label: "Illustration", name: "icon", widget: "hidden"},
                 {label: "Description", name: "description", widget: "markdown"}
+              ]}
+            ]}
+      - file: "src/pages/ueber-uns.md"
+        label: "Über uns"
+        name: "ueber-uns"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google ", name: "title", widget: "string"}
+          - {label: "Paragraph", name: "paragraph", widget: "markdown"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Profile Boxes", name: "profile_boxes", widget: "list", fields: [
+                {label: "Name", name: "name", widget: "string"},
+                {label: "Rolle", name: "role", widget: "string"},
+                {label: "Organisation", name: "organization", widget: "string"},
+                {label: "Image", name: "image", widget: "image"}
               ]}
             ]}
       - file: "src/pages/impressum.md"
@@ -126,7 +142,7 @@ collections:
               {label: "Paragraph", name: "content", widget: "text"},
               {label: "Button", name: "cta", widget: "object", fields: [
                 {label: "Label", name: "label", widget: "string"},
-                {label: "Link", name: "link", widget: "string"}
+                {label: "File", name: "link", widget: "file"}
               ]},
             ]}
           - {label: "Section 2", name: "section_2", widget: "object", fields: [ 
@@ -134,7 +150,7 @@ collections:
               {label: "Paragraph", name: "content", widget: "text"},
               {label: "Button", name: "cta", widget: "object", fields: [
                 {label: "Label", name: "label", widget: "string"},
-                {label: "Link", name: "link", widget: "string"}
+                {label: "File", name: "link", widget: "file"}
               ]}
             ]}
           - {label: "Section 3", name: "section_3", widget: "object", fields: [ 
