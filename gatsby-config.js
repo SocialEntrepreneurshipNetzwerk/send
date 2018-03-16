@@ -1,4 +1,8 @@
 module.exports = {
+  proxy: {
+    prefix: "/api",
+    url: process.env.API_URL || 'http://localhost:8081', // development
+  },
   siteMetadata: {
     title: 'Gatsby Default Starter'
   },

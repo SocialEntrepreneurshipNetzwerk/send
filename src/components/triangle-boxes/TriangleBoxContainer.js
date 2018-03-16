@@ -4,7 +4,7 @@ import TriangleBoxLarge from './TriangleBoxLarge';
 import styles from './triangle-boxes.module.css';
 
 const TriangleBoxContainer = ( props ) => {
-  if ( props.article ) {
+  if ( props.article ) { // articles
     const largeArticle = props.boxes[ 0 ].node.childMarkdownRemark.frontmatter;
     const autoExcerpt = props.boxes[ 0 ].node.childMarkdownRemark.excerpt;
     const slug = props.boxes[ 0 ].node.childMarkdownRemark.fields.slug;
@@ -16,7 +16,7 @@ const TriangleBoxContainer = ( props ) => {
         })}
       </div>
     );
-  } else {
+  } else { // members
     return (
       <div className={styles.triangle_box_container}>
         {props.boxes.map(( box, index ) => {

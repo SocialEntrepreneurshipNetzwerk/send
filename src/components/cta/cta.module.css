@@ -20,15 +20,12 @@
     transition: all 0.3s;
 }
 
-
-.button_pink {
+.button {
   display: block;
   min-width: 248px;
   width: max-content;
   max-width: 80%;
-  background-color: paper;
   border-style: solid;
-  border-color: active;
   border-width: 2px;
   text-align: center;
   vertical-align: middle;
@@ -37,35 +34,31 @@
   padding: 20px 40px ;
   margin: 40px auto;
   transition: all 0.1s;
+  cursor: pointer;
 }
+
+.button_pink {
+  composes: button;
+  background-color: paper;
+  border-color: active;
+}
+
 .button_pink:hover {
+  transition: all 0.1s;
   background-color: active;
   border-color: paper;
   color: white;
-  transition: all 0.1s;
 }
 
 .button_white {
-  display: block;
-  min-width: 248px;
-  width: max-content;
-  max-width: 80%;
+  composes: button;
   background-color: initial;
-  border-style: solid;
   border-color: white;
-  border-width: 2px;
-  text-align: center;
-  vertical-align: middle;
-  font-size: 16px;
-  font-weight: 700;
   color: white;
-  padding: 20px 40px;
-  margin: 40px auto;
-  transition: all 0.1s;
 }
 .button_white:hover {
+  transition: all 0.1s;
   background-color: white;
   border-color: null;
   color: aqua;
-  transition: all 0.1s;
 }
