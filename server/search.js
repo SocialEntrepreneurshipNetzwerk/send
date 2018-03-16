@@ -9,6 +9,9 @@ const files         = fs.readdirSync(membersFolder)
 const memberLookup = {}
 const members = files.map(f => {
   const member = matter.read(`${membersFolder}${f}`).data
+  if (member.link) {
+    member.domain = member.link.replace(new RegExp("(http|https)://(www.|)"), "").replace(new RegExp("/.*$"), "")
+  }
   member.id = uuid()
   memberLookup[member.id] = member
   return member
@@ -19,6 +22,8 @@ const index = elasticlunr(function () {
   this.addField('title')
   this.addField('description')
   this.addField('email')
+  this.addField('link')
+  this.addField('domain')
   this.saveDocument(true)
 
   members.forEach(function (doc) {
@@ -39,7 +44,9 @@ module.exports = (q, offset = 0, limit = 5) => {
     fields: {
       title: {boost: 2},
       description: {boost: 1},
-      email: {boost: 1}
+      email: {boost: 1},
+      link: {boost: 1},
+      domain: {boost: 5}
     },
     boolean: "AND",
     expand: true

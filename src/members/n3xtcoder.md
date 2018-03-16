@@ -8,7 +8,7 @@ description: >-
   entwickeln wir technologische Lösungen, die mindestens zu einem der 17
   Sustainable Development Goals der Vereinten Nationen beitragen.
 
-  N3XTCODER ist der technische Partner von SEND. Die Webpräsenz und das
+  NEXTCODER ist der technische Partner von SEND. Die Webpräsenz und das
   grafische Erscheinungsbild wird von uns gestaltet und entwickelt.
 email: info@n3xtcoder.org
 link: 'http://n3xtcoder.org/'
