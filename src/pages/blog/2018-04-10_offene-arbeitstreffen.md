@@ -10,7 +10,7 @@ excerpt: >-
   uns sehr über Eure Gedanken und Ideen.
 image: /uploads/send_01.02.18_internet-273.jpg
 date: '2018-04-10'
-category: news
+category: event
 ---
 **Termine: **
 
