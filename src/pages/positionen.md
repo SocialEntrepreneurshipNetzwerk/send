@@ -65,6 +65,7 @@ section_2:
       icon: talents
   cta:
     label: Hier Positionspapier herunterladen
-    link: /uploads/SEND_Positionspapier_Bund.pdf
+    link: /uploads/2017_10_31_positionspapier_bund.pdf
   title: Positionen
 ---
+
