@@ -12,6 +12,8 @@ image: /uploads/send_01.02.18_internet-273.jpg
 date: '2018-04-10'
 category: event
 ---
+Schon seit einiger Zeit bieten wir für Mitglieder, aber auch Interessent*innen, offene Arbeitstreffen im Impact Hub Berlin an. Hier arbeiten wir an aktuelle Themen wie zum Beispiel dem Koalitionsvertrag und der Frage, wie wir ihn nutzen können um Social Entrepreneurship weiter zu stärken. Dabei freuen wir uns sehr über Eure Gedanken und Ideen.
+
 **Termine: **
 
 10.04.2018
