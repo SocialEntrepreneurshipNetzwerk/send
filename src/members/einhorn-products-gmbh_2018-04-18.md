@@ -11,6 +11,6 @@ description: >-
   unserer Profite.
 email: linda@einhorn.my
 link: www.einhorn.my
-image: /uploads/neu_einhorn_wortbild.png
+image: /uploads/neu_einhorn_wortbild-neu.png
 ---
 
