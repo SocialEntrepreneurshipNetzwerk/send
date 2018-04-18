@@ -10,6 +10,6 @@ description: >-
   Deutschland 60 Qualifizierungsplätze schaffen. 
 email: mayrhofer@inklusive-bildung.org
 link: 'www.inklusive-bildung.org '
-image: /uploads/institut_inklusivebildung_rz_logo_rgb.jpg
+image: /uploads/institut_inklusivebildung_rz_logo_rgb-neu.png
 ---
 
