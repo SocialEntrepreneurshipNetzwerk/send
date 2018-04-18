@@ -183,7 +183,7 @@
   display: inline-block;
   width: 60%;
   max-width: 520px;
-  height: 600px;
+  max-height: 700px;
   margin-bottom: 150px;
   text-align: left;
 }
