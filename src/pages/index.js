@@ -116,7 +116,7 @@ export const IndexQuery = graphql`
     title
     excerpt
     image
-    date (formatString: "DD MM, YYYY")
+    date (formatString: "DD.MM.YYYY")
     category
   }
 }}}}
