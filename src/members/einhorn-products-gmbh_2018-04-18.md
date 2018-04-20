@@ -10,7 +10,7 @@ description: >-
   Lieferkette einen positiven Impact zu schaffen. Dafür reinvestieren wir 50%
   unserer Profite.
 email: linda@einhorn.my
-link: www.einhorn.my
+link: 'https://einhorn.my/'
 image: /uploads/neu_einhorn_wortbild-neu.png
 ---
 
