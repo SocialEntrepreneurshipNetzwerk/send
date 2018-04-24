@@ -10,9 +10,9 @@ image: /uploads/send_01.02.18_internet-343.jpg
 date: '2018-04-24'
 category: news
 ---
-Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Ihr ermöglicht es uns den Sektor zu vernetzten, zu stärken und nach außen zu präsentieren.  All dies wäre ohne die Unterstützung folgender Personen nicht möglich gewesen: 
+Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Den Erfolg unsere Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben in SEND e.V. .  Mit fast 50.000€ habt Ihr uns Euer Vertrauen gezeigt und ermöglicht es uns so, den Sektor zu vernetzten, zu stärken und nach außen zu präsentieren.  
 
-
+All dies wäre ohne die Unterstützung folgender Personen nicht möglich gewesen: 
 
 Agata Werner
 
@@ -222,6 +222,8 @@ Georg Staebner
 
 Gudrun Neuper
 
+Gülcan Nitsch
+
 Hannes Jähnert
 
 Hans-Heinrich Gerdes
@@ -293,6 +295,8 @@ Johanna Stiller
 Johannes Axster
 
 John-Martin Neumann
+
+Jörg Reschke
 
 Jonas Nipkow
 
