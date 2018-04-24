@@ -150,6 +150,8 @@ Corinna Sy
 
 Daniel Bartel
 
+Daniel Blaseg
+
 Daniel Kehne
 
 Daniel Koller
@@ -336,7 +338,9 @@ Katrin Grein
 
 Kirsten Keppeler
 
-klaus candussi
+Klaus Candussi
+
+Larissa Gleich
 
 Larissa Hoffmann
 
