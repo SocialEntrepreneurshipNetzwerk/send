@@ -3,8 +3,8 @@ templateKey: article
 clip: clip_article
 title: Wall of fame
 excerpt: >-
-  Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Den Erfolg unsere
-  Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben in
+  Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Den Erfolg unserer
+  Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben an
   SEND e.V. .  Mit fast 50.000€ habt Ihr uns Euer Vertrauen gezeigt und
   ermöglicht es uns so, den Sektor zu vernetzten, zu stärken und nach außen zu
   präsentieren.
@@ -12,7 +12,7 @@ image: /uploads/send_01.02.18_internet-343.jpg
 date: '2018-04-24'
 category: news
 ---
-Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Den Erfolg unsere Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben in SEND e.V. .  Mit fast 50.000€ habt Ihr uns Euer Vertrauen gezeigt und ermöglicht es uns so, den Sektor zu vernetzten, zu stärken und nach außen zu präsentieren.  
+Vielen Dank an unsere Unterstützer*innen der ersten Stunde. Den Erfolg unserer Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben an SEND e.V. .  Mit fast 50.000€ habt Ihr uns Euer Vertrauen gezeigt und ermöglicht es uns so, den Sektor zu vernetzten, zu stärken und nach außen zu präsentieren.  
 
 All dies wäre ohne die Unterstützung folgender Personen nicht möglich gewesen: 
 
@@ -147,6 +147,8 @@ Cool Ideas Society e. V.
 Corinna Pape
 
 Corinna Sy
+
+Daniel Bartel
 
 Daniel Kehne
 
