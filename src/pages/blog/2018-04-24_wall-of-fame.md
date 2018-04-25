@@ -158,8 +158,6 @@ Daniel Blaseg
 
 Daniel Kehne
 
-Daniel Ette
-
 Daniel Koller
 
 Daniela Bessen
@@ -408,6 +406,8 @@ Matthias Wiebel
 
 Max Mauk
 
+Maxie Matthiessen
+
 Maximilian Lemke
 
 Mayra Buschle
@@ -485,8 +485,6 @@ Rey Buckman
 Rike Tränz
 
 Robert B. Fishman
-
-Robert Barr
 
 Robert Barr
 
