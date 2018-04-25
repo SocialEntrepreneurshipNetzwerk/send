@@ -158,6 +158,8 @@ Daniel Blaseg
 
 Daniel Kehne
 
+Daniel Ette
+
 Daniel Koller
 
 Daniela Bessen
@@ -483,6 +485,8 @@ Rey Buckman
 Rike Tränz
 
 Robert B. Fishman
+
+Robert Barr
 
 Robert Barr
 
