@@ -72,6 +72,8 @@ Antonis Schwarz
 
 Ariadne Rust
 
+Armand Simon
+
 Armida Di Lorenzo
 
 Attila von Unruh
@@ -173,14 +175,6 @@ Dennis Brüntje
 Dirk Sölter
 
 Dominik Domnik
-
-Dr. Armand Simon
-
-Dr. Björn Pospiech
-
-Dr. Katharina Reuter
-
-Dr. Michael Gebert
 
 Elena Trutnau
 
@@ -334,6 +328,8 @@ Katarina Peranic
 
 Katharina Dermühl
 
+Katharina Reuter
+
 Katja Urbatsch
 
 Katrin Grein
@@ -415,6 +411,8 @@ Maximilian Lemke
 Mayra Buschle
 
 Melanie Akerboom
+
+Michael Gebert
 
 Michael Gelhaus
 
