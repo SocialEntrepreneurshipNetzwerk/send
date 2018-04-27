@@ -11,6 +11,6 @@ description: >-
   unterstützen.
 email: presse@arbeiterkind.de
 link: 'http://www.arbeiterkind.de/'
-image: /uploads/arbeiterkind.de_messestand_2016.jpg
+image: /uploads/arbeiterkind.de_regionaltreffen_sueddeutschland_2016.jpg
 ---
 
