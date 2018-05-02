@@ -5,6 +5,6 @@ description: >-
   systemischen Wirk-Strategien und bin immer wieder als "Impact Angel" und
   Mitgründer von sozialen Initiativen aktiv.
 link: 'http://odin.muehlenbein.de'
-image: /uploads/odin-muehlenbein.png
+image: /uploads/odin_muehlenbein.jpg
 ---
 
