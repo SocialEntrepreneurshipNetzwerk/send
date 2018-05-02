@@ -3,7 +3,7 @@ import axios from 'axios';
 import TopImage from '../components/top-image/TopImage.js';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/netzwerk_min.jpg';
+import topImage from '../img/SEND_01.02.18_Internet-343.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonLoadMore from '../components/cta/ButtonLoadMore';
 import ButtonCTA from '../components/cta/ButtonCTA';

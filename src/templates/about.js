@@ -2,7 +2,7 @@ import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/ueber-uns_min.jpg';
+import topImage from '../img/SEND_01.02.18_Internet-273.jpg';
 import BackgroundTurquoise2 from '../components/svg/BackgroundTurquoise2';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import styles from './about.module.css';
