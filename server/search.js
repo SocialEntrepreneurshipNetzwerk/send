@@ -23,6 +23,7 @@ const articleLookup = {};
 const articles = articleFiles.map( f => {
   const article = matter.read( `${articlesFolder}${f}` ).data;
   article.id = uuid();
+  article.slug = f.replace( '.md', '' );
   articleLookup[ article.id ] = article;
   return article;
 });
