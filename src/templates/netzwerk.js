@@ -67,11 +67,12 @@ export default class Netzwerk extends Component {
     const members = this.state.members;
     const {q, offset, limit} = this.state;
     const newOffset = offset + limit;
+    const type = "member";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset: newOffset, limit}
+      params: {q, offset: newOffset, limit, type}
     }).then(res => {
       const data = res.data;
 

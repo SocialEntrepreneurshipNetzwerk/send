@@ -56,11 +56,12 @@ export default class Blog extends Component {
     const articles = this.state.articles;
     const {q, offset, limit} = this.state;
     const newOffset = offset + limit;
+    const type = "article";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset: newOffset, limit}
+      params: {q, offset: newOffset, limit, type}
     }).then(res => {
       const data = res.data;
 
@@ -79,6 +80,7 @@ export default class Blog extends Component {
     const articles = this.state.articles || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
     const {clip, title} = frontmatter;
 
+
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -91,7 +93,7 @@ export default class Blog extends Component {
               <input type='text' onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
-            <TriangleBoxContainer boxes={articles} size="large"/>
+            <TriangleBoxContainer boxes={articles} article={true} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
 
@@ -113,6 +115,9 @@ export const BlogQuery = graphql`
     allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog/"}}) {
       edges {
         node {
+          fields {
+            slug
+          }
           frontmatter{
             title
             excerpt
