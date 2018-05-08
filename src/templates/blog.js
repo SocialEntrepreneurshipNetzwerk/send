@@ -86,8 +86,6 @@ export default class Blog extends Component {
         <main className={styles.main}>
           <section>
             <h1><span>{title}</span></h1>
-          <p>Some paragraph</p>
-            <br/>
             <div className={styles.search}>
               <span> Artikel finden: </span>
               <input type='text' onChange={this.handleUpdateQuery} />
