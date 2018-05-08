@@ -6,6 +6,7 @@ import ReactMarkdown from 'react-markdown';
 import Link from 'gatsby-link';
 
 const TriangleBoxLarge = ( props ) => {
+
   const box_styles = props.article ? styles.box_large_article : styles.box_large;
   return ( <div className={box_styles}>
 
@@ -16,8 +17,8 @@ const TriangleBoxLarge = ( props ) => {
         </div>
         <h1>{props.box.title}</h1>
         <h2>{props.box.date} | {props.box.category}</h2>
-        {props.box.excerpt ? <ReactMarkdown source={props.box.excerpt}/> : <p>{props.excerpt}</p>}
-        <Link to={props.slug}><span>Mehr lesen</span></Link>
+        <ReactMarkdown source={props.box.excerpt}/>
+        <Link to={props.box.slug}><span>Mehr lesen</span></Link>
       </article> :
       <div>
         <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
