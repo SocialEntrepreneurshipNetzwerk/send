@@ -2,7 +2,7 @@
 templateKey: 'article'
 clip: clip_article
 title: Unser Crowdfunding ist gestartet – am 1. Tag gleich 1/4 der ersten Schwelle erreicht
-excerpt:
+excerpt: Das Social Entrepreneurship Netzwerk Deutschland e. V. hat heute sein Crowdfunding gestartet. Heute Abend hatten wir bereits ein viertel unserer ersten Fundingschwelle erreicht.
 image: /uploads/crowdfunding.jpg
 date: "2017-09-04"
 category: news
