@@ -30,4 +30,3 @@ section_2:
     gemeinsam. wirken.**
   title: Mitglied werden
 ---
-
