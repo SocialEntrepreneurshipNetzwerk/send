@@ -26,25 +26,26 @@ export default class Blog extends Component {
   handleUpdateQuery = (e) => {
     const q = e.target.value;
     const limit = this.state.limit;
-    
+    const type = "article";
+
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, limit}
+      params: {q, limit, type}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, articles: data.rows, q, offset: 0});
-      console.log(this.state)
     });
   };
 
   componentDidMount = () => {
     const {q, offset, limit} = this.state;
+    const type = "article";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset, limit}
+      params: {q, offset, limit, type}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, articles: data.rows});
