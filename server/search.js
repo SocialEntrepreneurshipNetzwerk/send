@@ -65,6 +65,12 @@ function shuffleArray( array ) {
 }
 shuffleArray( members );
 
+articles.sort( function( a, b ) {
+  let c = new Date( a.date );
+  let d = new Date( b.date );
+  return d - c;
+});
+
 const articlesOpts = {
   fields: {
     title: { boost: 2 },
