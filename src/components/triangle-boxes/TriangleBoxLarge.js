@@ -7,19 +7,9 @@ import Link from 'gatsby-link';
 
 const TriangleBoxLarge = ( props ) => {
 
-  const box_styles = props.article ? styles.box_large_article : styles.box_large;
-  return ( <div className={box_styles}>
+  return (
 
-    {props.article ?
-      <article>
-        <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
-          <Triangle/>
-        </div>
-        <h1>{props.box.title}</h1>
-        <h2>{props.box.date} | {props.box.category}</h2>
-        <ReactMarkdown source={props.box.excerpt}/>
-        <Link to={props.box.slug}><span>Mehr lesen</span></Link>
-      </article> :
+    <div className={styles.box_large}>
       <div>
         <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
           <Triangle/>
@@ -31,9 +21,9 @@ const TriangleBoxLarge = ( props ) => {
           {props.box.email && <a href={`mailto:${props.box.email}`}>{props.box.email}</a>}
           {props.box.link && <a href={props.box.link} target="_blank">{props.box.link.replace( /(https?:\/\/)|\/?$/g, '' )} </a>}
         </div>
-      </div>}
-    <TriangleBottom/>
-  </div> );
+      </div>
+      <TriangleBottom/>
+    </div> );
 
 };
 

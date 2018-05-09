@@ -1,6 +1,7 @@
 import React from 'react';
 import TriangleBoxSmall from './TriangleBoxSmall';
 import TriangleBoxLarge from './TriangleBoxLarge';
+import TriangleBoxArticle from './TriangleBoxArticle';
 import styles from './triangle-boxes.module.css';
 
 const TriangleBoxContainer = ( props ) => {
@@ -8,11 +9,9 @@ const TriangleBoxContainer = ( props ) => {
 
     return (
       <div className={styles.triangle_box_container_article}>
-
         {props.boxes.map(( box, index ) => {
-          return <TriangleBoxLarge box={box} article={props.article} key={index} />;
-        }
-        )}
+          return <TriangleBoxArticle box={box} article={props.article} key={index} />;
+        })}
       </div>
     );
   } else { // members
