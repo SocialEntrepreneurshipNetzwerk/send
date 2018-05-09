@@ -126,6 +126,15 @@ collections:
                 {label: "Image", name: "image", widget: "image"}
               ]}
             ]}
+      - file: "src/pages/blog.md"
+        label: "Blog"
+        name: "blog"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Meta-Pagetitle for google", name: "title", widget: "string"}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+            ]}
       - file: "src/pages/impressum.md"
         label: "Impressum"
         name: "impressum"

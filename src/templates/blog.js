@@ -78,7 +78,8 @@ export default class Blog extends Component {
 
     const frontmatter = data.markdownRemark.frontmatter;
     const articles = this.state.articles || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
-    const {clip, title} = frontmatter;
+    const clip = frontmatter.clip;
+    const title = frontmatter.section_1.title
 
 
     return (
@@ -110,6 +111,9 @@ export const BlogQuery = graphql`
         frontmatter {
             clip
             title
+            section_1{
+              title
+            }
         }
     }
     allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog/"}}) {
@@ -119,7 +123,9 @@ export const BlogQuery = graphql`
             slug
           }
           frontmatter{
-            title
+            section_1{
+              title
+            }
             excerpt
             date (formatString: "DD.MM.YYYY")
             category

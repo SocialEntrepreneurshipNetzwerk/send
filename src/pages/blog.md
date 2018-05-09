@@ -1,5 +1,7 @@
 ---
 templateKey: blog
 clip: clip_netzwerk
-title: Aktuelles
+title: Blog
+section_1:
+  title: Aktuelles
 ---
