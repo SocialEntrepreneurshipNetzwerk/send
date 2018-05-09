@@ -2,8 +2,6 @@ import React from 'react';
 import Triangle from '../svg/Triangle.js';
 import TriangleBottom from '../svg/TriangleBottom.js';
 import styles from './triangle-boxes.module.css';
-import ReactMarkdown from 'react-markdown';
-import Link from 'gatsby-link';
 
 const TriangleBoxLarge = ( props ) => {
 

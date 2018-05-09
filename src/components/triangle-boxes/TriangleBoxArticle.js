@@ -9,11 +9,13 @@ const TriangleBoxArticle = ( props ) => {
 
   return (
     <article className = {styles.triangle_box_article}>
-      <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.article_image}>
+      <Link to={props.box.slug} style={{ backgroundImage: `url(${props.box.image})` }} className={styles.article_image}>
         <Triangle/>
-      </div>
+      </Link>
       <div className={styles.article_preview_content}>
-        <h1>{props.box.title}</h1>
+        <Link to={props.box.slug}>
+          <h1>{props.box.title}</h1>
+        </Link>
         <h2>{props.box.date} | {props.box.category}</h2>
         <ReactMarkdown source={props.box.excerpt}/>
         <Link to={props.box.slug}><span>Mehr lesen</span></Link>
