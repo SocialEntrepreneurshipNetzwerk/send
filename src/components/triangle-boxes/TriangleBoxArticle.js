@@ -8,21 +8,19 @@ import Link from 'gatsby-link';
 const TriangleBoxArticle = ( props ) => {
 
   return (
-
-    <div className={styles.box_large_article}>
-      <article className = {styles.box_large_article}>
-        <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_article_image}>
-          <Triangle/>
-        </div>
-        <div className={styles.articlePreviewContent}>
-          <h1>{props.box.title}</h1>
-          <h2>{props.box.date} | {props.box.category}</h2>
-          <ReactMarkdown source={props.box.excerpt}/>
-          <Link to={props.box.slug}><span>Mehr lesen</span></Link>
-          <TriangleBottom/>
-        </div>
-      </article>
-    </div> );
+    <article className = {styles.triangle_box_article}>
+      <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.article_image}>
+        <Triangle/>
+      </div>
+      <div className={styles.article_preview_content}>
+        <h1>{props.box.title}</h1>
+        <h2>{props.box.date} | {props.box.category}</h2>
+        <ReactMarkdown source={props.box.excerpt}/>
+        <Link to={props.box.slug}><span>Mehr lesen</span></Link>
+        <TriangleBottom/>
+      </div>
+    </article>
+  );
 };
 
 export default TriangleBoxArticle;

@@ -5,32 +5,31 @@ import TriangleBoxArticle from './TriangleBoxArticle';
 import styles from './triangle-boxes.module.css';
 
 const TriangleBoxContainer = ( props ) => {
-  if ( props.article ) { // articles
 
-    return (
-      <div className={styles.triangle_box_container_article}>
-        {props.boxes.map(( box, index ) => {
-          return <TriangleBoxArticle box={box} article={props.article} key={index} />;
-        })}
-      </div>
-    );
-  } else { // members
+  const boxes = props.article ? (
+    props.boxes.map(( box, index ) => {
+      return <TriangleBoxArticle box={box} article={props.article} key={index} />;
+    })
+  ) : (
+    props.boxes.map(( box, index ) => {
+      if ( props.size === 'small' ) {
+        return <TriangleBoxSmall box={box} key={index}/>;
+      } else if ( props.size === 'large' ) {
+        return <TriangleBoxLarge box={box} key={index} />;
+      } else {
+        null;
+      }
+    }
+    )
+  );
 
-    return (
-      <div className={styles.triangle_box_container}>
-        {props.boxes.map(( box, index ) => {
-          if ( props.size === 'small' ) {
-            return <TriangleBoxSmall box={box} key={index}/>;
-          } else if ( props.size === 'large' ) {
-            return <TriangleBoxLarge box={box} key={index} />;
-          } else {
-            null;
-          }
-        }
-        )}
-      </div> );
 
-  }
+  return (
+    <div className={styles.triangle_box_container}>
+      {boxes}
+    </div>
+  );
+
 
 };
 

@@ -1,4 +1,5 @@
 @import "../../layouts/variables.css";
+@import "./triangle-box-article.module.css";
 
 .triangle_box_container {
   display: flex;
@@ -13,70 +14,6 @@
   }
 }
 
-.triangle_box_container_article {
-  composes: triangle_box_container;
-}
-
-.box_large_article {
-  position: relative;
-  width: 100%;
-  margin-bottom: 150px;
-}
-
-.box_large_article article svg:last-of-type {
-  position:absolute;
-  bottom: -14px;
-  right: -14px;
-}
-
-.box_large_article article {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  width: 100%;
-  text-align: left;
-}
-
-
-.box_large_article_image {
-  height: 450px;
-  flex: 0 0 450px;
-  background-position: center;
-  background-size: cover;
-}
-
-.articlePreviewContent {
-  position: relative;
-  flex: 1;
-  padding: 20px 60px;
-}
-
-.triangle_box_container_article article h2 {
-  font-size: 12px;
-  line-height: 1.81;
-  color: aqua;
-  font-weight: 700;
-  padding: 10px 0;
-}
-
-.triangle_box_container_article article p {
-  padding: 5px 0;
-}
-
-.triangle_box_container_article article a {
-  color: deep-blue;
-  font-size: 12px;
-  font-weight: 700;
-  line-height: 2;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-}
-
-.triangle_box_container_article article a span {
-  display: inline-block;
-  line-height: 2;
-  border-bottom: 3px solid deep-see-green;
-}
 
 .box_small {
   width: 45%;
@@ -92,32 +29,6 @@
 .box_small div {
   position: relative;
   padding-bottom: 10px;
-}
-
-.box_small_article {
-  width: 30%;
-  min-height: 250px;
-  padding-bottom: 100px;
-}
-@media (max-width: break-boxes) {
-  .box_small_article{
-    width: 100%;
-    max-width: 520px;
-  }
-}
-
-.box_small_article div {
-  position: relative;
-  padding-bottom: 10px;
-}
-
-.box_small_article article {
-  position: relative;
-}
-
-.box_small_article a {
-  position: relative;
-  top: 40px;
 }
 
 .box_large {
@@ -148,20 +59,12 @@
   font-size: 28px;
   line-height: 1.21;
 }
-.box_large_article h1 {
-  font-size: 28px;
-  line-height: 1.14;
-  padding-top: 20px;
-}
 
 .box_large p {
   font-size: 14px;
   line-height: 1.43;
   font-weight: 500;
   margin-bottom: 60px;
-}
-.box_large_article p {
-  margin-bottom: 50px;
 }
 
 .box_large div:last-child {
