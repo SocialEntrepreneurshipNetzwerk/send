@@ -1,5 +1,4 @@
 @import "../../layouts/variables.css";
-@import "./triangle-box-article.module.css";
 
 .triangle_box_container {
   display: flex;
@@ -13,7 +12,6 @@
     justify-content: space-around;
   }
 }
-
 
 .box_small {
   width: 45%;
