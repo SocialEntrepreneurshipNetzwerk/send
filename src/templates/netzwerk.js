@@ -17,7 +17,7 @@ export default class Netzwerk extends Component {
     q: undefined,
     members: undefined,
     offset: 0,
-    limit: 4,
+    limit: 12,
     count: 0,
     suggestion: 0
   };

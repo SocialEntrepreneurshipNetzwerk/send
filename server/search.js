@@ -95,7 +95,7 @@ const membersOpts = {
   expand: true
 };
 
-module.exports = ( q, offset = 0, limit = 5, type ) => {
+module.exports = ( q, offset, limit, type ) => {
   let opts = undefined;
   let index = undefined;
   let lookup = undefined;

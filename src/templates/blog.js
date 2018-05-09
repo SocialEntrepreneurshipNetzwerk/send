@@ -17,7 +17,7 @@ export default class Blog extends Component {
     q: undefined,
     articles: undefined,
     offset: 0,
-    limit: 4,
+    limit: 10,
     count: 0,
     suggestion: 0
   };
