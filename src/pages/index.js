@@ -29,9 +29,6 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
     const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
-    const newsEdges = data.allFile.edges.sort( function( a, b ) {
-      return ( a.node.childMarkdownRemark.frontmatter.date > b.node.childMarkdownRemark.frontmatter.date ) ? -1 : (( b.node.childMarkdownRemark.frontmatter.date > a.node.childMarkdownRemark.frontmatter.date ) ? 1 : 0 );
-    });
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -60,10 +57,6 @@ export default class IndexPage extends React.Component {
             </div>
             <div className={styles.paragraph}><ReactMarkdown source={section_2.paragraph}/></div>
             <ButtonCTA color="active" label={section_2.cta.label} link={section_2.cta.link}/>
-          </section>
-          <section>
-            <h1><span>{section_3.title}</span></h1>
-            <TriangleBoxContainer boxes={newsEdges} article={true}/>
           </section>
         </main>
       </div>
@@ -102,23 +95,7 @@ export const IndexQuery = graphql`
                 description
               }
             }
-            section_3 {
-              title
-            }
         }
     }
-    allFile(filter:{relativeDirectory:{eq: "blog"}}){edges{node{name childMarkdownRemark {
-          excerpt(pruneLength: 200)
-          fields {
-            slug
-          }
-  frontmatter {
-    title
-    excerpt
-    image
-    date (formatString: "DD.MM.YYYY")
-    category
-  }
-}}}}
 }
 `;

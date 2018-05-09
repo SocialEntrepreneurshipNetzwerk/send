@@ -69,9 +69,6 @@ collections:
                   {label: "Description", name: "description", widget: "string"}
               ]}
             ]}
-          - {label: "Section 3", name: "section_3", widget: "object", fields: [ 
-              {label: "Title", name: "title", widget: "string"}
-            ]}
       - file: "src/pages/netzwerk.md"
         label: "Netzwerk"
         name: "netzwerk"
