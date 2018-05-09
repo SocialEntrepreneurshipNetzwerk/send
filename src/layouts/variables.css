@@ -11,7 +11,7 @@
 
 /*sizes*/
 @value iconSize: 16px;
-@value maxContainerWidth: 1800px;
+@value maxContainerWidth: 1600px;
 /* mobile breakpoints and values*/
 
 @value break-boxes: 1200px;

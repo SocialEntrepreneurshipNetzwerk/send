@@ -5,10 +5,13 @@
   position: relative;
   display: flex;
   flex-direction: row;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   width: 100%;
   margin-bottom: 150px;
-    text-align: left;
+  text-align: left;
+}
+.triangle_box_article:last-child{
+  margin-bottom: 0;
 }
 
 .triangle_box_article svg:last-of-type {
@@ -23,11 +26,28 @@
   background-position: center;
   background-size: cover;
 }
+@media (max-width: break-boxes) {
+  .article_image{
+    flex: 0 0 300px;
+  }
+}
+@media (max-width: break-main-padding) {
+  .article_image{
+    flex: 1 0 100%;
+    height: 0;
+    padding-top: 66%;
+  }
+}
 
 .article_preview_content {
   position: relative;
   flex: 1;
   padding: 20px 60px;
+}
+@media (max-width: break-main-padding) {
+  .article_preview_content{
+    padding: 20px 0;
+  }
 }
 
 .triangle_box_article h2 {

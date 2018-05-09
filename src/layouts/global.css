@@ -31,7 +31,7 @@
   width: 100%;
   margin: 0 auto;
   max-width: maxContainerWidth;
-  padding: 0 200px;
+  padding: 0 100px;
 }
 
 @media (max-width: break-main-padding){
