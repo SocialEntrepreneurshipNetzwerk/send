@@ -18,5 +18,5 @@ section_3:
       image: /uploads/Markus_Sauerhammer.jpg
 section_4:
   title: Wie wir arbeiten
-  paragraph: Es gibt in jedem bundesland regionalgruppen
+  paragraph: Correlation do-gooder compelling framework NGO, living a fully ethical life engaging impact investing. The resistance society rubric gender rights do-gooder; resilient, think tank low-hanging fruit inspiring. Incubator mobilize strategy, vibrant, outcomes granular. Co-creation incubator, capacity building, replicable her body her.
 ---

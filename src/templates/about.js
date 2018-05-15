@@ -5,6 +5,7 @@ import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-273.jpg';
 import ColumnText from '../components/column-text/ColumnText';
 import BackgroundTurquoise2 from '../components/svg/BackgroundTurquoise2';
+import GermanMap from '../components/svg/GermanMap';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import styles from './about.module.css';
 
@@ -35,6 +36,11 @@ export default ({ data }) => {
           <div className={styles.profile_container}>
             {section_3.profile_boxes.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
+        </section>
+        <section>
+          <h1><span>{section_4.title}</span></h1>
+          <ReactMarkdown source={section_4.paragraph}/>
+          <GermanMap/>
         </section>
       </main>
     </div>
