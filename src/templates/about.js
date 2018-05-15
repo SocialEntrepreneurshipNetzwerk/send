@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-273.jpg';
+import ColumnText from '../components/column-text/ColumnText';
 import BackgroundTurquoise2 from '../components/svg/BackgroundTurquoise2';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import styles from './about.module.css';
@@ -20,6 +21,7 @@ export default ({ data }) => {
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
+          <ColumnText text={section_1.paragraph}/>
         </section>
         <section>
           <h1><span>{section_3.title}</span></h1>
