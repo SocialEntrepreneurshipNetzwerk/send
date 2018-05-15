@@ -11,21 +11,20 @@ import styles from './about.module.css';
 export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
-  const { paragraph, section_1 } = frontmatter;
+  const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
 
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
-      <TopImage imageSource={topImage}/>
-      <div className={styles.turquoise_section}>
-        <BackgroundTurquoise2/>
-        <div className={styles.paragraph}><ReactMarkdown source={paragraph}/></div>
-      </div>
+      <TopImage imageSource={topImage} clip={clip}/>
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
+        </section>
+        <section>
+          <h1><span>{section_3.title}</span></h1>
           <div className={styles.profile_container}>
-            {section_1.profile_boxes.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
+            {section_3.profile_boxes.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
         </section>
       </main>
@@ -42,8 +41,17 @@ export const AbouPageQuery = graphql`
     markdownRemark(fields: { slug: { eq: "/ueber-uns" } }) {
         frontmatter {
             title
-            paragraph
-            section_1 {
+            clip
+            section_1{
+              title
+              paragraph
+            }
+            section_2{
+              title
+              image
+              paragraph
+            }
+            section_3 {
               title
               profile_boxes {
                 name
@@ -51,6 +59,10 @@ export const AbouPageQuery = graphql`
                 organization
                 image
               }
+            }
+            section_4{
+              title
+              paragraph
             }
         }
     }
