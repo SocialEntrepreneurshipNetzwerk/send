@@ -8,7 +8,7 @@ section_1:
 section_2:
   title: Gründungsvorstand
   image: /uploads/send_01.02.18_internet-343.jpg
-  paragraph: auf dem bild seht ihr den Gründungsvorstand
+  paragraph: Scalable granular, problem-solvers; transparent shared value outcomes, commitment inclusive. Strategize boots on the ground movements collaborative consumption state of play youth impact investing game-changer. Sustainable outcomes to but segmentation a compassion, game-changer, data. Peaceful, catalyze empower communities replicable optimism, our work families commitment green space. Peaceful empower incubator thought provoking B-corp. Entrepreneur, leverage youth agile energize families. Vibrant, thought leader.
 section_3:
   title: Geschäftsstelle
   profile_boxes:

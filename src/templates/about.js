@@ -23,6 +23,13 @@ export default ({ data }) => {
           <h1><span>{section_1.title}</span></h1>
           <ColumnText text={section_1.paragraph}/>
         </section>
+        <section className={styles.section2}>
+          <h1><span>{section_2.title}</span></h1>
+          <div className={styles.clip_image} style={{ backgroundImage: `url(${section_2.image})` }}>
+            <BackgroundTurquoise2 image={section_2.image}/>
+          </div>
+          <ReactMarkdown source={section_2.paragraph}/>
+        </section>
         <section>
           <h1><span>{section_3.title}</span></h1>
           <div className={styles.profile_container}>

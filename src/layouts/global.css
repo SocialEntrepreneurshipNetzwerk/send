@@ -13,6 +13,7 @@
   color: deep-blue;
   font-family: 'Karla', sans-serif;
   background-color: paper;
+  overflow-x: hidden;
 }
 
 /* base element styles */

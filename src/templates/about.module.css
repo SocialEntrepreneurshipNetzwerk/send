@@ -18,6 +18,28 @@
   }
 }
 
+.section2 p {
+  padding-top: 80px;
+}
+
+.clip_image{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 0;
+  width: 100vw;
+  padding-top: 40%;
+  background-size: cover;
+  background-position: center;
+  clip-path: url(#turquoise);
+  z-index:9;
+}
+@media (max-width: break-boxes){
+  .clip_image{
+    padding-top: 60%;
+  }
+}
+
 .profile_container{
   display: flex;
   flex-wrap: wrap;
