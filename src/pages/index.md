@@ -68,7 +68,4 @@ section_2:
       image: /uploads/Katja_Urbatsch.jpg
       name: Katja Urbatsch
       project: ArbeiterKind.de
-section_3:
-  title: Aktuelles
 ---
-

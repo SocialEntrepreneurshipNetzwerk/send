@@ -17,7 +17,7 @@ export default class Netzwerk extends Component {
     q: undefined,
     members: undefined,
     offset: 0,
-    limit: 4,
+    limit: 12,
     count: 0,
     suggestion: 0
   };
@@ -33,13 +33,14 @@ export default class Netzwerk extends Component {
   handleUpdateQuery = (e) => {
     const q = e.target.value;
     const limit = this.state.limit;
+    const type = "member";
 
     this.suggestMember();
     
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, limit}
+      params: {q, limit, type}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, members: data.rows, q, offset: 0});
@@ -48,13 +49,14 @@ export default class Netzwerk extends Component {
 
   componentDidMount = () => {
     const {q, offset, limit} = this.state;
+    const type = "member";
     
     this.suggestMember();
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset, limit}
+      params: {q, offset, limit, type}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, members: data.rows});
@@ -65,11 +67,12 @@ export default class Netzwerk extends Component {
     const members = this.state.members;
     const {q, offset, limit} = this.state;
     const newOffset = offset + limit;
+    const type = "member";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset: newOffset, limit}
+      params: {q, offset: newOffset, limit, type}
     }).then(res => {
       const data = res.data;
 
