@@ -6,6 +6,6 @@ description: >-
   einfache und faire Geldanlagen an.
 email: www.facebook.de/goodprofits
 link: 'http://www.good-profits.de/'
-image: /uploads/good-profits.jpg
+image: /uploads/good-profits.png
 ---
 
