@@ -15,7 +15,7 @@ Lust eine Welt zu kreieren, in der alle vom Fortschritt profitieren? Du glaubst,
 
 Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme. Dies geschieht durch aktives Brückenbauen mit Akteur*innen aus der Politik, Wirtschaft und Wohlfahrt, durch den Aufbau eines schlagkräftigen Netzwerks von Social Entrepreneurs sowie durch wirksame Öffentlichkeitsarbeit. 
 
-Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb zum nächst möglichen Zeitpunkt eine_n **Praktikant_in für mindestens 3 Monate**, gerne länger. 
+Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb zum nächstmöglichen Zeitpunkt eine*n** Praktikant*in für mindestens 3 Monate**, gerne länger. 
 
 **\*\*Deine Aufgaben\*\***
 
