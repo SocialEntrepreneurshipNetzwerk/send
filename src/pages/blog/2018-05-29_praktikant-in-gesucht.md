@@ -3,7 +3,7 @@ templateKey: article
 clip: clip_article
 title: Praktikant*in gesucht
 excerpt: >-
-  Das SEND Team sucht zum nächst möglichen Zeitpunkt Unterstützung durch eine\*n
+  Das SEND Team sucht zum nächstmöglichen Zeitpunkt Unterstützung durch eine\*n
   Praktikant\*in.
 image: /uploads/send_01.02.18_internet-133.jpg
 date: '2018-05-29'
