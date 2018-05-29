@@ -9,21 +9,19 @@ image: /uploads/send_01.02.18_internet-133.jpg
 date: '2018-05-29'
 category: news
 ---
-**Praktikum beim Social Entrepreneurship Netzwerk Deutschland**
+\*\*Praktikum beim Social Entrepreneurship Netzwerk Deutschland\*\*
 
-Du hast Lust eine Welt zu kreieren, in der alle vom Fortschritt profitieren? Du glaubst, dass Geld verdienen und etwas Gutes tun sich nicht ausschließen? Eigenständiges Arbeiten und Verantwortung übernehmen liegen Dir im Blut? Du hast Spaß an Aufbauarbeit und der Entwicklung von Strukturen? Dann bewirb Dich als Praktikant*in beim Social Entrepreneurship Netzwerk Deutschland. 
+Lust eine Welt zu kreieren, in der alle vom Fortschritt profitieren? Du glaubst, dass Geld verdienen und etwas Gutes tun sich nicht ausschließen? Eigenständiges Arbeiten und Verantwortung übernehmen liegen Dir im Blut? Du hast Spaß an Aufbauarbeit und der Entwicklung von Strukturen? Dann bewirb Dich als Praktikant*in beim Social Entrepreneurship Netzwerk Deutschland. 
 
 Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme. Dies geschieht durch aktives Brückenbauen mit Akteur*innen aus der Politik, Wirtschaft und Wohlfahrt, durch den Aufbau eines schlagkräftigen Netzwerks von Social Entrepreneurs sowie durch wirksame Öffentlichkeitsarbeit. 
 
-Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb zum nächst möglichen Zeitpunkt eine*n **Praktikant*in für mindestens 3 Monate**, gerne länger. 
+Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb zum nächst möglichen Zeitpunkt eine_n \*\*Praktikant_in für mindestens 3 Monate\*\*, gerne länger. 
 
 
 
-**Deine Aufgaben**
+\*\*Deine Aufgaben\*\*
 
 Die Aufgabenbereiche sind vielfältig und verschieben sich je nach Bedarf und Interessen. Wir freuen uns aber auf Deine Mitarbeit bei den folgenden Punkten:
-
-
 
 •	Du unterstützt uns bei der Netzwerkentwicklung. Dazu gehört z.B. die Recherche von und Kommunikation mit potentiellen Neumitgliedern, Mitarbeit bei Mitgliedschaftsprozessen sowie die Unterstützung bei der allgemeinen Kommunikation 
 
@@ -35,7 +33,7 @@ Die Aufgabenbereiche sind vielfältig und verschieben sich je nach Bedarf und In
 
 
 
-**Dein Profil**
+\*\*Dein Profil\*\*
 
 •	Du bist vorangeschritten in Deinem fachlich relevanten Studium (oder hast bereits einen ersten Abschluss) und hast mindestens 30h pro Woche Zeit 
 
@@ -49,7 +47,7 @@ Die Aufgabenbereiche sind vielfältig und verschieben sich je nach Bedarf und In
 
 
 
-**Unser Angebot**
+\*\*Unser Angebot\*\*
 
 •	Du arbeitest in einem kleinen Team mit flachen Hierarchien, dass Dir die Möglichkeit gibt, eigene Schwerpunkte zu setzten
 
@@ -58,8 +56,6 @@ Die Aufgabenbereiche sind vielfältig und verschieben sich je nach Bedarf und In
 •	Du hast die Möglichkeit, eigene Schwerpunkte zu setzten und Themen oder Projekte, die Dich besonders interessieren, zu bearbeiten
 
 •	Wir bieten Dir genauso viel Flexibilität, wie wir auch von Dir erwarten. Du hast Lust ein bestimmtes Event zu besuchen? Es passt Dir heute mal besser von zu Hause zu arbeiten? Das unterstützen wir gerne
-
-
 
 Das Praktikum wird im Rahmen unserer Möglichkeiten vergütet. 
 
