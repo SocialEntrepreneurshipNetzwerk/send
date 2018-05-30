@@ -9,7 +9,7 @@ description: >
   Programm für Social Entrepreneurs, durfte ich lernen, worauf es bei
   Sozialunternehmen ankommt, um erfolgreich zu sein.
 email: andrea@moerikeconsult.com
-link: 'http://www.moerikeconsult.com/'
+link: 'http://www.moerikeconsult.com'
 image: /uploads/andrea-mörike.jpg
 ---
 
