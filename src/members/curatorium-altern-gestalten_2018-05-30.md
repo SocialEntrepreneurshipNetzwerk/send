@@ -8,6 +8,6 @@ description: >-
   Zukunftsprojekte. 
 email: info@alterngestalten.de
 link: www.alterngestalten.de
-image: /uploads/curatorium-altern-gestalten.png
+image: /uploads/agecu-mit-bild.png
 ---
 
