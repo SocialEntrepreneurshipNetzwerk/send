@@ -6,7 +6,7 @@ description: >-
   zwischen Geflüchteten und Arbeitgeber*innen, bieten Workshops und
   Bewerbungstrainings an und helfen bei den bürokratischen Herausforderungen.  
 email: info@jobs4refugees.org
-link: www.jobs4refugees.org
+link: 'https://www.jobs4refugees.org/'
 image: /uploads/jobs4refugees.jpg
 ---
 
