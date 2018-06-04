@@ -9,7 +9,7 @@ description: >-
   Unternehmertum, ist wichtiger Bestandteil der operativen Stiftungsarbeit und
   des Engagements im Bereich Social Entrepreneurship. 
 email: 'hss@hanssauerstiftung.de '
-link: 'www.hanssauerstiftung.de '
+link: 'https://www.hanssauerstiftung.de '
 image: /uploads/hss-logo_2012_rgb_fett_300dpi.jpg
 ---
 
