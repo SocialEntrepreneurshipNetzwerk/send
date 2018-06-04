@@ -5,7 +5,7 @@ description: >-
   Berater und Interimsmanager den Anspruch genau diesen Unterschied zu
   bewirkten. 
 email: C.Schnabel@perpuls.de
-link: www.perpuls.de
+link: 'https://www.perpuls.de'
 image: /uploads/christoph-schnabel-foto.jpg
 ---
 
