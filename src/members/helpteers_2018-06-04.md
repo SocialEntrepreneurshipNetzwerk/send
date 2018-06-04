@@ -9,7 +9,7 @@ description: >-
 
   Wir bauen Brücken zwischen Technologie und Menschlichkeit. Für mehr Engagement
   in der Gesellschaft, in Organisationen und in Unternehmen.
-link: helpteers.net
+link: 'https://helpteers.net/info/'
 image: /uploads/helpteers.jpg
 ---
 
