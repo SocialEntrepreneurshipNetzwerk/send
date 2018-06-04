@@ -5,7 +5,7 @@ description: >
 
   Nachhaltigkeit und soziale Themen sind für mich als Designer in der heutigen
   Welt ein muss. 
-link: www.jakconi.com
+link: 'https://www.jakconi.com'
 image: /uploads/jakconi.jpg
 ---
 
