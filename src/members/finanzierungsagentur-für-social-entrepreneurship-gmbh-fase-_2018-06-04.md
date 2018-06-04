@@ -8,7 +8,7 @@ description: >-
   zur Transformation des Finanzierungsmarktes für Sozialunternehmer*innen
   leisten. 
 email: info@fa-se.de
-link: www.fa-se.de
+link: 'https://www.fa-se.de'
 image: /uploads/fase_logo_mitname_rgb_300dpi.jpg
 ---
 
