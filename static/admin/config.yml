@@ -119,13 +119,13 @@ collections:
               {label: "Regionalgruppen", name: "column_1", widget: "object", fields: [
                 {label: "Title", name: "title", widget: "string"},
                 {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "string"},
+                  {label: "Group", name: "row", widget: "markdown"},
                 ]}
               ]},
               {label: "Fachgruppen", name: "column_2", widget: "object", fields: [
                 {label: "Title", name: "title", widget: "string"},
                 {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "string"},
+                  {label: "Group", name: "row", widget: "markdown"},
                 ]}
               ]}
             ]}

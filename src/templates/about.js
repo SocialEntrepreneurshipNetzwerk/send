@@ -14,7 +14,7 @@ export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
   const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
-
+console.log(section_4.column_1)
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
@@ -44,13 +44,13 @@ export default ({ data }) => {
             <div className={styles.column}>
               <p className={styles.column_title}>{section_4.column_1.title}</p>
               <ul>
-                {section_4.column_1.rows.map(( item, index ) => <li key={index}>{item}</li> )}
+                {section_4.column_1.rows.map(( item, index ) => <li key={index}><ReactMarkdown source={item.row}/></li> )}
               </ul>
             </div>
             <div className={styles.column}>
               <p className={styles.column_title}>{section_4.column_2.title}</p>
               <ul>
-                {section_4.column_2.rows.map(( item, index ) => <li key={index}>{item}</li> )}
+                {section_4.column_2.rows.map(( item, index ) => <li key={index}>{item.row}</li> )}
               </ul>
             </div>
           </div>
@@ -93,11 +93,15 @@ export const AbouPageQuery = graphql`
               paragraph
               column_1{
                 title
-                rows
+                rows{
+                  row
+                }
               }
               column_2{
                 title
-                rows
+                rows{
+                  row
+                }
               }
             }
         }
