@@ -5,14 +5,14 @@ import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContai
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-111.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
-import ButtonLoadMore from '../components/cta/ButtonLoadMore';
+import Button from '../components/cta/Button';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Blog extends Component {
-  
+
   state = {
     q: undefined,
     articles: undefined,
@@ -21,7 +21,7 @@ export default class Blog extends Component {
     count: 0,
     suggestion: 0
   };
-  
+
 
   handleUpdateQuery = (e) => {
     const q = e.target.value;
@@ -96,7 +96,7 @@ export default class Blog extends Component {
             </div>
             <TriangleBoxContainer boxes={articles} article={true} size="large"/>
           </section>
-          {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
+          {showLoadMore && <Button loadMore={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
 
         </main>
       </div>

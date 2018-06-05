@@ -5,23 +5,24 @@ import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContai
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-343.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
-import ButtonLoadMore from '../components/cta/ButtonLoadMore';
+import Button from '../components/cta/Button';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Netzwerk extends Component {
-  
+
   state = {
     q: undefined,
     members: undefined,
     offset: 0,
     limit: 12,
     count: 0,
-    suggestion: 0
+    suggestion: 0,
+    view: "list"
   };
-  
+
   suggestMember = (e) => {
     const suggestionArray = this.props.data.allMarkdownRemark.edges.map(i => i.node.frontmatter.title);
     const bias = Array(Math.round(suggestionArray.length/3)).fill("N3XTCODER");
@@ -36,7 +37,7 @@ export default class Netzwerk extends Component {
     const type = "member";
 
     this.suggestMember();
-    
+
     axios({
       method: 'get',
       url: '/api/search',
@@ -50,7 +51,7 @@ export default class Netzwerk extends Component {
   componentDidMount = () => {
     const {q, offset, limit} = this.state;
     const type = "member";
-    
+
     this.suggestMember();
 
     axios({
@@ -107,7 +108,7 @@ export default class Netzwerk extends Component {
             </div>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
-          {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
+          {showLoadMore && <Button loadMore={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
 
           <section className={styles.turquoise_section}>
             <BackgroundTurquoise/>
