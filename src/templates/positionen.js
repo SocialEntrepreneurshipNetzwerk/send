@@ -4,6 +4,7 @@ import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/positionen_minified.jpg';
+import ColumnText from '../components/column-text/ColumnText';
 import ReactMarkdown from 'react-markdown';
 import styles from './positionen.module.css';
 
@@ -17,7 +18,7 @@ export default ({ data }) => {
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
-          <div className={styles.columns}><ReactMarkdown source={section_1.paragraph}/></div>
+          <ColumnText text={section_1.paragraph}/>
         </section>
         <section>
           <h1><span>{section_2.title}</span></h1>

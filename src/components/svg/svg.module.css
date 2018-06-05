@@ -52,3 +52,18 @@ _:-ms-lang(x), .triangle { opacity: 0.6; }
   width: 38px;
   cursor: pointer;
 }
+
+.map {
+  padding: 40px;
+  width: 100%;
+  max-width: 600px;
+  display:block;
+  margin: 0 auto;
+  stroke: deep-blue;
+  fill: paper;
+}
+
+.map path:hover {
+  fill: deep-see-green;
+  transition: all 0.5s ease-out;
+}

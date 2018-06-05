@@ -35,8 +35,11 @@
 }
 
 .footer ul li{
-  list-style: none;
   padding: 10px 0;
+}
+
+.footer ul li:before{
+  content: none;
 }
 
 .footer ul li a, .footer section {

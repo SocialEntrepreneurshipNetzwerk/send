@@ -19,7 +19,7 @@ class TopNav extends Component {
     openIconStyle: styles.iconOpen,
     closeIconStyle: styles.iconHidden
   }
-  
+
   mobileNavClose = (e) => {
     this.setState({
       mobileNavOpen: false,
@@ -28,7 +28,7 @@ class TopNav extends Component {
       closeIconStyle: styles.iconHidden
     })
   }
-  
+
   mobileNavToggle = (e) => {
     if (this.state.mobileNavOpen){
       this.mobileNavClose();
@@ -41,7 +41,7 @@ class TopNav extends Component {
       })
     }
   }
-  
+
   render () {
     return (
       <div>
@@ -71,7 +71,7 @@ class TopNav extends Component {
               <Link to="/blog" activeStyle={activeStyle}>
                   Blog
               </Link>
-            </li>           
+            </li>
           </ul>
           <div className={styles.toggle} onClick={this.mobileNavToggle}>
             <div className={this.state.openIconStyle}>
@@ -83,12 +83,12 @@ class TopNav extends Component {
             <div className={this.state.closeIconStyle}>
             <CloseIcon/>
             </div>
-          </div>    
+          </div>
         </nav>
       </div>
     )
   }
-    
+
 }
 
 export default TopNav;
