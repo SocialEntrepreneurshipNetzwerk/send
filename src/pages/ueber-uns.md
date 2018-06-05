@@ -37,15 +37,14 @@ section_3:
 section_4:
   column_1:
     rows:
-      - Brandenburg
-      - Thüringen
-      - NRW
-      - Niedersachsen
+      - row: Thüringen
+      - row: NRW
+      - row: Niedersachsen
     title: Regionalgruppen
   column_2:
     rows:
-      - Bildung
-      - Energie
+      - row: Bildung
+      - row: Energie
     title: Fachgruppen
   paragraph: >-
     SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
@@ -55,4 +54,3 @@ section_4:
     Auswahl von Ansprechpartner*innen der Gruppen findet Ihr hier.
   title: Wie wir arbeiten
 ---
-

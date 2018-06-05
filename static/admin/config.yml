@@ -118,7 +118,9 @@ collections:
               {label: "Paragraph", name: "paragraph", widget: "markdown"},
               {label: "Regionalgruppen", name: "column_1", widget: "object", fields: [
                 {label: "Title", name: "title", widget: "string"},
-                {label: "Regionalgruppenliste", name: "rows", widget: "list"}
+                {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
+                  {label: "Group", name: "row", widget: "string"},
+                ]}
               ]},
               {label: "Fachgruppen", name: "column_2", widget: "object", fields: [
                 {label: "Title", name: "title", widget: "string"},
