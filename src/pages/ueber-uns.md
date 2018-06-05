@@ -37,10 +37,7 @@ section_3:
 section_4:
   column_1:
     rows:
-      - row: |-
-          *Thüringen*
-
-          we are[ here](https://wikipedia.de/), drop by!
+      - row: Thüringen
       - row: NRW
       - row: Niedersachsen
     title: REGIONALGRUPPEN
@@ -57,4 +54,3 @@ section_4:
     Auswahl von Ansprechpartner*innen der Gruppen findet Ihr hier.
   title: Wie wir arbeiten
 ---
-

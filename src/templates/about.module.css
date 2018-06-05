@@ -66,6 +66,8 @@
   font-weight: 700;
   text-align: center;
   padding: 20px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 }
 @media (max-width: break-mobile){
   .column_title{
