@@ -40,7 +40,20 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_4.title}</span></h1>
           <ReactMarkdown source={section_4.paragraph}/>
-          <GermanMap/>
+          <div className={styles.column_wrapper}>
+            <div className={styles.column}>
+              <p className={styles.column_title}>{section_4.column_1.title}</p>
+              <ul>
+                {section_4.column_1.rows.map(( item, index ) => <li key={index}>{item}</li> )}
+              </ul>
+            </div>
+            <div className={styles.column}>
+              <p className={styles.column_title}>{section_4.column_2.title}</p>
+              <ul>
+                {section_4.column_2.rows.map(( item, index ) => <li key={index}>{item}</li> )}
+              </ul>
+            </div>
+          </div>
         </section>
       </main>
     </div>
@@ -78,6 +91,14 @@ export const AbouPageQuery = graphql`
             section_4{
               title
               paragraph
+              column_1{
+                title
+                rows
+              }
+              column_2{
+                title
+                rows
+              }
             }
         }
     }

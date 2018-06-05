@@ -18,5 +18,16 @@ section_3:
       image: /uploads/Markus_Sauerhammer.jpg
 section_4:
   title: Wie wir arbeiten
-  paragraph: Correlation do-gooder compelling framework NGO, living a fully ethical life engaging impact investing. The resistance society rubric gender rights do-gooder; resilient, think tank low-hanging fruit inspiring. Incubator mobilize strategy, vibrant, outcomes granular. Co-creation incubator, capacity building, replicable her body her.
+  paragraph: SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und Vernetzung organisieren wir uns über einen eigenen SLACK – Kanal und tauschen uns virtuell und real in Regional- und Fachgruppen aus. Eine erste Auswahl von Ansprechpartner*innen der Gruppen findet Ihr hier.
+  column_1:
+    title: Regionalgruppen
+    rows:
+     - Brandenburg
+     - Thüringen
+     - NRW
+  column_2:
+    title: Fachgruppen
+    rows:
+      - Bildung
+      - Energie
 ---
