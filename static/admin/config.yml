@@ -117,12 +117,12 @@ collections:
               {label: "Title", name: "title", widget: "string"},
               {label: "Paragraph", name: "paragraph", widget: "markdown"},
               {label: "Regionalgruppen", name: "column_1", widget: "object", fields: [
-                {label: "Title", name:"title", widget: "string"},
-                {label: "Gruppenliste", name:"rows", widget: "list"}
+                {label: "Title", name: "title", widget: "string"},
+                {label: "Regionalgruppenliste", name: "rows", widget: "list"}
               ]},
               {label: "Fachgruppen", name: "column_2", widget: "object", fields: [
-                {label: "Title", name:"title", widget: "string"},
-                {label: "Gruppenliste", name:"rows", widget: "list"}
+                {label: "Title", name: "title", widget: "string"},
+                {label: "Regionalgruppenliste", name: "rows", widget: "list"}
               ]}
             ]}
       - file: "src/pages/positionen.md"
