@@ -91,7 +91,7 @@ export default class Netzwerk extends Component {
 
     const {data} = this.props;
     const {count, offset, limit} = this.state;
-    const showLoadMore = count > (offset + limit);
+    const showLoadMore = this.state.view === "listView" ? count > (offset + limit) : null;
 
     const frontmatter = data.markdownRemark.frontmatter;
     const members = this.state.members || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
