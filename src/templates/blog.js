@@ -96,7 +96,7 @@ export default class Blog extends Component {
             </div>
             <TriangleBoxContainer boxes={articles} article={true} size="large"/>
           </section>
-          {showLoadMore && <Button loadMore={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
+          {showLoadMore && <Button action={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
 
         </main>
       </div>

@@ -20,14 +20,14 @@ export default class Netzwerk extends Component {
     limit: 12,
     count: 0,
     suggestion: 0,
-    view: "list"
+    view: "listView",
+    searchDisabled: false
   };
 
   suggestMember = (e) => {
     const suggestionArray = this.props.data.allMarkdownRemark.edges.map(i => i.node.frontmatter.title);
     const bias = Array(Math.round(suggestionArray.length/3)).fill("N3XTCODER");
     const biasedSuggestion = suggestionArray.concat(bias);
-    console.log(biasedSuggestion)
     this.setState({suggestion: biasedSuggestion[Math.floor(Math.random()*biasedSuggestion.length)] })
   }
 
@@ -82,6 +82,11 @@ export default class Netzwerk extends Component {
     });
   };
 
+  toggleView = (e) => {
+    this.state.view === "listView" ? this.setState({view: "mapView", searchDisabled: true}) : this.setState({view: "listView", searchDisabled: false})
+    console.log(this.state.view)
+  }
+
   render() {
 
     const {data} = this.props;
@@ -92,6 +97,12 @@ export default class Netzwerk extends Component {
     const members = this.state.members || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
     const {clip, section_1, section_2} = frontmatter;
 
+    const toggleLabel = this.state.view === "listView" ? "Kartenansicht" : "Listenansicht"
+    const listView =  <TriangleBoxContainer boxes={members} size="large"/>
+    const mapView =  <div style={{width:"900px", height:"600px", backgroundColor:"#123456"}}></div>
+    const searchStyle = this.state.searchDisabled === false ? styles.search : styles.search_disabled;
+
+
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -101,15 +112,15 @@ export default class Netzwerk extends Component {
             <h1><span>{section_1.title}</span></h1>
             <ReactMarkdown source={section_1.paragraph}/>
             <br/>
-            <div className={styles.search}>
+            <div className={searchStyle}>
               <span> Mitglieder finden: </span>
-              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
+              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} disabled={this.state.searchDisabled} />
               <SearchIcon/>
+              <Button label={toggleLabel} action={this.toggleView}/>
             </div>
-            <TriangleBoxContainer boxes={members} size="large"/>
+            {this.state.view === "listView" ? listView : mapView}
           </section>
-          {showLoadMore && <Button loadMore={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
-
+          {showLoadMore && <Button action={this.handleLoadMore} label={"Mehr anzeigen"} color={"active"}/>}
           <section className={styles.turquoise_section}>
             <BackgroundTurquoise/>
             <div className={styles.turquoise_content}>

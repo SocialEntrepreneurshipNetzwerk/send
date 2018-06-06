@@ -12,18 +12,27 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: flex-start;
   width:100%;
-  max-width: 700px;
+  max-width: 850px;
   margin: 20px 0;
 }
+.search_disabled{
+  composes: search;
+}
 
-.search span {
+.search span, .search_disabled span {
   font-size: 28px;
   padding: 20px 20px 20px 0;
 }
+.search_disabled span {
+  color: grey;
+}
 
-.search input {
+.search input, .search_disabled input  {
   flex-grow: 1;
+  flex-shrink:0;
+  flex-basis: 300px;
   border-style: solid;
   border-color: deep-blue;
   background-color: paper;
@@ -34,6 +43,9 @@
   font-weight: 500;
   padding: 10px;
 }
+.search_disabled input {
+  border-color: grey;
+}
 
 .search input::placeholder{
   font-size: 18px;
@@ -41,10 +53,13 @@
   opacity: 1;
 }
 
-.search svg{
+.search svg, .search_disabled svg {
   position: relative;
   right: 35px;
   fill: deep-blue;
+}
+.search_disabled svg {
+  fill: grey;
 }
 
 .boxes{

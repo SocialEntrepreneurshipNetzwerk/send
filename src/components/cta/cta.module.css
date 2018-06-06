@@ -29,6 +29,7 @@
   border-width: 2px;
   text-align: center;
   vertical-align: middle;
+  line-height: 1;
   font-size: 16px;
   font-weight: 700;
   padding: 20px 40px ;
@@ -61,4 +62,20 @@
   background-color: white;
   border-color: null;
   color: aqua;
+}
+.button_blue {
+  composes: button;
+  width: 150px;
+  min-width: unset;
+  height: 40px;
+  margin: 20px 0;
+  padding: 10px 0;
+  color: deep-blue;
+  border-color: deep-blue;
+}
+.button_blue:hover{
+  transition: all 0.1s;
+  border-color: null;
+  color: paper;
+  background-color: deep-blue;
 }
