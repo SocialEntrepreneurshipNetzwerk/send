@@ -21,7 +21,6 @@ export default class Netzwerk extends Component {
     count: 0,
     suggestion: 0,
     view: "listView",
-    searchDisabled: false
   };
 
   suggestMember = (e) => {
@@ -83,7 +82,7 @@ export default class Netzwerk extends Component {
   };
 
   toggleView = (e) => {
-    this.state.view === "listView" ? this.setState({view: "mapView", searchDisabled: true}) : this.setState({view: "listView", searchDisabled: false})
+    this.state.view === "listView" ? this.setState({view: "mapView"}) : this.setState({view: "listView"})
     console.log(this.state.view)
   }
 
@@ -99,8 +98,14 @@ export default class Netzwerk extends Component {
 
     const toggleLabel = this.state.view === "listView" ? "Kartenansicht" : "Listenansicht"
     const listView =  <TriangleBoxContainer boxes={members} size="large"/>
-    const mapView =  <div style={{width:"900px", height:"600px", backgroundColor:"#123456"}}></div>
-    const searchStyle = this.state.searchDisabled === false ? styles.search : styles.search_disabled;
+    const mapView =  (
+      <div className={styles.map}>
+        <iframe  src={"https://www.kartevonmorgen.org/#/?center=52.002,9.099&zoom=7.23&search=%23send-ev"}>
+          <a href={"http://kartevonmorgen.org/"} target={"_blank"}>zur karte</a>
+        </iframe>
+      <a href={"https://www.kartevonmorgen.org"} target={"_blank"}>Große Karte öffnen</a>
+      </div>)
+    const searchStyle = this.state.view === "listView" ? styles.search : styles.search_disabled;
 
 
     return (
@@ -114,9 +119,11 @@ export default class Netzwerk extends Component {
             <br/>
             <div className={searchStyle}>
               <span> Mitglieder finden: </span>
-              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} disabled={this.state.searchDisabled} />
+              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
-              <Button label={toggleLabel} action={this.toggleView}/>
+              <div className={styles.view_toggle_button}>
+                <Button label={toggleLabel} action={this.toggleView}/>
+              </div>
             </div>
             {this.state.view === "listView" ? listView : mapView}
           </section>

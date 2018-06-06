@@ -65,7 +65,7 @@
 }
 .button_blue {
   composes: button;
-  width: 150px;
+  width: 180px;
   min-width: unset;
   height: 40px;
   margin: 20px 0;
