@@ -14,7 +14,7 @@ export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
   const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
-console.log(section_4.column_1)
+
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>

@@ -12,7 +12,7 @@ import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Netzwerk extends Component {
-  
+
   state = {
     q: undefined,
     members: undefined,
@@ -21,12 +21,11 @@ export default class Netzwerk extends Component {
     count: 0,
     suggestion: 0
   };
-  
+
   suggestMember = (e) => {
     const suggestionArray = this.props.data.allMarkdownRemark.edges.map(i => i.node.frontmatter.title);
     const bias = Array(Math.round(suggestionArray.length/3)).fill("N3XTCODER");
     const biasedSuggestion = suggestionArray.concat(bias);
-    console.log(biasedSuggestion)
     this.setState({suggestion: biasedSuggestion[Math.floor(Math.random()*biasedSuggestion.length)] })
   }
 
@@ -36,7 +35,7 @@ export default class Netzwerk extends Component {
     const type = "member";
 
     this.suggestMember();
-    
+
     axios({
       method: 'get',
       url: '/api/search',
@@ -50,7 +49,7 @@ export default class Netzwerk extends Component {
   componentDidMount = () => {
     const {q, offset, limit} = this.state;
     const type = "member";
-    
+
     this.suggestMember();
 
     axios({
