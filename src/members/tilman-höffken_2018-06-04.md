@@ -5,7 +5,7 @@ description: >-
   auticon, querstadtein und inzwischen bei Salesforce.ORG. Mir macht es Spaß,
   Social Businesses zu professionaliseren und weiterzuentwickeln.
 email: thoeffken@salesforce.com
-link: 'www.social-business-lunch.com '
+link: 'https://www.social-business-lunch.com '
 image: /uploads/tilman-hoeffken.png
 ---
 
