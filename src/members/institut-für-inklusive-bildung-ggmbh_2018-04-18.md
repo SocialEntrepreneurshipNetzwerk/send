@@ -9,7 +9,7 @@ description: >-
   mit Behinderungen. In den nächsten Jahren wollen wir an 10 Hochschulen in
   Deutschland 60 Qualifizierungsplätze schaffen. 
 email: mayrhofer@inklusive-bildung.org
-link: 'www.inklusive-bildung.org '
+link: 'https://inklusive-bildung.org/de/startseite'
 image: /uploads/institut_inklusivebildung_rz_logo_rgb-neu.png
 ---
 
