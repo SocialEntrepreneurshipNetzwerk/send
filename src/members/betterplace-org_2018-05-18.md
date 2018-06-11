@@ -9,7 +9,7 @@ description: >-
   konkret dar und berichtet regelmäßig per Text, Foto und Video über die
   Fortschritte vor Ort. 
 email: marketing@betterplace.org
-link: 'betterplace.org '
+link: 'https://www.betterplace.org/de'
 image: /uploads/betterplace_logo_3c-screen-.jpg
 ---
 
