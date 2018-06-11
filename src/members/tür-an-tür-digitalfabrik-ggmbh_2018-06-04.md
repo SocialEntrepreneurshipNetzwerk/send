@@ -8,7 +8,7 @@ description: >-
   verschiedenen Kommunen zur Kommunikation mit neuzugewanderten Bürgerinnen und
   Bürgern genutzt wird.
 email: ''
-link: www.tuerantuer.de/digitalfabrik
+link: 'https://tuerantuer.de/'
 image: /uploads/tat_df_logo.png
 ---
 
