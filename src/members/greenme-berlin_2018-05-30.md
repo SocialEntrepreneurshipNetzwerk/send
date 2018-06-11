@@ -6,7 +6,7 @@ description: >-
   durch Touren, Podcasts, Maps & Online Guides unterstützen wir die Held*innen
   der urbanen Szene.
 email: 'hello@greenmeberlin.com '
-link: 'www.greenmeberlin.com '
+link: 'http://www.greenmeberlin.com/'
 image: /uploads/gmb_1600x1000_visual3.png
 ---
 
