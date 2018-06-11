@@ -7,7 +7,7 @@ description: >-
   bietet z.B. unser Investment „awamo“ eine einfache Softwarelösung für
   Mikrofinanzanbieter*innen in Uganda an.
 email: 'jochen@brainweb.de '
-link: 'www.brainweb.de '
+link: 'https://www.brainweb.de '
 image: /uploads/brainweb_800x500_transparent.png
 ---
 
