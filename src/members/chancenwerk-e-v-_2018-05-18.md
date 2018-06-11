@@ -5,7 +5,7 @@ description: >-
   Verein unterstützt mit seiner Lernförderung Kinder und Jugendliche in ihrer
   schulischen und individuellen Entwicklung.
 email: kontakt@chancenwerk.org
-link: www.chancenwerk.org
+link: 'https://www.chancenwerk.de/'
 image: /uploads/chancenwerk.jpg
 ---
 
