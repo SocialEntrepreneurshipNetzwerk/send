@@ -9,7 +9,7 @@ description: >-
   notwendige Informationen aus der Fülle der Ratgeber filtern und so mehr
   wertvolle Zeit für sich selbst und die ganze Familie zu garantieren.
 email: hallo@hebabox.de
-link: www.hebabox.de
+link: 'https://www.hebabox.de'
 image: /uploads/send_hebabox_titellogo.png
 ---
 
