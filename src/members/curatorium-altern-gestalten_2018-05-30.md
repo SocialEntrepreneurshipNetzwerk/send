@@ -7,7 +7,7 @@ description: >-
   transferieren und evaluieren gerontologische und interdisziplinäre
   Zukunftsprojekte. 
 email: info@alterngestalten.de
-link: www.alterngestalten.de
+link: 'https://www.alterngestalten.de/'
 image: /uploads/agecu-mit-bild.png
 ---
 
