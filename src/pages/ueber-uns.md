@@ -10,7 +10,7 @@ section_2:
   paragraph: >-
     Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
     die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
-    und arbeitet ehrenamtlich. 
+    und arbeitet ehrenamtlich.
 
 
     Markus Sauerhammer (1. Vorsitzender), Birgit Heilig (nicht auf dem Foto),
@@ -23,10 +23,10 @@ section_3:
       name: Katrin Elsemann
       organization: ''
       role: Verbandsleitung
-    - image: /uploads/foto-katharina.jpg
+    - image: /uploads/katharina_osbelt_square.jpg
       name: Katharina Osbelt
       role: Community Management
-    - image: /uploads/send_01.02.18_internet-335.png
+    - image: /uploads/send_01.02.18_internet-335.jpg
       name: Michael Wunsch
       role: Wissenschaftliche Kooperationen
   title: Geschäftsstelle
@@ -56,4 +56,3 @@ section_4:
     Aufbau:
   title: Wie wir arbeiten
 ---
-
