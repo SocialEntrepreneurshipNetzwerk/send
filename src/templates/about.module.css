@@ -18,8 +18,14 @@
   }
 }
 
-.section2 p {
+.section2 p:first-child {
   padding-top: 80px;
+}
+.section2 p {
+  padding-bottom: 40px;
+}
+.section2 p:last-child {
+  padding-bottom: 0px;
 }
 
 .clip_image{
@@ -43,6 +49,7 @@
 .profile_container{
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .column_wrapper{
