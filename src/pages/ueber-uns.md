@@ -44,7 +44,7 @@ section_4:
       - row: Finanzierung
       - row: Politik
       - row: Rechtsform
-      - row: Frauen im Socent
+      - row: Frauen im SocEnt
       - row: Impact
     title: Fachgruppen
   paragraph: >-
