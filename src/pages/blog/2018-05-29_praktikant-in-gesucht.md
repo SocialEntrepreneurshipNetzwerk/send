@@ -3,7 +3,7 @@ templateKey: article
 clip: clip_article
 title: Praktikant*in gesucht
 excerpt: >-
-  Das SEND Team sucht zum nächstmöglichen Zeitpunkt Unterstützung durch eine\*n
+  Das SEND Team sucht in regelmäßigen Abständen Unterstützung durch eine\*n
   Praktikant\*in.
 image: /uploads/send_01.02.18_internet-133.jpg
 date: '2018-05-29'
@@ -15,7 +15,7 @@ Lust eine Welt zu kreieren, in der alle vom Fortschritt profitieren? Du glaubst,
 
 Das Social Entrepreneurship Netzwerk Deutschland ist die Anlaufstelle für das das Thema Social Entrepreneurship in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme. Dies geschieht durch aktives Brückenbauen mit Akteur*innen aus der Politik, Wirtschaft und Wohlfahrt, durch den Aufbau eines schlagkräftigen Netzwerks von Social Entrepreneurs sowie durch wirksame Öffentlichkeitsarbeit. 
 
-Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb zum nächstmöglichen Zeitpunkt eine\*n Praktikant\*in für mindestens 3 Monate, gerne länger. 
+Für unsere Geschäftsstelle in Berlin Mitte suchen wir deshalb in regelmäßigen Abständen eine\*n Praktikant\*in für mindestens 3 Monate, gerne länger. 
 
 **\*\*Deine Aufgaben\*\***
 
