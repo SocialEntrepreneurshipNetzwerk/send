@@ -9,6 +9,6 @@ description: >-
   Jugendhilfe, Hotellerie sowie Landwirtschaft und Food.
 email: 'info@lehmbau.de '
 link: 'https://www.lehmbau.de '
-image: /uploads/augsburger-lehmbaugruppe.png
+image: /uploads/lehmbau-aktuell.jpg
 ---
 
