@@ -29,24 +29,26 @@ section_3:
     - image: /uploads/send_01.02.18_internet-335.jpg
       name: Michael Wunsch
       role: Wissenschaftliche Kooperationen
-  title: Geschäftsstelle
+  title: Team
 section_4:
   column_1:
     rows:
-      - row: Thüringen
-      - row: NRW
-      - row: Niedersachsen
+      - row: Bayern
       - row: Berlin
+      - row: NRW
+      - row: Sachsen-Anhalt
     title: REGIONALGRUPPEN
   column_2:
     rows:
       - row: Bildung
       - row: Finanzierung
-      - row: Politik
-      - row: Rechtsform
       - row: Frauen im SocEnt
       - row: Impact
-    title: Fachgruppen
+      - row: Impact food
+      - row: Politik
+      - row: Rechtsform
+      - row: Tech for good
+    title: Plattformen
   paragraph: >-
     SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
     unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und
