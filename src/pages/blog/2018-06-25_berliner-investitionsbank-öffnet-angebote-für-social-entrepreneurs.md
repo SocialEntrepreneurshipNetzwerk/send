@@ -31,9 +31,7 @@ Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderu
 
 Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop bereits letzte Woche ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft die IBB unterstützen werde, diesen wichtigen Schritt zu gehen.
 
-> _„Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“_
->
->  – so die Wirtschaftssenatorin.
+> _„Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“ _– so die Wirtschaftssenatorin.
 
 ![Ramona Pop (Berliner Bürgermeisterin und Wirtschaftssenatorin)](/uploads/ramona-pop.png)
 
