@@ -25,7 +25,7 @@ Die große Diskrepanz mach deutlich, dass die aktuellen politischen Maßnahmen n
 
 Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als der Vorstandsvorsitzende der Investitionsbank Berlin (IBB), Dr. Jürgen Allerkamp, gestern in einem [Interview](https://www.morgenpost.de/berlin/article214667673/Bei-Mieten-ist-in-Berlin-eine-Obergrenze-erreicht.html) versicherte, die Bank werde ihre Förderangebote speziell um den Bereich des sozialen Unternehmertums erweitern:
 
-> "Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. \[...] Denen möchten wir uns stärker widmen", sagte Herr Allerkamp der Morgenpost. 
+> "Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. \[...] Denen möchten wir uns stärker widmen", sagte Herr Dr. Allerkamp der Morgenpost. 
 
 ![Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin)](/uploads/dr.-jürgen-allerkamp.png)
 
