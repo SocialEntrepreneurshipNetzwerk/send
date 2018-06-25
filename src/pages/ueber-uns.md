@@ -3,7 +3,21 @@ templateKey: about
 clip: clip_positionen
 title: Über uns
 section_1:
-  paragraph: "In Deutschland werden technologische Innovationen auf breiter Basis gefördert- soziale und gesellschaftliche Innovationen bleiben größtenteils sich selbst überlassen. Das muss sich ändern. Deutschland soll und kann wieder eine führende Position einnehmen, wenn es darum geht, bahnbrechende, systemische Lösungen für gesamtgesellschaftliche Probleme zu finden. \r\n\nUm Sozialunternehmer*innen zu stärken und soziale Innovationen mit dem erforderlichen Nachdruck voranzutreiben, hat sich im Dezember 2016 unter dem Dach vom Bundesverband Deutsche Startups e.V. (BVDS) eine Arbeitsgruppe zu Social Entrepreneurship gebildet. Im Juni 2017 haben diese Akteure das Social Entrepreneurship Netzwerk Deutschland e.V. gegründet. Im September 2017 konnten wir dank einer erfolgreichen Crowdfundinkampagne den Aufbau eines schlagkräftigen Netzwerks starten."
+  paragraph: >-
+    In Deutschland werden technologische Innovationen auf breiter Basis
+    gefördert- soziale und gesellschaftliche Innovationen bleiben größtenteils
+    sich selbst überlassen. Das muss sich ändern. Deutschland soll und kann
+    wieder eine führende Position einnehmen, wenn es darum geht, bahnbrechende,
+    systemische Lösungen für gesamtgesellschaftliche Probleme zu finden. 
+
+
+    Um Sozialunternehmer*innen zu stärken und soziale Innovationen mit dem
+    erforderlichen Nachdruck voranzutreiben, hat sich im Dezember 2016 unter dem
+    Dach vom Bundesverband Deutsche Startups e.V. (BVDS) eine Arbeitsgruppe zu
+    Social Entrepreneurship gebildet. Im Juni 2017 haben diese Akteure das
+    Social Entrepreneurship Netzwerk Deutschland e.V. gegründet. Im September
+    2017 konnten wir dank einer erfolgreichen Crowdfundingkampagne den Aufbau
+    eines schlagkräftigen Netzwerks starten.
   title: Gründungsgeschichte
 section_2:
   image: /uploads/sam_2102.jpg
