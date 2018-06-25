@@ -23,7 +23,13 @@ Die große Diskrepanz mach deutlich, dass die aktuellen politischen Maßnahmen n
 **Berlin nimmt Vorreiterrolle ein
 **
 
-Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als die Berliner Bürgermeisterin und Wirtschaftssenatorin Ramona Pop letzte Woche verkündete ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft gemeinsam mit der Investitionsbank Berlin (IBB) darauf hinarbeitet, die Förderangebote speziell um den Bereich des sozialen Unternehmertums zu erweitern.
+Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als der Vorstandsvorsitzende der Investitionsbank Berlin (IBB), Dr. Jürgen Allerkamp, gestern in einem [Interview](https://www.morgenpost.de/berlin/article214667673/Bei-Mieten-ist-in-Berlin-eine-Obergrenze-erreicht.html) versicherte, die Bank werde ihre Förderangebote speziell um den Bereich des sozialen Unternehmertums erweitern:
+
+> "Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. \[...] Denen möchten wir uns stärker widmen", sagte Herr Allerkamp der Morgenpost. 
+
+![Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin)](/uploads/dr.-jürgen-allerkamp.png)
+
+Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop letzte Woche ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft die IBB unterstützen werde, diesen wichtigen Schritt zu gehen.
 
 > _„Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“_
 >
