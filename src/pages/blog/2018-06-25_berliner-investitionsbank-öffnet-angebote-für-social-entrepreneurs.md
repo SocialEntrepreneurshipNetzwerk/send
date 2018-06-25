@@ -11,7 +11,8 @@ image: /uploads/architektur-berlin-gebaude-109630.jpg
 date: '2018-06-25'
 category: news
 ---
-**Social Entrepreneurship: Stiefkind der deutschen Politik**
+**Social Entrepreneurship: Stiefkind der deutschen Politik
+**
 
 Wer sich häufig mit Social Entrepreneurs austauscht oder selbst eine*r ist, weiß, dass die politischen Rahmenbedingungen für diesen Bereich in Deutschland problematisch und defizitär sind. In der Studie [„The best Place to be a Social Entrepreneur 2016“](http://poll2016.trust.org/methodology/) hat die Thomson Reuters Foundation die 45 wirtschaftlich stärksten Länder daraufhin untersucht, wie sie als Standort für Social Enterprises dienen.
 
@@ -19,11 +20,20 @@ Deutschland belegt in der Gesamtrangliste den 12. Platz. Schaut man sich jedoch 
 
 Die große Diskrepanz mach deutlich, dass die aktuellen politischen Maßnahmen nicht mit den gesellschaftlichen Wertevorstellungen und Bedürfnissen Schritt halten. Eine Übersicht der wichtigsten Forderungen von Social Entrepreneurs haben wir in einem [Positionspapier](https://www.send-ev.de/positionen/) zusammengestellt.
 
-**Berlin nimmt Vorreiterrolle ein**
+**Berlin nimmt Vorreiterrolle ein
+**
 
-Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als die Berliner Bürgermeisterin und Wirtschaftssenatorin Ramona Pop letzte Woche verkündete ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft gemeinsam mit der Investitionsbank Berlin (IBB) darauf hinarbeitet, die Förderangebote speziell um den Bereich des sozialen Unternehmertums zu erweitern.
+Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als der Vorstandsvorsitzende der Investitionsbank Berlin (IBB), Dr. Jürgen Allerkamp, gestern in einem [Interview](https://www.morgenpost.de/berlin/article214667673/Bei-Mieten-ist-in-Berlin-eine-Obergrenze-erreicht.html) offiziell versicherte, die Bank werde ihre Förderangebote speziell um den Bereich des sozialen Unternehmertums erweitern:
 
-_„Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“_ – so die Wirtschaftssenatorin.
+> "Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. \[...] Denen möchten wir uns stärker widmen", sagte Herr Dr. Allerkamp der Morgenpost. 
+
+![Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin)](/uploads/dr.-jürgen-allerkamp.png)
+
+Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop bereits letzte Woche ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft die IBB unterstützen werde, diesen wichtigen Schritt zu gehen.
+
+> _„Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“_
+>
+>  – so die Wirtschaftssenatorin.
 
 ![Ramona Pop (Berliner Bürgermeisterin und Wirtschaftssenatorin)](/uploads/ramona-pop.png)
 
