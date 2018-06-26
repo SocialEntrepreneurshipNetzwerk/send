@@ -50,7 +50,6 @@ section_4:
       - row: Bayern
       - row: Berlin
       - row: NRW
-      - row: Sachsen-Anhalt
     title: REGIONALGRUPPEN
   column_2:
     rows:
@@ -61,7 +60,6 @@ section_4:
       - row: Impact food
       - row: Politik
       - row: Rechtsform
-      - row: Tech for good
     title: Plattformen
   paragraph: >-
     SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
