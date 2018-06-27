@@ -1,0 +1,11 @@
+---
+title: 'RefJobs gUG '
+description: >-
+  RefJobs ist eine Handy-App für die Jobvermittlung an Flüchtlinge in
+  Deutschland. Die Nutzung ist kostenlos für Bewerber*innen und alle Jobangebote
+  im Jobboard sind für Flüchtlinge offen.
+email: konstantin.pfeifer@refjobs.net
+link: 'http://www.refjobs.net/'
+image: /uploads/refjobs-logo.png
+---
+
