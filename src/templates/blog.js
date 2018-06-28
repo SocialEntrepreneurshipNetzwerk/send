@@ -118,7 +118,7 @@ export const BlogQuery = graphql`
             }
         }
     }
-    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog\//"}}) {
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog\//"}}, sort:{fields:[frontmatter___date], order: DESC}) {
       edges {
         node {
           fields {
