@@ -116,16 +116,14 @@ export const BlogQuery = graphql`
             }
         }
     }
-    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog/"}}) {
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog\//"}}) {
       edges {
         node {
           fields {
             slug
           }
           frontmatter{
-            section_1{
-              title
-            }
+            title
             excerpt
             date (formatString: "DD.MM.YYYY")
             category
