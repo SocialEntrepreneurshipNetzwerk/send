@@ -46,3 +46,8 @@
 .article li:last-child{
   padding-bottom: 10px;
 }
+
+.article img {
+  padding: 10px 25px;
+  float: right;
+}
