@@ -18,7 +18,7 @@ export default ({ data }) => {
           <article className={styles.article}>
             <h1>{title}</h1>
             <h3>{date} | {category}</h3>
-            <div dangerouslySetInnerHTML={{ __html: content }}>
+            <div className={styles.flexContent} dangerouslySetInnerHTML={{ __html: content }}>
             </div>
           </article>
         </section>

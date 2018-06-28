@@ -17,5 +17,6 @@
 @value break-boxes: 1200px;
 @value break-main-padding: 980px;
 @value break-mobile: 768px;
+@value break-tiny: 520px;
 @value mobile-padding: 12%;
 @value mobile-padding-nav: 5%;
