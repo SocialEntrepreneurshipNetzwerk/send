@@ -7,12 +7,11 @@ import topImage from '../img/SEND_01.02.18_Internet-111.jpg';
 import BackgroundTurquoise from '../components/svg/BackgroundTurquoise';
 import ButtonLoadMore from '../components/cta/ButtonLoadMore';
 import ButtonCTA from '../components/cta/ButtonCTA';
-import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Blog extends Component {
-  
+
   state = {
     q: undefined,
     articles: undefined,
@@ -21,7 +20,7 @@ export default class Blog extends Component {
     count: 0,
     suggestion: 0
   };
-  
+
 
   handleUpdateQuery = (e) => {
     const q = e.target.value;
