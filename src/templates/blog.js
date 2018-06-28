@@ -12,7 +12,7 @@ import SearchIcon from '../components/svg/SearchIcon';
 import styles from './netzwerk.module.css';
 
 export default class Blog extends Component {
-  
+
   state = {
     q: undefined,
     articles: undefined,
@@ -21,7 +21,7 @@ export default class Blog extends Component {
     count: 0,
     suggestion: 0
   };
-  
+
 
   handleUpdateQuery = (e) => {
     const q = e.target.value;
@@ -77,10 +77,12 @@ export default class Blog extends Component {
     const showLoadMore = count > (offset + limit);
 
     const frontmatter = data.markdownRemark.frontmatter;
-    const articles = this.state.articles || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+    const graphqlArticleFrontmatter = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+    const graphqlArticleSlugs = data.allMarkdownRemark.edges.map(i=>i.node.fields.slug);
+    const graphqlArticle = graphqlArticleFrontmatter.map((i,index)=>{return {...i, slug: graphqlArticleSlugs[index]}})
+    const articles = this.state.articles || graphqlArticle;
     const clip = frontmatter.clip;
     const title = frontmatter.section_1.title
-
 
     return (
       <div>
@@ -116,16 +118,14 @@ export const BlogQuery = graphql`
             }
         }
     }
-    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog/"}}) {
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/pages/blog\//"}}, sort:{fields:[frontmatter___date], order: DESC}) {
       edges {
         node {
           fields {
             slug
           }
           frontmatter{
-            section_1{
-              title
-            }
+            title
             excerpt
             date (formatString: "DD.MM.YYYY")
             category
