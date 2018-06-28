@@ -46,3 +46,40 @@
 .article li:last-child{
   padding-bottom: 10px;
 }
+
+.article img {
+  width: 100%;
+}
+
+.flexContent {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.flexContent blockquote {
+  width: 70%;
+  padding: 20px 10px 20px 40px;
+  font-style: italic;
+}
+@media (max-width: break-tiny){
+  .flexContent blockquote {
+    width:100%;
+    padding: 10px;
+  }
+}
+
+.flexContent blockquote+p {
+  width: 28%;
+  max-width: 150px;
+}
+@media (max-width: break-tiny){
+  .flexContent blockquote+p{
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+.flexContent blockquote+p img {
+  width: 100%;
+}
