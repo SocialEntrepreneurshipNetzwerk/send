@@ -36,3 +36,15 @@ Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop berei
 Für den Social Entrepreneurship Sektor ist dies ein wichtiger Schritt, der die Stärken des Berliner Standortes weiter ausbaut. Trotz der schwierigen Rahmenbedingungen auf Bundesebene hat sich Berlin zu einem der fünf globalen Hotspots für das Thema entwickelt ([Studie der Thomson Reuters Foundation](http://poll2016.trust.org/i/?id=3756424f-20e1-4c3b-b70a-10fcb2fba73c)).
 
 SEND sieht diesen Schritt der IBB und des Berliner Senates als einen wichtigen Impuls für weitere Akteur*innen auf Landes- und Bundesebene, um gemeinsam auf einen Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit hinzuarbeiten. Social Entrepreneurs fokussieren sich nicht nur auf eine nachhaltige Lösung unserer gesellschaftlichen Herausforderungen, sondern arbeiten an einem Fortschritt, von dem die Gesellschaft als Ganzes profitiert.
+
+```
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Senatorin <a href="https://twitter.com/RamonaPop?ref_src=twsrc%5Etfw">@RamonaPop</a>: Wir unterstützen die <a href="https://twitter.com/PR_ibb?ref_src=twsrc%5Etfw">@PR_ibb</a>, ihre Förderprogramme auch für <a href="https://twitter.com/hashtag/Berlin?src=hash&amp;ref_src=twsrc%5Etfw">#Berlin</a>|er Sozialunternehmen zu öffnen. Die Social Entrepreneurs leisten wichtigen Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, <a href="https://twitter.com/hashtag/Umwelt?src=hash&amp;ref_src=twsrc%5Etfw">#Umwelt</a> oder <a href="https://twitter.com/hashtag/Nachhaltigkeit?src=hash&amp;ref_src=twsrc%5Etfw">#Nachhaltigkeit</a>. <a href="https://twitter.com/hashtag/r2g?src=hash&amp;ref_src=twsrc%5Etfw">#r2g</a> <a href="https://t.co/hYUS2LzZNJ">https://t.co/hYUS2LzZNJ</a></p>&mdash; Senatsverwaltung für Wirtschaft, Energie, Betriebe (@SenWiEnBe) <a href="https://twitter.com/SenWiEnBe/status/1010841104537841664?ref_src=twsrc%5Etfw">June 24, 2018</a></blockquote>
+```
+
+```
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+```
+
+```
