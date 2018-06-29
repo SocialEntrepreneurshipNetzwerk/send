@@ -36,3 +36,17 @@ Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop berei
 Für den Social Entrepreneurship Sektor ist dies ein wichtiger Schritt, der die Stärken des Berliner Standortes weiter ausbaut. Trotz der schwierigen Rahmenbedingungen auf Bundesebene hat sich Berlin zu einem der fünf globalen Hotspots für das Thema entwickelt ([Studie der Thomson Reuters Foundation](http://poll2016.trust.org/i/?id=3756424f-20e1-4c3b-b70a-10fcb2fba73c)).
 
 SEND sieht diesen Schritt der IBB und des Berliner Senates als einen wichtigen Impuls für weitere Akteur*innen auf Landes- und Bundesebene, um gemeinsam auf einen Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit hinzuarbeiten. Social Entrepreneurs fokussieren sich nicht nur auf eine nachhaltige Lösung unserer gesellschaftlichen Herausforderungen, sondern arbeiten an einem Fortschritt, von dem die Gesellschaft als Ganzes profitiert.
+
+
+
+```
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>
+```
+
+```
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+```
+
+```
