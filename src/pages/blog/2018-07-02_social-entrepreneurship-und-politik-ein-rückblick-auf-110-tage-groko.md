@@ -66,9 +66,8 @@ Ganz anders sieht es z.B. bei unseren Nachbarn in Frankreich aus: Zuvor wurde be
 
 Treiber des aktuellen Veränderungsprozesses ist die Digitalisierung. Wir haben es begrüßt, als mit Dorothee Bär im Bundeskanzleramt eine eigene Staatsministerin und Beauftragte der Bundesregierung für Digitalisierung berufen wurde. Auch die Einberufung ihres „[Innovation Council](https://www.bundesregierung.de/Content/DE/Pressemitteilungen/BPA/2018/05/2018-05-17-digitalisierung-innovation-council.html)" sehen wir als wichtigen Schritt für den Aufbau einer ganzheitlichen Digitalisierungsstrategie. Dann kommt das groß ABER: Die Zusammensetzung des „Innovation Council" würde bestenfalls einem Beirat des Wirtschaftsministeriums gerecht. Auf unsere Kritik reagierte Dorothee Bär prompt:
 
-![Innovation Council](/uploads/dorothee-bär.png)
-
-[Quelle](https://twitter.com/DoroBaer/status/997411961037053952)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Nach dieser Ankündigung haben wir eine E-Mail mit dem Angebot für einen Dialog geschrieben. Die Antwort aus Ihrem Büro: „Frau Staatsministerin Bär wird es zeitlich nicht einrichten können, einen Dialog zu führen. Sie bittet hierfür um Verständnis."
 
@@ -82,9 +81,10 @@ Die bisherigen Aktivitäten zeigen, dass Soziale Innovationen und Social Entrepr
 
 Direkt bei seinem Amtsantritt hat Peter Altmaier eine Renaissance der Sozialen Marktwirtschaft angekündigt. 
 
-![Peter Altmaier](/uploads/peter-altmaier.png)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">&quot;Wir wollen die <a href="https://twitter.com/hashtag/SozialeMarktwirtschaft?src=hash&amp;ref_src=twsrc%5Etfw">#SozialeMarktwirtschaft</a> zu einem Erfolgsschlager weltweit machen, zu einem Exportartikel ‚Made in Germany‘“ - BM <a href="https://twitter.com/peteraltmaier?ref_src=twsrc%5Etfw">@PeterAltmaier</a> heute in der <a href="https://twitter.com/hashtag/Regierungserkl%C3%A4rung?src=hash&amp;ref_src=twsrc%5Etfw">#Regierungserklärung</a> zur Wirtschafts- und Energiepolitik im <a href="https://twitter.com/hashtag/Bundestag?src=hash&amp;ref_src=twsrc%5Etfw">#Bundestag</a> <a href="https://twitter.com/hashtag/KraftzentrumBMWi?src=hash&amp;ref_src=twsrc%5Etfw">#KraftzentrumBMWi</a> <a href="https://t.co/3GzsX3WQV7">pic.twitter.com/3GzsX3WQV7</a></p>&mdash; BMWi Bund (@BMWi_Bund) <a href="https://twitter.com/BMWi_Bund/status/976820400331083776?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Quelle](https://twitter.com/BMWi_Bund/status/976820400331083776)
+
 
 Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als eine Fortschreibung unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Dies unterstreicht auch das [parteiübergreifende Thesenpapier zur Zukunft der Sozialen Marktwirtschaft](http://www.progressives-zentrum.org/thesepapier-inklusives-wachstum-fuer-eine-neue-verbindung-von-zukunftsgerichteter-produktivitaet-und-sozialer-teilhabe/) vom Progressiven Zentrum und der Bertelsmann Stiftung. Ein lebendiger Social Entrepreneurship Sektor zahlt nicht nur auf die Realisierung mehrerer der genannten Punkte ein, sondern wird unter These 11 als eigener Baustein aufgeführt: 
 
