@@ -51,7 +51,7 @@ section_2:
         werden. Dafür sind viele Ressourcen und eine entsprechende Infrastruktur
         nötig. Durch SEND werden die Kräfte gebündelt.”
       email: info@good-profits.de
-      image: /uploads/sebastian.jpg
+      image: /uploads/1600x1000_si_logo_mit-claim.png
       name: Sebastian Grothaus
       project: Good Profits GmbH
     - description: >-
@@ -68,7 +68,7 @@ section_2:
         zu können und mehr positive soziale Fortschritte zu erreichen, als es
         ein einzelnes Sozialunternehmen alleine kann.”
       email: kontakt@chancenwerk.org
-      image: /uploads/murat-vural.jpg
+      image: /uploads/1600x1000_si_logo_mit-claim.png
       name: Murat Vural
       project: Chancenwerk e.V.
 ---
