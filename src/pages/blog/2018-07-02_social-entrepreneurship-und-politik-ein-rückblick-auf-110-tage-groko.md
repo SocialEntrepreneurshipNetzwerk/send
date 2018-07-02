@@ -41,10 +41,9 @@ Sieht man sich den aktuellen Koalitionsvertrag der Bundesregierung an, scheint e
 >
 > _„Wir wollen Open-Innovation-Ansätze, **soziale Innovationen** sowie inter- und transdisziplinäre Ansätze fördern und Experimentierräume einrichten, um innovative technische Systeme und neue Geschäftsmodelle zu erproben."_
 >
-> _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. \[...] **Soziale Innovationen** haben unsere Unterstützung."_
+> _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. [...] **Soziale Innovationen** haben unsere Unterstützung."_
 >
 > _„Um diese Kultur des zivilgesellschaftlichen Engagements und des Ehrenamts zu fördern und zu stärken, wollen wir den_
->
 > * _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
 > * _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
 
