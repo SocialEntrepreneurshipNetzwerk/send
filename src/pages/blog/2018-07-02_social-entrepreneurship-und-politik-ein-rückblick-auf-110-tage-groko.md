@@ -90,6 +90,8 @@ Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als ein
 
 > _„Viele neue, junge GründerInnen verstehen sich als Social Entrepreneurs und verschieben bewusst die Grenze zwischen Non-Profit und Profit, indem sie die problemlösende, gesellschaftliche Wirkung in den Vordergrund stellen. Eine Öffnung der traditionellen Förderstrukturen für solche Start-Ups würde helfen, dieses unternehmerische und gesellschaftliche Potential besser auszuschöpfen."_
 
+
+
 Nach Amtsantritt von Peter Altmaier haben wir den Dialog zu ihm gesucht. Bei der Überreichung unseres [Positionspapiers](https://www.send-ev.de/positionen) beim Startup Camp (12.04.) hat er zugesichert, dass wir eine Antwort bekommen. Doch trotz mehrmaliger Versuche haben wir bisher keine Reaktion aus dem Wirtschaftsministerium erhalten.
 
 Dies ist schade, gerade weil die Potenziale für eine Fokussierung auf den gesamtgesellschaftlichen Fortschritt enorm sind. Wie ein erster Schritt aussehen könnte, zeigen Berliner Wirtschaftssenat und die Investitionsbank Berlin. Als erstes Bundesland möchte man dort die Förderprogramme der gewerblichen Wirtschaft auch für Social Entrepreneurs und Soziale Innovationen öffnen! 
