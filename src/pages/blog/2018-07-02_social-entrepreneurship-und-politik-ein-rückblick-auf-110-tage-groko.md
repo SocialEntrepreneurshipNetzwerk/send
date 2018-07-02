@@ -44,9 +44,9 @@ Sieht man sich den aktuellen Koalitionsvertrag der Bundesregierung an, scheint e
 > _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. \[...] **Soziale Innovationen** haben unsere Unterstützung."_
 >
 > _„Um diese Kultur des zivilgesellschaftlichen Engagements und des Ehrenamts zu fördern und zu stärken, wollen wir den_
->
-> * _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
-> * _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
+
+* > _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
+* > _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
 
 Große Vorhaben der großen Koalition! Der komplette Social Entrepreneurship Sektor hat die Bundesregierung dafür gefeiert. Die Zukunft wird aber nicht herbeigeschrieben oder -geredet, sondern kommt vom konkreten Handeln. Was wurde in den ersten 100 Tagen realisiert?
 
@@ -70,6 +70,12 @@ Treiber des aktuellen Veränderungsprozesses ist die Digitalisierung. Wir haben 
 
 [Quelle](https://twitter.com/DoroBaer/status/997411961037053952)
 
+`<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>`
+
+`<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+
+
+
 Nach dieser Ankündigung haben wir eine E-Mail mit dem Angebot für einen Dialog geschrieben. Die Antwort aus Ihrem Büro: „Frau Staatsministerin Bär wird es zeitlich nicht einrichten können, einen Dialog zu führen. Sie bittet hierfür um Verständnis."
 
 Es fällt ehrlich gesagt schwer Verständnis aufzubringen, wenn im Bundeskanzleramt die Prioritäten bei der Digitalisierung alleine auf den ökonomischen Kontext reduziert werden. Wie will man mit dieser Strategie die Gesellschaft für die digitale Transformation begeistern? Wie will man das Versprechen einer sozialen Marktwirtschaft in die digitale Zeit tragen? 
@@ -89,8 +95,6 @@ Direkt bei seinem Amtsantritt hat Peter Altmaier eine Renaissance der Sozialen M
 Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als eine Fortschreibung unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Dies unterstreicht auch das [parteiübergreifende Thesenpapier zur Zukunft der Sozialen Marktwirtschaft](http://www.progressives-zentrum.org/thesepapier-inklusives-wachstum-fuer-eine-neue-verbindung-von-zukunftsgerichteter-produktivitaet-und-sozialer-teilhabe/) vom Progressiven Zentrum und der Bertelsmann Stiftung. Ein lebendiger Social Entrepreneurship Sektor zahlt nicht nur auf die Realisierung mehrerer der genannten Punkte ein, sondern wird unter These 11 als eigener Baustein aufgeführt: 
 
 > _„Viele neue, junge GründerInnen verstehen sich als Social Entrepreneurs und verschieben bewusst die Grenze zwischen Non-Profit und Profit, indem sie die problemlösende, gesellschaftliche Wirkung in den Vordergrund stellen. Eine Öffnung der traditionellen Förderstrukturen für solche Start-Ups würde helfen, dieses unternehmerische und gesellschaftliche Potential besser auszuschöpfen."_
-
-
 
 Nach Amtsantritt von Peter Altmaier haben wir den Dialog zu ihm gesucht. Bei der Überreichung unseres [Positionspapiers](https://www.send-ev.de/positionen) beim Startup Camp (12.04.) hat er zugesichert, dass wir eine Antwort bekommen. Doch trotz mehrmaliger Versuche haben wir bisher keine Reaktion aus dem Wirtschaftsministerium erhalten.
 
