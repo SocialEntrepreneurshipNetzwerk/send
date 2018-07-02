@@ -44,9 +44,9 @@ Sieht man sich den aktuellen Koalitionsvertrag der Bundesregierung an, scheint e
 > _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. \[...] **Soziale Innovationen** haben unsere Unterstützung."_
 >
 > _„Um diese Kultur des zivilgesellschaftlichen Engagements und des Ehrenamts zu fördern und zu stärken, wollen wir den_
-
-* > _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
-* > _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
+>
+> * _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
+> * _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
 
 Große Vorhaben der großen Koalition! Der komplette Social Entrepreneurship Sektor hat die Bundesregierung dafür gefeiert. Die Zukunft wird aber nicht herbeigeschrieben oder -geredet, sondern kommt vom konkreten Handeln. Was wurde in den ersten 100 Tagen realisiert?
 
@@ -69,12 +69,6 @@ Treiber des aktuellen Veränderungsprozesses ist die Digitalisierung. Wir haben 
 ![Innovation Council](/uploads/dorothee-bär.png)
 
 [Quelle](https://twitter.com/DoroBaer/status/997411961037053952)
-
-`<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>`
-
-`<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
-
-
 
 Nach dieser Ankündigung haben wir eine E-Mail mit dem Angebot für einen Dialog geschrieben. Die Antwort aus Ihrem Büro: „Frau Staatsministerin Bär wird es zeitlich nicht einrichten können, einen Dialog zu führen. Sie bittet hierfür um Verständnis."
 
@@ -99,6 +93,9 @@ Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als ein
 Nach Amtsantritt von Peter Altmaier haben wir den Dialog zu ihm gesucht. Bei der Überreichung unseres [Positionspapiers](https://www.send-ev.de/positionen) beim Startup Camp (12.04.) hat er zugesichert, dass wir eine Antwort bekommen. Doch trotz mehrmaliger Versuche haben wir bisher keine Reaktion aus dem Wirtschaftsministerium erhalten.
 
 Dies ist schade, gerade weil die Potenziale für eine Fokussierung auf den gesamtgesellschaftlichen Fortschritt enorm sind. Wie ein erster Schritt aussehen könnte, zeigen Berliner Wirtschaftssenat und die Investitionsbank Berlin. Als erstes Bundesland möchte man dort die Förderprogramme der gewerblichen Wirtschaft auch für Social Entrepreneurs und Soziale Innovationen öffnen! 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Senatorin <a href="https://twitter.com/RamonaPop?ref_src=twsrc%5Etfw">@RamonaPop</a>: Wir unterstützen die <a href="https://twitter.com/PR_ibb?ref_src=twsrc%5Etfw">@PR_ibb</a>, ihre Förderprogramme auch für <a href="https://twitter.com/hashtag/Berlin?src=hash&amp;ref_src=twsrc%5Etfw">#Berlin</a>|er Sozialunternehmen zu öffnen. Die Social Entrepreneurs leisten wichtigen Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, <a href="https://twitter.com/hashtag/Umwelt?src=hash&amp;ref_src=twsrc%5Etfw">#Umwelt</a> oder <a href="https://twitter.com/hashtag/Nachhaltigkeit?src=hash&amp;ref_src=twsrc%5Etfw">#Nachhaltigkeit</a>. <a href="https://twitter.com/hashtag/r2g?src=hash&amp;ref_src=twsrc%5Etfw">#r2g</a> <a href="https://t.co/hYUS2LzZNJ">https://t.co/hYUS2LzZNJ</a></p>&mdash; Senatsverwaltung für Wirtschaft, Energie, Betriebe (@SenWiEnBe) <a href="https://twitter.com/SenWiEnBe/status/1010841104537841664?ref_src=twsrc%5Etfw">June 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![Senat](/uploads/senat.png)
 
