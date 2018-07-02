@@ -1,6 +1,6 @@
 module.exports = {
   proxy: {
-    prefix: "/api",
+    prefix: '/api',
     url: process.env.API_URL || 'http://localhost:8081', // development
   },
   siteMetadata: {
@@ -56,6 +56,7 @@ module.exports = {
       options: {
         plugins: []
       }
-    }
+    },
+    'gatsby-plugin-twitter'
   ]
 };
