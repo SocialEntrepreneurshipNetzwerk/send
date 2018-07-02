@@ -13,13 +13,7 @@ Unsere Bundesregierung hat im Koalitionsvertrag erstmals eine Förderung von Soc
 
 Zeit für ein Resümee zur Arbeit der Großen Koalition in den ersten 110 Tagen! 
 
-
-
 > _„**Social Entrepreneurship** spielt bei der Lösung aktueller gesellschaftlicher und sozialer Herausforderungen eine zunehmend wichtige Rolle. Social Entrepreneurship wollen wir noch stärker als bisher fördern und unterstützen."_
-
-
-
-
 
 ## **Die Ausgangslage**
 
@@ -50,9 +44,9 @@ Sieht man sich den aktuellen Koalitionsvertrag der Bundesregierung an, scheint e
 > _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. \[...] **Soziale Innovationen** haben unsere Unterstützung."_
 >
 > _„Um diese Kultur des zivilgesellschaftlichen Engagements und des Ehrenamts zu fördern und zu stärken, wollen wir den_
-
-* > _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
-* > _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
+>
+> * _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
+> * _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
 
 Große Vorhaben der großen Koalition! Der komplette Social Entrepreneurship Sektor hat die Bundesregierung dafür gefeiert. Die Zukunft wird aber nicht herbeigeschrieben oder -geredet, sondern kommt vom konkreten Handeln. Was wurde in den ersten 100 Tagen realisiert?
 
@@ -95,6 +89,8 @@ Direkt bei seinem Amtsantritt hat Peter Altmaier eine Renaissance der Sozialen M
 Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als eine Fortschreibung unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Dies unterstreicht auch das [parteiübergreifende Thesenpapier zur Zukunft der Sozialen Marktwirtschaft](http://www.progressives-zentrum.org/thesepapier-inklusives-wachstum-fuer-eine-neue-verbindung-von-zukunftsgerichteter-produktivitaet-und-sozialer-teilhabe/) vom Progressiven Zentrum und der Bertelsmann Stiftung. Ein lebendiger Social Entrepreneurship Sektor zahlt nicht nur auf die Realisierung mehrerer der genannten Punkte ein, sondern wird unter These 11 als eigener Baustein aufgeführt: 
 
 > _„Viele neue, junge GründerInnen verstehen sich als Social Entrepreneurs und verschieben bewusst die Grenze zwischen Non-Profit und Profit, indem sie die problemlösende, gesellschaftliche Wirkung in den Vordergrund stellen. Eine Öffnung der traditionellen Förderstrukturen für solche Start-Ups würde helfen, dieses unternehmerische und gesellschaftliche Potential besser auszuschöpfen."_
+
+
 
 Nach Amtsantritt von Peter Altmaier haben wir den Dialog zu ihm gesucht. Bei der Überreichung unseres [Positionspapiers](https://www.send-ev.de/positionen) beim Startup Camp (12.04.) hat er zugesichert, dass wir eine Antwort bekommen. Doch trotz mehrmaliger Versuche haben wir bisher keine Reaktion aus dem Wirtschaftsministerium erhalten.
 
