@@ -24,13 +24,11 @@ Die große Diskrepanz mach deutlich, dass die aktuellen politischen Maßnahmen n
 Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderungen des Sektors. Umso größer war unsere Freude als der Vorstandsvorsitzende der Investitionsbank Berlin (IBB), Dr. Jürgen Allerkamp, gestern in einem [Interview](https://www.morgenpost.de/berlin/article214667673/Bei-Mieten-ist-in-Berlin-eine-Obergrenze-erreicht.html) offiziell versicherte, die Bank werde ihre Förderangebote speziell um den Bereich des sozialen Unternehmertums erweitern:
 
 > "Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. \[...] Denen möchten wir uns stärker widmen", sagte Herr Dr. Allerkamp der Berliner Morgenpost.
-
 ![Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin)](/uploads/dr.-jürgen-allerkamp.png)
 
 Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop bereits letzte Woche ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft die IBB unterstützen werde, diesen wichtigen Schritt zu gehen.
 
 > „Wir unterstützen die Investitionsbank Berlin, ihre Förderprogramme auch für Berliner Sozialunternehmen zu öffnen. Social Entrepreneurs leisten mit innovativen Ansätzen einen bedeutenden Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, Umwelt oder Nachhaltigkeit. Ich freue mich, dass zukünftig auch Social Entrepreneurs im Rahmen der Wirtschaftsförderung unterstützt werden können.“ – so die Wirtschaftssenatorin.
-
 ![Ramona Pop (Berliner Bürgermeisterin und Wirtschaftssenatorin)](/uploads/ramona-pop.png)
 
 Für den Social Entrepreneurship Sektor ist dies ein wichtiger Schritt, der die Stärken des Berliner Standortes weiter ausbaut. Trotz der schwierigen Rahmenbedingungen auf Bundesebene hat sich Berlin zu einem der fünf globalen Hotspots für das Thema entwickelt ([Studie der Thomson Reuters Foundation](http://poll2016.trust.org/i/?id=3756424f-20e1-4c3b-b70a-10fcb2fba73c)).
