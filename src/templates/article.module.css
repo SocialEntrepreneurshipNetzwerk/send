@@ -61,23 +61,25 @@
   }
 }
 
-.article blockquote p {
-  display:flex;
+:global blockquote.flex {
+  display: flex;
   flex-direction: row;
+  align-items: center;
 }
 @media (max-width: break-tiny){
-  .article blockquote p{
+  :global blockquote.flex {
     flex-wrap: wrap;
   }
 }
 
-.article blockquote  img {
+:global blockquote.flex  img {
   align-self: center;
   width: 28%;
   max-width: 150px;
+  margin: 0 10px;
 }
 @media (max-width: break-tiny){
-  .article blockquote  img {
+  :global blockquote.flex  img {
     width: 100%;
     margin: 10px auto;
   }
