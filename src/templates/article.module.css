@@ -9,7 +9,7 @@
   padding-top: 20px;
 }
 
-.article p:last-child em {
+.article div>p:last-child em {
   display: inline-block;
   padding-top: 80px;
 }
@@ -51,45 +51,36 @@
   width: 100%;
 }
 
-.flexContent {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
-.flexContent h1, .flexContent h2, .flexContent h3, .flexContent h4, .flexContent h5, .flexContent p {
-  width: 100%;
-}
-
-.flexContent blockquote {
-  width: 70%;
+.article blockquote {
   padding: 20px 10px 20px 40px;
   font-style: italic;
 }
 @media (max-width: break-tiny){
-  .flexContent blockquote {
-    width:100%;
+  .article blockquote {
     padding: 10px;
   }
 }
 
-.article .flexContent blockquote em {
-  padding-top: 0;
-}
-
-/*
-.flexContent blockquote+p {
-  width: 28%;
-  max-width: 150px;
+:global blockquote.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 @media (max-width: break-tiny){
-  .flexContent blockquote+p{
-    width: 100%;
-    margin: 0 auto;
+  :global blockquote.flex {
+    flex-wrap: wrap;
   }
 }
-*/
 
-.flexContent blockquote+p img {
-  width: auto;
+:global blockquote.flex  img {
+  align-self: center;
+  width: 28%;
+  max-width: 150px;
+  margin: 0 10px;
+}
+@media (max-width: break-tiny){
+  :global blockquote.flex  img {
+    width: 100%;
+    margin: 10px auto;
+  }
 }
