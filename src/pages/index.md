@@ -50,7 +50,7 @@ section_2:
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
         werden. Dafür sind viele Ressourcen und eine entsprechende Infrastruktur
         nötig. Durch SEND werden die Kräfte gebündelt.”
-      email: sebastian.grothaus@good-profits.de
+      email: info@good-profits.de
       image: /uploads/sebastian.jpg
       name: Sebastian Grothaus
       project: Good Profits GmbH
