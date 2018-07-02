@@ -69,6 +69,7 @@ Treiber des aktuellen Veränderungsprozesses ist die Digitalisierung. Wir haben 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
 Nach dieser Ankündigung haben wir eine E-Mail mit dem Angebot für einen Dialog geschrieben. Die Antwort aus Ihrem Büro: „Frau Staatsministerin Bär wird es zeitlich nicht einrichten können, einen Dialog zu führen. Sie bittet hierfür um Verständnis."
 
 Es fällt ehrlich gesagt schwer Verständnis aufzubringen, wenn im Bundeskanzleramt die Prioritäten bei der Digitalisierung alleine auf den ökonomischen Kontext reduziert werden. Wie will man mit dieser Strategie die Gesellschaft für die digitale Transformation begeistern? Wie will man das Versprechen einer sozialen Marktwirtschaft in die digitale Zeit tragen? 
@@ -85,7 +86,6 @@ Direkt bei seinem Amtsantritt hat Peter Altmaier eine Renaissance der Sozialen M
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
 Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als eine Fortschreibung unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Dies unterstreicht auch das [parteiübergreifende Thesenpapier zur Zukunft der Sozialen Marktwirtschaft](http://www.progressives-zentrum.org/thesepapier-inklusives-wachstum-fuer-eine-neue-verbindung-von-zukunftsgerichteter-produktivitaet-und-sozialer-teilhabe/) vom Progressiven Zentrum und der Bertelsmann Stiftung. Ein lebendiger Social Entrepreneurship Sektor zahlt nicht nur auf die Realisierung mehrerer der genannten Punkte ein, sondern wird unter These 11 als eigener Baustein aufgeführt: 
 
 > _„Viele neue, junge GründerInnen verstehen sich als Social Entrepreneurs und verschieben bewusst die Grenze zwischen Non-Profit und Profit, indem sie die problemlösende, gesellschaftliche Wirkung in den Vordergrund stellen. Eine Öffnung der traditionellen Förderstrukturen für solche Start-Ups würde helfen, dieses unternehmerische und gesellschaftliche Potential besser auszuschöpfen."_
@@ -97,9 +97,6 @@ Dies ist schade, gerade weil die Potenziale für eine Fokussierung auf den gesam
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Senatorin <a href="https://twitter.com/RamonaPop?ref_src=twsrc%5Etfw">@RamonaPop</a>: Wir unterstützen die <a href="https://twitter.com/PR_ibb?ref_src=twsrc%5Etfw">@PR_ibb</a>, ihre Förderprogramme auch für <a href="https://twitter.com/hashtag/Berlin?src=hash&amp;ref_src=twsrc%5Etfw">#Berlin</a>|er Sozialunternehmen zu öffnen. Die Social Entrepreneurs leisten wichtigen Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, <a href="https://twitter.com/hashtag/Umwelt?src=hash&amp;ref_src=twsrc%5Etfw">#Umwelt</a> oder <a href="https://twitter.com/hashtag/Nachhaltigkeit?src=hash&amp;ref_src=twsrc%5Etfw">#Nachhaltigkeit</a>. <a href="https://twitter.com/hashtag/r2g?src=hash&amp;ref_src=twsrc%5Etfw">#r2g</a> <a href="https://t.co/hYUS2LzZNJ">https://t.co/hYUS2LzZNJ</a></p>&mdash; Senatsverwaltung für Wirtschaft, Energie, Betriebe (@SenWiEnBe) <a href="https://twitter.com/SenWiEnBe/status/1010841104537841664?ref_src=twsrc%5Etfw">June 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![Senat](/uploads/senat.png)
-
-[Quelle](https://twitter.com/SenWiEnBe/status/1010841104537841664)
 
 Im Hinblick auf die im Koalitionsvertrag beschlossenen Vorhaben könnte dies auch ein erster Schritt für Wirtschaftsministerium und KfW sein. Wichtig ist das Thema nicht länger auf die lange Bank zu schieben, sondern endlich zu handeln. 
 
