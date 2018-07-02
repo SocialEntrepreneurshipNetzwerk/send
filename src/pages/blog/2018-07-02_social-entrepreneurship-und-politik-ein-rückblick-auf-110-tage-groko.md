@@ -2,7 +2,9 @@
 templateKey: article
 clip: clip_article
 title: 'Social Entrepreneurship und Politik. Ein Rückblick auf 110 Tage #GroKo'
-excerpt: Zeit für ein Resümee der ersten 110 Tage!
+excerpt: >-
+  Social Entrepreneurship im Koalitionsvertrag - Zeit für ein Resümee der ersten
+  110 Tage!
 image: /uploads/img_4017.jpg
 date: '2018-07-02'
 category: news
