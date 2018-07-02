@@ -51,7 +51,7 @@ section_2:
         werden. Dafür sind viele Ressourcen und eine entsprechende Infrastruktur
         nötig. Durch SEND werden die Kräfte gebündelt.”
       email: info@good-profits.de
-      image: /uploads/sebastian.jpg
+      image: /uploads/sebastian-grothaus.jpg
       name: Sebastian Grothaus
       project: Good Profits GmbH
     - description: >-
