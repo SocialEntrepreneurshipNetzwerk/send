@@ -46,11 +46,14 @@ section_2:
     erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass
     uns gemeinsam.wirken.
   profile_boxes:
-    - description: "Soziale Innovatoren brauchen eine starke Stimme – TEAM U engagiert sich bei SEND, weil wir nur \Lgemeinsam Veränderungen bewirken können"
-      email: avunruh@team-u.de
-      image: /uploads/von-Unruh.jpg
-      name: Attila von Unruh
-      project: TEAM U — RESTART gGmbH
+    - description: >-
+        "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
+        werden. Dafür sind viele Ressourcen und eine entsprechende Infrastruktur
+        nötig. Durch SEND werden die Kräfte gebündelt.”
+      email: sebastian.grothaus@good-profits.de
+      image: /uploads/sebastian.jpg
+      name: Sebastian Grothaus
+      project: Good Profits GmbH
     - description: >-
         Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine
         gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen
@@ -60,12 +63,13 @@ section_2:
       name: Laura Kromminga
       project: Social Finance Consulting
     - description: >-
-        Innovationen im sozialen Bereich sind wichtig, um die Bedürfnisse einer
-        Gesellschaft im Zeitalter von ansteigender Komplexität, Wertewandel,
-        Diversität, Indivisualisierung, Globalisierung etc. zu hören, zu
-        artikulieren und zu erfüllen.
-      email: presse@arbeiterkind.de
-      image: /uploads/Katja_Urbatsch.jpg
-      name: Katja Urbatsch
-      project: ArbeiterKind.de
+        "Gemeinsam noch mehr bewirken – Wir sind Mitglied bei SEND, um im
+        Netzwerk noch besser große, gesellschaftliche Herausforderungen angehen
+        zu können und mehr positive soziale Fortschritte zu erreichen, als es
+        ein einzelnes Sozialunternehmen alleine kann.”
+      email: kontakt@chancenwerk.org
+      image: /uploads/murat-vural.jpg
+      name: Murat Vural
+      project: Chancenwerk e.V.
 ---
+
