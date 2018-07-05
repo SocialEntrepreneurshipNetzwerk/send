@@ -14,7 +14,7 @@ category: news
 
 Unser Mitglied Bean United ([www.bean-united.de](https://www.bean-united.de/)) gründet mit drei weiteren Food Startups aus Bayern die Social Food Friends Wertegemeinschaft. Gemeinsam leben sie vor, was nicht nur viele Startups in dieser Branche, sondern auch die meisten anderen Sozialunternehmen fördern: Qualität, Nachhaltigkeit, Fairness und sozialem Engagement.
 
-![Social Food Friends](/uploads/socialfoodfriends.png)
+![Social Food Friends](/uploads/socialfoodfriendslarge.png)
 
 **Unser Mitglied Bean United – „Kaffee trinkend Gutes tun"**
 
