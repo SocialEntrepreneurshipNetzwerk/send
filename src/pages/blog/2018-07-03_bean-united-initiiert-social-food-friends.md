@@ -6,7 +6,7 @@ excerpt: >-
   Unser Mitglied Bean United gründet mit drei weiteren Food Startups aus Bayern
   die Social Food Friends Wertegemeinschaft. Hier wird Vernetzung und
   Zusammenarbeit gelebt!
-image: /uploads/socialfoodfriends.png
+image: /uploads/socialfoodfriends.jpeg
 date: '2018-07-03'
 category: news
 ---
