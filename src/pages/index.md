@@ -38,13 +38,15 @@ section_2:
   title: gemeinsam. wirken.
   paragraph: >-
     ### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
-    gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? 
+    gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen?
+
 
     Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup
     oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die
-    Arbeit von SEND, wirst Teil eines weitreichenden [Netzwerks](/netzwerk) und
-    erhältst Zugang zu verschiedenen Bildungs- und Austauschmöglichkeiten. Lass
-    uns gemeinsam.wirken.
+    Arbeit von SEND, wirst Teil eines weitreichenden
+    [Netzwerks](https://www.send-ev.de/netzwerk) und erhältst Zugang zu
+    verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns
+    gemeinsam.wirken.
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
