@@ -55,13 +55,13 @@ section_2:
       name: Sebastian Grothaus
       project: Good Profits GmbH
     - description: >-
-        Durch SEND e.V. werden den vielen Sozialunternehmern in Deutschland eine
-        gemeinsame Stimme gegeben, um langfristig und grundlegend etwas bewegen
-        zu können
-      email: laura@kromminga.org
-      image: /uploads/Laura_Kromminga.jpg
-      name: Laura Kromminga
-      project: Social Finance Consulting
+        “Als Teil von SEND möchten wir uns dafür einsetzen, dass Social
+        Entrepreneurship in Deutschland aus seiner Nische herauskommt und einer
+        breiten Öffentlichkeit ein Begriff wird.”
+      email: hello@vostel.de
+      image: /uploads/stephanie-frost.jpeg
+      name: Stephanie Frost
+      project: vostel volunteering UG
     - description: >-
         "Gemeinsam noch mehr bewirken – Wir sind Mitglied bei SEND, um im
         Netzwerk noch besser große, gesellschaftliche Herausforderungen angehen
