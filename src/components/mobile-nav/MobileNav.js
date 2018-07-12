@@ -36,6 +36,11 @@ class MobileNav extends Component {
                 Impressum
             </Link>
           </li>
+          <li>
+            <Link to="/dsgvo" onClick={this.props.mobileNavClose} >
+                Datenschutzerklärung
+            </Link>
+          </li>
         </ul>
 
         <div className={styles.div}>
