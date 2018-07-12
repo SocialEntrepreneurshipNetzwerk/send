@@ -2,7 +2,7 @@
 @import "../../layouts/variables.css";
 
 .ul {
-  margin: 150px 10% 0 20%;
+  margin: 150px 10% 0 15%;
   padding: 0;
   width: 70%;
 }
@@ -22,7 +22,7 @@
 
 .ul a {
   display: inline-block;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 1;
   color: deep-blue;
   margin-bottom: 30px;
