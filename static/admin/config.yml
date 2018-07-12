@@ -196,3 +196,10 @@ collections:
               {label: "Title", name: "title", widget: "string"},
             ]}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/dsgvo.md"
+        label: "Datenschutzerklärung"
+        name: "dsgvo"
+        fields:
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Body", name: "body", widget: "markdown"}
