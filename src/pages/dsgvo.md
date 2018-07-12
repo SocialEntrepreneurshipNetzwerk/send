@@ -20,7 +20,7 @@ Verantwortlicher für die Verarbeitung Eurer Daten ist das Social Entrepreneursh
 
 2. Newsletter
     1. Um Euch unseren Newsletter zusenden zu können, verwenden wir das sogenannte Double Opt-In-Verfahren. Nur wenn Ihr uns zuvor ausdrücklich bestätigt haben, dass Ihr den Newsletter erhalten wollt, werden wir Euch eine Aktivierungs-E-Mail zusenden und Euch bitten, durch das Anklicken eines in dieser E-Mail enthaltenen Links zu bestätigen, dass Ihr unseren Newsletter erhalten möchtet.
-    2. Ihr könnt die Anmeldung jederzeit rückgängig machen. Dazu findet Ihr in jedem Newsletter einen Abmelde-Link. Oder ihr schreibt uns einfach eine kurze Mail an info@send-ev.de
+    2. Ihr könnt die Anmeldung jederzeit rückgängig machen. Dazu findet Ihr in jedem Newsletter einen Abmelde-Link. Oder ihr schreibt uns einfach eine kurze Mail an [info@send-ev.de](info@send-ev.de).
 
 3. Links zu Internetseiten anderer Anbieter
 Unsere Webseite kann Links zu Internetseiten anderer Anbieter enthalten. Wir weisen darauf hin, dass diese Datenschutzerklärung ausschließlich für die Webseite des Social Entrepreneurship Netzwerks Deutschland gilt. Wir haben keinen Einfluss darauf und kontrollieren nicht, dass andere Anbieter die geltenden Datenschutzbestimmungen einhalten.
