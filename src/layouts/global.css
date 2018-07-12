@@ -105,7 +105,7 @@
   list-style: none;
 }
 
-:global ul li:before {
+:global li:before {
     content: "";
     border-color: transparent deep-see-green;
     border-style: solid;
