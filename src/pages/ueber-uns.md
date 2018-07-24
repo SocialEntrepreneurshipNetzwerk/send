@@ -52,17 +52,25 @@ section_4:
           Berlin
 
 
+          ```
+
           <p style="margin-left: 40px">Ansprechpartner für die Regionalgruppe
           Berlin sind Sabrina und Janna. Beide können unter <a
           href="mailto:berlin@send-ev.de">berlin@send-ev.de</a> erreicht
           werden.</p>
+
+          ```
       - row: >-
           NRW
 
 
+          ```
+
           <p style="margin-left: 40px">Ansprechpartner für die Regionalgruppe
           Berlin sind Daniel und Sebastian. Erreichen könnt Ihr die beiden unter
           <a href="mailto:nrw@send-ev.de">nrw@send-ev.de</a>.</p>
+
+          ```
     title: REGIONALGRUPPEN
   column_2:
     rows:
