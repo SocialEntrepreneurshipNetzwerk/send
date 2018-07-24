@@ -33,7 +33,7 @@ section_2:
   title: Gründungsvorstand
 section_3:
   profile_boxes:
-    - image: /uploads/k_elsemann.jpg
+    - image: /uploads/katrin_elsemann.jpg
       name: Katrin Elsemann
       organization: ''
       role: Verbandsleitung
@@ -52,25 +52,30 @@ section_4:
           Berlin
 
 
-          ```
+          > Ansprechpartner für die Regionalgruppe Berlin sind Sabrina und
+          Janna. Beide können unter 
 
-          <p style="margin-left: 40px">Ansprechpartner für die Regionalgruppe
-          Berlin sind Sabrina und Janna. Beide können unter <a
-          href="mailto:berlin@send-ev.de">berlin@send-ev.de</a> erreicht
-          werden.</p>
+          >
 
-          ```
+          > <mailto:berlin@send-ev.de>
+
+          >
+
+          >  erreicht werden.
       - row: >-
           NRW
 
 
-          ```
+          > Ansprechpartner für die Regionalgruppe Berlin sind Daniel und
+          Sebastian. Erreichen könnt Ihr die beiden unter 
 
-          <p style="margin-left: 40px">Ansprechpartner für die Regionalgruppe
-          Berlin sind Daniel und Sebastian. Erreichen könnt Ihr die beiden unter
-          <a href="mailto:nrw@send-ev.de">nrw@send-ev.de</a>.</p>
+          >
 
-          ```
+          > <mailto:nrw@send-ev.de>
+
+          >
+
+          > .
     title: REGIONALGRUPPEN
   column_2:
     rows:
