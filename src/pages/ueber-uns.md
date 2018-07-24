@@ -47,7 +47,10 @@ section_3:
 section_4:
   column_1:
     rows:
-      - row: Bayern - Im Aufbau
+      - row: |-
+          Bayern 
+
+          > Im Aufbau
       - row: >-
           Berlin
 
