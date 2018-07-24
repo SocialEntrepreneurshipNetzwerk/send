@@ -33,7 +33,7 @@ section_2:
   title: Gründungsvorstand
 section_3:
   profile_boxes:
-    - image: /uploads/k_elsemann.jpg
+    - image: /uploads/katrin_elsemann.jpg
       name: Katrin Elsemann
       organization: ''
       role: Verbandsleitung
