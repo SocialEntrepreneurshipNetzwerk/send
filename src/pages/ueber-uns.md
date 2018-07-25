@@ -55,7 +55,7 @@ section_4:
           Berlin
 
 
-          > Ansprechpartner für die Regionalgruppe Berlin sind Sabrina und
+          > Ansprechpartnerinnen für die Regionalgruppe Berlin sind Sabrina und
           Janna. Beide können unter <mailto:berlin@send-ev.de> erreicht werden.
       - row: >-
           NRW
