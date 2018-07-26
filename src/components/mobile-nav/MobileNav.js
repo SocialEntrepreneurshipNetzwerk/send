@@ -22,6 +22,11 @@ class MobileNav extends Component {
             </Link>
           </li>
           <li>
+            <Link className={styles.bold} to="/ueber-uns" onClick={this.props.mobileNavClose}>
+                Über uns
+            </Link>
+          </li>
+          <li>
             <Link className={styles.bold} to="/blog" onClick={this.props.mobileNavClose}>
                 Blog
             </Link>

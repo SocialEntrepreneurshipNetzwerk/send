@@ -66,7 +66,12 @@ class TopNav extends Component {
               <Link to="/netzwerk" activeStyle={activeStyle}>
                   Netzwerk
               </Link>
-            </li> 
+            </li>
+            <li>
+              <Link to="/ueber-uns" activeStyle={activeStyle}>
+                  Über uns
+              </Link>
+            </li>
             <li>
               <Link to="/blog" activeStyle={activeStyle}>
                   Blog
