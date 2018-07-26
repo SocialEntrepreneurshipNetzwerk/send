@@ -73,7 +73,7 @@
 }
 @media (max-width: break-mobile){
   :global section>h1, :global section1>div>h1 {
-    font-size: 32px;
+    font-size: 30px;
   }
 }
 
