@@ -61,7 +61,7 @@ section_4:
           NRW
 
 
-          > Ansprechpartner für die Regionalgruppe Berlin sind Daniel und
+          > Ansprechpartner für die Regionalgruppe NRW sind Daniel und
           Sebastian. Erreichen könnt Ihr die beiden unter
           <mailto:nrw@send-ev.de>.
     title: REGIONALGRUPPEN
