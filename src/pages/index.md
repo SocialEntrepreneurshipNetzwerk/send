@@ -41,8 +41,8 @@ section_2:
     gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen?
 
 
-    Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup
-    oder als Fördermitglied:
+    **Dann werde Teil von SEND.** Ob als Sozialunternehmer*in, als Social
+    Startup oder als Fördermitglied:
 
 
     * Du wirst Teil eines wachsenden Netzwerks von Sozialunternehmer*innen in
@@ -69,7 +69,7 @@ section_2:
     kommende Generationen tauglich ist! 
 
 
-    **Lass uns gemeinsam. wirken.**
+    **Lass uns Gemeinsam. Wirken.**
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
