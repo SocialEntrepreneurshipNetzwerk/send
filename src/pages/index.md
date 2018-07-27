@@ -42,11 +42,31 @@ section_2:
 
 
     Dann werde Teil von SEND. Ob als Sozialunternehmer*in, als Social Startup
-    oder als Fördermitglied: als Mitglied hast Du direkten Einfluss auf die
-    Arbeit von SEND, wirst Teil eines weitreichenden
-    [Netzwerks](https://www.send-ev.de/netzwerk) und erhältst Zugang zu
-    verschiedenen Bildungs- und Austauschmöglichkeiten. Lass uns
-    gemeinsam.wirken.
+    oder als Fördermitglied:
+
+
+    * Du wirst Teil eines wachsenden Netzwerks von Sozialunternehmer*innen in
+    Deutschland 
+
+    * Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in
+    Deutschland aktiv mitgestalten
+
+    * In thematischen und regionalen Gruppen kannst Du Dich effektiv vernetzen
+
+    * Du erhältst bevorzugten Zugang zu Workshops von SEND oder von
+    Partner*innen 
+
+    * Du bekommst einen vergünstigten Zugang zu Events von SEND oder von
+    Partner*innen
+
+    * Du vergrößert Deine Sichtbarkeit über unsere Webseite, Social Media und
+    Auftritte auf Veranstaltungen
+
+    * Wir matchen Dich mit externen Unternehmen und Akteur*innen aus der Politik
+    und Gesellschaft
+
+    * Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für
+    kommende Generationen tauglich ist! Lass uns #GemeinsamWirken
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
