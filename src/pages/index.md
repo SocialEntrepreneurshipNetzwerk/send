@@ -66,7 +66,10 @@ section_2:
     und Gesellschaft
 
     * Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für
-    kommende Generationen tauglich ist! Lass uns #GemeinsamWirken
+    kommende Generationen tauglich ist! 
+
+
+    **Lass uns Gemeinsam. Wirken.**
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
