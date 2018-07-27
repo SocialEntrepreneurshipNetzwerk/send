@@ -72,7 +72,7 @@ section_2:
     .
 
 
-    **Lass uns Gemeinsam. Wirken.**
+    > **Lass uns Gemeinsam. Wirken.**
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
