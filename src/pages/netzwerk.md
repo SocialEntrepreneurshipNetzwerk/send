@@ -51,9 +51,7 @@ section_2:
     kommende Generationen tauglich ist!
 
 
-
-
-    **Lass uns gemeinsam. wirken.**
+    **Lass uns Gemeinsam. Wirken.**
   title: Mitglied werden
 ---
 
