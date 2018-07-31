@@ -67,6 +67,10 @@
   flex-direction: column;
 }
 
+.turquoise_content ul ~ p {
+  padding-top: 40px;
+}
+
 .turquoise_content div{
   width: 100%;
 }
