@@ -69,10 +69,9 @@ section_2:
     kommende Generationen tauglich ist! 
 
 
-    .
 
 
-    > **Lass uns Gemeinsam. Wirken.**
+    **Lass uns Gemeinsam. Wirken.**
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
