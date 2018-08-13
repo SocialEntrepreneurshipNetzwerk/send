@@ -1,38 +1,47 @@
 ---
-templateKey: 'impressum'
-title: Social Entrepreneurship Netzwerk Deutschland e. V. 
-address: 'Social Entrepreneurship Netzwerk Deutschland e. V. 
+title: Social Entrepreneurship Netzwerk Deutschland e. V.
+templateKey: impressum
+address: |-
+  Social Entrepreneurship Netzwerk Deutschland e. V. 
+
+  c/o Bundesverband Deutsche Startups e. V. 
+
+  im Haus der Bundespressekonferenz 
+
+  Schiffbauerdamm 40 
+
+  10117 Berlin
 
 
-c/o Bundesverband Deutsche Startups e. V. 
 
+  **Unsere Bankverbindung:**
 
-im Haus der Bundespressekonferenz 
+  GLS Bank
 
+  IBAN: DE20 4306 0967 1214 6525 00
 
-Schiffbauerdamm 40 
-
-
-10117 Berlin'
+  BIC: GENODEM1GLS
 email: info@send-ev.de
 section_1:
-  title: Satzung
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
     label: Satzung herunterladen
     link: /uploads/Satzung SEND 29.11.2017-final.pdf
+  title: Satzung
 section_2:
-  title: Beitragsordnung
   content: Lade hier unsere Beitragsordnung in der Fassung vom 19.07.2017 herunter
   cta:
     label: Beitragsordnung herunterladen
     link: /uploads/SEND_Beitragsordnung_170719.pdf
-section_3: 
+  title: Beitragsordnung
+section_3:
+  content: >-
+    Markus Sauerhammer (Vorsitzender), Birgit Heilig, Norbert Kunz, Leon Reiner,
+    Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
   title: Vorstand
-  content: Markus Sauerhammer (Vorsitzender), Birgit Heilig, Norbert Kunz, Leon Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
 section_4:
+  content: N3XTCODER | info@n3xtcoder.org | n3xtcoder.org
   title: Logodesign und Corporate Design
-  content: N3XTCODER | info@n3xtcoder.org | n3xtcoder.org 
 section_5:
   title: Haftungsausschluss
 ---
