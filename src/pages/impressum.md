@@ -11,16 +11,6 @@ address: |-
   Schiffbauerdamm 40 
 
   10117 Berlin
-
-
-
-  **Unsere Bankverbindung:**
-
-  GLS Bank
-
-  IBAN: DE20 4306 0967 1214 6525 00
-
-  BIC: GENODEM1GLS
 email: info@send-ev.de
 section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
