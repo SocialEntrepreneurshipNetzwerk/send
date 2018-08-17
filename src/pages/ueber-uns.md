@@ -37,7 +37,7 @@ section_3:
       name: Katrin Elsemann
       organization: ''
       role: Verbandsleitung
-    - image: /uploads/katharina_osbelt-4-2.jpg
+    - image: /uploads/katharina_osbelt-4.jpg
       name: Katharina Osbelt
       role: Community Management
     - image: /uploads/send_01.02.18_internet-335.jpg
