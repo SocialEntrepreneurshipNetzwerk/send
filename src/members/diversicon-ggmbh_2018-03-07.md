@@ -6,7 +6,7 @@ description: >-
   beitragen, die hohe Arbeitslosigkeit von Autistinnen und Autisten zu
   verringern und gleichzeitig Arbeitgeber*innen dabei begleiten, Inklusion und
   Diversity tagtäglich zu leben. #verschiedenistnormal
-email: info@diversicon.de
+email: sally.ollech@diversicon.de
 link: 'https://diversicon.de/'
 image: /uploads/diversicon_logoanimation.gif
 ---
