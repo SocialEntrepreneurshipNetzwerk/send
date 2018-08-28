@@ -31,3 +31,11 @@ In dieser Blogreihe wollen wir drei Bereiche beleuchten, die es uns ermöglichen
 * Purpose Economy
 * Genossenschaften
 * Menschheit
+
+
+
+Dieser erste Artikel wird sich mit der \[Berichterstattung & Transparenz] befassen.
+
+Seit März 2017 sind laut CSR-Richtlinie Umsetzungsgesetz ([CSR-RUG](https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/Dokumente/RegE_CSR-Richtlinie.pdf;jsessionid=C3A0A18473BB88D7C96AF783B4D1820D.1_cid289?__blob=publicationFile&v=1)) große Unternehmen von öffentlichem Interesse und mit mehr als 500 Mitarbeiter*innen in Deutschland dazu verpflichtet, eine nichtfinanzielle Berichterstattung über die soziale und ökologische Nachhaltigkeit ihres Wirtschaftens mit in ihren Lage- und Konzernlagebericht aufzunehmen.
+
+In einer Studie hat das Institut für ökologische Wirtschaftsforschung (IÖW) zusammen mit der Unternehmensinitiative Future diverse CSR-Berichte unter die Lupe genommen und dabei bei etwa zwei Drittel der Unternehmen große Defizite festgestellt.
