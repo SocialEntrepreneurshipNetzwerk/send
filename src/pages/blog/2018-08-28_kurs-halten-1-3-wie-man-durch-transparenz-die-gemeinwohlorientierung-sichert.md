@@ -28,9 +28,9 @@ In dieser Blogreihe wollen wir drei Bereiche beleuchten, die es uns ermöglichen
    * EU Label
 3. \[DNA der Organisation]
 
-* Purpose Economy
-* Genossenschaften
-* Menschheit
+   * Purpose Economy
+   * Genossenschaften
+   * Menschheit
 
 
 
