@@ -37,8 +37,7 @@ Seit März 2017 sind laut CSR-Richtlinie Umsetzungsgesetz ([CSR-RUG](https://www
 
 In einer Studie hat das Institut für ökologische Wirtschaftsforschung (IÖW) zusammen mit der Unternehmensinitiative Future diverse CSR-Berichte unter die Lupe genommen und dabei bei etwa zwei Drittel der Unternehmen große Defizite festgestellt.
 
-> Gerd Scholl vom IÖW berichtet: „Diejenigen KMUs \[kleinen und mittleren Unternehmen], die freiwillig einen Nachhaltigkeitsbericht erstellen, sind tendenziell engagierter und messen einem wertegetriebenen Unternehmenshandeln eine höhere Bedeutung bei. Im Durchschnitt waren die von uns geprüften Nachhaltigkeitsberichte der KMUs qualitativ besser als die der Großunternehmen – inhaltlich genauso wie hinsichtlich ihrer kommunikativen Aufbereitung."
-> (Quelle: [Pressemitteilung](https://www.polarstern-energie.de/presse/mitteilung/nachhaltigkeitsbericht-energieversorger/) von unserem Mitglied Polarstern GmbH)
+> Gerd Scholl vom IÖW berichtet: „Diejenigen KMUs \[kleinen und mittleren Unternehmen], die freiwillig einen Nachhaltigkeitsbericht erstellen, sind tendenziell engagierter und messen einem wertegetriebenen Unternehmenshandeln eine höhere Bedeutung bei. Im Durchschnitt waren die von uns geprüften Nachhaltigkeitsberichte der KMUs qualitativ besser als die der Großunternehmen – inhaltlich genauso wie hinsichtlich ihrer kommunikativen Aufbereitung." (Quelle: [Pressemitteilung](https://www.polarstern-energie.de/presse/mitteilung/nachhaltigkeitsbericht-energieversorger/) von unserem Mitglied Polarstern GmbH)
 
 Für Sozialunternehmen gibt es verschiedene Möglichkeiten, über ihre Nachhaltigkeit zu berichten und diese in einem anerkannten Format zu kommunizieren. Durch regelmäßige Berichterstattung wird eine Transparenz geschaffen, die einen Kurswechsel mit Distanzierung von der Gemeinwohlorientierung vor der Öffentlichkeit nur schwer verbergen und rechtfertigen lässt.
 
@@ -74,7 +73,7 @@ So können gemeinwohlorientierte Unternehmen auch gezielt durch z.B. Steuer- ode
 
 Um eine Gemeinwohlbilanz zu erhalten, muss jedes Unternehmen den folgenden Prozess durchlaufen:
 
-<a href="https://www.ecogood.org/de/gemeinwohl-bilanz/unternehmen/"><img class="alignleft wp-image-22" src="https://www.ecogood.org/media/interaktive_grafiken/160415_grafik3_flussdiagramm_E.jpg" alt="" width="431" height="250" /></a>
+<a href="https://www.ecogood.org/de/gemeinwohl-bilanz/unternehmen/"><img class="alignleft wp-image-22" src="https://www.ecogood.org/media/interaktive_grafiken/160415_grafik3_flussdiagramm_E.jpg" alt="" width="518" height="300" /></a>
 
 Die Gemeinwohlökonomie ist ein größeres Konzept und ein eher systemischer Ansatz, der versucht, andere Faktoren (beispielsweise das Gemeinwohlprodukt) zur Messung von Erfolg heranzuziehen, als das bloß das Bruttoinlandsprodukt. Sie möchte als Alternative zur wachstumsorientierten Ökonomie des Kapitalismus dienen.
 
