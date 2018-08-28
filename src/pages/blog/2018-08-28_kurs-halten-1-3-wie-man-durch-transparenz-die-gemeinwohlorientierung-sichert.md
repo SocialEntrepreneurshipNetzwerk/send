@@ -63,18 +63,19 @@ Obwohl es bei den SRS keine Auszeichnung oder Kennung gibt, die einen verpflicht
 2. **GWÖ & Gemeinwohlbilanz**
 
 Die Grundidee hinter der Bewegung der [Gemeinwohlökonomie](https://www.ecogood.org/de/) ist es, Produkte und ganze Unternehmen messbar bzw. bewertbar zu machen. Die Konsument\*innen sollen zu allen Produzent\*innen eine Aufschlüsselung des gemeinwohlorientierten Hintergrundes (die Gemeinwohlbilanz) erhalten und dadurch eine Kaufentscheidung auf Basis vollständiger Informationen treffen können.
-
 Dadurch will die Bewegung sowohl effiziente Märkte schaffen als auch einen sozialverträglicheren Konsum fördern.
 
 Jedes Unternehmen wird auf die Faktoren _Menschenwürdigkeit, Solidarität, ökologische Nachhaltigkeit, soziale Gerechtigkeit und demokratische Entscheidungsprozesse_ auf drei verschiedenen Ebenen (kooperierende Unternehmen & Zulieferer, Mitarbeitende und Kunden/Kundinnen & Gesellschaft) überprüft.
-
 Für jeden der Faktoren gibt es auf allen Ebenen Punkte, die Summe dieser Punkte ergibt dann die Gemeinwohlbilanz, anhand derer Unternehmen verglichen und hinreichend informierte Kaufentscheidungen getroffen werden können.
-
 So können gemeinwohlorientierte Unternehmen auch gezielt durch z.B. Steuer- oder Zollbegünstigungen unterstützt werden.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVFvyd7SmxU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-![](/uploads/screen-shot-2018-08-28-at-10.33.42.png)
+Um eine Gemeinwohlbilanz zu erhalten, muss jedes Unternehmen den folgenden Prozess durchlaufen:
+
+![null](/uploads/screen-shot-2018-08-28-at-10.33.42.png)
+
+Die Gemeinwohlökonomie ist ein größeres Konzept und ein eher systemischer Ansatz, der versucht, andere Faktoren (beispielsweise das Gemeinwohlprodukt) zur Messung von Erfolg heranzuziehen, als das bloß das Bruttoinlandsprodukt. Sie möchte als Alternative zur wachstumsorientierten Ökonomie des Kapitalismus dienen.
 
 3. **Initiative Transparente Zivilgesellschaft**
 
@@ -85,6 +86,8 @@ Diese zehn Punkte umfassen Dinge wie die Satzung, die Namen der wesentlichen Ent
 An der Initiative teilnehmen können alle gemeinnützigen Organisationen, unabhängig von ihrer Rechtsform, Größe oder Tätigkeitsbereich.
 
 Ganzheitlich stärkt die Initiative also die Transparenz der im gemeinwohlorientierten Sektor aktiven Organisationen und geht über die allgemeine Berichterstattungspflicht hinaus.
+
+___
 
 Diese drei Methoden der Berichterstattung erlauben es Sozialunternehmen also, durch Transparenz und daraus resultierende Verantwortlichkeit gegenüber der Öffentlichkeit, ihre Gemeinwohlausrichtung zu wahren.
 
