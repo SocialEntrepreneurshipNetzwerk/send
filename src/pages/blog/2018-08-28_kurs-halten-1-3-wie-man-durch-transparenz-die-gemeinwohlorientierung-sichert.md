@@ -58,8 +58,6 @@ Die Vorlage für einen Jahresbericht nach den SRS sieht folgende Ausführungen i
 
 <iframe src="https://player.vimeo.com/video/182825368" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p><a href="https://vimeo.com/182825368">Social Reporting Standard_Legetrick</a> from <a href="https://vimeo.com/myndvideo">Mynd</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 Obwohl es bei den SRS keine Auszeichnung oder Kennung gibt, die einen verpflichtet bestimmte Mindestanforderungen zu erfüllen, helfen sie Organisationen, eine potentielle Abwendung von der Wirkungsausrichtung zu erkennen und korrektiv einzugreifen.
 
 2. **GWÖ & Gemeinwohlbilanz**
@@ -73,6 +71,10 @@ Jedes Unternehmen wird auf die Faktoren _Menschenwürdigkeit, Solidarität, öko
 Für jeden der Faktoren gibt es auf allen Ebenen Punkte, die Summe dieser Punkte ergibt dann die Gemeinwohlbilanz, anhand derer Unternehmen verglichen und hinreichend informierte Kaufentscheidungen getroffen werden können.
 
 So können gemeinwohlorientierte Unternehmen auch gezielt durch z.B. Steuer- oder Zollbegünstigungen unterstützt werden.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVFvyd7SmxU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+![](/uploads/screen-shot-2018-08-28-at-10.33.42.png)
 
 3. **Initiative Transparente Zivilgesellschaft**
 
