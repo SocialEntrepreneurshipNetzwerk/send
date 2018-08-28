@@ -37,7 +37,8 @@ Seit März 2017 sind laut CSR-Richtlinie Umsetzungsgesetz ([CSR-RUG](https://www
 
 In einer Studie hat das Institut für ökologische Wirtschaftsforschung (IÖW) zusammen mit der Unternehmensinitiative Future diverse CSR-Berichte unter die Lupe genommen und dabei bei etwa zwei Drittel der Unternehmen große Defizite festgestellt.
 
-> Gerd Scholl vom IÖW berichtet: „Diejenigen KMUs \[kleinen und mittleren Unternehmen], die freiwillig einen Nachhaltigkeitsbericht erstellen, sind tendenziell engagierter und messen einem wertegetriebenen Unternehmenshandeln eine höhere Bedeutung bei. Im Durchschnitt waren die von uns geprüften Nachhaltigkeitsberichte der KMUs qualitativ besser als die der Großunternehmen – inhaltlich genauso wie hinsichtlich ihrer kommunikativen Aufbereitung."\_ \_(Quelle: [Pressemitteilung](https://www.polarstern-energie.de/presse/mitteilung/nachhaltigkeitsbericht-energieversorger/) von unserem Mitglied Polarstern GmbH)
+> Gerd Scholl vom IÖW berichtet: „Diejenigen KMUs \[kleinen und mittleren Unternehmen], die freiwillig einen Nachhaltigkeitsbericht erstellen, sind tendenziell engagierter und messen einem wertegetriebenen Unternehmenshandeln eine höhere Bedeutung bei. Im Durchschnitt waren die von uns geprüften Nachhaltigkeitsberichte der KMUs qualitativ besser als die der Großunternehmen – inhaltlich genauso wie hinsichtlich ihrer kommunikativen Aufbereitung."
+(Quelle: [Pressemitteilung](https://www.polarstern-energie.de/presse/mitteilung/nachhaltigkeitsbericht-energieversorger/) von unserem Mitglied Polarstern GmbH)
 
 Für Sozialunternehmen gibt es verschiedene Möglichkeiten, über ihre Nachhaltigkeit zu berichten und diese in einem anerkannten Format zu kommunizieren. Durch regelmäßige Berichterstattung wird eine Transparenz geschaffen, die einen Kurswechsel mit Distanzierung von der Gemeinwohlorientierung vor der Öffentlichkeit nur schwer verbergen und rechtfertigen lässt.
 
@@ -87,7 +88,7 @@ An der Initiative teilnehmen können alle gemeinnützigen Organisationen, unabh�
 
 Ganzheitlich stärkt die Initiative also die Transparenz der im gemeinwohlorientierten Sektor aktiven Organisationen und geht über die allgemeine Berichterstattungspflicht hinaus.
 
-___
+- - -
 
 Diese drei Methoden der Berichterstattung erlauben es Sozialunternehmen also, durch Transparenz und daraus resultierende Verantwortlichkeit gegenüber der Öffentlichkeit, ihre Gemeinwohlausrichtung zu wahren.
 
