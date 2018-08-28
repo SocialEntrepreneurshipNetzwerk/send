@@ -87,6 +87,8 @@ An der Initiative teilnehmen können alle gemeinnützigen Organisationen, unabh�
 
 Ganzheitlich stärkt die Initiative also die Transparenz der im gemeinwohlorientierten Sektor aktiven Organisationen und geht über die allgemeine Berichterstattungspflicht hinaus.
 
+___
+
 Diese drei Methoden der Berichterstattung erlauben es Sozialunternehmen also, durch Transparenz und daraus resultierende Verantwortlichkeit gegenüber der Öffentlichkeit, ihre Gemeinwohlausrichtung zu wahren.
 
 Im nächsten Teil unserer Reihe werden wir auf Zertifizierungen als Methode eingehen und aufschlüsseln, welche unterschiedlichen Möglichkeiten es dabei gibt.
