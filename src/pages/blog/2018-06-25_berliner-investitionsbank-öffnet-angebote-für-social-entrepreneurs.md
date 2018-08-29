@@ -41,4 +41,4 @@ Für den Social Entrepreneurship Sektor ist dies ein wichtiger Schritt, der die 
 
 SEND sieht diesen Schritt der IBB und des Berliner Senates als einen wichtigen Impuls für weitere Akteur*innen auf Landes- und Bundesebene, um gemeinsam auf einen Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit hinzuarbeiten. Social Entrepreneurs fokussieren sich nicht nur auf eine nachhaltige Lösung unserer gesellschaftlichen Herausforderungen, sondern arbeiten an einem Fortschritt, von dem die Gesellschaft als Ganzes profitiert.
 
-\- Author: Leon Seefeld
+> \- Author: Leon Seefeld
