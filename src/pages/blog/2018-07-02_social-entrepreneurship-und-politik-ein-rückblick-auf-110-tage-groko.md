@@ -41,9 +41,10 @@ Sieht man sich den aktuellen Koalitionsvertrag der Bundesregierung an, scheint e
 >
 > _„Wir wollen Open-Innovation-Ansätze, **soziale Innovationen** sowie inter- und transdisziplinäre Ansätze fördern und Experimentierräume einrichten, um innovative technische Systeme und neue Geschäftsmodelle zu erproben."_
 >
-> _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. [...] **Soziale Innovationen** haben unsere Unterstützung."_
+> _„Unser Wohlstand hängt maßgeblich auch von der Innovationsfähigkeit der deutschen Wirtschaft ab. Wir wollen alle vorhandenen Innovationspotenziale nutzen und die Unternehmen, insbesondere auch den innovativen Mittelstand, weiter stärken. \[...] **Soziale Innovationen** haben unsere Unterstützung."_
 >
 > _„Um diese Kultur des zivilgesellschaftlichen Engagements und des Ehrenamts zu fördern und zu stärken, wollen wir den_
+>
 > * _rechtlichen Rahmen für ehrenamtliche Betätigung und **soziales Unternehmertum** weiter verbessern_
 > * _Bundesfreiwilligendienst und Jugendfreiwilligendienste in ihrer Bandbreite ausbauen und stärken, ehrenamtliche und gemeinnützige Organisationen mit innovativen und **sozialen Ideen und nachweislichen gesellschaftlichen, ökologischen oder wirtschaftlichen Nutzen in ihrer Start- und Wachstumsphase unterstützen**."_
 
@@ -68,7 +69,6 @@ Treiber des aktuellen Veränderungsprozesses ist die Digitalisierung. Wir haben 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Nein. Mit diesem wichtigen Kreis spreche ich natürlich auch. Nur in anderer Runde. Niemand wird vergessen. Vorschläge Willkommen.</p>&mdash; Dorothee Bär (@DoroBaer) <a href="https://twitter.com/DoroBaer/status/997411961037053952?ref_src=twsrc%5Etfw">May 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 Nach dieser Ankündigung haben wir eine E-Mail mit dem Angebot für einen Dialog geschrieben. Die Antwort aus Ihrem Büro: „Frau Staatsministerin Bär wird es zeitlich nicht einrichten können, einen Dialog zu führen. Sie bittet hierfür um Verständnis."
 
 Es fällt ehrlich gesagt schwer Verständnis aufzubringen, wenn im Bundeskanzleramt die Prioritäten bei der Digitalisierung alleine auf den ökonomischen Kontext reduziert werden. Wie will man mit dieser Strategie die Gesellschaft für die digitale Transformation begeistern? Wie will man das Versprechen einer sozialen Marktwirtschaft in die digitale Zeit tragen? 
@@ -84,7 +84,6 @@ Direkt bei seinem Amtsantritt hat Peter Altmaier eine Renaissance der Sozialen M
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">&quot;Wir wollen die <a href="https://twitter.com/hashtag/SozialeMarktwirtschaft?src=hash&amp;ref_src=twsrc%5Etfw">#SozialeMarktwirtschaft</a> zu einem Erfolgsschlager weltweit machen, zu einem Exportartikel ‚Made in Germany‘“ - BM <a href="https://twitter.com/peteraltmaier?ref_src=twsrc%5Etfw">@PeterAltmaier</a> heute in der <a href="https://twitter.com/hashtag/Regierungserkl%C3%A4rung?src=hash&amp;ref_src=twsrc%5Etfw">#Regierungserklärung</a> zur Wirtschafts- und Energiepolitik im <a href="https://twitter.com/hashtag/Bundestag?src=hash&amp;ref_src=twsrc%5Etfw">#Bundestag</a> <a href="https://twitter.com/hashtag/KraftzentrumBMWi?src=hash&amp;ref_src=twsrc%5Etfw">#KraftzentrumBMWi</a> <a href="https://t.co/3GzsX3WQV7">pic.twitter.com/3GzsX3WQV7</a></p>&mdash; BMWi Bund (@BMWi_Bund) <a href="https://twitter.com/BMWi_Bund/status/976820400331083776?ref_src=twsrc%5Etfw">March 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 Sieht man sich Social Entrepreneurship im Kern an, ist es nichts anderes als eine Fortschreibung unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Dies unterstreicht auch das [parteiübergreifende Thesenpapier zur Zukunft der Sozialen Marktwirtschaft](http://www.progressives-zentrum.org/thesepapier-inklusives-wachstum-fuer-eine-neue-verbindung-von-zukunftsgerichteter-produktivitaet-und-sozialer-teilhabe/) vom Progressiven Zentrum und der Bertelsmann Stiftung. Ein lebendiger Social Entrepreneurship Sektor zahlt nicht nur auf die Realisierung mehrerer der genannten Punkte ein, sondern wird unter These 11 als eigener Baustein aufgeführt: 
 
 > _„Viele neue, junge GründerInnen verstehen sich als Social Entrepreneurs und verschieben bewusst die Grenze zwischen Non-Profit und Profit, indem sie die problemlösende, gesellschaftliche Wirkung in den Vordergrund stellen. Eine Öffnung der traditionellen Förderstrukturen für solche Start-Ups würde helfen, dieses unternehmerische und gesellschaftliche Potential besser auszuschöpfen."_
@@ -95,7 +94,6 @@ Dies ist schade, gerade weil die Potenziale für eine Fokussierung auf den gesam
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Senatorin <a href="https://twitter.com/RamonaPop?ref_src=twsrc%5Etfw">@RamonaPop</a>: Wir unterstützen die <a href="https://twitter.com/PR_ibb?ref_src=twsrc%5Etfw">@PR_ibb</a>, ihre Förderprogramme auch für <a href="https://twitter.com/hashtag/Berlin?src=hash&amp;ref_src=twsrc%5Etfw">#Berlin</a>|er Sozialunternehmen zu öffnen. Die Social Entrepreneurs leisten wichtigen Beitrag in den Bereichen sozialer Zusammenhalt, Bildung, <a href="https://twitter.com/hashtag/Umwelt?src=hash&amp;ref_src=twsrc%5Etfw">#Umwelt</a> oder <a href="https://twitter.com/hashtag/Nachhaltigkeit?src=hash&amp;ref_src=twsrc%5Etfw">#Nachhaltigkeit</a>. <a href="https://twitter.com/hashtag/r2g?src=hash&amp;ref_src=twsrc%5Etfw">#r2g</a> <a href="https://t.co/hYUS2LzZNJ">https://t.co/hYUS2LzZNJ</a></p>&mdash; Senatsverwaltung für Wirtschaft, Energie, Betriebe (@SenWiEnBe) <a href="https://twitter.com/SenWiEnBe/status/1010841104537841664?ref_src=twsrc%5Etfw">June 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 Im Hinblick auf die im Koalitionsvertrag beschlossenen Vorhaben könnte dies auch ein erster Schritt für Wirtschaftsministerium und KfW sein. Wichtig ist das Thema nicht länger auf die lange Bank zu schieben, sondern endlich zu handeln. 
 
@@ -118,3 +116,5 @@ Das Papier wurde im September 2016 publiziert. Umgesetzt wurde von den genannten
 Mit der Digitalisierung sind wir in ein Zeitalter des permanenten Wandels eingetreten, einem regelrechten Epochenwandel. Schauen wir uns die Vergangenheit an, bieten gerade solche Umbruchphasen enormes Potenzial für den gesamtgesellschaftlichen Fortschritt. So hat der Buchdruck zu einer Demokratisierung des Wissens geführt und war somit ausschlaggebend für Reformation und Aufklärung. Oder die industrielle Revolution: Sie wurde von sozialen Errungenschaften wie den Krankenkassen, Arbeitslosen-, Renten- und Unfallversicherung flankiert. Wohlfahrtsorganisationen, Genossenschaften oder Gewerkschaften sind während dieser Zeit entstanden und haben dazu geführt unsere Werte einer Sozialen Marktwirtschaft mit Leben zu füllen. 
 
 Sieht man sich die aktuelle globale Entwicklung an, gilt es dringend an diese Traditionen anzuknüpfen! Deutschland soll und kann wieder eine führende Position einnehmen, wenn es darum geht, bahnbrechende Lösungen zu finden, die systemische Antworten auf gesamtgesellschaftliche Herausforderungen geben. Dafür ist es aber nötig, dass die Bundesregierung endlich ins Handeln kommt und den Gestalter*innen solcher Lösungen den nötigen Entwicklungsspielraum einräumt. Hierfür reichen keine bloßen Willensbekundungen, sondern ist beherztes Handeln erforderlich! Die ersten 100 Arbeitstage unserer Regierung sind davon weit entfernt.
+
+> \- Author: Markus Sauerhammer
