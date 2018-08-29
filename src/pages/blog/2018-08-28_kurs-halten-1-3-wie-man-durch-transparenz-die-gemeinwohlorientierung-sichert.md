@@ -80,7 +80,7 @@ Die Gemeinwohlökonomie ist ein größeres Konzept und ein eher systemischer Ans
 
 3. **Initiative Transparente Zivilgesellschaft**
 
-Bei der [Initiative Transparente Zivilgesellschaft](https://www.transparency.de/mitmachen/initiative-transparente-zivilgesellschaft/?L=0) hat Transparency International Deutschland e.V. mit zahlreichen weiteren Akteur*innen zehn grundlegende Punkte definiert, die gemeinwohlorientierte Organisation der Öffentlichkeit gegenüber transparent kommunizieren sollte.
+Bei der [Initiative Transparente Zivilgesellschaft](https://www.transparency.de/mitmachen/initiative-transparente-zivilgesellschaft/?L=0) hat Transparency International Deutschland e.V. mit zahlreichen weiteren Akteur*innen zehn grundlegende Punkte definiert, die eine gemeinwohlorientierte Organisation der Öffentlichkeit gegenüber transparent kommunizieren sollte.
 
 Diese zehn Punkte umfassen Dinge wie die Satzung, die Namen der wesentlichen Entscheidungsträger sowie Angaben über Mittelherkunft, Mittelverwendung und Personalstruktur, welche auf den Websites der Organisationen leicht zugänglich präsentiert werden. Ein [Leitfaden](https://www.transparency.de/fileadmin/Redaktion/Mitmachen/ITZ/ITZ_Leitfaden_v1.4.pdf) hilft bei der Auswahl der richtigen Informationen.
 
