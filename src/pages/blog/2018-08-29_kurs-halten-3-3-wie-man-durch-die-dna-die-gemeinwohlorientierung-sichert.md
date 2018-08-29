@@ -5,7 +5,8 @@ title: 'Kurs halten (3/3)! Wie man durch die DNA die Gemeinwohlorientierung sich
 excerpt: >-
   Ob Social Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung
   auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
-  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein.
+  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem
+  letzten Teil beleuchten wir, welche Rolle die DNA des Unternehmens spielt...
 image: /uploads/polarstern_5.jpg
 date: '2018-08-29'
 category: news
