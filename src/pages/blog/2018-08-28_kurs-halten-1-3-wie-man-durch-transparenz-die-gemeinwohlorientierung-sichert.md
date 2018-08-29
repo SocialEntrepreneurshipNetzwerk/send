@@ -7,7 +7,8 @@ title: >-
 excerpt: >-
   Ob Social Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung
   auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
-  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein.
+  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem
+  ersten Teil beleuchten wir die Transparenz und Berichterstattung...
 image: /uploads/diversicon3.jpg
 date: '2018-08-28'
 category: news
