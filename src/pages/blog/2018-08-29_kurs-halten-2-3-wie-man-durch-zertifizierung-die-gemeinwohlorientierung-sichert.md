@@ -26,4 +26,4 @@ Die Kombination aus einer Überprüfung durch Dritte, öffentliche Transparenz u
 
 Unternehmen zahlen hier, je nach Höhe des Jahresumsatzes, eine bestimmte Summe an Geld, um sich die Gemeinwohlorientierung anerkennen und zertifizieren zu lassen.
 
-![]()
+![null]()
