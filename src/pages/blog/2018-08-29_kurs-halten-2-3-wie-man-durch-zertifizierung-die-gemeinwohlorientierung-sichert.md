@@ -10,7 +10,7 @@ excerpt: >-
   Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem Teil
   beleuchten wir verschiedene Zertifizierungen...
 image: /uploads/send_01.02.18_internet-133.jpg
-date: '2018-08-29'
+date: '2018-09-03'
 category: news
 ---
 In dieser Blogreihe beleuchten wir drei Bereiche, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Dieser Teil der Reihe befasst sich mit der Zertifizierung als Methode und stellt unterschiedliche Zertifikate vor.
