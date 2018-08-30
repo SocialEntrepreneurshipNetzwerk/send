@@ -4,7 +4,11 @@ clip: clip_article
 title: >-
   Kurs halten (2/3)! Wie man durch Zertifizierung die Gemeinwohlorientierung
   sichert.
-excerpt: ddd
+excerpt: >-
+  Ob Social Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung
+  auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
+  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem Teil
+  beleuchten wir verschiedene Zertifizierungen...
 image: /uploads/send_01.02.18_internet-133.jpg
 date: '2018-09-03'
 category: news
