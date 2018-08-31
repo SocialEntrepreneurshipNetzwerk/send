@@ -9,7 +9,7 @@ excerpt: >-
   auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
   Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem Teil
   beleuchten wir verschiedene Zertifizierungen...
-image: /uploads/send_01.02.18_internet-133.jpg
+image: /uploads/polarstern_2.jpg
 date: '2018-09-03'
 category: news
 ---
