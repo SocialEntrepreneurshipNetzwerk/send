@@ -39,7 +39,7 @@ Durch die Entscheidungsgewalt der einzelnen Mitglieder ist es für externe Inves
 
 ([Mehr zu aktuellen Entwicklungen auf europäischer Ebene](https://coopseurope.coop/sites/default/files/Cooperative%20Vision%20for%20Collaborative%20economy_CoopsEurope.pdf))
 
-Hierzu haben auch wir von SEND mit weiteren Akteur*innen ein **Positionspapier** verfasst.
+Wir werden hierzu auch noch ein Positionspapier veröffentlichen. Dazu dann aber später mehr.
 
 3. menschheit.org
 
