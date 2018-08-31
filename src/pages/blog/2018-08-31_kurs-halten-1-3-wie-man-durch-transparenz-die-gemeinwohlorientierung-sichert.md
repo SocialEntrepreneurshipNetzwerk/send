@@ -1,9 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: >-
-  Kurs halten (1/3)! Wie man durch Transparenz die Gemeinwohlorientierung
-  sichert.
+title: 'Kurs halten (3/3)! Wie man durch die DNA die Gemeinwohlorientierung sichert. '
 excerpt: as
 image: /uploads/polarstern_5.jpg
 date: '2018-09-17'
