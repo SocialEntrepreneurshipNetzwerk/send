@@ -1,16 +1,7 @@
 ---
 title: Social Entrepreneurship Netzwerk Deutschland e. V.
 templateKey: impressum
-address: |-
-  Social Entrepreneurship Netzwerk Deutschland e. V. 
-
-  c/o Bundesverband Deutsche Startups e. V. 
-
-  im Haus der Bundespressekonferenz 
-
-  Schiffbauerdamm 40 
-
-  10117 Berlin
+address: "Social Entrepreneurship Netzwerk Deutschland e. V. \n\nc/o Bundesverband Deutsche Startups e. V. \n\nim Haus der Bundespressekonferenz \n\nSchiffbauerdamm 40 \n\n10117 Berlin\n\n\n\n**Bankverbindung:**\n\nGLS Bank\r\n\nIBAN: DE20 4306 0967 1214 6525 00\r\n\nBIC: GENODEM1GLS"
 email: info@send-ev.de
 section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
