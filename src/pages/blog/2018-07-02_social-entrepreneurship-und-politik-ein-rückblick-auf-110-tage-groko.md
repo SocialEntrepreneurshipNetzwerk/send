@@ -117,4 +117,4 @@ Mit der Digitalisierung sind wir in ein Zeitalter des permanenten Wandels einget
 
 Sieht man sich die aktuelle globale Entwicklung an, gilt es dringend an diese Traditionen anzuknüpfen! Deutschland soll und kann wieder eine führende Position einnehmen, wenn es darum geht, bahnbrechende Lösungen zu finden, die systemische Antworten auf gesamtgesellschaftliche Herausforderungen geben. Dafür ist es aber nötig, dass die Bundesregierung endlich ins Handeln kommt und den Gestalter*innen solcher Lösungen den nötigen Entwicklungsspielraum einräumt. Hierfür reichen keine bloßen Willensbekundungen, sondern ist beherztes Handeln erforderlich! Die ersten 100 Arbeitstage unserer Regierung sind davon weit entfernt.
 
-> \- Author: Markus Sauerhammer
+> \- Autor: Markus Sauerhammer
