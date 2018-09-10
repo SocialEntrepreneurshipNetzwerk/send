@@ -6,7 +6,7 @@ import styles from './impressum.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
-  const { title, address, email, section_1, section_2, section_3, section_4, section_5 } = frontmatter;
+  const { title, address, email, bank, section_1, section_2, section_3, section_4, section_5 } = frontmatter;
   const content = data.markdownRemark.html;
   return (
 	  <div>
@@ -14,8 +14,9 @@ export default ({ data }) => {
 	  	<main className={styles.main}>
 	  		<h1>{title}</h1>
 	  		<section>
-	  			<ReactMarkdown source={address}/>
+	  			<ReactMarkdown source={address} escapeHtml={false}/>
 	  			<p><a href={'mailto:' + email}>{email}</a></p>
+          <ReactMarkdown source={bank} escapeHtml={false}/>
 	  		</section>
 	  		<section>
 	  			<h1>{section_1.title}</h1>
@@ -44,13 +45,14 @@ export default ({ data }) => {
   );
 };
 
-export const mpressumPageQuery = graphql`
+export const ImpressumPageQuery = graphql`
   query ImpressumPage {
     markdownRemark(fields: { slug: { eq: "/impressum" } }) {
-        frontmatter {            
-	          title	         
+        frontmatter {
+	          title
 	          address
 	          email
+            bank
 	          section_1 {
 	            title
 	            content
@@ -69,16 +71,16 @@ export const mpressumPageQuery = graphql`
            }
 	       		section_3 {
 	            title
-	            content                           
+	            content
 	          }
 	          section_4 {
 	            title
-	            content                           
+	            content
 	          }
 	          section_5 {
-	            title                                        
+	            title
 	          }
-          
+
         }
         html
     }
