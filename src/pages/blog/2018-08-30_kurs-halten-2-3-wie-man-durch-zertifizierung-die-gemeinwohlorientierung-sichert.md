@@ -15,7 +15,7 @@ category: news
 ---
 In dieser Blogreihe beleuchten wir drei Bereiche, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Dieser Teil der Reihe befasst sich mit der Zertifizierung als Methode und stellt unterschiedliche Zertifikate vor.
 
-1. B Corp
+**1. B Corp**
 
 Die [B Corp](https://bcorporation.net/) Akkreditierung ist eine Möglichkeit für Unternehmen auf der ganzen Welt, sich selbst und den geleisteten Impact einem rigorosen und unabhängigen Test zu unterziehen. Ausgezeichnete Unternehmen erfüllen höchste Standards in ihrem sozialen und ökologischen Handeln, ihrer öffentlichen Transparenz und der Verantwortlichkeit, Gewinne und gesellschaftliche Zielsetzungen in Einklang zu bringen. All dies muss auch rechtlich bindend in den Dokumenten des Unternehmens zum Ausdruck kommen.
 
@@ -23,13 +23,13 @@ Die [B Corp](https://bcorporation.net/) Akkreditierung ist eine Möglichkeit fü
 
 Die globale Gemeinschaft von B Corps versucht, eine Kultur, in der wirtschaftlicher Erfolg neu definiert und Nachhaltigkeit großgeschrieben wird, zu verbreiten.
 
-Die Kombination aus einer Überprüfung durch Dritte, öffentliche Transparenz und rechtlicher Verpflichtung erlaubt es den Unternehmen, Vertrauen bei Kunden/Kundinnen und Partner*innen aufzubauen und eine zusätzliche Wertsteigerung zu erfahren. 
+Die Kombination aus einer Überprüfung durch Dritte, öffentliche Transparenz und rechtlicher Verpflichtung erlaubt es den Unternehmen, Vertrauen bei Kunden/Kundinnen und Partner*innen aufzubauen und eine zusätzliche Wertsteigerung zu erfahren.
 
 Unternehmen zahlen hier, je nach Höhe des Jahresumsatzes, eine bestimmte Summe an Geld, um sich die Gemeinwohlorientierung anerkennen und zertifizieren zu lassen.
 
 <a href="https://bcorporation.net/certification"><img class="alignleft wp-image-22" src="/uploads/picture1.png"/></a>
 
-1. **Wirkt-Siegel**
+**1. Wirkt-Siegel**
 
 Das [Wirkt-Siegel](https://www.phineo.org/fuer-organisationen/wirkt-siegel/) von PHINEO ist ein Erkennungszeichen für wirkungsvolles Engagement in Deutschland.
 Um das Siegel zu erhalten, müssen gemeinnützige Organisationen ein vierstufiges Analyseverfahren durchlaufen. Dieses Verfahren ist stets an eine jährliche thematische Ausschreibung gekoppelt. Die Teilnahme am Ausschreibeverfahren und die Analyse sind kostenlos.
@@ -38,7 +38,7 @@ Um das Siegel zu erhalten, müssen gemeinnützige Organisationen ein vierstufige
 
 Gemeinnützige Organisationen erhalten während des gesamten Analyseprozesses Inspirationen und konstruktives Feedback. Zudem bekommen sie neben einer unabhängigen Einschätzung der Stärken und Schwächen, Hinweise, wie man in Bezug auf Nachhaltigkeit im Arbeitsalltag mit einfachen Mitteln mehr erreichen kann.
 
-1. EU Label
+**1. EU Label**
 
 Anfang Juli 2018 hat das Europäische Parlament mit mehr als einer Dreiviertel-Mehrheit dafür gestimmt, Social Enterprises mehr Aufmerksamkeit zu schenken, indem für diese ein Label geschaffen wird. ([Artikel](https://themarketmogul.com/connecting-investors-social-actors/))
 

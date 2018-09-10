@@ -13,21 +13,21 @@ image: /uploads/diversicon3.jpg
 date: '2018-08-28'
 category: news
 ---
-Für uns, als Sozialunternehmer*innen, ist Nachhaltigkeit eine Selbstverständlichkeit. Es ist unser primäres Ziel, mit unternehmerischen Lösungen gesellschaftlichen Mehrwert zu schaffen. Dies passiert sowohl durch sozial-innovative Startups, als auch gemeinwohlorientierte Unternehmen, die gesellschaftlichen Fortschritt vorantreiben. Damit wird auch an die Tradition des deutschen Mittelstands angeknüpft, der mit seinen Werten des "Ehrbaren Kaufmanns" eigentlich der Kern unserer Sozialen Marktwirtschaft ist. 
+Für uns, als Sozialunternehmer*innen, ist Nachhaltigkeit eine Selbstverständlichkeit. Es ist unser primäres Ziel, mit unternehmerischen Lösungen gesellschaftlichen Mehrwert zu schaffen. Dies passiert sowohl durch sozial-innovative Startups, als auch gemeinwohlorientierte Unternehmen, die gesellschaftlichen Fortschritt vorantreiben. Damit wird auch an die Tradition des deutschen Mittelstands angeknüpft, der mit seinen Werten des "Ehrbaren Kaufmanns" eigentlich der Kern unserer Sozialen Marktwirtschaft ist.
 
-Ganz gleich jedoch, ob soziales Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung auch bei Skalierung, Besitzer*innen - oder Managementwechsel, anderen großen Umbrüchen oder über lange Zeit zu wahren, also den sogenannten mission-drift zu vermeiden, kann schwierig sein, insbesondere wenn es sich nicht um offiziell gemeinnützige Organisationen handelt. 
+Ganz gleich jedoch, ob soziales Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung auch bei Skalierung, Besitzer*innen - oder Managementwechsel, anderen großen Umbrüchen oder über lange Zeit zu wahren, also den sogenannten mission-drift zu vermeiden, kann schwierig sein, insbesondere wenn es sich nicht um offiziell gemeinnützige Organisationen handelt.
 
 In dieser Blogreihe wollen wir drei Bereiche beleuchten, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Diese Bereiche sind die folgenden und umfassen jeweils drei konkrete Methoden:
 
-1. \[Berichterstattung/Transparenz]
+1. Berichterstattung/Transparenz
    * Social Reporting Standards (SRS)
    * GWÖ & Gemeinwohlbilanz
    * Initiative Transparente Zivilgesellschaft
-2. \[Zertifizierung]
+2. Zertifizierung
    * B Corp
    * Wirkt-Siegel
    * EU Label
-3. \[DNA der Organisation]
+3. DNA der Organisation
    * Purpose Economy
    * Genossenschaften
    * Menschheit
@@ -42,7 +42,7 @@ In einer Studie hat das Institut für ökologische Wirtschaftsforschung (IÖW) z
 
 Für Sozialunternehmen gibt es verschiedene Möglichkeiten, über ihre Nachhaltigkeit zu berichten und diese in einem anerkannten Format zu kommunizieren. Durch regelmäßige Berichterstattung wird eine Transparenz geschaffen, die einen Kurswechsel mit Distanzierung von der Gemeinwohlorientierung vor der Öffentlichkeit nur schwer verbergen und rechtfertigen lässt.
 
-1. **SRS**
+**1. SRS**
 
 Die [Social Reporting Standards](http://www.social-reporting-standard.de/) sind eine Möglichkeit für Stiftungen und Unternehmen, ihre gesellschaftliche Wirkung in Form eines Jahresberichtes zu beschreiben. Dieser kann helfen, Geldgeber*innen und andere Stakeholder von der Gemeinwohlorientierung und Wirkungslogik der Organisation zu überzeugen. Die SRS sind also primär ein Kommunikationsinstrument.
 
@@ -51,17 +51,17 @@ Der Social Reporting Standards Leitfaden wurde von mehreren großen Organisation
 Die Vorlage für einen Jahresbericht nach den SRS sieht folgende Ausführungen in der Berichterstattung vor:
 
 * Vision der Organisation
-* Erläuterung der relevanten (z.B. gesellschaftlichen) Probleme 
+* Erläuterung der relevanten (z.B. gesellschaftlichen) Probleme
 * Angebotene Leistungen, um die Probleme zu lösen
-* Von den diesen Leistungen angesprochene Zielgruppe 
-* Angestrebte Wirkung und letztendlich gesellschaftliche Veränderung 
+* Von den diesen Leistungen angesprochene Zielgruppe
+* Angestrebte Wirkung und letztendlich gesellschaftliche Veränderung
 * Details zur Organisation selbst, ihrer Mitglieder und der Finanzen
 
 <iframe src="https://player.vimeo.com/video/182825368" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Obwohl es bei den SRS keine Auszeichnung oder Kennung gibt, die einen verpflichtet bestimmte Mindestanforderungen zu erfüllen, helfen sie Organisationen, eine potentielle Abwendung von der Wirkungsausrichtung zu erkennen und korrektiv einzugreifen.
 
-2. **GWÖ & Gemeinwohlbilanz**
+**2. GWÖ & Gemeinwohlbilanz**
 
 Die Grundidee hinter der Bewegung der [Gemeinwohlökonomie](https://www.ecogood.org/de/) ist es, Produkte und ganze Unternehmen messbar bzw. bewertbar zu machen. Die Konsument\*innen sollen zu allen Produzent\*innen eine Aufschlüsselung des gemeinwohlorientierten Hintergrundes (die Gemeinwohlbilanz) erhalten und dadurch eine Kaufentscheidung auf Basis vollständiger Informationen treffen können.
 Dadurch will die Bewegung sowohl effiziente Märkte schaffen als auch einen sozialverträglicheren Konsum fördern.
@@ -78,7 +78,7 @@ Um eine Gemeinwohlbilanz zu erhalten, muss jedes Unternehmen den folgenden Proze
 
 Die Gemeinwohlökonomie ist ein größeres Konzept und ein eher systemischer Ansatz, der versucht, andere Faktoren (beispielsweise das Gemeinwohlprodukt) zur Messung von Erfolg heranzuziehen, als das bloß das Bruttoinlandsprodukt. Sie möchte als Alternative zur wachstumsorientierten Ökonomie des Kapitalismus dienen.
 
-3. **Initiative Transparente Zivilgesellschaft**
+**3. Initiative Transparente Zivilgesellschaft**
 
 Bei der [Initiative Transparente Zivilgesellschaft](https://www.transparency.de/mitmachen/initiative-transparente-zivilgesellschaft/?L=0) hat Transparency International Deutschland e.V. mit zahlreichen weiteren Akteur*innen zehn grundlegende Punkte definiert, die eine gemeinwohlorientierte Organisation der Öffentlichkeit gegenüber transparent kommunizieren sollte.
 
