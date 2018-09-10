@@ -29,7 +29,7 @@ Unternehmen zahlen hier, je nach Höhe des Jahresumsatzes, eine bestimmte Summe 
 
 <a href="https://bcorporation.net/certification"><img class="alignleft wp-image-22" src="/uploads/picture1.png"/></a>
 
-**1. Wirkt-Siegel**
+**2. Wirkt-Siegel**
 
 Das [Wirkt-Siegel](https://www.phineo.org/fuer-organisationen/wirkt-siegel/) von PHINEO ist ein Erkennungszeichen für wirkungsvolles Engagement in Deutschland.
 Um das Siegel zu erhalten, müssen gemeinnützige Organisationen ein vierstufiges Analyseverfahren durchlaufen. Dieses Verfahren ist stets an eine jährliche thematische Ausschreibung gekoppelt. Die Teilnahme am Ausschreibeverfahren und die Analyse sind kostenlos.
@@ -38,7 +38,7 @@ Um das Siegel zu erhalten, müssen gemeinnützige Organisationen ein vierstufige
 
 Gemeinnützige Organisationen erhalten während des gesamten Analyseprozesses Inspirationen und konstruktives Feedback. Zudem bekommen sie neben einer unabhängigen Einschätzung der Stärken und Schwächen, Hinweise, wie man in Bezug auf Nachhaltigkeit im Arbeitsalltag mit einfachen Mitteln mehr erreichen kann.
 
-**1. EU Label**
+**3. EU Label**
 
 Anfang Juli 2018 hat das Europäische Parlament mit mehr als einer Dreiviertel-Mehrheit dafür gestimmt, Social Enterprises mehr Aufmerksamkeit zu schenken, indem für diese ein Label geschaffen wird. ([Artikel](https://themarketmogul.com/connecting-investors-social-actors/))
 
