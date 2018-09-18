@@ -8,12 +8,7 @@ description: >-
   Wunschsprache erleben, jederzeit und überall, einfach mit dem eigenen
   Smartphone. 
 email: info@gretaundstarks.de
-link: www.gretaundstarks.de
+link: 'http://www.gretaundstarks.de/greta/'
 image: /uploads/greta-logo-rgb-icon-greta.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
 ---
 
