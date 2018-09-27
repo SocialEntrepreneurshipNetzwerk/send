@@ -7,8 +7,6 @@ cta:
   label: Jetzt Mitglied werden
   link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
 ---
-Blabka
-
 Du bist Social Entrepreneur und willst Dich mit Gleichgesinnten zusammenschließen, weil Du glaubst, dass wir nur gemeinsam stark sind? Du hast Lust Dich auszutauschen, von anderen zu lernen und Deine Erfahrungen zu teilen? Du willst, dass wir auch im Auftrag Deiner Organisation daran arbeiten die politischen Rahmenbedingungen für Social Enterprises in Deutschland zu ändern? Du möchtest gemeinsam mit uns Projekte umsetzen, die den Sektor insgesamt voranbringen? Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland und genieße folgende Vorteile:
 
 
