@@ -1,0 +1,56 @@
+@import "../layouts/variables.css";
+
+#stickyCTA {
+  display: none;
+}
+
+.content p {
+  padding: 10px 0;
+}
+
+.content ul {
+    padding: 0 1em;
+    padding-bottom: 20px;
+}
+.content li:last-child{
+  padding-bottom: 10px;
+}
+
+.columns {
+  display: flex;
+  justify-content: space-around;
+}
+@media (max-width: break-main-padding){
+  .columns {
+    flex-wrap: wrap;
+  }
+}
+
+.column{
+  width: 50%;
+  max-width: 520px;
+  padding: 20px;
+}
+@media (max-width: break-main-padding){
+  .column {
+    width: 100%;
+  }
+}
+
+.column > div:first-child {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 20px;
+  text-align: center;
+}
+
+.column div {
+  text-align: justify;
+}
+
+@media (max-width:break-tiny){
+  .column span {
+    display: block;
+  }
+}

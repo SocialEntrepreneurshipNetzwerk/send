@@ -50,6 +50,20 @@
   color: white;
 }
 
+.button_blue {
+  composes: button;
+  background-color: paper;
+  border-color: deep-blue ;
+  color: deep-blue;
+}
+
+.button_blue:hover {
+  transition: all 0.1s;
+  background-color: deep-blue;
+  border-color: paper;
+  color: white;
+}
+
 .button_white {
   composes: button;
   background-color: initial;

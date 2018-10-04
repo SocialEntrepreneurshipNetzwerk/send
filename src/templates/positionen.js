@@ -1,5 +1,6 @@
 import React from 'react';
 import PageHelmet from '../components/PageHelmet';
+import StickyCTA from '../components/cta/StickyCTA';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ButtonCTA from '../components/cta/ButtonCTA';
@@ -15,6 +16,7 @@ export default ({ data }) => {
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
+      <StickyCTA/>
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>

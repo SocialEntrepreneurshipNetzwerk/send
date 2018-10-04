@@ -151,8 +151,6 @@ collections:
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
             ]}
-<<<<<<< Updated upstream
-=======
       - file: "src/pages/mitgliedschaft.md"
         label: Mitgliedschaft
         name: "membership"
@@ -181,7 +179,6 @@ collections:
               ]}
             ]}
           - {label: "Body", name: "body", widget: "markdown"}
->>>>>>> Stashed changes
       - file: "src/pages/blog.md"
         label: "Blog"
         name: "blog"

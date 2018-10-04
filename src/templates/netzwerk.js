@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import axios from 'axios';
+import StickyCTA from '../components/cta/StickyCTA';
 import TopImage from '../components/top-image/TopImage.js';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import PageHelmet from '../components/PageHelmet';
@@ -94,6 +95,7 @@ export default class Netzwerk extends Component {
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} clip={clip}/>
+        <StickyCTA/>
         <main className={styles.main}>
           <section>
             <h1><span>{section_1.title}</span></h1>
