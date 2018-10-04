@@ -13,3 +13,26 @@
 .content li:last-child{
   padding-bottom: 10px;
 }
+
+.columns {
+  display: flex;
+  justify-content: space-around;
+}
+
+.column{
+  width: 50%;
+  max-width: 520px;
+  padding: 20px;
+}
+
+.column > p:first-child {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 20px;
+  text-align: center;
+}
+
+.column div {
+  text-align: justify;
+}
