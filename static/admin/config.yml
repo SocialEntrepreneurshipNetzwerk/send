@@ -151,6 +151,34 @@ collections:
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
             ]}
+      - file: "src/pages/mitgliedschaft.md"
+        label: Mitgliedschaft
+        name: "membership"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden", default: "clip_positionen"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Top Image", name: "image", widget: "image"}
+          - {label: "Button Link", name: "cta_link", widget: "object", fields: [
+              {label: "Label", name: "label", widget: "string"},
+              {label: "Url", name: "link", widget: "string"}
+            ]}
+          - {label: "Button Download", name: "cta_download", widget: "object", fields: [
+              {label: "Label", name: "label", widget: "string"},
+              {label: "File", name: "link", widget: "string"}
+            ]}
+          - {label: "Mitgliedschaftsarten" name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Column 1", name: "column_1", widget: "object", fields: [
+                {label: "Column Title", name: "title", widget: "markdown"},
+                {label: "Column Text", name: "paragraph", widget: "markdown"}
+              ]},
+              {label: "Column 2", name: "column_2", widget: "object", fields: [
+                {label: "Column Title", name: "title", widget: "markdown"},
+                {label: "Column Text", name: "paragraph", widget: "markdown"}
+              ]}
+            ]}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/blog.md"
         label: "Blog"
         name: "blog"

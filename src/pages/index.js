@@ -1,5 +1,6 @@
 import React from 'react';
 //import Script from 'react-load-script'; // not sure if we need this for cms. seems to work without it?
+import StickyCTA from '../components/cta/StickyCTA';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ProfileBox from '../components/profile-box/ProfileBox';
@@ -33,6 +34,7 @@ export default class IndexPage extends React.Component {
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} isHome={true}/>
+        <StickyCTA/>
         <header className={styles.header}>
           <h1>{tagline}</h1>
           <ReactMarkdown source={tagline_large}/>

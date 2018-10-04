@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
+import StickyCTA from '../components/cta/StickyCTA';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-273.jpg';
@@ -19,6 +20,7 @@ export default ({ data }) => {
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
+      <StickyCTA/>
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
