@@ -16,7 +16,6 @@ const helmet = () => (
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Social Entrepreneur Netzwerk Deutschland" />
-    <StickyCTA/>
     <div>{children()}</div>
     <TopNav />
 
