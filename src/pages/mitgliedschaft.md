@@ -26,8 +26,7 @@ Du willst, dass wir auch im Auftrag Deiner Organisation daran arbeiten die polit
 
 Du möchtest gemeinsam mit uns Projekte umsetzen, die den Sektor insgesamt voranbringen?
 
-Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland!<br/>
-Und genieße folgende Vorteile:
+Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland und genieße folgende Vorteile:
 
 
 - Du wirst Teil eines wachsenden Netzwerks von Social Entrepreneurs in Deutschland
