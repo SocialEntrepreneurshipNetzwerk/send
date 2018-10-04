@@ -34,11 +34,11 @@ export default ({ data }) => {
           <p>{section_1.paragraph}</p>
           <div className={styles.columns}>
             <div className={styles.column}>
-              <p>{section_1.column_1.title}</p>
+              <ReactMarkdown source={section_1.column_1.title} escapeHtml={false} />
               <ReactMarkdown source={section_1.column_1.paragraph}/>
             </div>
             <div className={styles.column}>
-              <p>{section_1.column_2.title}</p>
+              <ReactMarkdown source={section_1.column_2.title} escapeHtml={false} />
               <ReactMarkdown source={section_1.column_2.paragraph}/>
             </div>
           </div>
