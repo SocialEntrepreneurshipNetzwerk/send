@@ -26,7 +26,7 @@ export default ({ data }) => {
             <ButtonCTA label={cta_link.label} link={cta_link.link} color={"active"} />
           }
           {frontmatter.cta_download &&
-            <ButtonCTA label={cta_download.label} link={cta_download.link} color={"active"} />
+            <ButtonCTA label={cta_download.label} link={cta_download.link} color={"blue"} />
           }
         </section>
         <section>
