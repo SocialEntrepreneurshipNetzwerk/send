@@ -3,9 +3,12 @@ templateKey: membership
 clip: clip_positionen
 title: Mitgliedschaft
 image: /uploads/SEND_rg-berlin-60.jpg
-cta:
+cta_link:
   label: Jetzt Mitglied werden
   link: "https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true"
+cta_download:
+  label: Zur Beitragsordnung
+  link: /uploads/SEND_Beitragsordnung_170719.pdf
 section_1:
   title: Mitgliedschaftsarten
   column_1:
