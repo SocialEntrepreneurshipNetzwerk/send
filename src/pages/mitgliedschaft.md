@@ -1,5 +1,5 @@
 ---
-templateKey: simplePage
+templateKey: membership
 clip: clip_positionen
 title: Mitgliedschaft
 image: /uploads/foto-4l.jpg

@@ -3,7 +3,7 @@ import ReactMarkdown from 'react-markdown';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
 import ButtonCTA from '../components/cta/ButtonCTA';
-import styles from './simplePage.module.css';
+import styles from './membership.module.css';
 
 
 export default ({ data }) => {
@@ -11,9 +11,11 @@ export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
   const { title, clip, image, cta, section_1 } = frontmatter;
   const content = data.markdownRemark.html;
+  const slug = data.markdownRemark.fields.slug;
 
   return (
     <div>
+
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={image} clip={clip}/>
       <main>
@@ -51,9 +53,12 @@ export default ({ data }) => {
 
 
 
-export const simplePageQuery = graphql`
-  query simplePage ($slug: String!) {
+export const simplesPageQuery = graphql`
+  query simplesPage ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+        fields {
+          slug
+        }
         frontmatter {
             title
             clip

@@ -1,6 +1,8 @@
 @import "../layouts/variables.css";
 
-
+#stickyCTA {
+  display: none;
+}
 
 .content p {
   padding: 10px 0;
@@ -18,11 +20,21 @@
   display: flex;
   justify-content: space-around;
 }
+@media (max-width: break-main-padding){
+  .columns {
+    flex-wrap: wrap;
+  }
+}
 
 .column{
   width: 50%;
   max-width: 520px;
   padding: 20px;
+}
+@media (max-width: break-main-padding){
+  .column {
+    width: 100%;
+  }
 }
 
 .column > p:first-child {
