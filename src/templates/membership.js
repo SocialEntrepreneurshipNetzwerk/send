@@ -11,7 +11,6 @@ export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
   const { title, clip, image, cta, section_1 } = frontmatter;
   const content = data.markdownRemark.html;
-  const slug = data.markdownRemark.fields.slug;
 
   return (
     <div>
@@ -56,9 +55,6 @@ export default ({ data }) => {
 export const simplesPageQuery = graphql`
   query simplesPage ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
-        fields {
-          slug
-        }
         frontmatter {
             title
             clip
