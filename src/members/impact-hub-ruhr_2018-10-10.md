@@ -11,6 +11,6 @@ description: >-
   ungewöhnliche Partnerschaften geboren.
 email: ruhr@impacthub.net
 link: 'http://ruhr.impacthub.net/'
-image: /uploads/impact-hub-ruhr.png
+image: /uploads/impact-hub-ruhr-2-schnitt.jpg
 ---
 
