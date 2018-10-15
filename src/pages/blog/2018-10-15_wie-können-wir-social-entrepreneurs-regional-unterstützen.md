@@ -7,7 +7,7 @@ excerpt: >-
   die Entwicklung von Social Startups geht. Dafür hat SEND nun eine
   [Broschüre](https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view?usp=sharing)
   mit konkreten Handlungsempfehlungen veröffentlicht.
-image: /uploads/socent-whitepaper.png
+image: /uploads/whitepaper.png
 date: '2018-10-15'
 category: news
 ---
