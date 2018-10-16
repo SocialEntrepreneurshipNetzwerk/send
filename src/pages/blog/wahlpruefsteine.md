@@ -3,7 +3,7 @@ templateKey: article
 clip: clip_article
 title: '11 Fragen, 5 Parteien – alle Positionen zu Social Entrepreneurship'
 excerpt: >-
-  Wir forderten die CDU/CSU, SPD, DIE LINKE, BÜNDNIS 90/DIE GRÜNEN und die FDP
+  Wir forderten die CDU/CSU, SPD, DIE LINKE, BÜNDNIS 90/DIE GRÜNEN, und die FDP
   dazu auf, im Vorfeld der Bundestagswahl 2017 ihre Position zum Thema
   Sozialunternehmertum darzulegen.
 image: /uploads/wahlpruefstein.jpg
