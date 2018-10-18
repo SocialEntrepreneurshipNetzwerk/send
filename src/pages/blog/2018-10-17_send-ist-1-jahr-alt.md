@@ -15,7 +15,7 @@ Vor etwas über einem Jahr ist unsere Crowdfunding-Kampagne zu Ende gegangen, be
 
 
 
-* Wir haben mittlerweile** über 270 Mitglieder** im Netzwerk
+* Wir haben mittlerweile **über 270 Mitglieder** im Netzwerk
 * Wir bauen ein tolles hauptamtliches Team auf
 * Social Entrepreneurship und Soziale Innovationen sind im Koalitionsvertrag der Bundesregierung verankert - gleich mehrfach
 * Die Investitionsbank Berlin | IBB öffnet als erste Landesförderbank ihre Finanzierungsinstrumente für Sozialunternehmen
