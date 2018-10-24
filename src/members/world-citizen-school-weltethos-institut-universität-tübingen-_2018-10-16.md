@@ -8,6 +8,6 @@ description: >-
   Forschungsaktivitäten integriert. 
 email: team@worldcitizen.school
 link: www.worldcitizen.school
-image: /uploads/school.png
+image: /uploads/world-citizen-school.png
 ---
 
