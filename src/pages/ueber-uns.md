@@ -5,7 +5,7 @@ title: Über uns
 section_1:
   paragraph: >-
     In Deutschland werden technologische Innovationen auf breiter Basis
-    gefördert- soziale und gesellschaftliche Innovationen bleiben größtenteils
+    gefördert - soziale und gesellschaftliche Innovationen bleiben größtenteils
     sich selbst überlassen. Das muss sich ändern. Deutschland soll und kann
     wieder eine führende Position einnehmen, wenn es darum geht, bahnbrechende,
     systemische Lösungen für gesamtgesellschaftliche Probleme zu finden. 
