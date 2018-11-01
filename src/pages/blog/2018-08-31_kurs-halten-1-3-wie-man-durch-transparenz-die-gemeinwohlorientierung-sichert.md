@@ -12,7 +12,7 @@ image: /uploads/polarstern_5.jpg
 date: '2018-09-17'
 category: news
 ---
-In dieser Blogreihe beleuchten wir drei Bereiche, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Dieser Teil der Reihe befasst sich mit der Zertifizierung als Methode und stellt unterschiedliche Zertifikate vor.
+In dieser Blogreihe beleuchten wir drei Bereiche, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Dieser Teil der Reihe befasst sich damit, welche Rolle die DNA des Unternehmens dabei spielt. Dazu stellen wir drei unterschiedliche Konzepte vor.
 
 1. Purpose Economy
 
