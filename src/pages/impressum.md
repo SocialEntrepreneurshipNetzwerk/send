@@ -13,7 +13,7 @@ section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
     label: Satzung herunterladen
-    link: /uploads/Satzung SEND 29.11.2017-final.pdf
+    link: /uploads/neue-beitragsordnung-1-.pdf
   title: Satzung
 section_2:
   content: >-
