@@ -1,10 +1,14 @@
 ---
 title: Social Entrepreneurship Netzwerk Deutschland e. V.
 templateKey: impressum
-address: |
-  Social Entrepreneurship Netzwerk Deutschland e. V.<br>nc/o Bundesverband Deutsche Startups e. V.<br>im Haus der Bundespressekonferenz <br>Schiffbauerdamm 40 <br>10117 Berlin
+address: >
+  Social Entrepreneurship Netzwerk Deutschland e. V.<br>nc/o Bundesverband
+  Deutsche Startups e. V.<br>im Haus der Bundespressekonferenz
+  <br>Schiffbauerdamm 40 <br>10117 Berlin
 email: info@send-ev.de
-bank: "**Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525 00<br>BIC: GENODEM1GLS"
+bank: >-
+  **Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525 00<br>BIC:
+  GENODEM1GLS
 section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
@@ -12,10 +16,12 @@ section_1:
     link: /uploads/Satzung SEND 29.11.2017-final.pdf
   title: Satzung
 section_2:
-  content: Lade hier unsere Beitragsordnung in der Fassung vom 19.07.2017 herunter
+  content: >-
+    Lade hier unsere neue Beitragsordnung, welche ab dem 01.01.2019 gilt,
+    herunter. Beitritte, die bis dahin genehmigt werden, sind kostenfrei. 
   cta:
     label: Beitragsordnung herunterladen
-    link: /uploads/SEND_Beitragsordnung_170719.pdf
+    link: /uploads/neue-beitragsordnung.pdf
   title: Beitragsordnung
 section_3:
   content: >-
