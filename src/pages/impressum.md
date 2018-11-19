@@ -21,7 +21,7 @@ section_2:
     herunter. Beitritte, die bis dahin genehmigt werden, sind kostenfrei. 
   cta:
     label: Beitragsordnung herunterladen
-    link: /uploads/neue-beitragsordnung.pdf
+    link: /uploads/neue-beitragsordnung-1-.pdf
   title: Beitragsordnung
 section_3:
   content: >-
