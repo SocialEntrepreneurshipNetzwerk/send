@@ -3,11 +3,11 @@ title: bring-together.  Willkommen Patchwork Communities
 description: >-
   bring-together ist eine Matching-Plattform für Gemeinschaftssuchende und
   Wohnprojekte. Wir verbinden Menschen, die gemeinschaftlich wohnen, leben oder
-  arbeiten wollen, sowie Werte und auch Dinge teilen. bring-together
+  arbeiten wollen, sowie Werte und auch Dinge teilen möchten. bring-together
   revolutioniert die langwierigen und oft schwierigen Prozesse der
   Gemeinschaftsbildung. Der Lösungsansatz besteht im passgenauen Zusammenführen
   von Gleichgesinnten durch den Abgleich von Interessen, Wünschen und
-  Charaktereigenschaften. Wie bieten einen Lösungsansatz im Bezug auf den
+  Charaktereigenschaften. Wir bieten einen Lösungsansatz im Bezug auf den
   demographischer Wandel und den damit verbundenen Herausforderungen wie
   fehlende Familienstrukturen, überforderter Sozialsysteme, unbezahlbarer
   städtischer Wohnraum und vereinsamte ländliche Regionen.
