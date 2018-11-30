@@ -1,5 +1,5 @@
 ---
-title: bring-together.  Willkommen Patchwork Communities
+title: bring-together.
 description: >-
   bring-together ist eine Matching-Plattform für Gemeinschaftssuchende und
   Wohnprojekte. Wir verbinden Menschen, die gemeinschaftlich wohnen, leben oder
