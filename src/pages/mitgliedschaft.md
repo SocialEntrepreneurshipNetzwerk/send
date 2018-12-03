@@ -9,7 +9,7 @@ cta_link:
     https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
 cta_download:
   label: Zur Beitragsordnung
-  link: /uploads/SEND_Beitragsordnung_170719.pdf
+  link: uploads/neue-beitragsordnung-1-.pdf
 section_1:
   column_1:
     paragraph: >-
