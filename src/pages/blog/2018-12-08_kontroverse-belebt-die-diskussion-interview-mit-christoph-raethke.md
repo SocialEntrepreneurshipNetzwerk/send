@@ -40,7 +40,7 @@ Oder Ocean Cleanup: Die packen ein unglaublich wichtiges Problem an. Aber sie tu
 
 **Christoph:** Vor allem, als Bestandteil dieser neuen Art des Unternehmertums zu agieren, die auf Basis von Technologie und Vernetzung funktioniert. Und sich dem Wettbewerb zu stellen! Noch einmal Ecosia: Ich habe gehört, dass die jetzt auf 150.000 Rechnern des Metro-Konzerns vorinstalliert wird, und zwar, weil Ecosia einfach genau so gute Ergebnisse wie Google liefert. Man braucht entsprechend kein Mitleid, Staatsförderung oder Spendenbudget, um sie zu nutzen. Warum sitzen wir also 20 Jahre nach der "Erfindung" der Startup-Industrie und ihrer vielen Methoden und Tools immer noch auf SE-Veranstaltungen - und bei der Frage nach digitaler, unternehmerischer Praxiserfahrung und Professionalisierung schauen alle betreten zu Boden?
 
-> _Bei der Veranstaltung waren wir auch und hatten nicht den Eindruck, dass alle betreten zu Boden guckten. Man muss aber trotzdem sagen, dass sehr, sehr viele der „klassischen" Startups in der Gründungs- und Skalierungsphase sehr wohl von staatlichen Förderungen profitieren, auf die Social Startups nicht zugreifen dürfen._
+> _Bei der Veranstaltung im Impact Hub waren wir auch und hatten nicht den Eindruck, dass alle betreten zu Boden guckten. Man muss aber trotzdem sagen, dass sehr, sehr viele der „klassischen" Startups in der Gründungs- und Skalierungsphase sehr wohl von staatlichen Förderungen profitieren, auf die Social Startups nicht zugreifen dürfen._
 >
 > _Aber glücklicherweise kommen ja nicht alle Förderungen vom Staat - Du bist auch als Gesellschafter und Investor unterwegs. Wie müsste ein Social Startup denn aussehen, um Dich zu überzeugen?_
 
