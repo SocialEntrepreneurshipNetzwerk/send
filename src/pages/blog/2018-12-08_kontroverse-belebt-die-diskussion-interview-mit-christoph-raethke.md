@@ -48,7 +48,7 @@ Oder Ocean Cleanup: Die packen ein unglaublich wichtiges Problem an. Aber sie tu
 
 Was das Thema „staatliche Förderung" angeht: In der Startup-Szene ist die an ein enormes Maß an Gründer-Professionalität gebunden, die nachgewiesen und dokumentiert werden muss. Und vor allem an das Grundverständnis, dass Förderung nur zum Anschub eines sich möglichst schnell selbst tragenden Unternehmens dient, aber nicht selber das Geschäftsmodell sein darf.
 
-> _Seit 1999 bewegst Du Dich in der deutschen Gründerszene. Welche Trends erkennst Du? Und wie schätzt Du die Zukunft von sozial-unternehmerischen Gründungen in Deutschland ein?_
+> _Seit 1999 bewegst Du Dich in der deutschen Gründerszene. Abschließend also noch die Fragen: Welche Trends erkennst Du? Und wie schätzt Du die Zukunft von sozial-unternehmerischen Gründungen in Deutschland ein?_
 
 **Christoph: **Der beherrschende Trend in ganz Europa ist sicherlich die Entwicklung von industrienahen Business-to-Business Lösungen. Aus vielen Gründen; einer davon, der auch für Socials wichtig ist, ist der, dass es so teuer geworden ist, ein großes Endkunden-Publikum zu erreichen. Man kann da aus dem Ende von Dawanda lernen, die ein tolles Produkt hatten, viele zufriedene Anbieter und Kunden (darunter mich), und 2018 trotzdem den Laden sang- und klanglos dicht gemacht haben. Weil sie gegen die Marketing-Budgets von Etsy, dem x-fach größeren Mitbewerber aus den USA, einfach nicht ankamen.
 
