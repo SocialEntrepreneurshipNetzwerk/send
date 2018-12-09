@@ -1,11 +1,10 @@
 ---
 templateKey: article
 clip: clip_article
-title: Kontroverse belebt die Diskussion - Interview mit Christoph Raethke
+title: Erkenntnisse außerhalb der Blase - Interview mit Christoph Raethke
 excerpt: >-
-  Weil wir davon überzeugt sind, dass kontroverse Diskussionen uns dabei helfen,
-  zu lernen, freuen wir uns, ein Interview mit Startup Experten Christoph
-  Raethke geführt haben zu können.
+  Weil wir davon überzeugt sind, dass kontroverse Diskussionen sehr wichtig
+  sind, freuen wir uns sehr über das Gespräch mit Christoph Raethke.
 image: /uploads/d.jpg
 date: '2018-12-08'
 category: news
@@ -14,13 +13,11 @@ _Über Christoph Raethke_
 
 Christoph ist nicht nur selbst mehrfacher Gründer, sondern mittlerweile als Startup Guru bekannt. Seit über 20 Jahren bewegt er sich im deutschen Startup Umfeld und hat in dieser Zeit einiges an Erfahrungen gesammelt. Auf seiner Website www.christophr.de teilt er Methoden und best practice Tipps rund um die Unternehmensgründung und in seinen Meetups hat er bereits mehreren Tausend Menschen dabei geholfen, ihre Startup Ideen zu validieren und zu verfeinern.
 
-Auch als Gründer der Berlin Startup Academy begleitet Christoph seit 2012 jährlich Teams Gründer*innen bei der Entwicklung und Umsetzung ihrer Ideen.
+Auch als Gründer der Berlin Startup Academy begleitet Christoph seit 2012 jährlich Gründer*innen bei der Entwicklung und Umsetzung ihrer Ideen.
 
 ![null](/uploads/gg.jpg)
 
-
-
-Hallo Christoph! Schön, dass Du als Gründungsexperte Dir die Zeit nimmst, mit uns kritische über Social Entrepreneurship in Deutschland zu sprechen. Wir halten es für wichtig, sich auch immer mal wieder selbst zu hinterfragen und wir glauben, dass man gerade auch aus Kontroversen viel mitnehmen kann - Daher freuen wir uns auf Deine Meinungen!
+Hallo Christoph! Schön, dass Du als Gründungsexperte Dir die Zeit nimmst, mit uns kritisch über Social Entrepreneurship in Deutschland zu sprechen. Wir halten es für wichtig, sich auch immer mal wieder selbst zu hinterfragen und wir glauben, dass man gerade auch aus Kontroversen viel mitnehmen kann - Daher freuen wir uns auf Deine Meinungen!
 
 > _Erzähl' uns doch kurz, welche Berührungspunkte hattest Du bereits mit Social Entrepreneurship? Und glaubst Du an das Potential von Unternehmertum, gesellschaftliche Herausforderungen zu bewältigen?_
 
@@ -30,17 +27,17 @@ Was die zweite Frage angeht: Unternehmertum bewältigt gesellschaftliche Herausf
 
 Oder Ocean Cleanup: Die packen ein unglaublich wichtiges Problem an. Aber sie tun es als Technology Company, die eine bessere Lösung anbieten, als es andere auf dem Markt tun. Im Gegensatz dazu kann die Ausrichtung der eigenen Gründung nach SE-Kriterien zumindest am Anfang das größte Erfolgshemmnis sein. Christian Kroll von Ecosia, einem Paradepferd der SE-Szene, sagt es selber: Solange Ecosia rein sozial ausgerichtet war und jeden verdienten Cent in Bäume steckte, dümpelte es bei minimalem Umsatz und entsprechendem Impact vor sich hin. Erst, als mit Tim Schumacher ein richtiger Geschäftsmann dazustieß, der alles darauf ausrichtete, eine professionelle, kommerziell attraktive Lösung zu bauen, ging Ecosia durch die Decke und erreicht nun auch sozial richtig viel. Daher meine ständige Predigt: Ihr müsst erstmal ein konkurrenzfähiges Ding aufstellen, bevor ihr schaut, wie sozial das ganze werden kann. Es ist absurd, im ersten Business-Plan schon genau definiert zu haben, wie genau man die Gewinne, die man nicht macht, sozial investiert werden sollen. Überwindet endlich die Profitfeindschaft!
 
-> _Das sind natürlich gute Beispiele für sinnvolles Unternehmertum, wo die wirtschaftliche Seite hervorragend funktioniert. Bei Unternehmen, die zu sehr auf Profitstreben ausgerichtet sind, besteht jedoch häufig die Gefahr, dass ihr Geschäftsmodell sich letztlich nur nach den Interessen der Anteilseigner richtet - was dann vielen Menschen möglicherweise eher schadet als nützt. Ecosia ist genau deshalb mittlerweile zu einem Purpose-Unternehmen geworden, dessen Profite zu 100% dem ökologischen Zweck erhalten bleiben. Unserer Meinung nach ist diese sozialunternehmerische DNA im Unternehmen wirklich notwendig._
+> _Das sind natürlich gute Beispiele für sinnvolles Unternehmertum, wo die wirtschaftliche Seite hervorragend funktioniert! Bei Unternehmen, die sich jedoch ausschließlich nach Interessen von Investoren ausrichten (müssen) und ihr Geschäftsmodell auf immer größere Rendite fokussieren, kann sich die gesellschaftliche Wirkung abber auch in Gegenteil verändern. Ecosia ist genau deshalb mittlerweile zu einem Purpose-Unternehmen geworden, dessen Profite dauerhaft dem ökologischen Zweck erhalten bleiben. Unserer Meinung nach ist diese sozialunternehmerische DNA im Unternehmen äußerst relevant._
 >
 > _Du hast einmal gesagt, dass Social Entrepreneurship in Deutschland nicht wirklich erfolgreich ist, weil "es sich in einer Blase bewegt und die Wahrheit nicht hören möchte". Kannst Du das genauer ausführen?_
 
 **Christoph: **Ich basiere das auf meiner Praxis als Veranstalter, Publizist und Wissensvermittler, der seit etwa 10 Jahren in der Startup-Szene Gründungswillige berät und ein Portfolio von Beteiligungen hat. Unter anderem veranstalte ich seit 2015 ein offenes, kostenloses Meetup, "Christophs Feedback", wo jeder seine Idee vorstellen kann und von mir professionellen Rat bekommt, der auch in Intros zu Investoren führen kann. Es waren bislang ungefähr 3000 Menschen dabei, und ich muss so etwa 600 Ideen gehört haben. Der Anteil von Social Entrepreneurs darunter: Null. Ich saß vor ein paar Wochen auf einem Panel im Impact Hub in Berlin, und es waren etwa 50 Zuhörer im Raum, die sich alle mit dem Thema SE identifizierten. Ich fragte, wie viele von denen schon mal auf meinem Meetup waren oder davon gehört hatten. Die Antwort: Null. Berlin ist einer der drei besten Orte der Welt, um von Startup-Methodiken zu lernen, sich zu vernetzen und zu professionalisieren - und zwar ohne Geld auszugeben, in offenen Formaten und oft in Fahrradentfernung. Investoren machen offene Sprechstunden, es gibt eine riesige Landschaft von Konferenzen über die technologischen, personalseitigen oder auch kulturellen Aspekte davon, wie Unternehmertum heute funktioniert. Die Präsenz von Social Entrepreneurs und deren Organisationen bei all dem ist lächerlich gering. Und auf der anderen Seite gibt es etwas, das mir wie ein Paralleluniversum vorkommt - Stiftungen, Förderprogramme, Ashoka, Impact Hubs, bei denen motivierte, liebe Menschen zusammenkommen in einem Umfeld, in dem selten jemand Gründererfahrung hat. Und sich gegenseitig von den Mühen und der Ungerechtigkeit des Sozialunternehmertums erzählen.
 
-> _Was denkst Du, täte dem Social Entrepreneurship in Deutschland gut?_
+> _Nun gut, ich gebe Dir bei dem Punkt recht, dass eine Offenheit, von beiden Seiten, sicher wichtig ist.  Was denkst Du denn, täte dem Social Entrepreneurship in Deutschland noch gut?_
 
 **Christoph:** Vor allem, als Bestandteil dieser neuen Art des Unternehmertums zu agieren, die auf Basis von Technologie und Vernetzung funktioniert. Und sich dem Wettbewerb zu stellen! Noch einmal Ecosia: Ich habe gehört, dass die jetzt auf 150.000 Rechnern des Metro-Konzerns vorinstalliert wird, und zwar, weil Ecosia einfach genau so gute Ergebnisse wie Google liefert. Man braucht entsprechend kein Mitleid, Staatsförderung oder Spendenbudget, um sie zu nutzen. Warum sitzen wir also 20 Jahre nach der "Erfindung" der Startup-Industrie und ihrer vielen Methoden und Tools immer noch auf SE-Veranstaltungen - und bei der Frage nach digitaler, unternehmerischer Praxiserfahrung und Professionalisierung schauen alle betreten zu Boden?
 
-> _Bei der Veranstaltung im Impact Hub waren wir auch und hatten nicht den Eindruck, dass alle betreten zu Boden guckten. Man muss aber trotzdem sagen, dass sehr, sehr viele der „klassischen" Startups in der Gründungs- und Skalierungsphase sehr wohl von staatlichen Förderungen profitieren, auf die Social Startups nicht zugreifen dürfen._
+> _Bei der Veranstaltung im Impact Hub waren wir auch und hatten nicht den Eindruck, dass alle betreten zu Boden guckten. Man muss außerdem sagen, dass sehr, sehr viele der „klassischen" Startups in der Gründungs- und Skalierungsphase sehr wohl von staatlichen Förderungen profitieren, auf die Social Startups nicht zugreifen dürfen._
 >
 > _Aber glücklicherweise kommen ja nicht alle Förderungen vom Staat - Du bist auch als Gesellschafter und Investor unterwegs. Wie müsste ein Social Startup denn aussehen, um Dich zu überzeugen?_
 
@@ -58,7 +55,7 @@ Nach allem, was ich gesagt habe, kann ich nicht besonders optimistisch sein, was
 
 Christoph, wir danken Dir herzlich für deine kritischen Einschätzungen zum Thema Social Entrepreneurship!
 
-Auch unserer Beobachtung nach, bewegen wir Social Entrepreneurs uns noch zu sehr in unserer eigenen Blase. Lasst uns hier #GemeinsamWirken und dies ändern!
+Wir sind sicherlich bei vielen Punkten nicht einer Meinung, aber auch unserer Beobachtung nach, bewegen wir Social Entrepreneurs uns noch zu sehr in unserer eigenen Blase. Lasst uns hier #GemeinsamWirken und dies ändern!
 
 Wer zum Beispiel Christophs Einladung folgen und bei einem seiner Meetups vorbeischauen möchte, findet unter [diesem Link](https://www.meetup.com/en-AU/idea_feedback/) nähere Informationen dazu.
 
