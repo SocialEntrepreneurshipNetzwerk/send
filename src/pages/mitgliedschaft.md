@@ -13,11 +13,12 @@ cta_download:
 section_1:
   column_1:
     paragraph: >-
-      Als **ordentliches Mitglied** erhältst Du alle oben genannten Vorteile.
-      Der jährliche Beitrag für Privatpersonen beträgt dabei 75€. Organisationen
-      zahlen, je nach ihrem Alter, zwischen 75€ und 300€. Genauere Details dazu
-      findest Du in unserer
-      [Beitragsordnung](https://www.send-ev.de/uploads/SEND_Beitragsordnung_170719.pdf).
+      Als **ordentliches Mitglied** erhältst Du alle oben genannten Vorteile und
+      hast die Möglichkeit Deinen Beitrag innerhalb einer festgelegten Spanne
+      von 75,00€ - 500,00€, selbst festzulegen. Dabei kannst Du Dich am Umsatz
+      und Alter Deiner Organisation orientieren.
+
+
       Bitte meldet Euch mit Euren Unternehmen an, selbst wenn sich diese noch in
       Gründung befinden. Wir freuen uns natürlich auch über alle engagierten
       Privatpersonen!
@@ -26,7 +27,7 @@ section_1:
     paragraph: >-
       Solltest Du SEND e.V. darüber hinaus unterstützen wollen, kannst Du
       **Fördermitglied** werden. Privatpersonen können dies ab einem Beitrag in
-      Höhe von 250€ tun, bei Organisationen fallen 500€ bis 10.000€ an. Die
+      Höhe von 250€ tun, bei Organisationen fallen 1000€ bis 10.000€ an. Die
       individuellen Vorteile besprechen wir mit jedem Mitglied einzeln und
       können von zusätzlicher Sichtbarkeit durch unseren Newsletter oder Social
       Media bis zur offiziellen Partnerschaft bei bestimmten Veranstaltungen
