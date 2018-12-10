@@ -15,8 +15,8 @@ section_1:
     paragraph: >-
       Als **ordentliches Mitglied** erhältst Du alle oben genannten Vorteile und
       hast die Möglichkeit Deinen Beitrag innerhalb einer festgelegten Spanne
-      von 75,00€ - 500,00€, selbst festzulegen. Dabei kannst Du Dich am Umsatz
-      und Alter Deiner Organisation orientieren.
+      von 75€ - 500€, selbst festzulegen. Dabei kannst Du Dich am Umsatz und
+      Alter Deiner Organisation orientieren.
 
 
       Bitte meldet Euch mit Euren Unternehmen an, selbst wenn sich diese noch in
