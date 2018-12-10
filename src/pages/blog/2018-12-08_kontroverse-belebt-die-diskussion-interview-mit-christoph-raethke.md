@@ -11,7 +11,7 @@ category: news
 ---
 _Über Christoph Raethke_
 
-Christoph ist nicht nur selbst mehrfacher Gründer, sondern mittlerweile als Startup Guru bekannt. Seit über 20 Jahren bewegt er sich im deutschen Startup Umfeld und hat in dieser Zeit einiges an Erfahrungen gesammelt. Auf seiner Website www.christophr.de teilt er Methoden und best practice Tipps rund um die Unternehmensgründung und in seinen Meetups hat er bereits mehreren Tausend Menschen dabei geholfen, ihre Startup Ideen zu validieren und zu verfeinern.
+Christoph ist nicht nur selbst mehrfacher Gründer, sondern mittlerweile als Startup Guru bekannt. Seit über 20 Jahren bewegt er sich im deutschen Startup Umfeld und hat in dieser Zeit einiges an Erfahrungen gesammelt. Auf seiner Website [www.christophr.de](www.christophr.de) teilt er Methoden und best practice Tipps rund um die Unternehmensgründung und in seinen Meetups hat er bereits mehreren Tausend Menschen dabei geholfen, ihre Startup Ideen zu validieren und zu verfeinern.
 
 Auch als Gründer der [Berlin Startup Academy](https://www.facebook.com/BerlinStartupAcademy) begleitet Christoph seit 2012 jährlich Gründer*innen bei der Entwicklung und Umsetzung ihrer Ideen.
 
