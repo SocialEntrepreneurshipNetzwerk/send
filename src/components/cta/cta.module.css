@@ -85,7 +85,7 @@
   left: 50%;
   transform: translateX(-50%);
 }
-/*@media (max-width: break-main-padding){*/
+@media (max-width: break-main-padding){
   .button_aqua {
     position: initial;
     top: unset;
@@ -93,7 +93,7 @@
     transform: none;
     float: right;
   }
-/*}*/
+}
 @media (max-width: break-footer){
   .button_aqua {
     display: block;
