@@ -14,6 +14,9 @@ const ButtonCTA = ( props ) => {
     case 'blue':
       buttonStyle = styles.button_blue;
       break;
+    case 'aqua':
+      buttonStyle = styles.button_aqua;
+      break;
     default:
       buttonStyle = styles.button_white;
       break;

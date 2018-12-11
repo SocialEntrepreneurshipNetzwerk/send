@@ -76,3 +76,36 @@
   border-color: null;
   color: aqua;
 }
+
+.button_aqua {
+  composes: button_white;
+  position: absolute;
+  display: inline-block;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+/*@media (max-width: break-main-padding){*/
+  .button_aqua {
+    position: initial;
+    top: unset;
+    left: unset;
+    transform: none;
+    float: right;
+  }
+/*}*/
+@media (max-width: break-footer){
+  .button_aqua {
+    display: block;
+    float: none;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+}
+
+.button_aqua:hover {
+  transition: all 0.1s;
+  background-color: aqua;
+  border-color: aqua;
+  color: white;
+}
