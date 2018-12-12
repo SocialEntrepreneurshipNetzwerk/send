@@ -2,7 +2,7 @@
 templateKey: article
 clip: clip_article
 title: Erster Deutscher Social Entrepreneurship Monitor veröffentlicht
-excerpt: Die Ergebnisse des ersten Deutschen Social Entrepreneurship Monitors sind da!
+excerpt: Die Ergebnisse des DSEM 2018 sind da!
 image: /uploads/blog-cover_1.png
 date: '2018-12-13'
 category: news
