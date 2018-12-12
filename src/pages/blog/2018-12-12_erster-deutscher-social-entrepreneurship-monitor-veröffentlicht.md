@@ -2,11 +2,7 @@
 templateKey: article
 clip: clip_article
 title: Erster Deutscher Social Entrepreneurship Monitor veröffentlicht
-excerpt: >-
-  Immer mehr Menschen in Deutschland entscheiden sich dazu, Social
-  Entrepreneur*innen zu werden. Insbesondere im Hinblick auf globale
-  Herausforderungen, wie Digitalisierung und Globalisierung, ist die Motivation,
-  die Gesellschaft nachhaltig mitzugestalten, insgesamt größer geworden.
+excerpt: Die Ergebnisse des ersten Deutschen Social Entrepreneurship Monitors sind da!
 image: /uploads/blog-cover_1.png
 date: '2018-12-13'
 category: news
