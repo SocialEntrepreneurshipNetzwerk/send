@@ -8,7 +8,11 @@ const port = process.env.PORT || 8081
 
 
 const fixEncoding = (req, res, next) => {
-  req.url = req.url.replace(/%C3%B6/g,'%CC%88')
+  console.log(req.url)
+  // rewrite odd umlaut encodings to the standard
+  req.url = req.url.replace(/%C3%B6/g,'o%CC%88') // ö
+  // req.url = decodeURIComponent(req.url)
+  console.log(req.url)
   return next()
 }
 
