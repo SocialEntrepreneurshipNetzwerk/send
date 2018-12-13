@@ -9,12 +9,15 @@ const port = process.env.PORT || 8081
 
 const fixEncoding = (req, res, next) => {
   req.url = req.url.replace(/%C3%B6/g,'%CC%88')
-  next()
+  return next()
 }
 
 app.use(fixEncoding)
 
-app.use('/', express.static(`${__dirname}/../public/`))
+app.use('/', express.static(`${__dirname}/../public/`, {
+    fallthrough: true,
+    redirect: true
+}))
 
 rewrites(app)
 api(app)
