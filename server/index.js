@@ -9,18 +9,21 @@ const port = process.env.PORT || 8081
 
 const fixEncoding = (req, res, next) => {
   console.log(req.url)
+    const from = /%C3%B6/g
+    const to = 'o%CC%88'
   // rewrite odd umlaut encodings to the standard
-  req.url = req.url.replace(/%C3%B6/g,'o%CC%88') // ö
+    if (req.url.match(from)) {
+        return res.redirect(301,req.url.replace(from, to)) // ö
+    }
   // req.url = decodeURIComponent(req.url)
-  console.log(req.url)
   return next()
 }
 
 app.use(fixEncoding)
 
 app.use('/', express.static(`${__dirname}/../public/`, {
-    fallthrough: true,
-    redirect: true
+  fallthrough: true,
+  redirect: true
 }))
 
 rewrites(app)
