@@ -7,7 +7,7 @@ image: /uploads/blog-cover_1.png
 date: '2018-12-13'
 category: news
 ---
-<a href="https://www.send-ev.de/uploads/dsem-2018_web.pdf"><img class="alignleft wp-image-22" src="/uploads/dsem-cover_1.png"/></a>
+<a href="https://www.send-ev.de/uploads/dsem-2018_web.pdf" target="_blank" rel="noopener"><img class="alignleft wp-image-22" src="/uploads/dsem-cover_1.png" /></a>
 
 Immer mehr Menschen in Deutschland entscheiden sich dazu, Social Entrepreneur*innen zu werden. Insbesondere im Hinblick auf globale Herausforderungen, wie Digitalisierung und Globalisierung, ist die Motivation, die Gesellschaft nachhaltig mitzugestalten, insgesamt größer geworden.
 
@@ -15,9 +15,7 @@ Doch wie rasch steigt das Interesse? Wie sieht Social Entrepreneurship in Deutsc
 
 ![null](/uploads/michael-wunsch_1.png)
 
-Michael Wunsch, Initiator und Projektleiter des DSEM: 
-
-> „Wir benötigen eine gute Datengrundlage, um angehende wie etablierte Sozialunternehmer*innen adäquat unterstützen zu können. Bisher sind wir da oft eher im Dunkeln getappt."
+> Michael Wunsch, Initiator und Projektleiter des DSEM: „Wir benötigen eine gute Datengrundlage, um angehende wie etablierte Sozialunternehmer*innen adäquat unterstützen zu können. Bisher sind wir da oft eher im Dunkeln getappt."
 
 Heute wurde der DSEM im Rahmen eines parlamentarischen Frühstücks im Bundestag zum ersten Mal veröffentlicht. Die Publikation ist aus einer Kooperation zwischen dem Social Entrepreneurship Netzwerks Deutschland e.V. und der Otto-von-Guericke- Universtität Magdeburg entstanden und wurde ermöglicht durch SAP.
 
@@ -41,11 +39,9 @@ Insgesamt haben 210 Social Entrepreneur\*innen an der Umfrage des DSEM teilgenom
 
 ![null](/uploads/markus-sauerhammer_1.png)
 
-Markus Sauerhammer, 1. Vorstand SEND: 
+> Markus Sauerhammer, 1. Vorstand SEND: „Die Ergebnisse des DSEM zeigen das Potenzial für die Lösung gesellschaftlicher Herausforderungen und einem Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Nach einer Verankerung im Koalitionsvertrag und der Gründungsoffensive des Wirtschaftsministeriums sieht man, dass auch die Politik dieses Potenzial erkannt hat. Nun gilt es zu von politischer Seite mit dem Nachdruck zu handeln. Die meisten Social Startups in Deutschland entstehen bislang nicht wegen, sondern trotz der politischen Rahmenbedingungen."
 
-> „Die Ergebnisse des DSEM zeigen das Potenzial für die Lösung gesellschaftlicher Herausforderungen und einem Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Nach einer Verankerung im Koalitionsvertrag und der Gründungsoffensive des Wirtschaftsministeriums sieht man, dass auch die Politik dieses Potenzial erkannt hat. Nun gilt es zu von politischer Seite mit dem Nachdruck zu handeln. Die meisten Social Startups in Deutschland entstehen bislang nicht wegen, sondern trotz der politischen Rahmenbedingungen."
-
-[Hier geht's zur Publikation des Deutschen Social Entrepreneurship Monitors.](https://www.send-ev.de/uploads/dsem-2018_web.pdf)
+<a href="https://www.send-ev.de/uploads/dsem-2018_web.pdf" target="_blank" rel="noopener">Hier geht's zur Publikation des Deutschen Social Entrepreneurship Monitors.</a>
 
 \
-<a href="https://www.send-ev.de/uploads/dsem-2018_web.pdf"><img class="alignleft wp-image-22" src="/uploads/dsem-innen_1.png"/></a>
+<a href="https://www.send-ev.de/uploads/dsem-2018_web.pdf" target="_blank" rel="noopener"><img class="alignleft wp-image-22" src="/uploads/dsem-innen_1.png" /></a>
