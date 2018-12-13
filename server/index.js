@@ -6,6 +6,14 @@ const api = require('./api')
 
 const port = process.env.PORT || 8081
 
+
+const fixEncoding = (req, res, next) => {
+  req.url = req.url.replace(/%C3%B6/g,'%CC%88')
+  next()
+}
+
+app.use(fixEncoding)
+
 app.use('/', express.static(`${__dirname}/../public/`))
 
 rewrites(app)
