@@ -16,6 +16,7 @@ export default class Netzwerk extends Component {
 
   state = {
     q: undefined,
+    filter: undefined,
     members: undefined,
     offset: 0,
     limit: 12,
@@ -30,17 +31,36 @@ export default class Netzwerk extends Component {
     this.setState({suggestion: biasedSuggestion[Math.floor(Math.random()*biasedSuggestion.length)] })
   }
 
+
+  setFilter = (e) => {
+    const filter = e.target.value;
+    const {q, offset, limit} = this.state;
+    const newOffset = offset + limit;
+    const type = "member";
+    console.log("filter",filter)
+    this.setState({filter: filter})
+    axios({
+      method: 'get',
+      url: '/api/search',
+      params: {q, limit, type, filter}
+    }).then(res => {
+      const data = res.data;
+      this.setState({count: data.count, members: data.rows, q, offset: 0});
+    });
+  }
+
   handleUpdateQuery = (e) => {
     const q = e.target.value;
     const limit = this.state.limit;
     const type = "member";
+    const filter = this.state.filter;
 
     this.suggestMember();
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, limit, type}
+      params: {q, limit, type, filter}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, members: data.rows, q, offset: 0});
@@ -104,6 +124,11 @@ export default class Netzwerk extends Component {
             <div className={styles.search}>
               <span> Mitglieder finden: </span>
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
+              <SearchIcon/>
+            </div>
+            <div className={styles.search}>
+              <span> Filter: </span>
+              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.setFilter} />
               <SearchIcon/>
             </div>
             <TriangleBoxContainer boxes={members} size="large"/>

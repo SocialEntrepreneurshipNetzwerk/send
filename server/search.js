@@ -95,7 +95,7 @@ const membersOpts = {
   expand: true
 };
 
-module.exports = ( q, offset, limit, type ) => {
+module.exports = ( q, offset, limit, type, filter ) => {
   let opts = undefined;
   let index = undefined;
   let lookup = undefined;
@@ -122,10 +122,26 @@ module.exports = ( q, offset, limit, type ) => {
     const rows = index.search( q, opts );
     result.count = rows.length;
     result.rows = rows.slice( offset, offset + limit ).map( m => lookup[ m.ref ]);
+    if ( filter ) {
+      let rowsFiltered = result.rows.filter( function (el) {
+        return el.domain == filter;
+      });
+      result.rows = rowsFiltered
+    }
+
+  } else if ( filter ) {
+    console.log(items.slice( offset, offset + limit ).filter( function (el) {
+      return el.domain == filter;
+    }))
+    result.rows = items.slice( offset, offset + limit ).filter( function (el) {
+      return el.domain == filter;
+    });
   } else {
     result.count = items.length;
     result.rows = items.slice( offset, offset + limit );
   }
+
+
 
   return result;
 };
