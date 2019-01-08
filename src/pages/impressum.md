@@ -18,7 +18,7 @@ section_1:
 section_2:
   content: >-
     Lade hier unsere neue Beitragsordnung, welche ab dem 01.01.2019 gilt,
-    herunter. Beitritte, die bis dahin genehmigt werden, sind kostenfrei. 
+    herunter. 
   cta:
     label: Beitragsordnung herunterladen
     link: /uploads/neue-beitragsordnung-1-.pdf
