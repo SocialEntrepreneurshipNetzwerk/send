@@ -46,10 +46,10 @@ export default class Netzwerk extends Component {
     this.handleSearch(q, this.state.facets);
   };
 
-  handleUpdateFacet = (string) => {
+  handleUpdateFacet = (string, facet, startOption) => {
     const facets = {...this.state.facets}
-    console.log(string)
-    string==="Alle Städte" ? facets.city = undefined : facets.city = string
+    console.log("string: ", string, "startOption: ", startOption)
+    string===startOption ? facets[facet] = undefined : facets[facet] = string
     this.setState({ facets: facets});
     this.handleSearch( this.state.q, facets)
   }
@@ -132,7 +132,9 @@ export default class Netzwerk extends Component {
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
-            <Dropdown startOption="Alle Städte" options={["Alle Städte", "Berlin", "Hamburg", "München"]} handleUpdate={this.handleUpdateFacet}/>
+            <Dropdown facet="city" startOption="Alle Städte" options={["Alle Städte", "Berlin", "Hamburg", "München"]} handleUpdate={this.handleUpdateFacet}/>
+            <Dropdown facet="impactArea" startOption="Alle Wirkungsbereiche" options={["Alle Wirkungsbereiche", "Energie", "Integration"]} handleUpdate={this.handleUpdateFacet}/>
+            <Dropdown facet="regionalGroup" startOption="Alle Regionalgruppen" options={["Alle Regionalgruppen", "Brandenburg", "Schleswig-Holstein"]} handleUpdate={this.handleUpdateFacet}/>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}

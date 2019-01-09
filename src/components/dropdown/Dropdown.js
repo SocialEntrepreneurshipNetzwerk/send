@@ -18,7 +18,7 @@ class Dropdown extends Component {
   select = (e) => {
     this.setState({selected: e.target.innerText})
     this.toggleList()
-    this.props.handleUpdate(e.target.innerText)
+    this.props.handleUpdate(e.target.innerText, this.props.facet, this.props.startOption)
   }
 
   render () {

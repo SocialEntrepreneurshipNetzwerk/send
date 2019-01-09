@@ -133,13 +133,16 @@ module.exports = ( q, offset, limit, type, facets ) => {
   }
 
 
-  if ( facets.city ) {
-    result.rows = result.rows.filter( item => {
-      if ( item.city === facets.city ) {
-        return item
-      }
-    })
+  for (facet in facets) {
+    if ( facets[facet] ) {
+      result.rows = result.rows.filter( item => {
+        if ( item[facet] === facets[facet] ) {
+          return item
+        }
+      })
+    }
   }
+
 
   result.count = result.rows.length;
   result.rows = result.rows.slice(offset, offset + limit)
