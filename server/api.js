@@ -5,9 +5,9 @@ const searchAction = ( req, res ) => {
   const limit = parseInt( req.query.limit, 10 ) || 5;
   const q = req.query.q || '';
   const type = req.query.type || '';
-  const filter = req.query.filter || '';
+  const facets = req.query.facets || '';
 
-  res.json( search( q, offset, limit, type, filter ));
+  res.json( search( q, offset, limit, type, facets ));
 };
 
 module.exports = ( app ) => {

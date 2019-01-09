@@ -10,13 +10,18 @@ import ButtonLoadMore from '../components/cta/ButtonLoadMore';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
+import Dropdown from '../components/dropdown/Dropdown';
 import styles from './netzwerk.module.css';
 
 export default class Netzwerk extends Component {
 
   state = {
     q: undefined,
-    filter: undefined,
+    facets: {
+      city: undefined,
+      impactArea: undefined,
+      regionalGroup: undefined
+    },
     members: undefined,
     offset: 0,
     limit: 12,
@@ -32,43 +37,44 @@ export default class Netzwerk extends Component {
   }
 
 
-  setFilter = (e) => {
-    const filter = e.target.value;
-    const {q, offset, limit} = this.state;
+  handleUpdateQuery = (e) => {
+    const q = e.target.value;
+
+    this.suggestMember();
+
+    this.setState({q: q})
+    this.handleSearch(q, this.state.facets);
+  };
+
+  handleUpdateFacet = (string) => {
+    const facets = {...this.state.facets}
+    console.log(string)
+    string==="Alle Städte" ? facets.city = undefined : facets.city = string
+    this.setState({ facets: facets});
+    this.handleSearch( this.state.q, facets)
+  }
+
+  handleSearch = (q, facets) => {
+
+    const {offset, limit} = this.state;
     const newOffset = offset + limit;
     const type = "member";
-    console.log("filter",filter)
-    this.setState({filter: filter})
+
+    console.log("state of q in handleSearch is" , Boolean(q))
+    console.log("state of facet in handleSearch is" , facets)
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, limit, type, filter}
+      params: {q, limit, type, facets}
     }).then(res => {
       const data = res.data;
-      this.setState({count: data.count, members: data.rows, q, offset: 0});
+      this.setState({count: data.count, members: data.rows, q,  offset: 0});
     });
   }
 
-  handleUpdateQuery = (e) => {
-    const q = e.target.value;
-    const limit = this.state.limit;
-    const type = "member";
-    const filter = this.state.filter;
-
-    this.suggestMember();
-
-    axios({
-      method: 'get',
-      url: '/api/search',
-      params: {q, limit, type, filter}
-    }).then(res => {
-      const data = res.data;
-      this.setState({count: data.count, members: data.rows, q, offset: 0});
-    });
-  };
 
   componentDidMount = () => {
-    const {q, offset, limit} = this.state;
+    const {q, offset, limit, facets} = this.state;
     const type = "member";
 
     this.suggestMember();
@@ -76,7 +82,7 @@ export default class Netzwerk extends Component {
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset, limit, type}
+      params: {q, offset, limit, type, facets}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, members: data.rows});
@@ -85,14 +91,14 @@ export default class Netzwerk extends Component {
 
   handleLoadMore = () => {
     const members = this.state.members;
-    const {q, offset, limit} = this.state;
+    const {q, offset, limit, facets} = this.state;
     const newOffset = offset + limit;
     const type = "member";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset: newOffset, limit, type}
+      params: {q, offset: newOffset, limit, type, facets}
     }).then(res => {
       const data = res.data;
 
@@ -126,11 +132,7 @@ export default class Netzwerk extends Component {
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
-            <div className={styles.search}>
-              <span> Filter: </span>
-              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.setFilter} />
-              <SearchIcon/>
-            </div>
+            <Dropdown startOption="Alle Städte" options={["Alle Städte", "Berlin", "Hamburg", "München"]} handleUpdate={this.handleUpdateFacet}/>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
