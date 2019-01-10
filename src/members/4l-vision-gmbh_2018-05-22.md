@@ -7,5 +7,10 @@ description: >-
   Gesellschaft zu finden und umzusetzen. 
 link: 'http://4l.vision/'
 image: /uploads/foto-4l.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

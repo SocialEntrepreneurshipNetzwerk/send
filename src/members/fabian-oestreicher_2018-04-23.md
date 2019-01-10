@@ -6,5 +6,10 @@ description: >-
 email: info@futurphil.de
 link: 'https://futurphil.de/'
 image: /uploads/profilbild_breit-fabian-oestreicher.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

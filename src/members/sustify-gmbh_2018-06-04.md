@@ -8,5 +8,10 @@ description: >-
 email: sonja.westphal@sustify.de
 link: 'https://www.sustify.de'
 image: /uploads/sustify_logo_withclaim_rgb.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

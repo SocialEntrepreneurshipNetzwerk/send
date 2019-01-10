@@ -13,5 +13,10 @@ description: >-
 email: info@emerald-berlin.com
 link: 'https://www.emerald-berlin.com/de'
 image: /uploads/emerald-logo.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

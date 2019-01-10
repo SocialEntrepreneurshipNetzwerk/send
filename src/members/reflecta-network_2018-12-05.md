@@ -10,5 +10,10 @@ description: >-
 email: hello@reflecta.network
 link: ' www.reflecta.network'
 image: /uploads/reflecta.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

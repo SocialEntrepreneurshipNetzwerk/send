@@ -11,5 +11,10 @@ description: >-
   in der Gesellschaft, in Organisationen und in Unternehmen.
 link: 'https://helpteers.net'
 image: /uploads/helpteers.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

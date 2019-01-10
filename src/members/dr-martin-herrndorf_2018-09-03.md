@@ -10,5 +10,10 @@ description: >-
 email: 'martin@herrndorf.de '
 link: 'https://www.herrndorf.de '
 image: /uploads/martin-herndorf.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

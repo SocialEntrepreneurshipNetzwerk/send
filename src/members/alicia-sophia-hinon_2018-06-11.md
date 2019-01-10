@@ -9,5 +9,10 @@ description: >-
 email: alicia.hinon@digityle.com
 link: 'https://www.digityle.com '
 image: /uploads/aliciasophiahinon_send.ev.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

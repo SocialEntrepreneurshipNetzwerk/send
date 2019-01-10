@@ -10,5 +10,10 @@ description: >-
 email: info@gretaundstarks.de
 link: www.gretaundstarks.de
 image: /uploads/greta-logo-rgb-icon-greta.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

@@ -7,5 +7,10 @@ description: >-
 email: thoeffken@salesforce.com
 link: 'https://www.social-business-lunch.com '
 image: /uploads/tilman-hoeffken.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

@@ -8,5 +8,10 @@ description: >-
 email: mail@jfrcreatives.com
 link: www.JFRcreatives.com
 image: /uploads/send-logo-jfrcreatives.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

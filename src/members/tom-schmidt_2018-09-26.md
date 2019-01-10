@@ -17,5 +17,10 @@ description: >
   Entrepreneurship nutzen.
 email: tom.schmidt@posteo.de
 image: /uploads/tom-schmidt.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

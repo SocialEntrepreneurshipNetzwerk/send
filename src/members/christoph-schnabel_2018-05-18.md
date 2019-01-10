@@ -7,5 +7,10 @@ description: >-
 email: C.Schnabel@perpuls.de
 link: 'https://www.perpuls.de'
 image: /uploads/christoph-schnabel-foto.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

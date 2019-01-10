@@ -11,5 +11,10 @@ description: >-
 email: info@seakademie.de
 link: 'http://www.seakademie.de/'
 image: /uploads/sea-neu.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

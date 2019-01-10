@@ -13,5 +13,10 @@ description: >-
 email: info@n3xtcoder.org
 link: 'http://n3xtcoder.org/'
 image: /uploads/nc_logo_with_background.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

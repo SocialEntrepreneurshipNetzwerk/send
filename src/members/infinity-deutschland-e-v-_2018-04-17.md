@@ -10,5 +10,10 @@ description: >-
 email: jakob.wolski@infinity-deutschland.de
 link: 'https://infinity-mannheim.de/'
 image: /uploads/infinity-deutschland_logo-ii.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

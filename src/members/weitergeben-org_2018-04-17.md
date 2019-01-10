@@ -9,5 +9,10 @@ description: >+
 email: info@WeiterGeben.org
 link: 'https://WeiterGeben.org '
 image: /uploads/weiter-geben-image.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

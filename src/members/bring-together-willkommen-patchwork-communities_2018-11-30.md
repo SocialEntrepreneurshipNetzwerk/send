@@ -14,5 +14,10 @@ description: >-
 email: info@bring-together.de
 link: www.bring-together.de
 image: /uploads/logo-bring-together-patchwork-communities.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

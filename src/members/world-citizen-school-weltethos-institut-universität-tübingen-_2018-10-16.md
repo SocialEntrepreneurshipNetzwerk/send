@@ -9,5 +9,10 @@ description: >-
 email: team@worldcitizen.school
 link: www.worldcitizen.school
 image: /uploads/world-citizen-school.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

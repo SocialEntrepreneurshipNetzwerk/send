@@ -9,5 +9,10 @@ description: >-
 email: info@alterngestalten.de
 link: 'https://www.alterngestalten.de/'
 image: /uploads/agecu-mit-bild.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

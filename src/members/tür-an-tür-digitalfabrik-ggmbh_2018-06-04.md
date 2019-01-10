@@ -10,5 +10,10 @@ description: >-
 email: ''
 link: 'https://tuerantuer.de/'
 image: /uploads/tat_df_logo.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

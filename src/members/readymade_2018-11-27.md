@@ -9,5 +9,10 @@ description: >-
 email: info@readymade-furniture.de
 link: www.readymade-furniture.de
 image: /uploads/ready.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

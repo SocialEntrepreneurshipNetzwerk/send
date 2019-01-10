@@ -8,5 +8,10 @@ description: >-
 email: avunruh@team-u.de
 link: 'https://www.team-u.de/'
 image: /uploads/von-Unruh.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

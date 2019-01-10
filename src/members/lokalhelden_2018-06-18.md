@@ -10,5 +10,10 @@ description: >-
 email: gemuese@lokalhelden-augsburg.de
 link: 'https://www.lokalhelden-augsburg.de'
 image: /uploads/lokalhelden.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

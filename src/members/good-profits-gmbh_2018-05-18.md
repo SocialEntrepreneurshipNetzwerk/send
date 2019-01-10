@@ -7,5 +7,10 @@ description: >-
 email: www.facebook.de/goodprofits
 link: 'http://www.good-profits.de/'
 image: /uploads/good-profits.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

@@ -7,5 +7,10 @@ description: >-
 email: kontakt@chancenwerk.org
 link: 'https://www.chancenwerk.de/'
 image: /uploads/chancenwerk.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

@@ -9,5 +9,10 @@ description: >-
 email: norman@polarstern-energie.de
 link: 'https://www.polarstern-energie.de/'
 image: /uploads/polarstern_send.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

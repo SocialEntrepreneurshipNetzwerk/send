@@ -9,5 +9,10 @@ description: >-
 email: clara.hoeltermann@schule-plus.de
 link: 'https://www.schule-plus.de/'
 image: /uploads/schuleplus.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

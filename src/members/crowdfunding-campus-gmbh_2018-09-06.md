@@ -8,5 +8,10 @@ description: >-
 email: info@crowdfunding-campus.com
 link: 'https://www.crowdfunding-campus.com'
 image: /uploads/bild1.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

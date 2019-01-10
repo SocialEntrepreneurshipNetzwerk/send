@@ -10,5 +10,10 @@ description: >-
 email: info@fa-se.de
 link: 'https://www.fa-se.de'
 image: /uploads/fase_logo_mitname_rgb_300dpi.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

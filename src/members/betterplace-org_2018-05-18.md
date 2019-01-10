@@ -11,5 +11,10 @@ description: >-
 email: marketing@betterplace.org
 link: 'https://www.betterplace.org/de'
 image: /uploads/betterplace_logo_3c-screen-.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

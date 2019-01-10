@@ -8,5 +8,10 @@ description: >-
 email: accelerator@jungemenschen.org
 link: 'https://www.jungemenschen.org'
 image: /uploads/junge-menschen-accelerator.jpg
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

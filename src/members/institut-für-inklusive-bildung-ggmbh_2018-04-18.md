@@ -11,5 +11,10 @@ description: >-
 email: mayrhofer@inklusive-bildung.org
 link: 'https://inklusive-bildung.org/de/startseite'
 image: /uploads/institut_inklusivebildung_rz_logo_rgb-neu.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 

@@ -14,5 +14,10 @@ description: >-
 email: info@impacthub.berlin
 link: 'https://berlin.impacthub.net'
 image: /uploads/impact-hub-berlin.png
+city:
+postalCode:
+regionalGroup:
+federalState:
+impactArea:
 ---
 
