@@ -7,7 +7,7 @@ excerpt: >-
   der Bundesverband Deutsche Startups und SEND, dass sie zukünftig stärker
   zusammenarbeiten und sich gemeinsam für die Förderung von Sozialen
   Innovationen einsetzen wollen.
-image: /uploads/dsc_0006.jpg
+image: /uploads/wohlfahrt_2.jpg
 date: '2019-01-14'
 category: news
 ---
