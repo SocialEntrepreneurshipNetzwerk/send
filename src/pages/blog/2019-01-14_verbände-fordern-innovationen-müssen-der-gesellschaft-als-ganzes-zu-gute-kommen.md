@@ -7,7 +7,7 @@ excerpt: >-
   der Bundesverband Deutsche Startups und SEND, dass sie zukünftig stärker
   zusammenarbeiten und sich gemeinsam für die Förderung von Sozialen
   Innovationen einsetzen wollen.
-image: /uploads/sbmm_socent_politics-20.jpg
+image: /uploads/dsc_0006.jpg
 date: '2019-01-14'
 category: news
 ---
@@ -23,8 +23,11 @@ In einem [gemeinsamen Positionspapier ](https://www.diakonie.de/fileadmin/user_u
 
 ![Katrin Elsemann, Geschäftsführerin SEND](/uploads/katrin_elsemann.jpg)
 
-**Innovationen für gesellschaftlichen Zusammenhalt 
-**
+
+
+
+
+**Innovationen für gesellschaftlichen Zusammenhalt **
 
 Soziale Innovationen sind in technologischen und gesellschaftlichen Umbruchphasen ein Kernbaustein für die Sicherung des gesellschaftlichen Zusammenhalts. Die Bewältigung des demographischen Wandels, die Gestaltung der Digitalisierung und die Förderung des sozialen Zusammenhaltes sind drängende Aufgaben, für die es neuer Kooperationen und gemeinschaftlicher Lösungsansätze bedarf.
 
