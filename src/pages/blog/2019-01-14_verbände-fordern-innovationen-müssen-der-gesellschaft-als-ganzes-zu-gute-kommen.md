@@ -1,7 +1,9 @@
 ---
 templateKey: article
 clip: clip_article
-title: ' Verbände fordern: Innovationen müssen der Gesellschaft als Ganzes zu Gute kommen.'
+title: >-
+  Breite Allianz: Verbände fordern bessere Rahmenbedingungen für soziale
+  Innovationen in Deutschland
 excerpt: >-
   In einem gemeinsamen Positionspapier erklären fünf große Wohlfahrtsverbände,
   der Bundesverband Deutsche Startups und SEND, dass sie zukünftig stärker
@@ -20,12 +22,6 @@ In einem [gemeinsamen Positionspapier ](https://www.diakonie.de/fileadmin/user_u
 > **"Wir wollen in einer Gesellschaft leben, in der alle Menschen von Fortschritt profitieren. Deshalb verbinden wir die Stärken der Wohlfahrt sinnvoll mit denen von Social Startups, um sie gemeinsam für die Verbreitung von Sozialen Innovationen zu nutzen. "**
 >
 >  – Katrin Elsemann, Geschäftsführerin SEND
-
-![Katrin Elsemann, Geschäftsführerin SEND](/uploads/katrin_elsemann.jpg)
-
-
-
-
 
 **Innovationen für gesellschaftlichen Zusammenhalt **
 
