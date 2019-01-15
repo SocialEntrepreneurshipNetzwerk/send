@@ -23,7 +23,7 @@ In einem [gemeinsamen Positionspapier ](https://www.diakonie.de/fileadmin/user_u
 >
 >  – Katrin Elsemann, Geschäftsführerin SEND
 
-**Innovationen für gesellschaftlichen Zusammenhalt **
+**Innovationen für gesellschaftlichen Zusammenhalt**
 
 Soziale Innovationen sind in technologischen und gesellschaftlichen Umbruchphasen ein Kernbaustein für die Sicherung des gesellschaftlichen Zusammenhalts. Die Bewältigung des demographischen Wandels, die Gestaltung der Digitalisierung und die Förderung des sozialen Zusammenhaltes sind drängende Aufgaben, für die es neuer Kooperationen und gemeinschaftlicher Lösungsansätze bedarf.
 
