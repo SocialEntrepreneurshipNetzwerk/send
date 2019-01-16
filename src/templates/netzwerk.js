@@ -13,6 +13,47 @@ import SearchIcon from '../components/svg/SearchIcon';
 import Dropdown from '../components/dropdown/Dropdown';
 import styles from './netzwerk.module.css';
 
+
+
+const impactArea = [
+    "Alle Wirkungsbereiche",
+    "Armut",
+    "Bildung",
+    "Demographischer Wandel",
+    "Demokratie & Engagement von Bürger*innen",
+    "Dienstleistungen für Sozialunternehmen",
+    "Entrepreneurshipförderung",
+    "Flucht und Migration",
+    "Gesundheit",
+    "Inklusion von Menschen mit Behinderung",
+    "Integration","Internationale Zusammenarbeit",
+    "Menschenrechte",
+    "Stadtentwicklung",
+    "Umwelt– & Klimaschutz",
+    "Zukunft der Arbeit",
+    "Sonstige"
+  ]
+const federalState = [
+    "Alle Bundesländer",
+    "Baden-Württemberg",
+    "Bayern","Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Thüringen"
+]
+
+
+
 export default class Netzwerk extends Component {
 
   state = {
@@ -20,7 +61,7 @@ export default class Netzwerk extends Component {
     facets: {
       city: undefined,
       impactArea: undefined,
-      regionalGroup: undefined
+      federalState: undefined
     },
     members: undefined,
     offset: 0,
@@ -132,9 +173,8 @@ export default class Netzwerk extends Component {
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
-            <Dropdown facet="city" startOption="Alle Städte" options={["Alle Städte", "Berlin", "Hamburg", "München"]} handleUpdate={this.handleUpdateFacet}/>
-            <Dropdown facet="impactArea" startOption="Alle Wirkungsbereiche" options={["Alle Wirkungsbereiche", "Energie", "Integration"]} handleUpdate={this.handleUpdateFacet}/>
-            <Dropdown facet="regionalGroup" startOption="Alle Regionalgruppen" options={["Alle Regionalgruppen", "Brandenburg", "Schleswig-Holstein"]} handleUpdate={this.handleUpdateFacet}/>
+            <Dropdown facet="impactArea" startOption={impactArea[0]} options={impactArea} handleUpdate={this.handleUpdateFacet}/>
+            <Dropdown facet="federalState" startOption={federalState[0]} options={federalState} handleUpdate={this.handleUpdateFacet}/>
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
