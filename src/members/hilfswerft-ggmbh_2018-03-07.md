@@ -10,7 +10,6 @@ link: 'https://www.hilfswerft.de/'
 image: /uploads/Hilfswerft_Logo.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

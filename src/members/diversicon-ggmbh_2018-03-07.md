@@ -11,7 +11,6 @@ link: 'https://diversicon.de/'
 image: /uploads/diversicon_logoanimation.gif
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

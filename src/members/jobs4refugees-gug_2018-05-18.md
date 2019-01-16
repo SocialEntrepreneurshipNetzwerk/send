@@ -10,7 +10,6 @@ link: 'https://www.jobs4refugees.org/'
 image: /uploads/jobs4refugees.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -11,7 +11,6 @@ link: 'https://www.dasguteruft.de'
 image: /uploads/das-gute-ruft.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

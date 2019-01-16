@@ -12,7 +12,6 @@ link: www.nebenan-stiftung.de
 image: /uploads/nebenan.de-stiftung_logo_1600x1000px_web.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

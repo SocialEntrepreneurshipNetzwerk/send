@@ -9,7 +9,6 @@ link: 'https://www.jakconi.com'
 image: /uploads/jakconi.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

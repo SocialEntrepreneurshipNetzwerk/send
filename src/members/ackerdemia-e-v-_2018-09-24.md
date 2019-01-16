@@ -13,7 +13,6 @@ link: 'https://www.gemueseackerdemie.de/'
 image: /uploads/gemueseackerdemie_logo_rgb.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

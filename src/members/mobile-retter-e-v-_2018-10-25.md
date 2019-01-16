@@ -12,7 +12,6 @@ link: 'www.mobile-retter.de '
 image: /uploads/mobile-retter.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

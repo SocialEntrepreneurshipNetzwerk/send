@@ -12,7 +12,6 @@ link: 'https://www.lokalhelden-augsburg.de'
 image: /uploads/lokalhelden.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

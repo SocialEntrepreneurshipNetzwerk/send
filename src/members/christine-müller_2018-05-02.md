@@ -10,7 +10,6 @@ link: 'http://grammgenau.de/'
 image: /uploads/christine-müller.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

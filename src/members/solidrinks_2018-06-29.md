@@ -11,7 +11,6 @@ link: 'https://www.solidrinks.de'
 image: /uploads/solidrinks-logo-yellow.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

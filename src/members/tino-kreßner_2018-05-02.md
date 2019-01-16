@@ -10,7 +10,6 @@ link: 'https://www.xing.com/profile/Tino_Kressner/'
 image: /uploads/foto-tino-kressner.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -11,7 +11,6 @@ link: 'http://www.digitale-helden.de/'
 image: /uploads/digitale-helden.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

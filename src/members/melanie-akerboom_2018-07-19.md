@@ -14,7 +14,6 @@ link: www.social-innovation-meets-school.org
 image: /uploads/melanie-akerboom.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

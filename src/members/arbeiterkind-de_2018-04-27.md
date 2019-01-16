@@ -14,7 +14,6 @@ link: 'http://www.arbeiterkind.de/'
 image: /uploads/arbeiterkind.de_regionaltreffen_sueddeutschland_2016.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

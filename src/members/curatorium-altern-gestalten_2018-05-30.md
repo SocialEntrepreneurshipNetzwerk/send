@@ -11,7 +11,6 @@ link: 'https://www.alterngestalten.de/'
 image: /uploads/agecu-mit-bild.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

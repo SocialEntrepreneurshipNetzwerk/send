@@ -11,7 +11,6 @@ link: 'http://www.brainweb.de '
 image: /uploads/brainweb_800x500_transparent.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -13,7 +13,6 @@ link: 'https://www.ashoka.org'
 image: /uploads/ashoka-logo-1600_1000.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -12,7 +12,6 @@ link: www.gretaundstarks.de
 image: /uploads/greta-logo-rgb-icon-greta.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

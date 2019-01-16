@@ -14,7 +14,6 @@ link: 'http://ruhr.impacthub.net/'
 image: /uploads/impact-hub-ruhr-2-schnitt.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

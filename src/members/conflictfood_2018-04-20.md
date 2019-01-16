@@ -9,7 +9,6 @@ link: 'https://conflictfood.com/'
 image: /uploads/conflictfood.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

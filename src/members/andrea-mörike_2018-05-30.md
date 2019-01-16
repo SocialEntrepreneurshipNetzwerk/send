@@ -13,7 +13,6 @@ link: 'http://www.moerikeconsult.com'
 image: /uploads/andrea-mörike.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -9,7 +9,6 @@ link: 'http://4l.vision/'
 image: /uploads/foto-4l.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

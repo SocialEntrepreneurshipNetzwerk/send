@@ -13,7 +13,6 @@ link: 'https://helpteers.net'
 image: /uploads/helpteers.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

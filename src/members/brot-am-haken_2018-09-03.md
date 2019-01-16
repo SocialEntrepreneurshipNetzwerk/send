@@ -12,7 +12,6 @@ link: 'https://www.brot-am-haken.org'
 image: /uploads/bah_wortbildmarke-1.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -13,7 +13,6 @@ link: 'https://www.working-between-cultures.com '
 image: /uploads/working-between-cultures-logo_4c_1600x1000px.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

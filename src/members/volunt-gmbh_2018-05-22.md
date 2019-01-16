@@ -11,7 +11,6 @@ link: 'http://www.volunt.de/'
 image: /uploads/volunt.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

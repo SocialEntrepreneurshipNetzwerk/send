@@ -9,7 +9,6 @@ link: 'https://denkwen.de/'
 image: /uploads/denkwende_logo-1600x1000.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

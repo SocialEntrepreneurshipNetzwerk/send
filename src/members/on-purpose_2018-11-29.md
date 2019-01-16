@@ -12,7 +12,6 @@ link: www.onpurpose.org
 image: /uploads/logo-on-purpose-square-red-frederic-simon.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

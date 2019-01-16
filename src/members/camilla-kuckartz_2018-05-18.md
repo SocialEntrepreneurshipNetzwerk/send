@@ -8,7 +8,6 @@ email: creatingfuturesforyouth@yahoo.com
 image: /uploads/camilla-kuckartz.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

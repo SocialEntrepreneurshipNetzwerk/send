@@ -10,7 +10,6 @@ link: www.JFRcreatives.com
 image: /uploads/send-logo-jfrcreatives.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -13,7 +13,6 @@ link: www.bikebridge.org
 image: /uploads/bike.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

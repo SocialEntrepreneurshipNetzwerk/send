@@ -12,7 +12,6 @@ link: ' www.reflecta.network'
 image: /uploads/reflecta.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

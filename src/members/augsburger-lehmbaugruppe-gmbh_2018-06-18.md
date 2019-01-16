@@ -12,7 +12,6 @@ link: 'https://www.lehmbau.de '
 image: /uploads/lehmbau-aktuell.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

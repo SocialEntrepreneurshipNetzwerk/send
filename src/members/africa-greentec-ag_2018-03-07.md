@@ -10,7 +10,6 @@ link: 'https://www.africagreentec.com/'
 image: /uploads/AfricaGreentecLogo.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

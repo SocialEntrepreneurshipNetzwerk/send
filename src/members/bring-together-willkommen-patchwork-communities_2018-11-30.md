@@ -16,7 +16,6 @@ link: www.bring-together.de
 image: /uploads/logo-bring-together-patchwork-communities.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

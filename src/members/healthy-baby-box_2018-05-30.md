@@ -13,7 +13,6 @@ link: 'https://www.hebabox.de'
 image: /uploads/send_hebabox_titellogo.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -14,7 +14,6 @@ link: 'http://www.daniel-bartel.de/'
 image: /uploads/daimler_innovation_bootcamp_tobias_stoffels-20170906174334.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

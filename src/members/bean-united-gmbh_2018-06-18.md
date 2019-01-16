@@ -10,7 +10,6 @@ link: 'https://www.bean-united.de'
 image: /uploads/logo_beanunited-tscc.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -13,7 +13,6 @@ link: 'https://www.talents4good.org/'
 image: /uploads/t4g.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

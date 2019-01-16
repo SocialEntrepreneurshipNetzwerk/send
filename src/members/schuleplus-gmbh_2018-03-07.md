@@ -11,7 +11,6 @@ link: 'https://www.schule-plus.de/'
 image: /uploads/schuleplus.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

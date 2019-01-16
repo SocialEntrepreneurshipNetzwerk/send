@@ -12,7 +12,6 @@ link: 'https://entrepreneurship.htw-berlin.de/'
 image: /uploads/foto-johanna.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

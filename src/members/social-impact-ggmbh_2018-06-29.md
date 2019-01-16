@@ -12,7 +12,6 @@ link: 'https://www.socialimpact.eu'
 image: /uploads/1600x1000_si_logo_mit-claim.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

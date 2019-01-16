@@ -9,7 +9,6 @@ link: 'https://www.sira-kinderbetreuung.de/'
 image: /uploads/170411_Sira_Einrichtung-024.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

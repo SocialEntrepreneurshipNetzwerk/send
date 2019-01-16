@@ -9,7 +9,6 @@ link: 'https://www.chancenwerk.de/'
 image: /uploads/chancenwerk.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

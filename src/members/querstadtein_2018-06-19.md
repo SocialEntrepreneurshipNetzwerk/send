@@ -14,7 +14,6 @@ image: >-
   /uploads/querstadtein_berlin-anders-sehen_logo_kompakt_blau_transparent_mit-url.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

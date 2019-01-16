@@ -9,7 +9,6 @@ link: 'https://www.triodos.de/'
 image: /uploads/triodos-bank-logo_claim_300dpi-480px.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

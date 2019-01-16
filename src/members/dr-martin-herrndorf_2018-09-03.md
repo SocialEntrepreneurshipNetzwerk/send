@@ -12,7 +12,6 @@ link: 'https://www.herrndorf.de '
 image: /uploads/martin-herndorf.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

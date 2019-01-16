@@ -10,7 +10,6 @@ link: 'http://www.eco-marketer.com/'
 image: /uploads/logo_eco-marketer.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

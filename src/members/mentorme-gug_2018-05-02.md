@@ -10,7 +10,6 @@ link: 'http://www.mentorme-ngo.org/'
 image: /uploads/mentorme_logo_druck.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

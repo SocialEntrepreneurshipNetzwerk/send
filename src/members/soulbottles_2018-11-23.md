@@ -10,7 +10,6 @@ link: www.soulbottles.de
 image: /uploads/soulbottles-logo-1080x1080px-hex-web-patrick-boadu.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

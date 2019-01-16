@@ -12,7 +12,6 @@ link: 'https://crclr.org/'
 image: /uploads/crclr.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

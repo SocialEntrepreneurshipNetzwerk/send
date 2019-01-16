@@ -14,7 +14,6 @@ link: ' https://www.ofnk.org'
 image: /uploads/organisation-für-nachhaltigen-konsum.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

@@ -9,7 +9,6 @@ link: www.impact-collective.eu
 image: /uploads/imp_logo_rgb-seb-mar.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

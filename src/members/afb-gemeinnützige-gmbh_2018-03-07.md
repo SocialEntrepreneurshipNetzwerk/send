@@ -12,7 +12,6 @@ link: 'https://www.afb-group.de/home/'
 image: /uploads/Logo_AfB.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

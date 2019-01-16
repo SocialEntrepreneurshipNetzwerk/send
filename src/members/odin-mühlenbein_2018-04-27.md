@@ -8,7 +8,6 @@ link: 'http://odin.muehlenbein.de'
 image: /uploads/odin_muehlenbein.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

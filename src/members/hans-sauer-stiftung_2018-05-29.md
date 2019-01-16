@@ -13,7 +13,6 @@ link: 'https://www.hanssauerstiftung.de '
 image: /uploads/hss-logo_2012_rgb_fett_300dpi.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

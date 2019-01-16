@@ -10,7 +10,6 @@ link: 'http://www.greenmeberlin.com/'
 image: /uploads/gmb_1600x1000_visual3.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

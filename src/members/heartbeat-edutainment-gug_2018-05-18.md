@@ -12,7 +12,6 @@ link: 'http://www.heartbeatbus.de/'
 image: /uploads/heartbeat.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

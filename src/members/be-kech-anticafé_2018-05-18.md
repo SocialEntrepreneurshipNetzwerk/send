@@ -13,7 +13,6 @@ link: 'https://www.bekech.com'
 image: /uploads/bekech-logo-horizontal-01.png
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:

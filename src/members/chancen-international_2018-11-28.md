@@ -11,7 +11,6 @@ link: 'https://chancen.international/'
 image: /uploads/16x10_logo-chancen-international.jpg
 city:
 postalCode:
-regionalGroup:
 federalState:
 impactArea:
 organization:
