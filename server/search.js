@@ -36,6 +36,10 @@ const membersIndex = elasticlunr( function() {
   this.addField( 'link' );
   this.addField( 'domain' );
   this.addField( 'city' );
+  this.addField( 'postalCode' );
+  this.addField( 'federalState' );
+  this.addField( 'impactArea' );
+  this.addField( 'organization' );
   this.saveDocument( true );
 
   members.forEach( function( doc ) {
