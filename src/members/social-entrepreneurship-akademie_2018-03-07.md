@@ -10,6 +10,11 @@ description: >-
   Weise zu lösen.
 email: info@seakademie.de
 link: 'http://www.seakademie.de/'
-image: /uploads/sea_logo_rgb.png
+image: /uploads/sea-neu.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

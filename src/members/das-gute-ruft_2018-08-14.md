@@ -9,5 +9,10 @@ description: >-
 email: hallo@dasguteruft.de
 link: 'https://www.dasguteruft.de'
 image: /uploads/das-gute-ruft.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

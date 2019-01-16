@@ -9,5 +9,10 @@ description: >-
 email: info@digitale-helden.de
 link: 'http://www.digitale-helden.de/'
 image: /uploads/digitale-helden.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

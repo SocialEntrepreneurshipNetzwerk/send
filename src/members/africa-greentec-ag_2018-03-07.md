@@ -8,5 +8,10 @@ description: >-
 email: info@africagreentec.com
 link: 'https://www.africagreentec.com/'
 image: /uploads/AfricaGreentecLogo.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

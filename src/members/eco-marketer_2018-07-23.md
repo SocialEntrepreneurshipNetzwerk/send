@@ -8,5 +8,10 @@ description: >-
 email: hello@eco-marketer.com
 link: 'http://www.eco-marketer.com/'
 image: /uploads/logo_eco-marketer.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

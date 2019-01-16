@@ -11,5 +11,10 @@ description: >-
 email: hallo@hebabox.de
 link: 'https://www.hebabox.de'
 image: /uploads/send_hebabox_titellogo.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

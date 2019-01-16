@@ -8,5 +8,10 @@ description: >-
 email: kristina@centreforffp.org
 link: 'http://www.centreforfeministforeignpolicy.org/'
 image: /uploads/cffp.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

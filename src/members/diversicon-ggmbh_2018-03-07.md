@@ -9,5 +9,10 @@ description: >-
 email: sally.ollech@diversicon.de
 link: 'https://diversicon.de/'
 image: /uploads/diversicon_logoanimation.gif
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

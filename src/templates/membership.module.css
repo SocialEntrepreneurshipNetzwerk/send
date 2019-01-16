@@ -37,7 +37,7 @@
   }
 }
 
-.column > p:first-child {
+.column > div:first-child {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -47,4 +47,10 @@
 
 .column div {
   text-align: justify;
+}
+
+@media (max-width:break-tiny){
+  .column span {
+    display: block;
+  }
 }

@@ -12,5 +12,10 @@ description: >-
 email: melanie.akerboom@gmail.com
 link: www.social-innovation-meets-school.org
 image: /uploads/melanie-akerboom.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

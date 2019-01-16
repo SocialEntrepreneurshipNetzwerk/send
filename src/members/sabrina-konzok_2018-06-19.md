@@ -13,5 +13,10 @@ description: >-
   Organisationsentwicklung.
 email: konzok.sabrina@gmail.com
 image: /uploads/170607_bw_sabrina_web_0001.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

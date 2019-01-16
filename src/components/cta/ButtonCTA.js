@@ -4,7 +4,23 @@ import styles from './cta.module.css';
 
 
 const ButtonCTA = ( props ) => {
-  const buttonStyle = props.color == 'active' ? styles.button_pink : styles.button_white;
+
+  let buttonStyle;
+
+  switch ( props.color ){
+    case 'active':
+      buttonStyle = styles.button_pink;
+      break;
+    case 'blue':
+      buttonStyle = styles.button_blue;
+      break;
+    case 'aqua':
+      buttonStyle = styles.button_aqua;
+      break;
+    default:
+      buttonStyle = styles.button_white;
+      break;
+  }
   return (
     <a href={props.link} className={buttonStyle} target="_blank">
       {props.label}

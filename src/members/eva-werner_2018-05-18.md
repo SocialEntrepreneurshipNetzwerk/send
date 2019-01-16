@@ -5,5 +5,10 @@ description: >-
   Soziale Themen standen und stehen bei mir immer im Fokus.
 link: ' http://www.evawerner.net/'
 image: /uploads/eva-werner.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

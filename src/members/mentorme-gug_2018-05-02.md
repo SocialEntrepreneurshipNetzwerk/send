@@ -8,5 +8,10 @@ description: >-
 email: heinzl@mentorme-ngo.org
 link: 'http://www.mentorme-ngo.org/'
 image: /uploads/mentorme_logo_druck.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

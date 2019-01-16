@@ -35,6 +35,11 @@ const membersIndex = elasticlunr( function() {
   this.addField( 'email' );
   this.addField( 'link' );
   this.addField( 'domain' );
+  this.addField( 'city' );
+  this.addField( 'postalCode' );
+  this.addField( 'federalState' );
+  this.addField( 'impactArea' );
+  this.addField( 'organization' );
   this.saveDocument( true );
 
   members.forEach( function( doc ) {
@@ -89,17 +94,20 @@ const membersOpts = {
     description: { boost: 1 },
     email: { boost: 1 },
     link: { boost: 1 },
-    domain: { boost: 5 }
+    domain: { boost: 5 },
+    city: { boost: 1 }
   },
   boolean: 'AND',
   expand: true
 };
 
-module.exports = ( q, offset, limit, type ) => {
+module.exports = ( q, offset, limit, type, facets ) => {
   let opts = undefined;
   let index = undefined;
   let lookup = undefined;
   let items = undefined;
+
+  facets = JSON.parse( facets )
 
   switch ( type ) {
   case 'member':
@@ -120,12 +128,28 @@ module.exports = ( q, offset, limit, type ) => {
 
   if ( q ) {
     const rows = index.search( q, opts );
-    result.count = rows.length;
-    result.rows = rows.slice( offset, offset + limit ).map( m => lookup[ m.ref ]);
+    result.rows = rows.map( m => lookup[ m.ref ]);
+
+
+
   } else {
-    result.count = items.length;
-    result.rows = items.slice( offset, offset + limit );
+    result.rows = items;
   }
+
+
+  for (facet in facets) {
+    if ( facets[facet] ) {
+      result.rows = result.rows.filter( item => {
+        if ( item[facet] === facets[facet] ) {
+          return item
+        }
+      })
+    }
+  }
+
+
+  result.count = result.rows.length;
+  result.rows = result.rows.slice(offset, offset + limit)
 
   return result;
 };

@@ -3,19 +3,37 @@ templateKey: membership
 clip: clip_positionen
 title: Mitgliedschaft
 image: /uploads/SEND_rg-berlin-60.jpg
-cta:
+cta_link:
   label: Jetzt Mitglied werden
-  link: "https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true"
+  link: >-
+    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+cta_download:
+  label: Zur Beitragsordnung
+  link: /uploads/neue-beitragsordnung-1-.pdf
 section_1:
-  title: Mitgliedschaftsarten
   column_1:
+    paragraph: >-
+      Als **ordentliches Mitglied** erhältst Du alle oben genannten Vorteile und
+      hast die Möglichkeit Deinen Beitrag innerhalb einer festgelegten Spanne
+      von 75€ - 500€, selbst festzulegen. Dabei kannst Du Dich am Umsatz und
+      Alter Deiner Organisation orientieren.
+
+
+      Bitte meldet Euch mit Euren Unternehmen an, selbst wenn sich diese noch in
+      Gründung befinden. Wir freuen uns natürlich auch über alle engagierten
+      Privatpersonen!
     title: Ordentliche Mitgliedschaft
-    paragraph: >-
-      Als **ordentliches Mitglied** erhältst Du alle oben genannten Vorteile. Der jährliche Beitrag für Privatpersonen beträgt dabei 75€. Organisationen zahlen, je nach ihrem Alter, zwischen 75€ und 300€. Genauere Details dazu findest Du in unserer [Beitragsordnung](https://www.send-ev.de/uploads/SEND_Beitragsordnung_170719.pdf).
   column_2:
-    title: Fördermitgliedschaft
     paragraph: >-
-      Solltest Du SEND e.V. darüber hinaus unterstützen wollen, kannst Du **Fördermitglied** werden. Privatpersonen können dies ab einem Beitrag in Höhe von 250€ tun, bei Organisationen fallen 500€ bis 10.000€ an. Die individuellen Vorteile besprechen wir mit jedem Mitglied einzeln und können von zusätzlicher Sichtbarkeit durch unseren Newsletter oder Social Media bis zur offiziellen Partnerschaft bei bestimmten Veranstaltungen reichen.
+      Solltest Du SEND e.V. darüber hinaus unterstützen wollen, kannst Du
+      **Fördermitglied** werden. Privatpersonen können dies ab einem Beitrag in
+      Höhe von 250€ tun, bei Organisationen fallen 1000€ bis 10.000€ an. Die
+      individuellen Vorteile besprechen wir mit jedem Mitglied einzeln und
+      können von zusätzlicher Sichtbarkeit durch unseren Newsletter oder Social
+      Media bis zur offiziellen Partnerschaft bei bestimmten Veranstaltungen
+      reichen.
+    title: Förder<span></span>mitgliedschaft
+  title: Mitgliedschaftsarten
 ---
 
 Du bist Social Entrepreneur und willst Dich mit Gleichgesinnten zusammenschließen, weil Du glaubst, dass wir nur gemeinsam stark sind?
@@ -26,8 +44,7 @@ Du willst, dass wir auch im Auftrag Deiner Organisation daran arbeiten die polit
 
 Du möchtest gemeinsam mit uns Projekte umsetzen, die den Sektor insgesamt voranbringen?
 
-Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland!<br/>
-Und genieße folgende Vorteile:
+Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland und genieße folgende Vorteile:
 
 
 - Du wirst Teil eines wachsenden Netzwerks von Social Entrepreneurs in Deutschland

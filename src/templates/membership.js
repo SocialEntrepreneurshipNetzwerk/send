@@ -9,7 +9,7 @@ import styles from './membership.module.css';
 export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
-  const { title, clip, image, cta, section_1 } = frontmatter;
+  const { title, clip, image, cta_link, cta_download, section_1 } = frontmatter;
   const content = data.markdownRemark.html;
 
   return (
@@ -22,8 +22,11 @@ export default ({ data }) => {
           <h1><span>{title}</span></h1>
           <div dangerouslySetInnerHTML={{ __html: content }}></div>
 
-          {frontmatter.cta &&
-            <ButtonCTA label={cta.label} link={cta.link} color={"active"} />
+          {frontmatter.cta_link &&
+            <ButtonCTA label={cta_link.label} link={cta_link.link} color={"active"} />
+          }
+          {frontmatter.cta_download &&
+            <ButtonCTA label={cta_download.label} link={cta_download.link} color={"blue"} />
           }
         </section>
         <section>
@@ -31,16 +34,16 @@ export default ({ data }) => {
           <p>{section_1.paragraph}</p>
           <div className={styles.columns}>
             <div className={styles.column}>
-              <p>{section_1.column_1.title}</p>
+              <ReactMarkdown source={section_1.column_1.title} escapeHtml={false} />
               <ReactMarkdown source={section_1.column_1.paragraph}/>
             </div>
             <div className={styles.column}>
-              <p>{section_1.column_2.title}</p>
+              <ReactMarkdown source={section_1.column_2.title} escapeHtml={false} />
               <ReactMarkdown source={section_1.column_2.paragraph}/>
             </div>
           </div>
-          {frontmatter.cta &&
-            <ButtonCTA label={cta.label} link={cta.link} color={"active"} />
+          {frontmatter.cta_link &&
+            <ButtonCTA label={cta_link.label} link={cta_link.link} color={"active"} />
           }
         </section>
       </main>
@@ -59,7 +62,11 @@ export const simplesPageQuery = graphql`
             title
             clip
             image
-            cta {
+            cta_link {
+              label
+              link
+            }
+            cta_download {
               label
               link
             }

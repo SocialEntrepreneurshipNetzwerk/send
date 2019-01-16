@@ -12,5 +12,10 @@ description: >-
 email: linda@einhorn.my
 link: 'https://einhorn.my/'
 image: /uploads/neu_einhorn_wortbild-neu.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

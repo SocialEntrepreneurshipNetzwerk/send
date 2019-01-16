@@ -11,5 +11,10 @@ description: >-
 email: info@ackerdemia.de
 link: 'https://www.gemueseackerdemie.de/'
 image: /uploads/gemueseackerdemie_logo_rgb.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

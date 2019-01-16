@@ -13,5 +13,10 @@ description: >-
 email: ''
 link: 'https://www.linkedin.com/in/apiutti/'
 image: /uploads/alexander_piutti.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 
