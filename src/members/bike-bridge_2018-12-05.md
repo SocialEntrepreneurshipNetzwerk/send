@@ -11,5 +11,10 @@ description: >-
 email: hallo@bikebridge.org
 link: www.bikebridge.org
 image: /uploads/bike.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

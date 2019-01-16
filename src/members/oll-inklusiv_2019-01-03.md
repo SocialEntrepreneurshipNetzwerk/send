@@ -15,5 +15,9 @@ description: >-
 email: neuigkeiten@oll-inklusiv.de
 link: www.oll-inklusiv.de
 image: /uploads/oll-inklusiv.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
-

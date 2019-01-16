@@ -10,5 +10,10 @@ description: >-
 email: info@mobile-retter.de
 link: 'www.mobile-retter.de '
 image: /uploads/mobile-retter.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

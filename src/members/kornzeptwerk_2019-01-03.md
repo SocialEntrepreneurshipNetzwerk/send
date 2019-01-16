@@ -12,5 +12,9 @@ description: >-
 email: info@glutenreduziert.de
 link: 'http://kornzeptwerk.de/'
 image: /uploads/kzw-juli-maier.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
-

@@ -10,5 +10,10 @@ description: >-
 email: info@brot-am-haken.org
 link: 'https://www.brot-am-haken.org'
 image: /uploads/bah_wortbildmarke-1.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

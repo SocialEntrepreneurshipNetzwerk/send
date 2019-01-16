@@ -7,5 +7,10 @@ description: >-
 email: kontakt@strassenblues.de
 link: 'http://strassenblues.de/'
 image: /uploads/strassenblues_logo_800x500.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

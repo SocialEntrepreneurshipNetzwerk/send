@@ -9,5 +9,10 @@ description: >-
 email: gebert@das-macht-schule.net
 link: 'https://www.das-macht-schule.net/'
 image: /uploads/Das_macht_Schule.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

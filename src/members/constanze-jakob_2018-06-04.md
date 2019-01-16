@@ -7,5 +7,10 @@ description: >
   Welt ein muss. 
 link: 'https://www.jakconi.com'
 image: /uploads/jakconi.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

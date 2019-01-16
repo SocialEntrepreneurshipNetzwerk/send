@@ -7,5 +7,10 @@ description: >-
 email: cramgraber@sira-kinderbetreuung.de
 link: 'https://www.sira-kinderbetreuung.de/'
 image: /uploads/170411_Sira_Einrichtung-024.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

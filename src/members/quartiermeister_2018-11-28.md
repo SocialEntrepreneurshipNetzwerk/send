@@ -12,5 +12,10 @@ description: >-
 email: info@quartiermeister.org
 link: www.quartiermeister.org
 image: /uploads/bildschirmfoto-2018-11-28-um-15.25.36.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

@@ -6,5 +6,10 @@ description: >-
   Mitgründer von sozialen Initiativen aktiv.
 link: 'http://odin.muehlenbein.de'
 image: /uploads/odin_muehlenbein.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

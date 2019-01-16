@@ -8,5 +8,10 @@ description: >-
 email: info@jobs4refugees.org
 link: 'https://www.jobs4refugees.org/'
 image: /uploads/jobs4refugees.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

@@ -10,5 +10,10 @@ description: >-
 email: johanna.ebeling@htw-berlin.de
 link: 'https://entrepreneurship.htw-berlin.de/'
 image: /uploads/foto-johanna.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

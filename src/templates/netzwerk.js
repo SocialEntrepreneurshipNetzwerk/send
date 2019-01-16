@@ -10,12 +10,59 @@ import ButtonLoadMore from '../components/cta/ButtonLoadMore';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import ReactMarkdown from 'react-markdown';
 import SearchIcon from '../components/svg/SearchIcon';
+import Dropdown from '../components/dropdown/Dropdown';
 import styles from './netzwerk.module.css';
+
+
+
+const impactArea = [
+    "Alle Wirkungsbereiche",
+    "Armut",
+    "Bildung",
+    "Demographischer Wandel",
+    "Demokratie & Engagement von Bürger*innen",
+    "Dienstleistungen für Sozialunternehmen",
+    "Entrepreneurshipförderung",
+    "Flucht und Migration",
+    "Gesundheit",
+    "Inklusion von Menschen mit Behinderung",
+    "Integration","Internationale Zusammenarbeit",
+    "Menschenrechte",
+    "Stadtentwicklung",
+    "Umwelt– & Klimaschutz",
+    "Zukunft der Arbeit",
+    "Sonstige"
+  ]
+const federalState = [
+    "Alle Bundesländer",
+    "Baden-Württemberg",
+    "Bayern","Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Thüringen"
+]
+
+
 
 export default class Netzwerk extends Component {
 
   state = {
     q: undefined,
+    facets: {
+      city: undefined,
+      impactArea: undefined,
+      federalState: undefined
+    },
     members: undefined,
     offset: 0,
     limit: 12,
@@ -30,25 +77,45 @@ export default class Netzwerk extends Component {
     this.setState({suggestion: biasedSuggestion[Math.floor(Math.random()*biasedSuggestion.length)] })
   }
 
+
   handleUpdateQuery = (e) => {
     const q = e.target.value;
-    const limit = this.state.limit;
-    const type = "member";
 
     this.suggestMember();
 
-    axios({
-      method: 'get',
-      url: '/api/search',
-      params: {q, limit, type}
-    }).then(res => {
-      const data = res.data;
-      this.setState({count: data.count, members: data.rows, q, offset: 0});
-    });
+    this.setState({q: q})
+    this.handleSearch(q, this.state.facets);
   };
 
+  handleUpdateFacet = (string, facet, startOption) => {
+    const facets = {...this.state.facets}
+    console.log("string: ", string, "startOption: ", startOption)
+    string===startOption ? facets[facet] = undefined : facets[facet] = string
+    this.setState({ facets: facets});
+    this.handleSearch( this.state.q, facets)
+  }
+
+  handleSearch = (q, facets) => {
+
+    const {offset, limit} = this.state;
+    const newOffset = offset + limit;
+    const type = "member";
+
+    console.log("state of q in handleSearch is" , Boolean(q))
+    console.log("state of facet in handleSearch is" , facets)
+    axios({
+      method: 'get',
+      url: '/api/search',
+      params: {q, limit, type, facets}
+    }).then(res => {
+      const data = res.data;
+      this.setState({count: data.count, members: data.rows, q,  offset: 0});
+    });
+  }
+
+
   componentDidMount = () => {
-    const {q, offset, limit} = this.state;
+    const {q, offset, limit, facets} = this.state;
     const type = "member";
 
     this.suggestMember();
@@ -56,7 +123,7 @@ export default class Netzwerk extends Component {
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset, limit, type}
+      params: {q, offset, limit, type, facets}
     }).then(res => {
       const data = res.data;
       this.setState({count: data.count, members: data.rows});
@@ -65,14 +132,14 @@ export default class Netzwerk extends Component {
 
   handleLoadMore = () => {
     const members = this.state.members;
-    const {q, offset, limit} = this.state;
+    const {q, offset, limit, facets} = this.state;
     const newOffset = offset + limit;
     const type = "member";
 
     axios({
       method: 'get',
       url: '/api/search',
-      params: {q, offset: newOffset, limit, type}
+      params: {q, offset: newOffset, limit, type, facets}
     }).then(res => {
       const data = res.data;
 
@@ -106,6 +173,11 @@ export default class Netzwerk extends Component {
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
+            {/*
+              <Dropdown facet="impactArea" startOption={impactArea[0]} options={impactArea} handleUpdate={this.handleUpdateFacet}/>
+              <Dropdown facet="federalState" startOption={federalState[0]} options={federalState} handleUpdate={this.handleUpdateFacet}/>
+              */}
+
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}

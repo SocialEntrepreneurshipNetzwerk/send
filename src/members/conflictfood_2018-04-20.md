@@ -7,5 +7,10 @@ description: >-
 email: info@conflictfood.com
 link: 'https://conflictfood.com/'
 image: /uploads/conflictfood.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

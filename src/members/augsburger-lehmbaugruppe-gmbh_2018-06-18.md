@@ -10,5 +10,10 @@ description: >-
 email: 'info@lehmbau.de '
 link: 'https://www.lehmbau.de '
 image: /uploads/lehmbau-aktuell.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

@@ -11,5 +11,10 @@ description: >-
 email: info_de@ashoka.org
 link: 'https://www.ashoka.org'
 image: /uploads/ashoka-logo-1600_1000.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

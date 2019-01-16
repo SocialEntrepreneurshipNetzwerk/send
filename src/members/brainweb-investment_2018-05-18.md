@@ -9,5 +9,10 @@ description: >-
 email: 'jochen@brainweb.de '
 link: 'http://www.brainweb.de '
 image: /uploads/brainweb_800x500_transparent.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

@@ -10,5 +10,10 @@ description: >-
 email: hello@vostel.de
 link: 'https://www.vostel.de'
 image: /uploads/vostel_logo_rgb_grau-orange.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

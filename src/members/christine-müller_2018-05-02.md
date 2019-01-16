@@ -8,5 +8,10 @@ description: >-
 email: hallo@grammgenau.de
 link: 'http://grammgenau.de/'
 image: /uploads/christine-müller.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

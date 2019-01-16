@@ -7,5 +7,10 @@ description: >-
 email: svm@impact-collective.eu
 link: www.impact-collective.eu
 image: /uploads/imp_logo_rgb-seb-mar.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

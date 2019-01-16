@@ -11,5 +11,10 @@ description: >-
 email: info@working-between-cultures.com
 link: 'https://www.working-between-cultures.com '
 image: /uploads/working-between-cultures-logo_4c_1600x1000px.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

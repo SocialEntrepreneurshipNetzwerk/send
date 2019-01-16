@@ -10,5 +10,10 @@ description: >-
 email: 'Kontakt@onpurpose.org '
 link: www.onpurpose.org
 image: /uploads/logo-on-purpose-square-red-frederic-simon.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

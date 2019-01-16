@@ -12,5 +12,10 @@ description: >-
 email: ruhr@impacthub.net
 link: 'http://ruhr.impacthub.net/'
 image: /uploads/impact-hub-ruhr-2-schnitt.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

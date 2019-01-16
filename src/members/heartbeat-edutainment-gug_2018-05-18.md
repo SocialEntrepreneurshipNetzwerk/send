@@ -10,5 +10,10 @@ description: >-
 email: info@heartbeatbus.de
 link: 'http://www.heartbeatbus.de/'
 image: /uploads/heartbeat.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

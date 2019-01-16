@@ -9,5 +9,9 @@ description: >-
 email: vorstand@dekabristen.org
 link: 'https://dekabristen.org/'
 image: /uploads/screenshot-21-.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
-

@@ -12,5 +12,10 @@ email: 'info@querstadtein.org '
 link: 'https://querstadtein.org/'
 image: >-
   /uploads/querstadtein_berlin-anders-sehen_logo_kompakt_blau_transparent_mit-url.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

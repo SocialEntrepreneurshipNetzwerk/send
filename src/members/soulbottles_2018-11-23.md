@@ -8,5 +8,10 @@ description: >-
 email: hello@soulbottles.com
 link: www.soulbottles.de
 image: /uploads/soulbottles-logo-1080x1080px-hex-web-patrick-boadu.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

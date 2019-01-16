@@ -10,5 +10,10 @@ description: >-
 email: alice@crclr.org
 link: 'https://crclr.org/'
 image: /uploads/crclr.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

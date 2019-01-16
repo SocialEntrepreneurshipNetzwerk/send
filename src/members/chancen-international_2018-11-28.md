@@ -9,5 +9,10 @@ description: >-
 email: batya@chancen.international.de
 link: 'https://chancen.international/'
 image: /uploads/16x10_logo-chancen-international.jpg
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 

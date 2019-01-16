@@ -11,5 +11,10 @@ description: >-
 email: kontakt@talents4good.org
 link: 'https://www.talents4good.org/'
 image: /uploads/t4g.png
+city:
+postalCode:
+federalState:
+impactArea:
+organization:
 ---
 
