@@ -32,9 +32,46 @@ collections:
     fields:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
+      - {label: "Impact Area", name: "impactArea", widget: "select", options: [
+          "Armut",
+          "Bildung",
+          "Demographischer Wandel",
+          "Demokratie & Engagement von Bürger*innen",
+          "Dienstleistungen für Sozialunternehmen",
+          "Entrepreneurshipförderung",
+          "Flucht und Migration",
+          "Gesundheit",
+          "Inklusion von Menschen mit Behinderung",
+          "Integration","Internationale Zusammenarbeit",
+          "Menschenrechte",
+          "Stadtentwicklung",
+          "Umwelt– & Klimaschutz",
+          "Zukunft der Arbeit",
+          "Sonstige"
+        ]}
+      - {label: "Organization", name: "organization", widget: "boolean"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Email", name: "email", widget: "string", required: false}
       - {label: "Link", name: "link", widget: "string", required: false}
-      - {label: "Image", name: "image", widget: "image"}
+      - {label: "City", name: "city", widget: "string"}
+      - {label: "Postal Code", name: "postalCode", widget: "number"}
+      - {label: "Federal State", name: "federalState", widget: "select", options: [
+          "Baden-Württemberg",
+          "Bayern","Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen"
+      ]}
   - name: "pages"
     label: "Pages"
     files:
