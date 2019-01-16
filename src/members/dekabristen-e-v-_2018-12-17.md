@@ -15,4 +15,3 @@ federalState:
 impactArea:
 organization:
 ---
-
