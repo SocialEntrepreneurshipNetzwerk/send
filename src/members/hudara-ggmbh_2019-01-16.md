@@ -14,7 +14,7 @@ impactArea: Menschenrechte
 organization: true
 image: /uploads/screenshot-36-.png
 email: hello@hudara.org
-link: www.hudara.org
+link: 'http://www.hudara.org/'
 city: Berlin
 postalCode: '12050'
 federalState: Berlin
