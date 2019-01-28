@@ -12,7 +12,7 @@ impactArea: Dienstleistungen für Sozialunternehmen
 organization: true
 image: /uploads/neue-auftraggeber.jpg
 email: office@neueauftraggeber.de
-link: www.neueauftraggeber.de
+link: 'https://neueauftraggeber.de/'
 city: Berlin
 postalCode: '12101'
 federalState: Berlin
