@@ -10,7 +10,7 @@ description: >-
   und nicht kommerzielle Kulturgüter.
 impactArea: Dienstleistungen für Sozialunternehmen
 organization: true
-image: /uploads/screenshot-63-_li.jpg
+image: /uploads/neue-auftraggeber.jpg
 email: office@neueauftraggeber.de
 link: www.neueauftraggeber.de
 city: Berlin
