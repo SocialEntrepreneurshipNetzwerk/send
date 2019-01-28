@@ -10,7 +10,7 @@ description: >-
   Fortschritte vor Ort. 
 impactArea: Dienstleistungen für Sozialunternehmen
 organization: true
-image: /uploads/screenshot-59-.png
+image: /uploads/screenshot-63-_li.jpg
 email: marketing@betterplace.org
 link: 'https://www.betterplace.org/de'
 city: Berlin
