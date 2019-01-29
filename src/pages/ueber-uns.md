@@ -47,10 +47,13 @@ section_3:
 section_4:
   column_1:
     rows:
-      - row: |-
+      - row: >-
           Bayern 
 
-          > Im Aufbau
+
+          > Vorläufige Ansprechpartner*innen für die Regionalgruppe Bayern sind
+          Andrea und Vincent. Ihr erreicht die beiden unter
+          <mailto:bayern@send-ev.de>.
       - row: >-
           Berlin
 
