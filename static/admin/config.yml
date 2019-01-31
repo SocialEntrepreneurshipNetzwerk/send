@@ -32,7 +32,7 @@ collections:
     fields:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Impact Area", name: "impactArea", widget: "select", options: [
+      - {label: "Impact Area", name: "impactArea", widget: "select", multiple: true, options: [
           "Armut",
           "Bildung",
           "Demographischer Wandel",
