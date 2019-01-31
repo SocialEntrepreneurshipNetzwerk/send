@@ -8,13 +8,13 @@ description: >-
   stehen auf Transparenz – deshalb stellt jedes Hilfsprojekt seine Bedarfe
   konkret dar und berichtet regelmäßig per Text, Foto und Video über die
   Fortschritte vor Ort. 
+impactArea: Dienstleistungen für Sozialunternehmen
+organization: true
+image: /uploads/screenshot-63-_li.jpg
 email: marketing@betterplace.org
 link: 'https://www.betterplace.org/de'
-image: /uploads/betterplace_logo_3c-screen-.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10997'
+federalState: Berlin
 ---
 
