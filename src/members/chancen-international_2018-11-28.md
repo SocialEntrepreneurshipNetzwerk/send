@@ -6,13 +6,14 @@ description: >-
   gesetzt, möglichst vielen jungen Afrikanischen Menschen eine Ausbildung zu
   ermöglichen, so dass sie aktiv am dortigen Wirtschaftsleben teilnehmen können
   und zu ökonomischem Wachstum und Stabilität vor Ort beitragen können.
+impactArea:
+  - Bildung
+organization: true
+image: /uploads/16x10_logo-chancen-international.jpg
 email: batya@chancen.international.de
 link: 'https://chancen.international/'
-image: /uploads/16x10_logo-chancen-international.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10997'
+federalState: Berlin
 ---
 
