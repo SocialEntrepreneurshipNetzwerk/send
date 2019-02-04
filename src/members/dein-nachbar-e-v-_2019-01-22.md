@@ -12,7 +12,8 @@ description: >-
   rund um das Thema Pflege und schulen diese bei Bedarf in der häuslichen
   Umgebung. Auf diese Weise fördert unsere Arbeit verbindlich und verlässlich
   Aktivität und Teilnahme am gesellschaftlichen Leben.
-impactArea: Gesundheit
+impactArea:
+  - Gesundheit
 organization: true
 image: /uploads/screenshot-40-.png
 email: info@deinnachbar.de
