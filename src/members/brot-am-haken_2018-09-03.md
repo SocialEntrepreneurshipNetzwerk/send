@@ -7,13 +7,15 @@ description: >-
   bei seinem Lieblingsbackwarengeschäft um die Ecke zwei Brezen, nimmt aber nur
   Eine mit. Der Bon für die Zweite wird als Geschenk an den Haken gehängt.
   Dieses Geschenk kann jede*r vom Haken nehmen und einlösen.
+impactArea:
+  - Armut
+  - Demokratie & Engagement von Bürger*innen
+organization: true
+image: /uploads/bah_wortbildmarke-1.jpg
 email: info@brot-am-haken.org
 link: 'https://www.brot-am-haken.org'
-image: /uploads/bah_wortbildmarke-1.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '81543'
+federalState: Bayern
 ---
 
