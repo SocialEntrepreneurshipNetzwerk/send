@@ -5,12 +5,15 @@ description: >-
   Unternehmen und Organisationen dabei, Visionen für eine bessere Welt zu
   entwickeln und den Sinn ihres Wirkens sowie ihre Verankerung in der
   Gesellschaft zu finden und umzusetzen. 
-link: 'http://4l.vision/'
-image: /uploads/foto-4l.jpg
-city:
-postalCode:
-federalState:
 impactArea:
-organization:
+  - Bildung
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/foto-4l.jpg
+email: gl@4l.vision
+link: 'http://4l.vision/'
+city: Karlsruhe
+postalCode: '76135'
+federalState: Baden-Württemberg
 ---
 
