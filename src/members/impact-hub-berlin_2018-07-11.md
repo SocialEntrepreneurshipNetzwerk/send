@@ -11,13 +11,15 @@ description: >-
   nachhaltigere Welt wirkungsvoll umzusetzen. Für unsere lokalen & globalen
   Partner*innen aus Gesellschaft, Wirtschaft und Politik entwickeln wir außerdem
   passgenaue Programme um soziale Innovationen gemeinsam voranzutreiben.
+impactArea:
+  - Entrepreneurshipförderung
+  - Internationale Zusammenarbeit
+organization: true
+image: /uploads/impact-hub-berlin.png
 email: info@impacthub.berlin
 link: 'https://berlin.impacthub.net'
-image: /uploads/impact-hub-berlin.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10969'
+federalState: Berlin
 ---
 
