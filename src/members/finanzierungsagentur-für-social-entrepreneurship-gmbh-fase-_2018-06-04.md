@@ -7,13 +7,14 @@ description: >-
   Verbreitung von sozialer Innovation in Deutschland beheben und einen Beitrag
   zur Transformation des Finanzierungsmarktes für Sozialunternehmer*innen
   leisten. 
+impactArea:
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/fase_logo_mitname_rgb_300dpi.jpg
 email: info@fa-se.de
 link: 'https://www.fa-se.de'
-image: /uploads/fase_logo_mitname_rgb_300dpi.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '81675'
+federalState: Bayern
 ---
 
