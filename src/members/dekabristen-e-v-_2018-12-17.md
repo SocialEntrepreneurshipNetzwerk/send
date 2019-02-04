@@ -6,12 +6,16 @@ description: >-
   Osteuropas. Durch Fortbildung, Beratung, Accelerations-Programme und Vergabe
   von Mikroförderungen unterstützen wir junge soziale UnternehmerInnen in
   Belarus, Moldawien, Russland und der Ukraine.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Dienstleistungen für Sozialunternehmen
+  - Internationale Zusammenarbeit
+organization: true
+image: /uploads/screenshot-21-.png
 email: vorstand@dekabristen.org
 link: 'https://dekabristen.org/'
-image: /uploads/screenshot-21-.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '113353'
+federalState: Berlin
 ---
+
