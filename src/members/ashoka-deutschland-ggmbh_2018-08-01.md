@@ -8,13 +8,14 @@ description: >-
   Menschen ermutigt und befähigt werden, sich selbst für die Lösung
   gesellschaftlicher Probleme zuständig zu machen statt sie von anderen zu
   fordern.
+impactArea:
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/ashoka-logo-1600_1000.png
 email: info_de@ashoka.org
 link: 'https://www.ashoka.org'
-image: /uploads/ashoka-logo-1600_1000.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '81675'
+federalState: Bayern
 ---
 
