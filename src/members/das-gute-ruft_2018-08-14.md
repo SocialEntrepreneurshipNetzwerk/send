@@ -6,13 +6,15 @@ description: >-
   schlägt für ethische Kommunikation und gesellschaftlichen Wandel. Wir arbeiten
   mit Sozialunternehmen, NGOs und ökologischen Projekten, damit sie mehr
   Menschen erreichen und ihre Wirkung vergrößern. 
+impactArea:
+  - Entrepreneurshipförderung
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/das-gute-ruft.png
 email: hallo@dasguteruft.de
 link: 'https://www.dasguteruft.de'
-image: /uploads/das-gute-ruft.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Köln
+postalCode: '50679'
+federalState: Nordrhein-Westfalen
 ---
 
