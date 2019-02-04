@@ -8,13 +8,15 @@ description: >-
   Lebensbedingungen. www.relaio.de, die Plattform für nachhaltiges
   Unternehmertum, ist wichtiger Bestandteil der operativen Stiftungsarbeit und
   des Engagements im Bereich Social Entrepreneurship. 
+impactArea:
+  - Bildung
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/hss-logo_2012_rgb_fett_300dpi.jpg
 email: 'hss@hanssauerstiftung.de '
 link: 'https://www.hanssauerstiftung.de '
-image: /uploads/hss-logo_2012_rgb_fett_300dpi.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '80637'
+federalState: Bayern
 ---
 
