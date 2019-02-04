@@ -10,13 +10,15 @@ description: >-
   Neben der Reichweite die wir für die NGOs schaffen möchten, unterstützen wir
   sie auch finanziell. Bis zu 80% unserer Überschüsse (unter Berücksichtigung
   einer rechnerischen Steuer von 30%) gehen dabei zurück an die Organisationen.
+impactArea:
+  - Armut
+  - Bildung
+organization: true
+image: /uploads/emerald-logo.jpg
 email: info@emerald-berlin.com
 link: 'https://www.emerald-berlin.com/de'
-image: /uploads/emerald-logo.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10115'
+federalState: Berlin
 ---
 
