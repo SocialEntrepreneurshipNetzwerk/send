@@ -8,13 +8,16 @@ description: >-
   mit Migrations- oder Fluchtgeschichte und die lokale Bevölkerung durch
   niedrigschwellige Freizeitangebote zusammengebracht und erleben dadurch
   Austausch und (interkulturellen) Dialog auf Augenhöhe.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Flucht und Migration
+  - Integration
+organization: true
+image: /uploads/bike.png
 email: hallo@bikebridge.org
 link: www.bikebridge.org
-image: /uploads/bike.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Freiburg
+postalCode: '79115'
+federalState: Baden-Württemberg
 ---
 
