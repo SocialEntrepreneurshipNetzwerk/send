@@ -6,13 +6,14 @@ description: >-
   Verantwortung, erleben Teilhabe, verbessern ihre Sozial- und
   Handlungskompetenzen und trainieren durch Erfahrungslernen Kreativität,
   Kommunikation, Zusammenarbeit und kritisches Denken.
+impactArea:
+  - Bildung
+organization: true
+image: /uploads/Das_macht_Schule.jpg
 email: gebert@das-macht-schule.net
 link: 'https://www.das-macht-schule.net/'
-image: /uploads/Das_macht_Schule.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Hamburg
+postalCode: '20459'
+federalState: Hamburg
 ---
 
