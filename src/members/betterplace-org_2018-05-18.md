@@ -8,7 +8,9 @@ description: >-
   stehen auf Transparenz – deshalb stellt jedes Hilfsprojekt seine Bedarfe
   konkret dar und berichtet regelmäßig per Text, Foto und Video über die
   Fortschritte vor Ort. 
-impactArea: Dienstleistungen für Sozialunternehmen
+impactArea:
+  - Armut
+  - Umwelt– & Klimaschutz
 organization: true
 image: /uploads/screenshot-63-_li.jpg
 email: marketing@betterplace.org
