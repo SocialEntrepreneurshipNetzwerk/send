@@ -7,13 +7,15 @@ description: >-
   Studierende aller Fachrichtungen Willkommen fühlen, miteinander in Austausch
   treten und ihre Kenntnisse nutzen und weiterentwickeln, um nachhaltige
   Projekte für eine zukunftsfähige Gesellschaft zu realisieren.
+impactArea:
+  - Bildung
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/infinity-deutschland_logo-ii.png
 email: jakob.wolski@infinity-deutschland.de
 link: 'https://infinity-mannheim.de/'
-image: /uploads/infinity-deutschland_logo-ii.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Mannheim
+postalCode: '68159'
+federalState: Baden-Württemberg
 ---
 
