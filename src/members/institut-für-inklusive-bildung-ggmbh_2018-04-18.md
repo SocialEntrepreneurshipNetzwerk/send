@@ -8,13 +8,15 @@ description: >-
   zukünftigen Fachkräften Inklusionskompetenz und die Lebenswelt von Menschen
   mit Behinderungen. In den nächsten Jahren wollen wir an 10 Hochschulen in
   Deutschland 60 Qualifizierungsplätze schaffen. 
+impactArea:
+  - Bildung
+  - Inklusion von Menschen mit Behinderung
+organization: true
+image: /uploads/institut_inklusivebildung_rz_logo_rgb-neu.png
 email: mayrhofer@inklusive-bildung.org
 link: 'https://inklusive-bildung.org/de/startseite'
-image: /uploads/institut_inklusivebildung_rz_logo_rgb-neu.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Kiel
+postalCode: '24103'
+federalState: Schleswig-Holstein
 ---
 
