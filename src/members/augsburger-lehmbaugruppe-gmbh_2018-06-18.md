@@ -7,13 +7,14 @@ description: >-
   Startschuss für einzigartiges Social Entrepreneurship mit derzeit 11
   (Tochter-)Unternehmen in den Geschäftsbereichen Bildung, Gesundheit,
   Jugendhilfe, Hotellerie sowie Landwirtschaft und Food.
+impactArea:
+  - Bildung
+organization: true
+image: /uploads/lehmbau-aktuell.jpg
 email: 'info@lehmbau.de '
 link: 'https://www.lehmbau.de '
-image: /uploads/lehmbau-aktuell.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Augsburg
+postalCode: '86159'
+federalState: Bayern
 ---
 
