@@ -6,13 +6,15 @@ description: >-
   beitragen, die hohe Arbeitslosigkeit von Autistinnen und Autisten zu
   verringern und gleichzeitig Arbeitgeber*innen dabei begleiten, Inklusion und
   Diversity tagtäglich zu leben. #verschiedenistnormal
+impactArea:
+  - Bildung
+  - Inklusion von Menschen mit Behinderung
+organization: true
+image: /uploads/diversicon_logoanimation.gif
 email: sally.ollech@diversicon.de
 link: 'https://diversicon.de/'
-image: /uploads/diversicon_logoanimation.gif
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10996'
+federalState: Berlin
 ---
 
