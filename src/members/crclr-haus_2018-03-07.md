@@ -7,13 +7,15 @@ description: >-
   Projekten der zirkulären Wirtschaft zu arbeiten. Denn wir sind davon
   überzeugt, dass ein neuer, anderer Weg des Zusammenlebens und
   Zusammenarbeitens sowohl nötig als auch möglich ist.
+impactArea:
+  - Stadtentwicklung
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/crclr.jpg
 email: alice@crclr.org
 link: 'https://crclr.org/'
-image: /uploads/crclr.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '12053'
+federalState: Berlin
 ---
 
