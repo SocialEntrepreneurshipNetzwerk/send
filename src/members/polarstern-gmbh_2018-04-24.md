@@ -6,13 +6,15 @@ description: >-
   Mit Energie die Welt verändern. Dazu bietet das Unternehmen ausschließlich
   Produkte aus 100 % erneuerbaren Energien, von Ökostrom und Ökogas, bis hin zu
   Spezialtarifen für E-Autos und zur dezentralen Stromversorgung.
+impactArea:
+  - Umwelt– & Klimaschutz
+  - Stadtentwicklung
+organization: true
+image: /uploads/polarstern_send.jpg
 email: norman@polarstern-energie.de
 link: 'https://www.polarstern-energie.de/'
-image: /uploads/polarstern_send.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '80337'
+federalState: Bayern
 ---
 
