@@ -8,7 +8,9 @@ description: >
   Schulen, Unternehmen, Institutionen und öffentlichen Einrichtungen konzipieren
   wir innovative Bildungsprogramme (Seminare, Fahrten, Workshops und Unterricht)
   und setzen diese um.
-impactArea: Bildung
+impactArea:
+  - Bildung
+  - Demokratie & Engagement von Bürger*innen
 organization: true
 image: /uploads/logo_16.10.png
 email: briefkasten@mehralslernen.org
