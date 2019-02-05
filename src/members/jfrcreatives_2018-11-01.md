@@ -5,13 +5,15 @@ description: >-
   soziales Miteinander. Ich bin bei SEND Mitglied geworden, um Unternehmer*innen
   kennen zu lernen, die mit ihrer Arbeit und ihren Projekten die Welt zum
   Besseren verändern wollen. 
+impactArea:
+  - Dienstleistungen für Sozialunternehmen
+  - Menschenrechte
+organization: true
+image: /uploads/send-logo-jfrcreatives.png
 email: mail@jfrcreatives.com
 link: www.JFRcreatives.com
-image: /uploads/send-logo-jfrcreatives.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Ziesar
+postalCode: '14793'
+federalState: Brandenburg
 ---
 
