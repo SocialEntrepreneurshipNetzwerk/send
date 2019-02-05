@@ -12,12 +12,15 @@ description: >-
   Miteinander kennt keine Altersgrenze. Deshalb erschafft die gemeinnützige
   Hamburger Initiative Oll Inklusiv ein pulsierendes Netzwerk. Unser Motto:
   gemeinsam statt einsam!
+impactArea:
+  - Armut
+  - Gesundheit
+organization: true
+image: /uploads/oll-inklusiv.png
 email: neuigkeiten@oll-inklusiv.de
 link: www.oll-inklusiv.de
-image: /uploads/oll-inklusiv.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Hamburg
+postalCode: '20357'
+federalState: Hamburg
 ---
+
