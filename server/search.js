@@ -107,6 +107,7 @@ module.exports = ( q, offset, limit, type, facets ) => {
   let lookup = undefined;
   let items = undefined;
 
+  // only membersearch has facets, article search doesn't
   if (facets){
     facets = JSON.parse( facets );
   }
