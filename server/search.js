@@ -143,7 +143,7 @@ module.exports = ( q, offset, limit, type, facets ) => {
   for (facet in facets) {
     if ( facets[facet] ) {
       result.rows = result.rows.filter( item => {
-        if ( item[facet] === facets[facet] ) {
+        if ( item[facet] && item[facet].indexOf(facets[facet])>-1) {
           return item
         }
       })
