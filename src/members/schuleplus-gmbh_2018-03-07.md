@@ -6,13 +6,15 @@ description: >-
   Schulprojekte zur Berufsorientierung durchführen. Unser Herzstück ist die
   Entwicklung digitaler Produkte, die junge Menschen einen chancengerechten
   Zugang zur Berufsorientierung bieten.
+impactArea:
+  - Bildung
+  - Zukunft der Arbeit
+organization: true
+image: /uploads/schuleplus.png
 email: clara.hoeltermann@schule-plus.de
 link: 'https://www.schule-plus.de/'
-image: /uploads/schuleplus.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10829'
+federalState: Berlin
 ---
 

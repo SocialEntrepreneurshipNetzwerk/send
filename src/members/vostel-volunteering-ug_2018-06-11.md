@@ -7,13 +7,15 @@ description: >-
   von Freiwilligen und der Beratung von Non-Profit-Organisationen zum Thema
   Freiwilligenmanagement. Zusätzlich unterstützen wir Unternehmen bei der
   Planung und Durchführung ihrer Corporate Volunteering-Aktivitäten.
+impactArea:
+  - Bildung
+  - Demokratie & Engagement von Bürger*innen
+organization: true
+image: /uploads/vostel_logo_rgb_grau-orange.jpg
 email: hello@vostel.de
 link: 'https://www.vostel.de'
-image: /uploads/vostel_logo_rgb_grau-orange.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '12047'
+federalState: Berlin
 ---
 

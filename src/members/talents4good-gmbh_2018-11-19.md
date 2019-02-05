@@ -8,13 +8,15 @@ description: >-
   unseren Kunden zählen internationale NGOs, renommierte Stiftungen und
   innovative Sozialunternehmen. Wir verstehen uns als innovatives und
   professionell arbeitendes Social Start-up.
+impactArea:
+  - Dienstleistungen für Sozialunternehmen
+  - Zukunft der Arbeit
+organization: true
+image: /uploads/t4g.png
 email: kontakt@talents4good.org
 link: 'https://www.talents4good.org/'
-image: /uploads/t4g.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10117'
+federalState: Berlin
 ---
 

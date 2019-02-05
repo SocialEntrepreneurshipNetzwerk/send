@@ -6,13 +6,14 @@ description: >-
   hinaus engagieren wir uns in vielen Bereichen des Social Entrepreneurship, so
   bietet z.B. unser Investment „awamo“ eine einfache Softwarelösung für
   Mikrofinanzanbieter*innen in Uganda an.
+impactArea:
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/brainweb_800x500_transparent.png
 email: 'jochen@brainweb.de '
 link: 'http://www.brainweb.de '
-image: /uploads/brainweb_800x500_transparent.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Köln
+postalCode: '50858'
+federalState: Nordrhein-Westfalen
 ---
 

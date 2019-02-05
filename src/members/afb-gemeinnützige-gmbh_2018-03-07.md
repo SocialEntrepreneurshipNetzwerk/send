@@ -7,13 +7,15 @@ description: >-
   als 1.000 Unternehmen bearbeitet. Das Besondere: 50% der Mitarbeiter sind
   Menschen mit einer Beeinträchtigung und wir reduzieren nachweislich den
   ökologischen Fußabdruck unserer Partnerunternehmen.
+impactArea:
+  - Inklusion von Menschen mit Behinderung
+  - Zukunft der Arbeit
+organization: true
+image: /uploads/Logo_AfB.png
 email: CR@afb-group.eu
 link: 'https://www.afb-group.de/home/'
-image: /uploads/Logo_AfB.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '12103'
+federalState: Berlin
 ---
 

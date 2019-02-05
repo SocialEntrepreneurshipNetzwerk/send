@@ -7,13 +7,15 @@ description: >-
   deutschlandweit mit einem mobilen- Film- Foto und Tonstudio unterwegs um
   gemeinsam mit Kommunalen Bildungseinrichtungen die Inklusion, Integration
   sowie die Demokratiebildung voranzutreiben.
+impactArea:
+  - Bildung
+  - Inklusion von Menschen mit Behinderung
+organization: true
+image: /uploads/heartbeat.jpg
 email: info@heartbeatbus.de
 link: 'http://www.heartbeatbus.de/'
-image: /uploads/heartbeat.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Frankfurt
+postalCode: '60487'
+federalState: Hessen
 ---
 

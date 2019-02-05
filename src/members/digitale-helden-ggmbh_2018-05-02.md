@@ -6,13 +6,14 @@ description: >-
   Schüler*innen aus, die jüngere Schüler*innen beim Umgang mit persönlichen
   Daten im Internet, sozialen Netzwerken und bei der Prävention von Cybermobbing
   helfen und beraten.
+impactArea:
+  - Bildung
+organization: true
+image: /uploads/digitale-helden.png
 email: info@digitale-helden.de
 link: 'http://www.digitale-helden.de/'
-image: /uploads/digitale-helden.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Frankfurt am Main
+postalCode: '60385'
+federalState: Hessen
 ---
 

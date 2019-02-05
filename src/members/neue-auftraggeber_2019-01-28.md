@@ -8,7 +8,9 @@ description: >-
   Künstler und Kooperationspartner bei der Beauftragung, Finanzierung und
   Ausführung der Projekte. Was dabei entsteht, sind gemeinnützige, öffentliche
   und nicht kommerzielle Kulturgüter.
-impactArea: Dienstleistungen für Sozialunternehmen
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Integration
 organization: true
 image: /uploads/neue-auftraggeber.jpg
 email: office@neueauftraggeber.de

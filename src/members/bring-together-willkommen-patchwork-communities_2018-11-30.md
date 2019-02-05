@@ -11,13 +11,15 @@ description: >-
   demographischer Wandel und den damit verbundenen Herausforderungen wie
   fehlende Familienstrukturen, überforderter Sozialsysteme, unbezahlbarer
   städtischer Wohnraum und vereinsamte ländliche Regionen.
+impactArea:
+  - Demographischer Wandel
+  - Stadtentwicklung
+organization: true
+image: /uploads/logo-bring-together-patchwork-communities.jpg
 email: info@bring-together.de
 link: www.bring-together.de
-image: /uploads/logo-bring-together-patchwork-communities.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Leipzig
+postalCode: '04107'
+federalState: Sachsen
 ---
 

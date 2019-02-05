@@ -6,13 +6,14 @@ description: >-
   alternden Gesellschaft des langen Lebens. Wir initiieren, begleiten,
   transferieren und evaluieren gerontologische und interdisziplinäre
   Zukunftsprojekte. 
+impactArea:
+  - Demographischer Wandel
+organization: true
+image: /uploads/agecu-mit-bild.png
 email: info@alterngestalten.de
 link: 'https://www.alterngestalten.de/'
-image: /uploads/agecu-mit-bild.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Hartenstein
+postalCode: '91235'
+federalState: Bayern
 ---
 

@@ -9,13 +9,14 @@ description: >-
   Möglichkeit eines Studiums zu informieren und sie auf ihrem Weg vom
   Studieneinstieg bis zum erfolgreichen Studienabschluss und Berufseinstieg zu
   unterstützen.
+impactArea:
+  - Bildung
+organization: true
+image: /uploads/arbeiterkind.de_regionaltreffen_sueddeutschland_2016.jpg
 email: presse@arbeiterkind.de
 link: 'http://www.arbeiterkind.de/'
-image: /uploads/arbeiterkind.de_regionaltreffen_sueddeutschland_2016.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10178'
+federalState: Berlin
 ---
 

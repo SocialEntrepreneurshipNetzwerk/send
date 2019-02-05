@@ -10,7 +10,9 @@ description: >-
   Gleichgewicht mit der natürlichen Umwelt sind. Unsere Arbeitsfelder sind
   Psychische Gesundheit und psychosoziale Unterstützung, Anpassung an den
   Klimawandel, Sozialer Zusammenhalt und Gemeinschaftsstärkung.
-impactArea: Menschenrechte
+impactArea:
+  - Internationale Zusammenarbeit
+  - Umwelt– & Klimaschutz
 organization: true
 image: /uploads/screenshot-36-.png
 email: hello@hudara.org

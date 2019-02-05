@@ -5,13 +5,15 @@ description: >-
   erfolgreichen Turnaround. Mit Erfolg! Mit unserem Sozialunternehmen haben wir
   mehr als 14.000 Menschen beraten, Unternehmen und Arbeitsplätze gerettet und
   zahlreiche Insolvenzen verhindert.
+impactArea:
+  - Armut
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/von-Unruh.jpg
 email: avunruh@team-u.de
 link: 'https://www.team-u.de/'
-image: /uploads/von-Unruh.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Köln
+postalCode: '50667'
+federalState: Nordrhein-Westfalen
 ---
 
