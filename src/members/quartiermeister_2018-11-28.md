@@ -9,13 +9,15 @@ description: >-
   Partnerbrauereien zusammen und konnte schon über 125.000€ an
   bürgerschaftliches Engagement ausschütten. Jede*r kann online mitbestimmen,
   wohin der Erlös des Bieres fließt.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/bildschirmfoto-2018-11-28-um-15.25.36.png
 email: info@quartiermeister.org
 link: www.quartiermeister.org
-image: /uploads/bildschirmfoto-2018-11-28-um-15.25.36.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10999'
+federalState: Berlin
 ---
 
