@@ -8,13 +8,15 @@ description: >-
   Persönlichkeiten und Fähigkeiten eröffnen. Wir bieten Beratung, Moderation und
   Diversity Trainings als Instrumente einer diversitätsorientierten Kultur der
   Zusammenarbeit an.
+impactArea:
+  - Flucht und Migration
+  - Integration
+organization: true
+image: /uploads/working-between-cultures-logo_4c_1600x1000px.jpg
 email: info@working-between-cultures.com
 link: 'https://www.working-between-cultures.com '
-image: /uploads/working-between-cultures-logo_4c_1600x1000px.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '80636'
+federalState: Bayern
 ---
 
