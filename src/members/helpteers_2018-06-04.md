@@ -9,12 +9,13 @@ description: >-
 
   Wir bauen Brücken zwischen Technologie und Menschlichkeit. Für mehr Engagement
   in der Gesellschaft, in Organisationen und in Unternehmen.
-link: 'https://helpteers.net'
-image: /uploads/helpteers.jpg
-city:
-postalCode:
-federalState:
 impactArea:
-organization:
+  - Demokratie & Engagement von Bürger*innen
+organization: true
+image: /uploads/helpteers.jpg
+link: 'https://helpteers.net/info/'
+city: Erkrath
+postalCode: '40699'
+federalState: Nordrhein-Westfalen
 ---
 

@@ -107,7 +107,9 @@ module.exports = ( q, offset, limit, type, facets ) => {
   let lookup = undefined;
   let items = undefined;
 
-  facets = JSON.parse( facets )
+  if (facets){
+    facets = JSON.parse( facets );
+  }
 
   switch ( type ) {
   case 'member':

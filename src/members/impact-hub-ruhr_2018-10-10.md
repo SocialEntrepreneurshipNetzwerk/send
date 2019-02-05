@@ -9,13 +9,15 @@ description: >-
   Freelancer, Kreative, Social Entrepreneure und Unternehmen in gleicher
   Mission. Hier wird Expertise geteilt, Inspiration gesucht und Innovation durch
   ungewöhnliche Partnerschaften geboren.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/impact-hub-ruhr-2-schnitt.jpg
 email: ruhr@impacthub.net
 link: 'http://ruhr.impacthub.net/'
-image: /uploads/impact-hub-ruhr-2-schnitt.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Essen
+postalCode: '45127'
+federalState: Nordrhein-Westfalen
 ---
 

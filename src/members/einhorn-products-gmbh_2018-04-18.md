@@ -9,13 +9,15 @@ description: >-
   Einfluss unserer Kondome zu minimieren, sondern entlang der gesamten
   Lieferkette einen positiven Impact zu schaffen. Dafür reinvestieren wir 50%
   unserer Profite.
+impactArea:
+  - Umwelt– & Klimaschutz
+  - Zukunft der Arbeit
+organization: true
+image: /uploads/neu_einhorn_wortbild-neu.png
 email: linda@einhorn.my
 link: 'https://einhorn.my/'
-image: /uploads/neu_einhorn_wortbild-neu.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10997'
+federalState: Berlin
 ---
 

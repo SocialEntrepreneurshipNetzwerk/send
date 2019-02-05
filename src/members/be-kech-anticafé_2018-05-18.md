@@ -8,13 +8,15 @@ description: >-
   Ankommer*innen) co-kuratieren wir ein liebevolles Programm mit den sich
   Beteiligenden um eine Plattform für Austausch, persönlichen Ausdruck und
   individuelle sowie gemeinschaftliche Förderung zu schaffen.
+impactArea:
+  - Entrepreneurshipförderung
+  - Zukunft der Arbeit
+organization: true
+image: /uploads/bekech-logo-horizontal-01.png
 email: nina@bekech.com
 link: 'https://www.bekech.com'
-image: /uploads/bekech-logo-horizontal-01.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '13357'
+federalState: Berlin
 ---
 

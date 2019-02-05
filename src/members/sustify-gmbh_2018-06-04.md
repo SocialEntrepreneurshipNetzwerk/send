@@ -5,13 +5,15 @@ description: >-
   Asien. Europäische Einzelhändler*innen machen dadurch ihre
   Nachhaltigkeitstrainings immer mehr Menschen zugänglich und Impact wird
   transparent und messbar.
+impactArea:
+  - Internationale Zusammenarbeit
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/sustify_logo_withclaim_rgb.png
 email: sonja.westphal@sustify.de
 link: 'https://www.sustify.de'
-image: /uploads/sustify_logo_withclaim_rgb.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10247'
+federalState: Berlin
 ---
 

@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-netlify-cms",
   "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.0.0",
+  "version": "1.9.4",
   "author": "Austin Green",
   "dependencies": {
     "axios": "0.18.0",

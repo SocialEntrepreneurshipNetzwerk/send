@@ -8,13 +8,15 @@ description: >-
   weitreichenden Netzwerk findet jeder das nötige Know-How, die Tools und das
   Netzwerk, um die Probleme unserer Welt anzugehen und auf unternehmerische
   Weise zu lösen.
+impactArea:
+  - Bildung
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/sea-neu.png
 email: info@seakademie.de
 link: 'http://www.seakademie.de/'
-image: /uploads/sea-neu.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: München
+postalCode: '80797'
+federalState: Bayern
 ---
 

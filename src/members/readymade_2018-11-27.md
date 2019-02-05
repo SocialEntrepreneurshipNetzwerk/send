@@ -6,13 +6,14 @@ description: >-
   zahlen eine monatliche Miete und READYMADE liefert, montiert und pflegt die
   Möbel nach ihrer Rückkehr. Sie werden deswegen nicht entsorgt, sondern nach
   ihrer Überarbeitung wieder vermietet: Sharing meets Upcycling.
+impactArea:
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/ready.png
 email: info@readymade-furniture.de
 link: www.readymade-furniture.de
-image: /uploads/ready.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Köln
+postalCode: '50670'
+federalState: Nordrhein-Westfalen
 ---
 

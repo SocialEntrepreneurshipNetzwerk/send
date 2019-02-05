@@ -16,10 +16,9 @@ Von allen haben wir nun Antworten erhalten und die Kernaussagen hier für Dich z
 
 Wo wir keine Kernaussagen erstellen konnten, haben wir dies markiert:
 
-\* *Hier haben wir Kulanz walten lassen und passende Kernaussagen aus anderen Antworten der jeweiligen Partei verwendet.*
+\* _Hier haben wir Kulanz walten lassen und passende Kernaussagen aus anderen Antworten der jeweiligen Partei verwendet._
 
-\*\* *Hier konnten wir keine Kernaussagen zuordnen.*
-
+\*\* _Hier konnten wir keine Kernaussagen zuordnen._
 
 ## 1. Welchen Stellenwert messen Sie Social Entrepreneurship grundsätzlich bei der Bewältigung unserer aktuellen und künftigen sozialen und ökologischen Probleme bei?
 
@@ -43,12 +42,11 @@ Die Förderung von Social Entrepreneurship sollte zu einer zentralen Aufgabe der
 
 Soziale Start-Ups und Social Entrepreneurship sehen wir als große Chance, im sozialen Bereich neue kreative Ideen und Methoden umzusetzen, die Antworten auf die Herausforderungen einer digitalen Gesellschaft geben und Teilhabe und Mitbestimmung auf ein neues Niveau heben.
 
-
 ## 2. Planen Sie, Social Entrepreneurship künftig stärker zu unterstützen? Auf welche Weise?
 
 **CDU/CSU**
 
-Der Praxisleitfaden des Bundesministeriums für Wirtschaft und Energie für Soziales Unternehmertum ist eine Handreichung für Gründerinnen und Gründer, wobei dieser über 100 praxisgeprüfte Informations- und Unterstützungsangebote zeigt. \*
+Der Praxisleitfaden des Bundesministeriums für Wirtschaft und Energie für Soziales Unternehmertum ist eine Handreichung für Gründerinnen und Gründer, wobei dieser über 100 praxisgeprüfte Informations- und Unterstützungsangebote zeigt. *
 
 **SPD**
 
@@ -94,12 +92,12 @@ Wir Freie Demokraten wollen durch ein Venture-Capital-Gesetz die steuerlichen Ra
 
 **CDU/CSU**
 
-Um das Potenzial von Social Startups und Social Entrepreneurs zu nutzen, fördert das Bundesministerium für Familie, Senioren, Frauen und Jugend seit 2012 die Entwicklung von Gründungszentren für Sozialunternehmerinnen und Sozialunternehmer zum Aufbau einer flächendeckenden Unterstützungsstruktur. \*
+Um das Potenzial von Social Startups und Social Entrepreneurs zu nutzen, fördert das Bundesministerium für Familie, Senioren, Frauen und Jugend seit 2012 die Entwicklung von Gründungszentren für Sozialunternehmerinnen und Sozialunternehmer zum Aufbau einer flächendeckenden Unterstützungsstruktur. *
 
 **SPD**
 
 Wir planen, soziale Innovationen bei der Beschaffung besser zu berücksichtigen, weshalb das Kompetenzzentrum Innovative Beschaffung (KOINNO) gestärkt werden soll. Wir wollen bei der institutionellen Förderung durch Zuschüsse von kommunalen und
-staatlichen Trägern die Chancen von Sozialunternehmen stärken.
+staatlichen Trägern die Chancen von Sozialunternehmen stärken
 
 **Bündnis 90 Die Grünen**
 
@@ -120,7 +118,7 @@ Wir wollen gemeinsam mit den Verbänden und den jeweiligen Akteuren prüfen, in 
 
 **CDU/CSU**
 
-Um die Öffentlichkeit stärker für das Soziale Unternehmertum zu sensibilisieren und die Vernetzung der Akteure zu fördern, hat das Bundesministerium für Wirtschaft und Energie im Jahr 2016 verschiedene öffentliche Veranstaltungen zum Sozialen Unternehmertum durchgeführt. \*
+Um die Öffentlichkeit stärker für das Soziale Unternehmertum zu sensibilisieren und die Vernetzung der Akteure zu fördern, hat das Bundesministerium für Wirtschaft und Energie im Jahr 2016 verschiedene öffentliche Veranstaltungen zum Sozialen Unternehmertum durchgeführt. *
 
 **SPD**
 
@@ -164,7 +162,7 @@ Messungen zur Wirkung von Social Entrepreneurship sind noch nicht geplant. Das w
 
 **CDU/CSU**
 
-Das Bundesministerium für Bildung und Forschung adressiert mit der 2016 gestarteten Bund-Länder-Förderinitiative „Innovative Hochschule“ (2016 bis 2027) die Zusammenarbeit von Hochschulen mit Wirtschaft und Gesellschaft einschließlich Sozialunternehmen. \*
+Das Bundesministerium für Bildung und Forschung adressiert mit der 2016 gestarteten Bund-Länder-Förderinitiative „Innovative Hochschule“ (2016 bis 2027) die Zusammenarbeit von Hochschulen mit Wirtschaft und Gesellschaft einschließlich Sozialunternehmen. *
 
 **SPD**
 
@@ -183,12 +181,11 @@ Im Forschungsförderungsgesetz wollen wir einen verbindlichen Anteil für Grundl
 
 In dieser Exklusivität fordern wir dies nicht, allerdings wollen wir die drei Förderlinien Graduiertenschulen, Exzellenzcluster und Zukunftskonzepte verlässlich fortsetzen und um eine Förderlinie Lehre ergänzen.
 
-
 ## 8. Planen Sie Maßnahmen, um Gründungen von Social Entrepreneurs zu fördern? Welche?
 
 **CDU/CSU**
 
-Das Bundesministerium für Familie, Senioren, Frauen und Jugend unterstützt seit 2012 Social Impact Labs, die als Gründungszentren Gründerinnen und Gründer von Sozialunternehmen bei der Entwicklung und Umsetzung ihrer Geschäftsideen beraten und Vernetzungsangebote bereitstellen. \*
+Das Bundesministerium für Familie, Senioren, Frauen und Jugend unterstützt seit 2012 Social Impact Labs, die als Gründungszentren Gründerinnen und Gründer von Sozialunternehmen bei der Entwicklung und Umsetzung ihrer Geschäftsideen beraten und Vernetzungsangebote bereitstellen. *
 
 **SPD**
 
@@ -273,5 +270,4 @@ DIE LINKE will die Wirtschaftsförderung demokratischer gestalten und verbindlic
 
 Der soziale Sektor muss wirklich geöffnet und die entsprechenden Gesetze, die die Voraussetzungen für Leistungserbringer regeln, so angepasst werden, dass innovative Projekte auch realisiert werden können und nicht an der Bürokratie scheitern.
 
-
-*Danksagung: Es gilt ein großer Dank an alle Personen, die in der kürze der Zeit diese Wahprüfsteine möglich gemacht haben: Stepahn de la Peña, Michael Wunsch, Markus Sauerhammer, Naomi Ryland & Team, Magdalena Freischlad, Uwe Birkel, Birgit Heilig.*
+_Danksagung: Es gilt ein großer Dank an alle Personen, die in der kürze der Zeit diese Wahprüfsteine möglich gemacht haben: Stepahn de la Peña, Michael Wunsch, Markus Sauerhammer, Naomi Ryland & Team, Magdalena Freischlad, Uwe Birkel, Birgit Heilig._

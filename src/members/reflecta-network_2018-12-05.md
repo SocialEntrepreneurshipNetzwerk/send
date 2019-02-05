@@ -7,13 +7,15 @@ description: >-
   Unternehmen und Organisationen können durch einen intelligenten Algorithmus
   zusammengebracht werden. Projekte, die einen gesellschaftlichen Mehrwert
   bieten, werden möglich gemacht, gefördert und professionalisiert.
+impactArea:
+  - Dienstleistungen für Sozialunternehmen
+  - Entrepreneurshipförderung
+organization: true
+image: /uploads/reflecta.png
 email: hello@reflecta.network
 link: ' www.reflecta.network'
-image: /uploads/reflecta.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Mainz
+postalCode: '55118'
+federalState: Rheinland-Pfalz
 ---
 

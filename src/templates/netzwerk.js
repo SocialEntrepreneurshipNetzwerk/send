@@ -173,8 +173,11 @@ export default class Netzwerk extends Component {
               <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
               <SearchIcon/>
             </div>
-            <Dropdown facet="impactArea" startOption={impactArea[0]} options={impactArea} handleUpdate={this.handleUpdateFacet}/>
-            <Dropdown facet="federalState" startOption={federalState[0]} options={federalState} handleUpdate={this.handleUpdateFacet}/>
+            {/*
+              <Dropdown facet="impactArea" startOption={impactArea[0]} options={impactArea} handleUpdate={this.handleUpdateFacet}/>
+              <Dropdown facet="federalState" startOption={federalState[0]} options={federalState} handleUpdate={this.handleUpdateFacet}/>
+              */}
+
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
           {showLoadMore && <ButtonLoadMore loadMore={this.handleLoadMore}/>}
