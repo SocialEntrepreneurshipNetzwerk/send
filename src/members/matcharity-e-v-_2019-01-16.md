@@ -9,7 +9,9 @@ description: >-
   dabei auch noch Spenden sammeln für Waisenkinder aus Fukushima und Okayama.
   Langfristig hoffen wir so Brücken bauen zu können zwischen Deutschland und
   Japan.
-impactArea: Internationale Zusammenarbeit
+impactArea:
+  - Integration
+  - Internationale Zusammenarbeit
 organization: true
 image: /uploads/screenshot-34-.png
 email: contact@matcharity.org
