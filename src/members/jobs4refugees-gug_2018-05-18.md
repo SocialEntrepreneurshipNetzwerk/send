@@ -5,13 +5,15 @@ description: >-
   dabei unterstützt in Arbeit und Ausbildung zu finden. Hierfür vermitteln wir
   zwischen Geflüchteten und Arbeitgeber*innen, bieten Workshops und
   Bewerbungstrainings an und helfen bei den bürokratischen Herausforderungen.  
+impactArea:
+  - Integration
+  - Flucht und Migration
+organization: true
+image: /uploads/jobs4refugees.jpg
 email: info@jobs4refugees.org
 link: 'https://www.jobs4refugees.org/'
-image: /uploads/jobs4refugees.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10969'
+federalState: Berlin
 ---
 
