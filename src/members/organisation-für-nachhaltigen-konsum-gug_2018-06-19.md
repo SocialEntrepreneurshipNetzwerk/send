@@ -9,13 +9,14 @@ description: >-
   Ihrem Netzwerk an gemeinnützigen Organisationen erfolgt eine individuelle
   Aufklärung und spannende Einblicke in unseren persönlichen Einfluss auf die
   Umwelt. 
+impactArea:
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/organisation-für-nachhaltigen-konsum.png
 email: dl@ofnk.org
 link: ' https://www.ofnk.org'
-image: /uploads/organisation-für-nachhaltigen-konsum.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '12047'
+federalState: Berlin
 ---
 
