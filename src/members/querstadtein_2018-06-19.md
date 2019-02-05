@@ -8,14 +8,16 @@ description: >-
   Perspektiven auf ihre neuen Heimatstädte. Die Touren bieten Raum für Dialog
   sowie die Chance, Berührungsängste abzubauen und eigene Vorurteile zu
   überdenken.
-email: 'info@querstadtein.org '
-link: 'https://querstadtein.org/'
+impactArea:
+  - Bildung
+  - Integration
+organization: true
 image: >-
   /uploads/querstadtein_berlin-anders-sehen_logo_kompakt_blau_transparent_mit-url.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+email: 'info@querstadtein.org '
+link: 'https://querstadtein.org/'
+city: Berlin
+postalCode: '12047'
+federalState: Berlin
 ---
 
