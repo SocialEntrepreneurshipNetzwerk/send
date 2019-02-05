@@ -7,13 +7,15 @@ description: >-
   und Stärkung nachbarschaftlich-gesellschaftlichen Engagements umsetzen und
   Nachbarinnen und Nachbarn dabei unterstützen, ihr Lebensumfeld aktiv zu
   gestalten.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Stadtentwicklung
+organization: true
+image: /uploads/nebenan.de-stiftung_logo_1600x1000px_web.jpg
 email: kontakt@nebenan-stiftung.de
 link: www.nebenan-stiftung.de
-image: /uploads/nebenan.de-stiftung_logo_1600x1000px_web.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '10997'
+federalState: Berlin
 ---
 
