@@ -9,12 +9,14 @@ description: >-
   und Heidegold hergestellt. Mit unseren Gewinnen sollen Projekte der
   kleinbäuerlichen Landwirtschaft und insbesondere der Anbau und Verarbeitung
   der Getreidesortenvielfalt unterstützt werden.
+impactArea:
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/kzw-juli-maier.png
 email: info@glutenreduziert.de
 link: 'http://kornzeptwerk.de/'
-image: /uploads/kzw-juli-maier.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: '14195'
+federalState: Berlin
 ---
+
