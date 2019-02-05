@@ -6,13 +6,14 @@ description: >+
   Damit sind wir der einzige Spendendienst in Deutschland, der sich auf
   Büromöbel und Gebrauchtmöbel in großer Anzahl spezialisiert. 
 
+impactArea:
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/weiter-geben-image.jpg
 email: info@WeiterGeben.org
 link: 'https://WeiterGeben.org '
-image: /uploads/weiter-geben-image.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Hof
+postalCode: '95030'
+federalState: Bayern
 ---
 
