@@ -7,13 +7,16 @@ description: >-
   Public Code folgend ist 2015 die App Integreat entstanden, die von
   verschiedenen Kommunen zur Kommunikation mit neuzugewanderten Bürgerinnen und
   Bürgern genutzt wird.
+impactArea:
+  - Demokratie & Engagement von Bürger*innen
+  - Flucht und Migration
+  - Integration
+organization: true
+image: /uploads/tat_df_logo.png
 email: ''
 link: 'https://tuerantuer.de/'
-image: /uploads/tat_df_logo.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Augsburg
+postalCode: '86153'
+federalState: Bayern
 ---
 
