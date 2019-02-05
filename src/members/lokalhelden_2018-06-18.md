@@ -7,13 +7,15 @@ description: >-
   und veganen Gerichten weiter. So werden Transportwege und Lebensmittelabfälle
   vermieden und die regionalen Erzeuger*innen für ihre harte Arbeit fair
   entlohnt. 
+impactArea:
+  - Integration
+  - Umwelt– & Klimaschutz
+organization: true
+image: /uploads/lokalhelden.jpg
 email: gemuese@lokalhelden-augsburg.de
 link: 'https://www.lokalhelden-augsburg.de'
-image: /uploads/lokalhelden.jpg
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Augsburg
+postalCode: '86159'
+federalState: Bayern
 ---
 
