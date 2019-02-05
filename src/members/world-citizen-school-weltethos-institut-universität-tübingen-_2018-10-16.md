@@ -6,13 +6,15 @@ description: >-
   Bildung wird zur Selbstbildung, Kooperation zum Treiber gesellschaftlicher
   Innovationen und gesellschaftliches Engagement von unten in die Lehr- und
   Forschungsaktivitäten integriert. 
+impactArea:
+  - Bildung
+  - Demokratie & Engagement von Bürger*innen
+organization: true
+image: /uploads/world-citizen-school.png
 email: team@worldcitizen.school
 link: www.worldcitizen.school
-image: /uploads/world-citizen-school.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Tübingen
+postalCode: '72070'
+federalState: Baden-Württemberg
 ---
 
