@@ -26,6 +26,6 @@ Schon seit einiger Zeit bieten wir für Mitglieder, aber auch Interessent*innen,
 
 Los geht es immer um 18.30 Uhr bis voraussichtlich 20.30 Uhr. Infos zu den Themen, um die es gehen wird, findet Ihr [hier](https://www.facebook.com/events/230121794204744/). 
 
-Für alle Nicht-Berliner*innen: SEND e.V. lebt von Euch und Eurem Engagement. Wenn Ihr Lust habt in Eurer Stadt oder Region ähnliche Treffen zu organisieren, habt Ihr unsere volle Unterstützung. Bei Fragen oder Anregungen stehen wir natürlich immer gerne zur Verfügung.
+Für alle Nicht-Berliner*innen: SEND lebt von Euch und Eurem Engagement. Wenn Ihr Lust habt in Eurer Stadt oder Region ähnliche Treffen zu organisieren, habt Ihr unsere volle Unterstützung. Bei Fragen oder Anregungen stehen wir natürlich immer gerne zur Verfügung.
 
-Euer SEND e.V. Team
+Euer SEND Team
