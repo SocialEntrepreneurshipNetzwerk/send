@@ -114,7 +114,7 @@ _Sichtbarkeit ist eine der großen Herausforderungen des Social Entrepreneurship
 
 _\[Antworten auf Fragen 10 und 11 ohne Beurteilung]_
 
-**12. Hält die Bundesregierung die Einrichtung eines speziellen Fonds für soziale Innovationen, wie ihn beispielsweise Frankreich mit einer Höhe von 1 Mrd. Euro für die nächsten fünf Jahre beschlossen hat (siehe „**[French Impact : innover au service de’intérêt général](<www.ecologique-solidaire.gouv.fr/ french-impact-innover-au-service-linteret-general>)**", 18. Januar 2018) für geeignet, um Social Entrepreneurs zu stärken, und hält die Bundesregierung eine Fonds-Lösung nach französischem Vorbild auf Deutschland übertragbar? Falls nein, wieso nicht?**
+**12. Hält die Bundesregierung die Einrichtung eines speziellen Fonds für soziale Innovationen, wie ihn beispielsweise Frankreich mit einer Höhe von 1 Mrd. Euro für die nächsten fünf Jahre beschlossen hat (siehe „French Impact : innover au service de’intérêt général", 18. Januar 2018) für geeignet, um Social Entrepreneurs zu stärken, und hält die Bundesregierung eine Fonds-Lösung nach französischem Vorbild auf Deutschland übertragbar? Falls nein, wieso nicht?**
 
 Die Ende 2018 neu gegründete KfW Capital beteiligt sich an kommerziellen Wagniskapitalfonds. Beihilferechtlich zulässig ist auch, dass sich die KfW Capital an Wagniskapitalfonds beteiligt, die sich ihrerseits an gewinnmaximierenden Sozialunternehmen beteiligen und zu mindestens 80 Prozent von anderen Investoren als der KfW Capital bzw. zu mindestens 30 Prozent von privaten Investoren finanziert werden. Die Bundesregierung wird darüber hinaus prüfen, ob und inwieweit die französische Fondslösung Anregungen für die Weiterentwicklung der bestehenden Fondslösungen bieten kann.
 
