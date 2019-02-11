@@ -74,7 +74,7 @@ Die Bundesregierung unterstützt Social Entrepreneurship sowie soziale Innovatio
 
 _Die genannten Ansätze sind wichtige Bausteine, die wir explizit begrüßen. Im Hinblick auf die aktuellen und vor uns liegenden gesellschaftlichen Herausforderungen ist jedoch eine übergeordnete Strategie, die der Heterogenität der aufgeführten Schnittstellen zwischen Zivilgesellschaft, Wirtschaft und Politik gerecht wird, ein wichtiger Baustein. In der genannten Studie der Europäischen Kommission wird neben den sieben Ländern mit einer bestehenden Gesamtstrategie darauf verwiesen, dass weitere sieben Länder der EU bereits 2014 an einer solchen Strategie gearbeitet haben. Für eine bessere Nutzung der Potenziale, die die Bundesregierung in der Antwort auf Frage 4 hervorhebt, sowie eine Umsetzung der Vorhaben zu Sozialen Innovationen/Social Entrepreneurship aus dem Koalitionsvertrag, sollte analog der High Tech Strategie an einer Sozialen Innovationsstrategie für Deutschland gearbeitet werden._ 
 
-![](/uploads/bidl-1.jpg "Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 12")
+![Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 12](/uploads/bidl-1.jpg "Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 12")
 
 **5. Wie beurteilt die Bundesregierung das Ergebnis der Studie „The best Country to be a Social Entrepreneur“ und insbesondere die Tatsache, dass die Bundesrepublik Deutschland unter den 45 wirtschaftlich stärksten Nationen in der Kategorie „Unterstützung durch die Politik“ lediglich Rang 34 erreicht?**
 
@@ -136,7 +136,7 @@ Die Bundesregierung hat keine Anhaltspunkte dafür, dass die vorhandenen Rechtsf
 
 _Die bereits mehrfach erwähnte Studie der Europäischen Kommission zeigt, dass 19 der 29 teilnehmenden Länder bereits eine eigene Rechtsform eingeführt haben. In der vom BMWi beauftragten Studie werden ab S. 100 auch die Herausforderungen im Hinblick auf die Rechtlichen Rahmenbedingungen thematisiert. Gerade im Hinblick auf die veränderte Dynamik der digitalen Transformation und zunehmenden gesellschaftlichen Herausforderungen gewinnt neben einer Weiterentwicklung bestehender Konstrukte die Schaffung einer eigenen Rechtsform zunehmend Relevanz._ 
 
-![](/uploads/bild-2.jpg "Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 5")
+![Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 5](/uploads/bild-2.jpg "Ein Überblick über Sozialunternehmen und ihre Ökosysteme in Europa, S. 5")
 
 _Zudem zeigt eine entsprechende_ [_Studie der Otto-Brenner-Stiftung_](https://www.otto-brenner-stiftung.de/wissenschaftsportal/informationsseiten-zu-studien/engagiert-euch-nicht/)_, dass die Vergabe der Gemeinnützigkeit in Deutschland sehr unterschiedlich gehandhabt wird. Ein entsprechender Beitrag der ZEIT lautete „Gemeinnützigkeit wird zum Lotteriespiel“. Diese Herausforderung betrifft Sozialunternehmer*innen mit innovativen Lösungen in besonderem Maße. Hier gilt es auf bessere Rahmenbedingungen hinzuarbeiten._
 
