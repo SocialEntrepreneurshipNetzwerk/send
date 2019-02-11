@@ -63,7 +63,7 @@ Nach Auffassung der Bundesregierung leisten Sozialunternehmerinnen und Sozialunt
 
 _Wir begrüßen diesen positiven Standpunkt der Bundesregierung für die Bedeutung von Sozialunternehmen ausdrücklich. Gerade die Schnittstelle zwischen Zivilgesellschaft, Wirtschaft und Politik bietet großes Potenzial für ganzheitliche Lösungsansätze im aktuellen Transformationsprozess._ 
 
-**4. Plant die Bundesregierung die Erstellung einer Strategie zu Social Entrepreneurship bzw. zu sozialen Innovationen, wie sie bereits in verschiedenen EU- Staaten bestehen (vgl. EU-Bericht „**[A map of social enterprise and their eco-systems in Europe – Synthesis report](<https://ec.europa.eu/social/main.jsp?langId=de&catId =89&newsId=2149>) **(2014)“, der bereits sieben nationale Strategien auflistet?**
+**4. Plant die Bundesregierung die Erstellung einer Strategie zu Social Entrepreneurship bzw. zu sozialen Innovationen, wie sie bereits in verschiedenen EU- Staaten bestehen, der bereits sieben nationale Strategien auflistet?**
 
 **Wenn ja, bis wann?**
 
@@ -76,7 +76,7 @@ _Die genannten Ansätze sind wichtige Bausteine, die wir explizit begrüßen. Im
 
 ![](/uploads/bidl-1.jpg)
 
-**5. Wie beurteilt die Bundesregierung das Ergebnis der Studie „The best Country to be a Social Entrepreneur“ (**[siehe unser Blog Beitrag](<www.send-ev.de/2018-07-02_ social-entrepreneurship-und-politik-ein-r%C3%BCckblick-auf-110-tage-groko/)>)**) und insbesondere die Tatsache, dass die Bundesrepublik Deutschland unter den 45 wirtschaftlich stärksten Nationen in der Kategorie „Unterstützung durch die Politik“ lediglich Rang 34 erreicht?**
+**5. Wie beurteilt die Bundesregierung das Ergebnis der Studie „The best Country to be a Social Entrepreneur“ und insbesondere die Tatsache, dass die Bundesrepublik Deutschland unter den 45 wirtschaftlich stärksten Nationen in der Kategorie „Unterstützung durch die Politik“ lediglich Rang 34 erreicht?**
 
 Internationale Vergleiche weisen häufig Vergleichbarkeitsprobleme auf. Dies ist aus Sicht der Bundesregierung auch bei dieser Studie der Fall. Die international unterschiedlichen Abgrenzungen von Social Entrepreneurship, verbunden mit unterschiedlichen staatlichen Rahmenbedingungen (etwa bei der Daseinsvorsorge), führen dazu, dass ein großer Spielraum bei der individuellen Einschätzung durch die Befragten besteht.
 
