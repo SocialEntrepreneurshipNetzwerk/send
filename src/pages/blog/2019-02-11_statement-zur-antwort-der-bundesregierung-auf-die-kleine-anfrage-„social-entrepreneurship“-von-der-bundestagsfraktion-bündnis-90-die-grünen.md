@@ -63,7 +63,7 @@ Nach Auffassung der Bundesregierung leisten Sozialunternehmerinnen und Sozialunt
 
 _Wir begrüßen diesen positiven Standpunkt der Bundesregierung für die Bedeutung von Sozialunternehmen ausdrücklich. Gerade die Schnittstelle zwischen Zivilgesellschaft, Wirtschaft und Politik bietet großes Potenzial für ganzheitliche Lösungsansätze im aktuellen Transformationsprozess._ 
 
-**4. Plant die Bundesregierung die Erstellung einer Strategie zu Social Entrepreneurship bzw. zu sozialen Innovationen, wie sie bereits in verschiedenen EU- Staaten bestehen (vgl. EU-Bericht „**[**A map of social enterprise and their eco-systems in Europe – Synthesis report**](<https://ec.europa.eu/social/main.jsp?langId=de&catId =89&newsId=2149>) **(2014)“, der bereits sieben nationale Strategien auflistet?**
+**4. Plant die Bundesregierung die Erstellung einer Strategie zu Social Entrepreneurship bzw. zu sozialen Innovationen, wie sie bereits in verschiedenen EU- Staaten bestehen (vgl. EU-Bericht „**[A map of social enterprise and their eco-systems in Europe – Synthesis report](<https://ec.europa.eu/social/main.jsp?langId=de&catId =89&newsId=2149>) **(2014)“, der bereits sieben nationale Strategien auflistet?**
 
 **Wenn ja, bis wann?**
 
@@ -76,7 +76,7 @@ _Die genannten Ansätze sind wichtige Bausteine, die wir explizit begrüßen. Im
 
 ![](/uploads/bidl-1.jpg)
 
-**5. Wie beurteilt die Bundesregierung das Ergebnis der Studie „The best Country to be a Social Entrepreneur“ (**[**siehe unser Blog Beitrag**](<www.send-ev.de/2018-07-02_ social-entrepreneurship-und-politik-ein-r%C3%BCckblick-auf-110-tage-groko/)>)**) und insbesondere die Tatsache, dass die Bundesrepublik Deutschland unter den 45 wirtschaftlich stärksten Nationen in der Kategorie „Unterstützung durch die Politik“ lediglich Rang 34 erreicht?**
+**5. Wie beurteilt die Bundesregierung das Ergebnis der Studie „The best Country to be a Social Entrepreneur“ (**[siehe unser Blog Beitrag](<www.send-ev.de/2018-07-02_ social-entrepreneurship-und-politik-ein-r%C3%BCckblick-auf-110-tage-groko/)>)**) und insbesondere die Tatsache, dass die Bundesrepublik Deutschland unter den 45 wirtschaftlich stärksten Nationen in der Kategorie „Unterstützung durch die Politik“ lediglich Rang 34 erreicht?**
 
 Internationale Vergleiche weisen häufig Vergleichbarkeitsprobleme auf. Dies ist aus Sicht der Bundesregierung auch bei dieser Studie der Fall. Die international unterschiedlichen Abgrenzungen von Social Entrepreneurship, verbunden mit unterschiedlichen staatlichen Rahmenbedingungen (etwa bei der Daseinsvorsorge), führen dazu, dass ein großer Spielraum bei der individuellen Einschätzung durch die Befragten besteht.
 
@@ -114,7 +114,7 @@ _Sichtbarkeit ist eine der großen Herausforderungen des Social Entrepreneurship
 
 _\[Antworten auf Fragen 10 und 11 ohne Beurteilung]_
 
-**12. Hält die Bundesregierung die Einrichtung eines speziellen Fonds für soziale Innovationen, wie ihn beispielsweise Frankreich mit einer Höhe von 1 Mrd. Euro für die nächsten fünf Jahre beschlossen hat (siehe „**[**French Impact : innover au service de l’intérêt général“**](<www.ecologique-solidaire.gouv.fr/ french-impact-innover-au-service-linteret-general>)**, 18. Januar 2018) für geeignet, um Social Entrepreneurs zu stärken, und hält die Bundesregierung eine Fonds-Lösung nach französischem Vorbild auf Deutschland übertragbar? Falls nein, wieso nicht?**
+**12. Hält die Bundesregierung die Einrichtung eines speziellen Fonds für soziale Innovationen, wie ihn beispielsweise Frankreich mit einer Höhe von 1 Mrd. Euro für die nächsten fünf Jahre beschlossen hat (siehe „**[French Impact : innover au service de’intérêt général](<www.ecologique-solidaire.gouv.fr/ french-impact-innover-au-service-linteret-general>)**", 18. Januar 2018) für geeignet, um Social Entrepreneurs zu stärken, und hält die Bundesregierung eine Fonds-Lösung nach französischem Vorbild auf Deutschland übertragbar? Falls nein, wieso nicht?**
 
 Die Ende 2018 neu gegründete KfW Capital beteiligt sich an kommerziellen Wagniskapitalfonds. Beihilferechtlich zulässig ist auch, dass sich die KfW Capital an Wagniskapitalfonds beteiligt, die sich ihrerseits an gewinnmaximierenden Sozialunternehmen beteiligen und zu mindestens 80 Prozent von anderen Investoren als der KfW Capital bzw. zu mindestens 30 Prozent von privaten Investoren finanziert werden. Die Bundesregierung wird darüber hinaus prüfen, ob und inwieweit die französische Fondslösung Anregungen für die Weiterentwicklung der bestehenden Fondslösungen bieten kann.
 
@@ -172,6 +172,5 @@ Ob und inwieweit Kooperationen mit Sozialunternehmen für den Erfolg der Ausgrü
 
 _Das Programm „EXIST Existenzgründungen aus der Wissenschaft“ ist ein wichtiger Baustein für den Transfer von Wissen in die praktische Umsetzung. Die Erhöhung des Budgets ist begrüßenswert und ein wichtiges Signal. Gleichzeitig zeigt eine Förderquote von 12 Prozent, wie wenig Sozialunternehmer*innen bislang berücksichtigt werden. Im Vergleich dazu ordnen sich im_ [_Deutschen Startup Monitor_](https://deutscherstartupmonitor.de/fileadmin/dsm/dsm-18/files/Deutscher%20Startup%20Monitor%202018.pdf) _38,1% Social Entrepreneurship zu \[S. 27 | Einstufung „Stimme voll und ganz zu“ & „Stimme zu“] und auch beim_ [_Bitkom Startup Report_](https://www.bitkom.org/sites/default/files/file/import/20181008-Bitkom-Startups-2018.pdf) _sind es 36% der Teilnehmer*innen, die mit ihrem Startup die Welt verbessern wollen. Den Handlungsbedarf unterstreicht noch einmal die Studie „“ von KfW-Research, die sowohl das starke Wachstum, wie auch die hohe Innovationskraft des Sektors herausstellt. Auch hier erhoffen wir uns bei der Prüfung und Weiterentwicklung von Förderinstrumenten im Rahmen der Gründeroffensive eine bessere Berücksichtigung der Akteure._
 
-\- - - 
-
+\- - - \
 _Social Entrepreneurship ist nicht nur ein Wirtschaftsbereich. Die Akteure arbeiten an innovativen Ansätzen für eine nachhaltige Lösungen unserer gesellschaftlichen Herausforderungen und sind ein wichtiges Instrument für den Transfer unserer Werte einer Sozialen Marktwirtschaft in die heutige Zeit. Mit ihrer Ausrichtung wollen und sollten diese Akteure enge Partner der Politik sein. Bei all den Verbesserungsvorschlägen freuen uns, dass sich die Bundesregierung diesem wichtigen Zukunftsthema stärker annimmt! Wir haben viel Arbeit vor uns!_
