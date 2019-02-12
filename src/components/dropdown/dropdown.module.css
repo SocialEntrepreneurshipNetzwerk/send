@@ -4,8 +4,13 @@
   display: inline-block;
   position: relative;
   vertical-align: top;
-  min-width: 270px;
-  margin-right: 40px;
+  margin: 10px 40px 10px 0;
+}
+@media (max-width: break-mobile){
+  .dropdownWrapper {
+    width: 100%;
+    margin: 20px 0;
+  }
 }
 
 .dropdownWrapper:after {
@@ -27,11 +32,16 @@
   background-color: paper;
   border: solid deep-blue 2px;
   padding: 10px;
-  min-width: 230px;
+  min-width: 330px;
   color: deep-blue;
   font-size: 20px;
   cursor: pointer;
   appearance: none;
+}
+@media (max-width: break-tiny) {
+  .dropdownButton {
+    min-width: unset;
+  }
 }
 
 .dropdownButton::after {
@@ -43,7 +53,11 @@
 }
 
 .dropdownList li {
-  padding: 5px 0;
+  padding: 8px 0;
+}
+
+.dropdownList li:hover {
+  background-color: #eee;
 }
 
 .dropdownList li:before {

@@ -169,14 +169,16 @@ export default class Netzwerk extends Component {
             <ReactMarkdown source={section_1.paragraph}/>
             <br/>
             <div className={styles.search}>
-              <span> Mitglieder finden: </span>
-              <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
-              <SearchIcon/>
+              <div> Mitglieder finden: </div>
+              <div className={styles.searchfieldWrapper}>
+                <input type='text' placeholder={`z.B. "${this.state.suggestion}"`} onChange={this.handleUpdateQuery} />
+                <SearchIcon/>
+              </div>
             </div>
-            {/*
+
               <Dropdown facet="impactArea" startOption={impactArea[0]} options={impactArea} handleUpdate={this.handleUpdateFacet}/>
               <Dropdown facet="federalState" startOption={federalState[0]} options={federalState} handleUpdate={this.handleUpdateFacet}/>
-              */}
+
 
             <TriangleBoxContainer boxes={members} size="large"/>
           </section>
