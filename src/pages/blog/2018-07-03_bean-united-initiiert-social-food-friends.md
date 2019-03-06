@@ -18,7 +18,7 @@ Unser Mitglied Bean United ([www.bean-united.de](https://www.bean-united.de/)) g
 
 **Unser Mitglied Bean United – „Kaffee trinkend Gutes tun"**
 
-Bean United hat es sich zum Ziel gesetzt, durch den Verkauf von Kaffee, einen Beitrag zur Bekämpfung weltweiter Hungersnot zu leisten. Die Brüder Thomas und Philipp Greulich wollen jedem und jeder die Möglichkeit bieten, von zu Hause oder aus dem Büro zu einem gesunden gesellschaftlichen Wandel beizutragen.
+Bean United hat es sich zum Ziel gesetzt, durch den Verkauf von Kaffee einen Beitrag zur Bekämpfung weltweiter Hungersnot zu leisten. Die Brüder Thomas und Philipp Greulich wollen jedem und jeder die Möglichkeit bieten, von zu Hause oder aus dem Büro zu einem gesunden gesellschaftlichen Wandel beizutragen.
 
 Für jedes verkaufte Kilo Kaffee leitet das Sozialunternehmen 2,80€ an das World Food Programme der Vereinten Nationen. Davon kann ein in Hungersnot lebender Mensch eine Woche lang ernährt werden.
 
