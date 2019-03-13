@@ -1,0 +1,12 @@
+---
+templateKey: article
+clip: clip_article
+title: Rheinland Pitch Social Impact Special - 1/3 der ESER 2019 Events des SEND e.V.
+excerpt: cv
+image: /uploads/eser-2019.jpg
+date: 2019-03-13T11:57:34.445Z
+category: event
+---
+Es ist brechend voll im neuen Factory Campus in Düsseldorf. Drei Tage vorher wurden die letzten freien Karten für das ["Social Impact Special" des Rheinland Pitches ](https://www.facebook.com/events/300817847234301/)verkauft. Das Event, welches die SEND Regionalgruppe NRW organisiert hat, gibt Social Start-ups einen Raum ihre Ideen zu präsentieren.  Viele der jungen Social Entrepreneurs sind von der Möglichkeit begeistert und so wurden nach einigen Vorpitches [BEEsharing](https://www.beesharing.eu/de/), Frescue, [Givetastic.org](http://www.givetastic.org/), [Estancia Verde, ](https://www.estancia-verde.de/) [Socialbnb ](https://socialbnb.net/)und [Sustainabill ](https://sustainabill.de/)eingeladen ihre Ideen live zu pitchen. Auffällig ist die große Spannbreite an gesellschaftlichen Herausforderungen, denen begegnet werden soll - vom Artensterben über Lebensmittelveschwendung bis Transparenz in den Lieferketten ist alles dabei.  Am Ende des Abends gewinnen Socialbnb mit ihrer Idee NGOs durch das Anbieten von Übernachtungsmöglichkeiten eine zusätzliche Einnahmequelle zu eröffenen. Doch auch bei allen anderen herrscht gute Stimmung, haben sich die Organisator*innen doch bereits zu Beginn der Veranstaltung positiv zur Wiederholung des "Social Impact Specials" geäußert. 
+
+Neben den vielen Social Start-ups finde sich an diesesm Abend aber auch Gesichter im Publikum wieder, die man zunächst vielleicht nicht erwartet hätte. Frau Dr. Ulla Engelmann (Head of Unit Advanced Technologies, Clusters and Social Economy at European Commission) ist als Vertreterin der europäischen Kommission angereist, da die Veranstaltung eine von insgesamt drei SEND e.V. Formaten ist, welches die Ausschreibung der [European Social Economy Regions 2019](https://ec.europa.eu/growth/content/european-social-economy-regions-2019_en) gewonnen hat. Zusammen mit einer/einem Vertreter*in der Stadt Düsseldorf, welche öffentlicher Träger der Veranstaltung ist, wird einer der Regionalgruppensprecher im Oktober nach Brüssel reisen um an der "European Week of Regions and Cities conference" teilzunehmen. Die europäische Kommission will mit diesem Angebot dabei helfen eine stärkere Community innerhalb der EU zu schaffen und den Social Entrepreneurs die Möglichkeit geben sich zu vernetzen.
