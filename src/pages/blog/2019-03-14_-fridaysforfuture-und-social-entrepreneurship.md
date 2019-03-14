@@ -12,7 +12,7 @@ image: /uploads/img_5795.jpg
 date: 2019-03-14T14:02:46.717Z
 category: news
 ---
-\#FridaysForFuture hat sich inzwischen zu einer weltweiten Bewegung entwickelt. Diesen Freitag finden in über 100 Ländern in mehr als 1.600 Städten [[aktueller Stand](https://www.fridaysforfuture.org/events/list)] Demonstrationen statt, die unsere Politik ermahnt, der Herausforderung des Klimawandels endlich mit dem nötigen Nachdruck zu begegnen. 
+\#FridaysForFuture hat sich inzwischen zu einer weltweiten Bewegung entwickelt. Diesen Freitag finden in über 100 Ländern in mehr als 1.600 Städten [[aktueller Stand](https://www.fridaysforfuture.org/events/list)] Demonstrationen statt, die unsere Politik ermahnt, der Herausforderung des Klimawandels endlich mit dem nötigen Nachdruck zu begegnen. Es gibt viele Parallelen zwischen den Forderungen der Demonstranten und den Lösungen von Social Entrepreneurs, deren Kernziel die Lösung gesellschaftlicher Herausforderungen ist. In diesem Beitrag wollen wir Euch drei unserer Mitglieder vorstellen, die tolle Lösungen für eine Bekämpfung des Klimawandels entwickelt haben.
 
 ![Eckart von Hirschhausen, #ScientistsForFuture, Luisa Neubauer, #FridaysForFuture und unser SEND-Vorstand Markus Sauerhammer](/uploads/img_5795.jpg "Eckart von Hirschhausen, #ScientistsForFuture, Luisa Neubauer, #FridaysForFuture und unser SEND-Vorstand Markus Sauerhammer")
 
