@@ -4,7 +4,7 @@ clip: clip_article
 title: 'Wie können wir Social Entrepreneurs regional unterstützen? '
 excerpt: >-
   Regionale Gründerökosysteme spielen eine ausschlaggebende Rolle, wenn es um
-  die Entwicklung von Social Startups geht. Dafür hat SEND nun eine
+  die Entwicklung von Social Startups geht. Dafür hat SEND eine
   [Broschüre](https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view?usp=sharing)
   mit konkreten Handlungsempfehlungen veröffentlicht.
 image: /uploads/whitepaper.png
