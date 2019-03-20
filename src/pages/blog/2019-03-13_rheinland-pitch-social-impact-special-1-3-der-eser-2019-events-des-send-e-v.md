@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Rheinland Pitch Social Impact Special - 1/3 der ESER 2019 Events des SEND e.V.
+title: Rheinland Pitch Social Impact Special - Gewinner des ESER 2019
 excerpt: >-
   Letzte Woche ging mit dem Rheinland Pitch Social Impact Special das erste von
   insgesamt drei SEND e.V. Events an den Start, welches die _European Social
