@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Rheinland Pitch Social Impact Special - 1/3 der ESER 2019 Events des SEND e.V.
+title: Rheinland Pitch Social Impact Special - Gewinner des ESER 2019
 excerpt: >-
   Letzte Woche ging mit dem Rheinland Pitch Social Impact Special das erste von
   insgesamt drei SEND e.V. Events an den Start, welches die _European Social
@@ -14,7 +14,7 @@ Es war brechend voll im neuen Factory Campus in Düsseldorf. Drei Tage vorher wu
 
 ![Der Gewinner des Rheinland Pitch Social Impact Special - Socialbnb](/uploads/rj375_rheinlandpitch_social_impact_special_221.jpg)
 
-Neben den vielen Social Start-ups finden sich an diesem Abend aber auch Gesichter im Publikum wieder, die man zunächst vielleicht nicht erwartet hätte. Frau Dr. Ulla Engelmann (Head of Unit Advanced Technologies, Clusters and Social Economy at European Commission) ist als Vertreterin der europäischen Kommission angereist.  Die Regionalgruppe hat sich mit dem Rheinland Pitch Social Impact Special nämlich, zusammen mit der Stadt Düsseldorf als öffentlichem Träger, auch für die Ausschreibung der _[European Social Economy Regions 2019](https://ec.europa.eu/growth/content/european-social-economy-regions-2019_en)_ beworben. Wir sind stolz zu verkünden, dass sie, wie insgesamt drei SEND e.V. Veranstaltungen, zu den GewinnerInnen gehören. Die europäische Kommission will mit diesem Angebot dabei helfen eine stärkere Community innerhalb der EU zu schaffen und Social Entrepreneurship mehr Sichtbarkeit verleihen.
+Neben den vielen Social Start-ups finden sich an diesem Abend aber auch Gesichter im Publikum wieder, die man zunächst vielleicht nicht erwartet hätte. Frau Dr. Ulla Engelmann (Head of Unit Advanced Technologies, Clusters and Social Economy at European Commission) ist als Vertreterin der europäischen Kommission angereist.  Die Regionalgruppe hat sich mit dem Rheinland Pitch Social Impact Special nämlich, zusammen mit der Stadt Düsseldorf als öffentlichem Träger, auch für die Ausschreibung der [European Social Economy Regions 2019 ](https://ec.europa.eu/growth/content/european-social-economy-regions-2019)beworben. Wir sind stolz zu verkünden, dass sie, wie insgesamt drei SEND e.V. Veranstaltungen, zu den GewinnerInnen gehören. Die europäische Kommission will mit diesem Angebot dabei helfen eine stärkere Community innerhalb der EU zu schaffen und Social Entrepreneurship mehr Sichtbarkeit verleihen.
 
 ![Brainstorming zwischen VertreterInnen der Europäischen Kommission, der Wirtschaftsförderung der Stadt Düsseldorf und SEND e.V. ](/uploads/rj374_meeting_ulla_engelmann_eu_30.jpg)
 
