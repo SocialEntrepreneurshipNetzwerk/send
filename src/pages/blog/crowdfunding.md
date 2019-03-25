@@ -7,7 +7,7 @@ title: >-
 excerpt: >-
   Das Social Entrepreneurship Netzwerk Deutschland e. V. hat heute sein
   Crowdfunding gestartet. Heute Abend hatten wir bereits ein viertel unserer
-  ersten Fundingschwelle erreicht.
+  ersten Fundingschwelle erreicht
 image: /uploads/crowdfunding.jpg
 date: '2017-09-04'
 category: news
