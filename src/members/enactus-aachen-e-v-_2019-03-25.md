@@ -13,7 +13,7 @@ impactArea:
   - Armut
   - Bildung
 organization: true
-image: /uploads/enactusaachen_grau_gelb-lars-braun.png
+image: /uploads/screenshot-89-_li.jpg
 email: info@aachen.enactus.de
 link: 'https://enactus.de/aachen/'
 city: Aachen
