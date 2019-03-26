@@ -14,8 +14,6 @@ image: /uploads/ashoka-studie_titelbild.jpg
 date: 2019-03-26T12:12:05.256Z
 category: news
 ---
-![Titelbild der Studie "Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen" von Ashoka und McKinsey]( "Titelbild der Studie \"Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen\" von Ashoka und McKinsey")
-
 Bei der Bewältigung großer gesellschaftlicher Herausforderungen können Sozialunternehmen eine wichtige Rolle spielen. Wenn die Ideen und Lösungen der über 1.700 Sozialunternehmen in Deutschland besser in bestehende Systeme integriert würden, ergäbe sich ein wirtschaftlicher Nutzen mit Milliardenpotenzial.
 
 „Das Potenzial dieser Sozialunternehmen ist gewaltig“, stellt McKinsey-Partner Matthias Daub fest: Allein eine bundesweite Einführung der Brustkrebsfrüherkennung nach dem Modell von Discovering Hands würde nicht nur viele Leben retten – volkswirtschaftlich könnte sich auch ein positiver Effekt von 80 bis 160 Millionen Euro jährlich erzielen lassen, unter anderem durch geringere Behandlungs- und Folgekosten. Allein die vier ausgewählten Beispiele haben nach Berechnungen von Ashoka und McKinsey zusammen ein finanzielles Potenzial von jährlich mindestens 1 Mrd. Euro – und das sind nur vier von 72 Sozialunternehmen, die Ashoka derzeit in Deutschland fördert. Hochgerechnet ergäbe sich ein finanzielles Potenzial in Milliardenhöhe. 
