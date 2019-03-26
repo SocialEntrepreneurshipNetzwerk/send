@@ -14,7 +14,7 @@ image: /uploads/ashoka-studie_titelbild.jpg
 date: 2019-03-26T12:12:05.256Z
 category: news
 ---
-![Titelbild der Studie "Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen" von Ashoka und McKinsey](/uploads/ashoka-studie_titelbild.jpg "Titelbild der Studie \"Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen\" von Ashoka und McKinsey")
+![Titelbild der Studie "Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen" von Ashoka und McKinsey]( "Titelbild der Studie \"Wenn aus klein systemisch wird - Das Milliardenpotenzial sozialer Innovationen\" von Ashoka und McKinsey")
 
 Bei der Bewältigung großer gesellschaftlicher Herausforderungen können Sozialunternehmen eine wichtige Rolle spielen. Wenn die Ideen und Lösungen der über 1.700 Sozialunternehmen in Deutschland besser in bestehende Systeme integriert würden, ergäbe sich ein wirtschaftlicher Nutzen mit Milliardenpotenzial.
 
