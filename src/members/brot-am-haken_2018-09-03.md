@@ -1,5 +1,5 @@
 ---
-title: Brot am Haken
+title: hey
 description: >-
   Als soziales Start-up aus München ermöglichen wir gesellschaftliche Teilhabe
   und verbinden Menschen im Viertel. Unser Leitgedanke »EINFACH. FREUDE.
@@ -11,7 +11,7 @@ impactArea:
   - Armut
   - Demokratie & Engagement von Bürger*innen
 organization: true
-image: /uploads/bah_wortbildmarke-1.jpg
+image: /uploads/screenshot-91-_li.jpg
 email: info@brot-am-haken.org
 link: 'https://www.brot-am-haken.org'
 city: München
