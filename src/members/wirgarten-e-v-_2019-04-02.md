@@ -14,7 +14,7 @@ image: /uploads/screenshot-93-_li.jpg
 email: matti.pannenbaecker@wirgarten.com
 link: www.WirGarten.com
 city: Lüneburg
-postalCode: 21333
+postalCode: 21335
 federalState: Hamburg
 ---
 
