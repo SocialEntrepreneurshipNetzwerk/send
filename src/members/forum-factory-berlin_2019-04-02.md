@@ -11,7 +11,7 @@ image: /uploads/screenshot-95-_li.jpg
 email: loeckel@forum-factory.de
 link: www.forum-factory.de
 city: Berlin
-postalCode: 12436
+postalCode: 12437
 federalState: Berlin
 ---
 
