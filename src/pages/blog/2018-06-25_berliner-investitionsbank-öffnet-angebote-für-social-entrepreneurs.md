@@ -6,7 +6,7 @@ excerpt: >-
   Mangelnde Finanzierungsinstrumente sind eine der größten Herausforderungen der
   Sozialunternehmer*innen in Deutschland. Investitionsbank Berlin (IBB) und
   Berliner Senatsverwaltung für Wirtschaft stellen sich dieser Herausforderung
-  als erstes Bundesland.
+  als erstes Bundesland
 image: /uploads/architektur-berlin-gebaude-109630.jpg
 date: '2018-06-25'
 category: news
