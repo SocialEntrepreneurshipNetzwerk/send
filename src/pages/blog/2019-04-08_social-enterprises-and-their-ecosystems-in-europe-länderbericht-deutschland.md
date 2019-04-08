@@ -6,7 +6,8 @@ excerpt: >-
   Der Länderbericht Deutschland von Nicole Göler von Ravensburg, Gorgi Krlev und
   Georg Mildenberger im Auftrag der Europäischen Kommission, bietet auf knapp
   100 Seiten einen umfassenden Überblick über das Social Enterprise Ökosystem in
-  Deutschland
+  Deutschland. Disclaimer: Ein Teile dieses Textes stammt aus einem noch
+  erscheinenden Beitrag des RKW Magazins.
 image: /uploads/wohlfahrt_3.jpg
 date: 2019-04-08T08:31:28.325Z
 category: news
