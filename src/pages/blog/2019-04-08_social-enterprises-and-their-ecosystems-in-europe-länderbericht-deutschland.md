@@ -7,7 +7,7 @@ excerpt: >-
   Georg Mildenberger im Auftrag der Europäischen Kommission, bietet auf knapp
   100 Seiten einen umfassenden Überblick über das Social Enterprise Ökosystem in
   Deutschland
-image: /uploads/screenshot-101-.png
+image: /uploads/screenshot-105-_li.jpg
 date: 2019-04-08T08:31:28.325Z
 category: news
 ---
