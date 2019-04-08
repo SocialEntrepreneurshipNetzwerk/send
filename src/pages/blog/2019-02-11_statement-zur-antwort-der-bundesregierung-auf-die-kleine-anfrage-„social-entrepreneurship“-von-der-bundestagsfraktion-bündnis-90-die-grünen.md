@@ -108,7 +108,7 @@ _Hier haben wir bereits oben auf die große Lücke zwischen dem Zugriff klassisc
 
 _Neben gewerblichen Gründern wurde in der Antwort bei Frage 1 auch auf das Projekt „Generationsbrücke Deutschland“ verwiesen. Social Entrepreneurs können auch außerhalb klassischer gewerblicher Aktivitäten wichtige Innovationen realisieren und somit zu einem wichtigen Partner von Politik und Wohlfahrt für die Lösung gesellschaftlicher Herausforderungen werden. Diese Zielgruppe sollte beim Aufbau zielgruppenspezifischer Instrumente auch berücksichtigt werden._  
 
-Zudem startet das vom Bundesministerium für Wirtschaft und Energie geförderte RKW Kompetenzzentrum im ersten Quartal 2019 eine Videoreihe, mit der die Öffentlichkeit und interessierte angehende Gründerinnen und Gründer zu Social Entrepreneurship und zu Fördermöglichkeiten sensibilisiert werden sollen. 
+Zudem startet das vom Bundesministerium für Wirtschaft und Energie geförderte RKW Kompetenzzentrum im ersten Quartal 2019 eine [Videoreihe](https://www.rkw-kompetenzzentrum.de/gruendung/gruendungskultur/social-entrepreneurship-behind-the-scenes/), mit der die Öffentlichkeit und interessierte angehende Gründerinnen und Gründer zu Social Entrepreneurship und zu Fördermöglichkeiten sensibilisiert werden sollen. 
 
 _Sichtbarkeit ist eine der großen Herausforderungen des Social Entrepreneurship Sektors. Mit der Videoreihe hat das RKW-Kompetenzzentrum gemeinsam mit dem BMWi einen wichtigen Lösungsbaustein realisiert. Hierfür möchten wir uns an dieser Stelle ausdrücklich bedanken!_
 
