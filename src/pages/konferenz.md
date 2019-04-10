@@ -2,15 +2,7 @@
 templateKey: article
 clip: clip_article
 title: 'Social Entrepreneurship: Raus aus der Nische <br> 16. und 17. Mai in Berlin'
-excerpt: >-
-  Wir sehen in vielen Ländern Europas eine zunehmende Verbesserung der politischen
-  Rahmenbedingungen für Social Entrepreneurs– auch in Deutschland? Wo stehen wir mit der
-  Umsetzung der Vorhaben aus dem Koalitionsvertrag? Was können wir von unseren europäischen
-  Nachbarn lernen? Diese und weitere Fragen wollen wir gemeinsam mit Bundestagsabgeordneten aus
-  Regierung und Opposition diskutieren.
 image: /uploads/send_01.02.18_internet-273.jpg
-date:
-category:
 ---
 
 [→ hier geht es zur Anmeldung](https://www.eventbrite.de/e/social-entrepreneurship-raus-aus-der-nische-tickets-58867434080)

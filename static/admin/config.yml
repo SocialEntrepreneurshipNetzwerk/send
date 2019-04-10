@@ -232,7 +232,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "article"}
           - {label: "Image Mask", name: "clip", widget: "hidden", default: "clip_article"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Excerpt", name: "excerpt", widget: "markdown", pattern: ['^.{0,350}$', "Must have between 0 and 350 characters"] }
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/impressum.md"
