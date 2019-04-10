@@ -1,6 +1,7 @@
 import React from 'react';
 import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
+import ReactMarkdown from 'react-markdown';
 import styles from './article.module.css';
 
 
@@ -16,8 +17,8 @@ export default ({ data }) => {
       <main className={styles.main}>
         <section>
           <article className={styles.article}>
-            <h1>{title}</h1>
-            <h3>{date} | {category}</h3>
+            <h1><ReactMarkdown source={title} escapeHtml={false}/></h1>
+            { date &&  <h3> {date} | {category}</h3> }
             <div className={styles.flexContent} dangerouslySetInnerHTML={{ __html: content }}>
             </div>
           </article>
