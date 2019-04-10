@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './cta.module.css';
 
 const StickyCTA = () => (
-  <a href="/mitgliedschaft" target="_blank">
+  <a href="/konferenz">
     <svg viewBox="0 0 267 104" version="1.1" xmlns="http://www.w3.org/2000/svg" className={styles.sticky_cta}>
       <g id="Symbols" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
         <g id="Mitglied-werden--F-L-O-A-T-I-N-G">
