@@ -2,7 +2,7 @@
 templateKey: article
 clip: clip_article
 title: 'Social Entrepreneurship: Raus aus der Nische <br> 16. und 17. Mai in Berlin'
-image: /uploads/send_01.02.18_internet-273.jpg
+image: /uploads/SEND_01.02.18_Internet-235.jpg
 ---
 
 [→ hier geht es zur Anmeldung](https://www.eventbrite.de/e/social-entrepreneurship-raus-aus-der-nische-tickets-58867434080)
