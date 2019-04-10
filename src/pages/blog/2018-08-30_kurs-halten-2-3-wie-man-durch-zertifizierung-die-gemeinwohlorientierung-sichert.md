@@ -8,7 +8,7 @@ excerpt: >-
   Ob Social Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung
   auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
   Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem Teil
-  beleuchten wir verschiedene Zertifizierungen...
+  beleuchten wir verschiedene Zertifizierungen:
 image: /uploads/polarstern_2.jpg
 date: '2018-09-03'
 category: news
