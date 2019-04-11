@@ -12,11 +12,9 @@ category: news
 ---
 (Foto von Rolf K. Wegst)
 
-
-
 Am diesjährigen Tag der Deutschen Einheit hat Bundespräsident Frank-Walter Steinmeier 29 Bürgerinnen und Bürger unter dem Motto _"Kultur verbindet!" _mit dem Bundesverdienstkreuz ausgezeichnet. Wir freuen uns sehr, dass auch unser Mitglied Katja Urbatsch von [ArbeiterKind.de](http://www.arbeiterkind.de/) unter den Ausgezeichneten ist ([Pressemitteilung](http://www.bundespraesident.de/SharedDocs/Pressemitteilungen/DE/2018/09/180920-OV-TdDE.html)).
 
-Diese Auszeichnung würdigt von höchster Ebene die Verdienste von ArbeiterKind.de im Bereich Chancengleichheit in der Bildung. Das Sozialunternehmen hat es sich zum Ziel gesetzt, junge Menschen aus familiären Umfeldern ohne Hochschulerfahrung dazu zu ermutigen, als Erste in der Familie ein Studium anzutreten. Denn laut der 20. Sozialerhebung des Deutschen Studentenwerks (DSW) kann man vom Bildungsgrad der Eltern immer noch stark auf die Bildungschancen der Kinder schließen. 
+Diese Auszeichnung würdigt von höchster Ebene die Verdienste von ArbeiterKind.de im Bereich Chancengleichheit in der Bildung. Das Sozialunternehmen hat es sich zum Ziel gesetzt, junge Menschen aus familiären Umfeldern ohne Hochschulerfahrung dazu zu ermutigen, als Erste in der Familie ein Studium anzutreten. Denn laut der 20. Sozialerhebung des Deutschen Studentenwerks (DSW) kann man vom Bildungsgrad der Eltern immer noch stark auf die Bildungschancen der Kinder schließen
 
 Schülerinnen und Schüler werden von ArbeiterKind.de auf dem Weg in das Studium begleitet und erhalten Unterstützung bei der Bewerbung, der Suche nach geeigneter Finanzierung, beim Übergang vom Studium in das Berufsleben und bei allem, was sonst noch dazugehört.
 
