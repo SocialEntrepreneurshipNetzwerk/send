@@ -7,7 +7,7 @@ excerpt: >-
   Crowdfunding Kampagne im Oktober 2017 schulden wir Euch und Eurem Glauben an
   SEND e.V. .  Mit fast 50.000€ habt Ihr uns Euer Vertrauen gezeigt und
   ermöglicht es uns so, den Sektor zu vernetzten, zu stärken und nach außen zu
-  präsentieren.
+  präsentieren!
 image: /uploads/send_01.02.18_internet-343.jpg
 date: '2018-04-24'
 category: news
