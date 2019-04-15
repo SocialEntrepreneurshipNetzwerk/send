@@ -1,8 +1,10 @@
 ---
 templateKey: article
 clip: clip_article
-title: Social Entrepreneurship erstmals im Plenum des Bundestags diskutiert
-excerpt: Test. Test. Test.
+title: Social Entrepreneurship erstmals im Bundestag diskutiert
+excerpt: >-
+  Am 11. April wurde erstmals im Plenum des Deutschen Bundestags über Social
+  Entrepreneurship diskutiert.
 image: /uploads/wahlpruefstein.jpg
 date: 2019-04-12T15:16:30.227Z
 category: news
@@ -52,4 +54,4 @@ Für klassische Gründungs-/Innovationsvorhaben gibt es eine Vielzahl geförd
 
 Der Sektor hat die Bundesregierung nach der mehrfachen Verankerung von Sozialen Innovationen und Social Entrepreneurship gefeiert. Die Diskussion im Plenum des Bundestags zeigt deutlich auf, dass diese Vorhaben noch nicht mit dem nötigen Nachdruck angegangen wurden. Während die Regierung unserer französischen und britischen Nachbarn bereits Milliarden in den Sektor lenken, fehlt es bei uns an vielen Stellen noch an grundlegenden Punkten. 
 
-Wir bedanken uns bei Dieter Janecek und der Fraktion von Bündnis 90/Die Grünen, dass sie das Thema in den Bundestag getragen haben. Es geht bei Social Entrepreneurship und Sozialen Innovationen nicht um Parteipolitik, sondern um einen wichtigen Baustein für eine zeitgemäße Lösung unserer gesellschaftlichen Herausforderungen. Ein Anliegen, dass allen demokratischen Parteien am Herzen liegen sollte! Wir würden begrüßen, wenn bei diesem wichtigen Thema eine fraktionsübergreifende Zusammenarbeit gelingt! Ein konkretes Handeln ist nach der bislang stiefmütterlichen Behandlung durch die Politik längst überfällig!
+Wir bedanken uns bei Dieter Janecek und der Fraktion von Bündnis 90/Die Grünen, dass sie das Thema in den Bundestag getragen haben. Es geht bei Social Entrepreneurship und Sozialen Innovationen nicht um Parteipolitik, sondern um einen wichtigen Baustein für eine zeitgemäße Lösung unserer gesellschaftlichen Herausforderungen und somit die Gestaltung einer enkeltauglichen Zukunft. Ein Anliegen, dass allen demokratischen Parteien am Herzen liegen sollte! Wir würden begrüßen, wenn bei diesem wichtigen Thema eine fraktionsübergreifende Zusammenarbeit gelingt! Ein entschlossenes Handeln ist nach dem bislang stiefmütterlichen Umgang der Politik längst überfällig!
