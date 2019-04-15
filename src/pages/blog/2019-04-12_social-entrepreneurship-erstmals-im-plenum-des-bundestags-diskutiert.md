@@ -7,7 +7,7 @@ excerpt: >-
   Sozialen Innovationen und Social Entrepreneurship verankert - bislang aber
   noch nicht mit dem nötigen Nachdruck umgesetzt. Am 11. April wurde das Thema
   nun erstmals im Plenum des Deutschen Bundestags diskutiert.
-image: /uploads/sam_2102.jpg
+image: /uploads/wahlpruefstein.jpg
 date: 2019-04-12T15:16:30.227Z
 category: news
 ---
@@ -17,12 +17,14 @@ Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskuti
 
 <script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script> 
 
+
+
 # Kurze Spotlights auf die Redebeiträge
 
 Für die Fraktion von Bündnis 90/Die Grünen sprach Dieter Janecek. In seinem Beitrag zeigte er anhand mehrerer Beispiele die gesellschaftlichen Potenziale innovativer Sozialunternehmer*innen auf und weist auf die bisherigen Versäumnisse der Bundesregierung auf die Beschlüsse im Koalitionsvertrag hin. Im Anschluss erleutert er eine Reihe konkreter Handlungsvorschläge aus dem Antrag der Fraktion. [[Videobeitrag](https://dbtg.tv/fvid/7343667)]
 
-Die Bundestagsabgeordneten Jan Metzler und Mark Hauptmann für die CDU/CSU-Fraktion gaben Ihre Redebeiträge zu Protokoll. Herr Metzler griff hierbei vor allem Punkte der [Antwort der Bundesregierung zur „Kleinen Anfrage“](http://dip21.bundestag.de/dip21/btd/19/072/1907293.pdf) auf, die dem Antrag vorweggegangen ist. \[Redemanuskript]\
-Herr Hauptmann legt seinen Schwerpunkt auf die allgemeine Förderung der Gründerkultur und sieht hier eine Unterstützung von Social Entrepreneurship als ausreichend gegeben. \[Redemanuskript]
+Die Bundestagsabgeordneten Jan Metzler und Mark Hauptmann für die CDU/CSU-Fraktion gaben Ihre Redebeiträge zu Protokoll. Herr Metzler griff hierbei vor allem Punkte der [Antwort der Bundesregierung zur „Kleinen Anfrage“](http://dip21.bundestag.de/dip21/btd/19/072/1907293.pdf) auf, die dem Antrag vorweggegangen ist. [[Redemanuskript](<http://send-ev.de/uploads/jan_metzler_social_entrepreneurship.pdf >)]\
+Herr Hauptmann legt seinen Schwerpunkt auf die allgemeine Förderung der Gründerkultur und sieht eine Unterstützung von Social Entrepreneurship im Rahmen dieser als ausreichend gegeben. [[Redemanuskript](<http://send-ev.de/uploads/rede-zu-protokoll_mark-hauptmann_strategische-förderung-und-unterstützung-von-social-entrepreneurship-in-deutschland.pdf >)]
 
 Für die SPD-Fraktion hat Bernd Westphal gesprochen. Er wies gleich zu Beginn darauf hin, dass er mit der bisherigen Umsetzung des BMWi nicht zufrieden ist. Der Antrag der Grünen geht ihm an vielen Stellen nicht weit genug. Er würde lieber auf eine ganzheitliche Soziale Innovationsstrategie hinarbeiten, die neben Gründern auch öffentliche und zivilgesellschaftliche Akteure berücksichtigt. In seiner Rede greift er Maßnahmen auf, die bereits realisiert wurden. [[Videobeitrag](https://dbtg.tv/fvid/7343672)] 
 
@@ -30,7 +32,9 @@ Für die AfD-Fraktion sprach Enrico Komning. Für ihn ist der Antrag ein Zeichen
 
 Houben Reinhard für die FDP-Fraktion zeigte Verständnis für die Frustration der Grünen bei dem Thema. Die mangelnde Umsetzung der Vereinbarungen aus dem Koalitionsvertrag führte er auf eine allgemeine Ignoranz des Wirtschaftsministers für diese Themen zurück. Bei den Vorschlägen einer Sozialen Innovationsstrategie und Bürokratieabbau sieht er Handlungsbedarf. Bei anderen Vorschlägen aus dem Antrag der Grünen vertritt er andere Standpunkte. [[Videobeitrag](https://dbtg.tv/fvid/7343674)]
 
-Den Redebeitrag für DIE LINKE-Fraktion hinterlegte Dr. Petra Sitte zu Protokoll. In ihrem Beitrag geht sie auf die schwierige Vereinbarkeit von Gemeinnützigkeit und Profitorientierung ein. Wichtig ist ihr, dass Soziale Innovationen auf Gerechtigkeit, Nachhaltigkeit und soziale Gleichheit zielen. Sie sollen das Wohl aller Menschen im Blick haben, ohne die Profitorientierung in den Vordergrund zu stellen. \[Redemanuskript]
+Den Redebeitrag für DIE LINKE-Fraktion hinterlegte Dr. Petra Sitte zu Protokoll. In ihrem Beitrag geht sie auf die schwierige Vereinbarkeit von Gemeinnützigkeit und Profitorientierung ein. Wichtig ist ihr, dass Soziale Innovationen auf Gerechtigkeit, Nachhaltigkeit und soziale Gleichheit zielen. Sie sollen das Wohl aller Menschen im Blick haben, ohne die Profitorientierung in den Vordergrund zu stellen. [[Redemanuskript](<http://send-ev.de/uploads/social-entrepreneurship_soziale-innovationen_petra_sitte.pdf >)]
+
+
 
 # Handlungsempfehlungen SEND
 
@@ -51,6 +55,8 @@ Nur durch steigende Investitionen in wirkungsorientierte Organisationen ist die 
 ## 3. Gründer- und Innovationszentren
 
 Für klassische Gründungs-/Innovationsvorhaben gibt es eine Vielzahl geförderter Gründer- und Innovationszentren. Um die Stärken der unterschiedlichen Akteure für die Gestaltung sozialer Innovationen bestmöglich zu koordinieren, ist die Schaffung von physischer Infrastruktur in Form von Begegnungs- und Experimentierräumen nötig. Dort können sich die verschiedenen Akteure miteinander vernetzen, voneinander lernen und gemeinsame Projekte realisieren. Vor Ort sollten zielgruppenspezifische Beratungsangebote angeboten werden. 
+
+
 
 # Wie geht es weiter?
 
