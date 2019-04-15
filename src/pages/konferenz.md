@@ -30,11 +30,11 @@ Die Bundestagsabgeordneten pitchen jeweils 4 Minuten, zur eigenen Arbeit für de
 Entrepreneurship Sektor.
 
 Teilnehmer*innen Podium:
-• Dr. Andreas Lenz, MdB CDU/CSU [angefragt]
-• Sabine Poschmann, MdB SPD
-• Thomas Sattelberger, MdB FDP
-• Anke Domscheit-Berg, MdB (parteilos) DIE LINKE [angefragt]
-• Dieter Janecek, MdB Fraktion 90/Die Grünen
+- Dr. Andreas Lenz, MdB CDU/CSU [angefragt]
+- Sabine Poschmann, MdB SPD
+- Thomas Sattelberger, MdB FDP
+- Anke Domscheit-Berg, MdB (parteilos) DIE LINKE [angefragt]
+- Dieter Janecek, MdB Fraktion 90/Die Grünen
 
 Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
