@@ -8,16 +8,15 @@ import Helmet from 'react-helmet';
 
 export default ({ frontmatter }) => {
 
-  const siteUrl = 'https://send-ev.de';
+  const siteUrl = 'https://www.send-ev.de';
   const siteLang = 'de_DE';
   const siteName = 'Social Entrepreneur Netzwerk Deutschland';
   const siteDescription = 'Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland.';
-  const siteImage = `${siteUrl}/static/logo.svg`;
-
+  const siteImage = `${siteUrl}/static/logo.png`;
 
   const pageTitle = frontmatter.title || siteName;
   const pageDescription = frontmatter.excerpt || siteDescription;
-  const pageImage = frontmatter.imgage ? `${siteUrl}${frontmatter.imgage}` : siteImage;
+  const pageImage = frontmatter.image ? `${siteUrl}${frontmatter.imgage}` : siteImage;
 
   return (
     <Helmet
