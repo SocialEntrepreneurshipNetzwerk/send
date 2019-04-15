@@ -13,11 +13,11 @@ category: news
 ---
 Die Koalition aus CDU/CSU und SPD hat im Koalitionsvertrag mehrfach eine bessere Unterstützung von Social Entrepreneurship und Sozialen Innovationen verankert. Eine Umsetzung wurde bislang noch nicht mit dem nötigen Nachdruck angegangen. 
 
-Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskutiert. Grundlage war der Antrag “[Strategische Förderung und Unterstützung von Social Entrepreneurship in Deutschland](http://dip21.bundestag.de/dip21/btd/19/085/1908567.pdf)” von der Fraktion Bündnis 90/Die Grünen.
+Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskutiert. Grundlage war der Antrag “[Strategische Förderung und Unterstützung von Social Entrepreneurship in Deutschland](http://dip21.bundestag.de/dip21/btd/19/085/1908567.pdf)” von der Fraktion Bündnis 90/Die Grünen. Im Beitrag zeigen wir die einzelnen Redebeiträge auf und zeigen im Anschluss drei konkrete Handlungsempfehlungen auf. 
 
-<script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script> 
+<script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script>  
 
-
+ 
 
 # Kurze Spotlights auf die Redebeiträge
 
@@ -34,7 +34,7 @@ Houben Reinhard für die FDP-Fraktion zeigte Verständnis für die Frustration d
 
 Den Redebeitrag für DIE LINKE-Fraktion hinterlegte Dr. Petra Sitte zu Protokoll. In ihrem Beitrag geht sie auf die schwierige Vereinbarkeit von Gemeinnützigkeit und Profitorientierung ein. Wichtig ist ihr, dass Soziale Innovationen auf Gerechtigkeit, Nachhaltigkeit und soziale Gleichheit zielen. Sie sollen das Wohl aller Menschen im Blick haben, ohne die Profitorientierung in den Vordergrund zu stellen. [[Redemanuskript](<http://send-ev.de/uploads/social-entrepreneurship_soziale-innovationen_petra_sitte.pdf >)]
 
-
+ 
 
 # Handlungsempfehlungen SEND
 
@@ -56,9 +56,7 @@ Nur durch steigende Investitionen in wirkungsorientierte Organisationen ist die 
 
 Für klassische Gründungs-/Innovationsvorhaben gibt es eine Vielzahl geförderter Gründer- und Innovationszentren. Um die Stärken der unterschiedlichen Akteure für die Gestaltung sozialer Innovationen bestmöglich zu koordinieren, ist die Schaffung von physischer Infrastruktur in Form von Begegnungs- und Experimentierräumen nötig. Dort können sich die verschiedenen Akteure miteinander vernetzen, voneinander lernen und gemeinsame Projekte realisieren. Vor Ort sollten zielgruppenspezifische Beratungsangebote angeboten werden. 
 
-
-
-# Wie geht es weiter?
+ 
 
 Der Sektor hat die Bundesregierung nach der mehrfachen Verankerung von Sozialen Innovationen und Social Entrepreneurship gefeiert. Die Diskussion im Plenum des Bundestags zeigt deutlich auf, dass diese Vorhaben noch nicht mit dem nötigen Nachdruck angegangen wurden. Während die Regierung unserer französischen und britischen Nachbarn bereits Milliarden in den Sektor lenken, fehlt es bei uns an vielen Stellen noch an grundlegenden Punkten. 
 
