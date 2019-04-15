@@ -58,6 +58,8 @@ Nur durch steigende Investitionen in wirkungsorientierte Organisationen ist die 
 
 Für klassische Gründungs-/Innovationsvorhaben gibt es eine Vielzahl geförderter Gründer- und Innovationszentren. Um die Stärken der unterschiedlichen Akteure für die Gestaltung sozialer Innovationen bestmöglich zu koordinieren, ist die Schaffung von physischer Infrastruktur in Form von Begegnungs- und Experimentierräumen nötig. Dort können sich die verschiedenen Akteure miteinander vernetzen, voneinander lernen und gemeinsame Projekte realisieren. Vor Ort sollten zielgruppenspezifische Beratungsangebote angeboten werden. 
 
+Eine Reihe weiterer Handlungsempfehlungen haben wir in unserem [Positionspapier](https://www.send-ev.de/uploads/2017_10_31_positionspapier_bund.pdf) zusammengefasst. 
+
 ## Zeit zu handeln!
 
 Der Sektor hat die Bundesregierung nach der mehrfachen Verankerung von Sozialen Innovationen und Social Entrepreneurship gefeiert. Die Diskussion im Plenum des Bundestags zeigt deutlich auf, dass diese Vorhaben noch nicht mit dem nötigen Nachdruck angegangen wurden. Während die Regierung unserer französischen und britischen Nachbarn bereits Milliarden in den Sektor lenken, fehlt es bei uns an vielen Stellen noch an grundlegenden Punkten. 
