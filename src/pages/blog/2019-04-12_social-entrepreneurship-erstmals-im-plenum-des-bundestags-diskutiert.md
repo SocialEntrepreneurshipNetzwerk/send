@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Social Entrepreneurship erstmals im Bundestag diskutiert
+title: Social Entrepreneurship goes Bundestag
 excerpt: >-
   Am 11. April wurde erstmals im Plenum des Deutschen Bundestags über Social
   Entrepreneurship diskutiert.
