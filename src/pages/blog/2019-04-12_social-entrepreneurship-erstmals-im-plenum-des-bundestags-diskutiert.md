@@ -15,9 +15,11 @@ Die Koalition aus CDU/CSU und SPD hat im Koalitionsvertrag mehrfach eine bessere
 
 Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskutiert. Grundlage war der Antrag “[Strategische Förderung und Unterstützung von Social Entrepreneurship in Deutschland](http://dip21.bundestag.de/dip21/btd/19/085/1908567.pdf)” von der Fraktion Bündnis 90/Die Grünen. Im Beitrag zeigen wir die einzelnen Redebeiträge auf und zeigen im Anschluss drei konkrete Handlungsempfehlungen auf. 
 
-<script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script>  
+<script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script>
 
- 
+_Diskussion Social Entrepreneurship im Plenum des Bundestags_
+
+<p></p> 
 
 # Kurze Spotlights auf die Redebeiträge
 
@@ -34,8 +36,7 @@ Houben Reinhard für die FDP-Fraktion zeigte Verständnis für die Frustration d
 
 Den Redebeitrag für DIE LINKE-Fraktion hinterlegte Dr. Petra Sitte zu Protokoll. In ihrem Beitrag geht sie auf die schwierige Vereinbarkeit von Gemeinnützigkeit und Profitorientierung ein. Wichtig ist ihr, dass Soziale Innovationen auf Gerechtigkeit, Nachhaltigkeit und soziale Gleichheit zielen. Sie sollen das Wohl aller Menschen im Blick haben, ohne die Profitorientierung in den Vordergrund zu stellen. [[Redemanuskript](<http://send-ev.de/uploads/social-entrepreneurship_soziale-innovationen_petra_sitte.pdf >)]
 
- 
-
+<p></p> 
 # Handlungsempfehlungen SEND
 
 Endlich hat Social Entrepreneurship Eingang in die Debatte des Bundestags gefunden. Unbestreitbar ist, dass wir vor einer Vielzahl gesellschaftlicher Herausforderungen stehen: Klimawandel, Demografischer Wandel oder der Strukturwandel durch die digitale Transformation sind nur drei Beispiele. Eine nachhaltige Lösung dieser Herausforderungen kann nicht alleine mit den Instrumenten des letzten Jahrhunderts erfolgen. Hier braucht es neue Lösungsansätze und Akteure, die die Gestaltung einer enkeltauglichen Zukunft in das Zentrum des Handelns nehmen. Die Diskussion zeigt, dass sich eine Reihe der Fraktionen noch nicht intensiv mit dem Thema auseinandergesetzt hat. 
@@ -50,7 +51,7 @@ Aktuell herrscht von Seiten der Politik keine Transparenz über zuständige An
 
 ## 2. Finanzierung
 
-Nur durch steigende Investitionen in wirkungsorientierte Organisationen ist die Erreichung der UN-Nachhaltigkeitsziele (Sustainable Development Goals; SDGs) überhaupt noch möglich. Social Entrepreneurship stellt eine der geeignetsten Herangehensweisen dar (vgl. GlobeScan & SustainAbility Survey 2017), um die SDGs zu erreichen. Während technologische Innovationen im ökonomischen Kontext von Seiten der Politik auf breiter Basis gefördert werden, sind diese Instrumente für soziale Gründungen und Innovationen meist nicht zugänglich. Wenn wir die mit dem technologischen und gesellschaftlichen Wandel einhergehenden Herausforderungen lösen und gleichzeitig die Potenziale des technologischen Fortschritts für gesellschaftliche Mehrwerte nutzen wollen, brauchen soziale Gründungen und Innovationen verlässliche Finanzierungsprogramme.
+Nur durch steigende Investitionen in wirkungsorientierte Organisationen ist die Erreichung der UN-Nachhaltigkeitsziele (Sustainable Development Goals; SDGs) überhaupt noch möglich. Social Entrepreneurship stellt eine der geeignetsten Herangehensweisen dar (vgl. GlobeScan & SustainAbility Survey 2017), um die SDGs zu erreichen. Während technologische Innovationen mit einem Fokus auf den ökonomischen Kontext von Seiten der Politik auf breiter Basis gefördert werden, sind diese Instrumente für soziale Gründungen und Innovationen meist nicht zugänglich. Wenn wir die mit dem technologischen und gesellschaftlichen Wandel einhergehenden Herausforderungen lösen und gleichzeitig die Potenziale des technologischen Fortschritts für gesellschaftliche Mehrwerte nutzen wollen, brauchen soziale Gründungen und Innovationen verlässliche Finanzierungsprogramme. Neben den oben aufgeführten Studien 
 
 ## 3. Gründer- und Innovationszentren
 
