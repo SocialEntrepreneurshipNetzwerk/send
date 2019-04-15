@@ -13,7 +13,7 @@ category: news
 ---
 Die Koalition aus CDU/CSU und SPD hat im Koalitionsvertrag mehrfach eine bessere Unterstützung von Social Entrepreneurship und Sozialen Innovationen verankert. Eine Umsetzung wurde bislang noch nicht mit dem nötigen Nachdruck angegangen. 
 
-Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskutiert. Grundlage war der Antrag “[Strategische Förderung und Unterstützung von Social Entrepreneurship in Deutschland](http://dip21.bundestag.de/dip21/btd/19/085/1908567.pdf)” von der Fraktion Bündnis 90/Die Grünen, der eine Reihe nötiger Änderungen aufgreift und damit eine gute Basis für die Diskussion liefert. Im Beitrag fassen wir die einzelnen Redebeiträge kur zusammen und zeigen im Anschluss drei konkrete Handlungsempfehlungen auf. 
+Vergangene Woche wurde unser Thema nun erstmals im Plenum des Bundestags diskutiert. Grundlage war der Antrag “[Strategische Förderung und Unterstützung von Social Entrepreneurship in Deutschland](http://dip21.bundestag.de/dip21/btd/19/085/1908567.pdf)” von der Fraktion Bündnis 90/Die Grünen, der eine Reihe nötiger Änderungen aufgreift und damit eine gute Basis für die Diskussion liefert. Im Beitrag fassen wir die einzelnen Redebeiträge kurz zusammen und zeigen im Anschluss drei konkrete Handlungsempfehlungen auf. 
 
 <script id="tv7343663" src="https://webtv.bundestag.de/player/macros/bttv/hls/player.js?content=7343663&phi=default"></script>
 
