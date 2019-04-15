@@ -16,7 +16,7 @@ export default ({ frontmatter }) => {
 
   const pageTitle = frontmatter.title || siteName;
   const pageDescription = frontmatter.excerpt || siteDescription;
-  const pageImage = frontmatter.image ? `${siteUrl}${frontmatter.imgage}` : siteImage;
+  const pageImage = frontmatter.image ? `${siteUrl}${frontmatter.image}` : siteImage;
 
   return (
     <Helmet
