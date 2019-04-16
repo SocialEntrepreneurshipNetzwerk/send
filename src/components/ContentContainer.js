@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default class ContentContainer extends React.Component {
-  constructor() {
+  constructor(props) {
     super()
     this.content = null;
   }
@@ -28,7 +28,7 @@ export default class ContentContainer extends React.Component {
 
   render() {
     return (
-      <div ref={el => (this.content = el)}/>
+      <div ref={el => (this.content = el)} dangerouslySetInnerHTML={{ __html: this.props.content }}/>
     )
   }
 }
