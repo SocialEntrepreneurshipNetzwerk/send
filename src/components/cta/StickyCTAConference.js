@@ -1,8 +1,9 @@
 import React from 'react';
 import styles from './cta.module.css';
+import Link from 'gatsby-link';
 
 const StickyCTA = () => (
-  <a href="/konferenz">
+  <Link to="/konferenz">
   <svg id="svg2" xmlns="http://www.w3.org/2000/svg" version="1.1"  viewBox="0 0 499.99999 153.64999" className={styles.sticky_cta}>
 <g id="g4182" transform="matrix(.933 0 0 .933 1.12 41.9)">
   <g id="g4339" transform="translate(-17.8 -62.6)">
@@ -50,7 +51,7 @@ const StickyCTA = () => (
   </g>
 </g>
 </svg>
-  </a>
+</Link>
 );
 
 export default StickyCTA;
