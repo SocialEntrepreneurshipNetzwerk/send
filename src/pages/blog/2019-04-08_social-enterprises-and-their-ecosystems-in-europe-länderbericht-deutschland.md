@@ -6,13 +6,14 @@ excerpt: >-
   Der Länderbericht Deutschland von Nicole Göler von Ravensburg, Gorgi Krlev und
   Georg Mildenberger im Auftrag der Europäischen Kommission, bietet auf knapp
   100 Seiten einen umfassenden Überblick über das Social Enterprise Ökosystem in
-  Deutschland. Disclaimer: Ein Teile dieses Textes stammt aus einem noch
-  erscheinenden Beitrag des RKW Magazins.
+  Deutschland. 
 image: /uploads/wohlfahrt_3.jpg
 date: 2019-04-08T08:31:28.325Z
 category: news
 ---
-Das Bewusstsein für soziale und ökologische Probleme und Herausforderungen wächst sowohl in der Bevölkerung, als auch bei politischen Entscheidungsträger*innen und befeuert die Suche nach effektiven Lösungen. Die Hoffnung auf neue und besonders wirkungsvolle Antworten wird immer öfter auch in Social Entrepreneurship gesetzt. Irgendwo zwischen klassischem Unternehmertum und altruistischem Engagement steckt ein riesiges Potenzial für gesellschaftliche Innovationen. Der [Länderbericht Deutschland](https://ec.europa.eu/social/BlobServlet?langId=en&docId=20563&) von Nicole Göler von Ravensburg, Gorgi Krlev und Georg Mildenberger im Auftrag der Europäischen Kommission, bietet auf knapp 100 Seiten einen umfassenden Überblick über das Social Enterprise Ökosystem in Deutschland. Der Bericht befasst sich mit dem Potenzial des Sektors und den Hürden, die diesem Potenzial im Moment noch im Weg stehen. Disclaimer: Ein Teile dieses Textes stammt aus einem noch erscheinenden Beitrag des RKW Magazins. 
+Das Bewusstsein für soziale und ökologische Probleme und Herausforderungen wächst sowohl in der Bevölkerung, als auch bei politischen Entscheidungsträger*innen und befeuert die Suche nach effektiven Lösungen. Die Hoffnung auf neue und besonders wirkungsvolle Antworten wird immer öfter auch in Social Entrepreneurship gesetzt. Irgendwo zwischen klassischem Unternehmertum und altruistischem Engagement steckt ein riesiges Potenzial für gesellschaftliche Innovationen. Der [Länderbericht Deutschland](https://ec.europa.eu/social/BlobServlet?langId=en&docId=20563&) von Nicole Göler von Ravensburg, Gorgi Krlev und Georg Mildenberger im Auftrag der Europäischen Kommission, bietet auf knapp 100 Seiten einen umfassenden Überblick über das Social Enterprise Ökosystem in Deutschland. Der Bericht befasst sich mit dem Potenzial des Sektors und den Hürden, die diesem Potenzial im Moment noch im Weg stehen. 
+
+Disclaimer: Teile dieses Textes stammen aus dem [RKW Magazin "Social Startups: mehr "Wir" - weniger "Ich"](https://www.rkw-kompetenzzentrum.de/publikationen/rkw-magazin/2019/rkw-magazin-mehr-wir-weniger-ich/). 
 
 ![Social Enterprises And Their Ecosystems In Europe - Länderbericht Deutschland](/uploads/screenshot-105-_li.jpg "Social Enterprises And Their Ecosystems In Europe - Länderbericht Deutschland")
 
