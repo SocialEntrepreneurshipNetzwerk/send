@@ -27,4 +27,4 @@ Aber Katja Urbatsch ist nicht die erste Sozialunternehmerin, die mit dem Verdien
 * Norbert Kunz, der als Gründer der [Social Impact gGmbH](https://socialimpact.eu/) (einer Agentur für soziale Innovationen) und als Ashoka Fellow deutschlandweit Social Entrepreneurs bei der Gründung unterstützt und diverse Innovationszentren ( Social Impact Labs) errichtet hat. Außerdem ist Norbert natürlich Gründungsmitglied bei SEND.
 * Raul Krauthausen, der als Gründer von [Sozialhelden](https://sozialhelden.de/) (Denkfabrik für soziale Projekte) Menschen, Institutionen und Unternehmen dafür sensibilisiert, Menschen mit Behinderung als Zielgruppe für die verschiedensten Produkte und Dienstleistungen wahrzunehmen. Raul nennt sich selbst einen Aktivisten und wirkt noch in vielen weiteren sozialen Projekten.
 
-Sozialunternehmer*innen leisten schon seit Jahren einen bedeutenden Beitrag zum Zusammenhalt der Gesellschaft. Wir freuen uns riesig darüber, dass dieses Engagement Anerkennung findet.
+Sozialunternehmer*innen leisten schon seit Jahren einen bedeutenden Beitrag zum Zusammenhalt der Gesellschaft. Wir freuen uns riesig darüber, dass dieses Engagement Anerkennung findet!
