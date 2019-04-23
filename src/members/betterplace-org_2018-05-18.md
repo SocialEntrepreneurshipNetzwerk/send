@@ -12,7 +12,7 @@ impactArea:
   - Armut
   - Umwelt– & Klimaschutz
 organization: true
-image: /uploads/screenshot-63-_li.jpg
+image: /uploads/screenshot-107-_li.jpg
 email: marketing@betterplace.org
 link: 'https://www.betterplace.org/de'
 city: Berlin
