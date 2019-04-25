@@ -1,5 +1,5 @@
 ---
-title: FIBUR GmbH
+title: 'FIBUR – ethisch-ökologische Versicherungen GmbH  '
 description: >-
   Wir von FIBUR informieren und bieten seit 2010 nachhaltige Versicherungen im
   Bereich der staatlich geförderten Altersvorsorge an. Die Kundensparbeiträge
