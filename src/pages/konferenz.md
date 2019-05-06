@@ -10,7 +10,7 @@ image: /uploads/SEND_01.02.18_Internet-256.jpg
 
 * Strategieentwicklung
 * Workshop zu Regionalen Gründerökosystemen
-* Vorbereitung der Stakeholder-Gespräche: Workshops zu den Wirkungsbereichen der Mitglieder, z.B. Integration, Internationale Zusammenarbeit, Umweltschutz, Gesundheit,  etc.
+* Workshops zu den Wirkungsbereichen der Mitglieder, z.B. Integration, Internationale Zusammenarbeit, Umweltschutz, Gesundheit,  etc.
 
 ## 18:30: Parlamentarischer Abend mit Vertreter*innen der Bundespolitik
 
