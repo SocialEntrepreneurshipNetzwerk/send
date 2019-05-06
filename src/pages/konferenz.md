@@ -8,8 +8,8 @@ image: /uploads/SEND_01.02.18_Internet-256.jpg
 
 ## 16. Mai: <br> 09.00 – 17.00: Entwicklung Social Entrepreneurship Netzwerk Deutschland (exklusiv für SEND – Mitglieder)
 
-* Strategieentwicklung
-* Workshop zu Regionalen Gründerökosystemen
+* Mitgliederversammlung
+* Strategie- und Netzwerkentwicklung
 * Workshops zu den Wirkungsbereichen der Mitglieder, z.B. Integration, Internationale Zusammenarbeit, Umweltschutz, Gesundheit,  etc.
 
 ## 18:30: Parlamentarischer Abend mit Vertreter*innen der Bundespolitik
@@ -39,17 +39,17 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
 ## 17. Mai: <br> 09.00 – 18.00: Social Entrepreneurship: Raus aus der Nische
 
-* Keynote StS Christian Hirte (BMWi) \[angefragt]
-* Workshops mit Expert*innen (eine Auswahl)
+* Impuls : Das Milliardenpotenzial Sozialer Innovationen, Odin Mühlenbein (Ashoka)
+* Workshops mit Expert*innen 
   * Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
   * Rechtsform: Purpose Economy als Erfolgsmodell
   * Lobby4Good: politische Arbeit für die gute Sache
   * Finanzierung: Transparenz und neue Finanzierungsinstrumente
 * Podiumsdiskussion „Neue Kooperationen für Soziale Innovationen“ mit
-  * Ulla Engelmann, Europäische Kommission
-  * Ramona Pop (Senatorin für Wirtschaft, Berlin) \[angefragt]
+  * Dr. Ulla Engelmann, Europäische Kommission
+  * Dr. Anna  Hochreuter, Berliner Senatsverwaltung für Wirtschaft
   * Michael Sommer, Caritas
-  * Christian Vollmann, nebenan.de
+  * Till Behnke, nebenan.de
 * Barcamp „Kooperationen für Soziale Innovationen“ (in Zusammenarbeit mit dem Berliner
   Senat und der Europäischen Kommission) mit Gästen aus Wohlfahrt, Wirtschaft und Politik
   (Themen werden am Tag selbst ausgewählt – hier eine mögliche Auswahl):
