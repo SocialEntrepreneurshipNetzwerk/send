@@ -5,7 +5,7 @@ title: Bundesverdienstkreuz für Sozialunternehmerin
 excerpt: >-
   Unser Mitglied Katja Urbatsch von ArbeiterKind.de hat am Tag der Deutschen
   Einheit das Bundesverdienstkreuz von Bundespräsident Frank-Walter Steinmeier
-  verliehen bekommen. Wir sagen: Herzlichen Glückwunsch!
+  verliehen bekommen. Wir sagen: Herzlichen Glückwunsch
 image: /uploads/ean-rkw-170920-4535.jpg
 date: '2018-10-09'
 category: news
