@@ -40,7 +40,7 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 ## 17. Mai: <br> 09.00 – 18.00: Social Entrepreneurship: Raus aus der Nische
 
 * Impuls : Das Milliardenpotenzial Sozialer Innovationen, Odin Mühlenbein (Ashoka)
-* Workshops mit Expert*innen 
+* [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
   * Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
   * Rechtsform: Purpose Economy als Erfolgsmodell
   * Lobby4Good: politische Arbeit für die gute Sache
