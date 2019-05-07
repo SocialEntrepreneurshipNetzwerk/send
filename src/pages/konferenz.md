@@ -39,26 +39,41 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
 ## 17. Mai: <br> 09.00 – 18.00: Social Entrepreneurship: Raus aus der Nische
 
-* Impuls : Das Milliardenpotenzial Sozialer Innovationen, Odin Mühlenbein (Ashoka)
-* [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
-  * Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
-  * Rechtsform: Purpose Economy als Erfolgsmodell
-  * Lobby4Good: politische Arbeit für die gute Sache
-  * Finanzierung: Transparenz und neue Finanzierungsinstrumente
-* Podiumsdiskussion „Neue Kooperationen für Soziale Innovationen“ mit
-  * Dr. Ulla Engelmann, Europäische Kommission
-  * Dr. Anna  Hochreuter, Berliner Senatsverwaltung für Wirtschaft
-  * Michael Sommer, Caritas
-  * Till Behnke, nebenan.de
-* Barcamp „Kooperationen für Soziale Innovationen“ (in Zusammenarbeit mit dem Berliner
-  Senat und der Europäischen Kommission) mit Gästen aus Wohlfahrt, Wirtschaft und Politik
-  (Themen werden am Tag selbst ausgewählt – hier eine mögliche Auswahl):
-  * Wie gelingt innovative Integrationsarbeit?
-  * Was sind gute Beispiele für soziale Innovationen in der Pflege?
-  * Welche Rolle können Social Startups in der internationalen Zusammenarbeit spielen?
-  * Wie können nachhaltige Innovationen zum Schutz der Umwelt gefördert werden?
-  * Wie können wir die Nutzung von neuen Technologien für soziale Mehrwerte stärker
-    fördern?
+09.00: Einlass und Registrierung
+
+09.30: Begrüßung und Kennenlernen
+
+10:15: Impuls : Das Milliardenpotenzial Sozialer Innovationen, Ashoka
+
+10:30: Kaffeepause
+
+11:00 [Workshops mit Expert*innen (w ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
+
+* Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
+* Rechtsform: Purpose Economy als Erfolgsmodell
+* Lobby4Good: politische Arbeit für die gute Sache
+* Finanzierung: Transparenz und neue Finanzierungsinstrumente
+
+13:00 Mittagspause
+
+14:00 Podiumsdiskussion „Neue Kooperationen für Soziale Innovationen“ mit
+
+* Dr. Ulla Engelmann, Europäische Kommission
+* Dr. Anna  Hochreuter, Berliner Senatsverwaltung für Wirtschaft
+* Michael Sommer, Caritas
+* Till Behnke, nebenan.de
+
+14:45 Barcamp „Kooperationen für Soziale Innovationen“ (in Zusammenarbeit mit dem Berliner
+Senat und der Europäischen Kommission) - Themen werden am Tag selbst ausgewählt – hier eine mögliche Auswahl:
+
+* Wie gelingt innovative Integrationsarbeit?
+* Was sind gute Beispiele für soziale Innovationen in der Pflege?
+* Welche Rolle können Social Startups in der internationalen Zusammenarbeit spielen?
+* Wie können nachhaltige Innovationen zum Schutz der Umwelt gefördert werden?
+* Wie können wir die Nutzung von neuen Technologien für soziale Mehrwerte stärker
+  fördern?
+
+17:30 Zusammenfassung der Ergebnisse  und nächste Schritte
 
 ## Ab 19.00: gemeinsamer Ausklang und Party
 
