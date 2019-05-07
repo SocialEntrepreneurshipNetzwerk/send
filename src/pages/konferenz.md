@@ -39,7 +39,7 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
 ## 17. Mai: <br> 09.00 – 18.00: Social Entrepreneurship: Raus aus der Nische
 
-09.00: Einlass und Registsrierung
+09.00: Einlass und Registrierung
 
 09.30: Begrüßung und Kennenlernen
 
