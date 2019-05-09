@@ -42,14 +42,14 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
 09.30: Begrüßung und Kennenlernen
 
-10:15: Impuls : Das Milliardenpotenzial Sozialer Innovationen, Ashoka
+10:30: Impuls : Das Milliardenpotenzial Sozialer Innovationen, Laura Brämswig (Ashoka) und Katharina Wagner (McKinsey)
 
-10:30: Kaffeepause
+10:45: Kaffeepause
 
-11:00 [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
+11:15 [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
 
 * Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
-* Rechtsform: Purpose Economy als Erfolgsmodell
+* Unternehmenseigentum neu denken: New Work braucht New Ownership
 * Lobby4Good: politische Arbeit für die gute Sache
 * Finanzierung: Transparenz und neue Finanzierungsinstrumente
 
