@@ -9,7 +9,7 @@ image: /uploads/auftakt-minified.jpg
 date: '2018-01-05'
 category: event
 ---
-Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland. 
+Am 01. Februar begehen wir im Forum Factory in Berlin die Auftaktveranstaltung des neu gegründeten Netzwerks für Social Entrepreneurship in Deutschland!
 
 ## [Hier anmelden](https://www.eventbrite.com/e/send-auftaktevent-tickets-41754325311)
 
@@ -28,12 +28,12 @@ Am Abend laden wir gemeinsam mit dem Bundesverband Deutsche Startups Vertreter v
 * 16:00: Präsentation der Ergebnisse
 * 17:00: Ausblick / nächste Schritte
 
-_Übergang zur Abendveranstaltung bei SAP Berlin,_[_ Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
+_Übergang zur Abendveranstaltung bei SAP Berlin,_[ _Rosenthaler Straße 30_](https://www.google.com/maps?q=Rosenthaler+Stra%C3%9Fe+30&entry=gmail&source=g)_, in Berlin-Mitte_
 
 * 18:00: Einlass 
 * 18:30: Begrüßung durch Martin Heinig, COO of SAP´s Innovation Center Network & SAP Labs und Markus Sauerhammer, Vorsitzender SEND e.V.
 * 18:40: Begrüßung Mirco Dragowski, Bundesverband Deutsche Startups
-*  18:45: Leon Reiner, Vorstand SEND e.V.
+* 18:45: Leon Reiner, Vorstand SEND e.V.
 * 18:50: Keynote Anke Odrig,  Gründerin [Little Bird](https://www.little-bird.de/)
 * 19:05: Politische Diskussionsrunde mit Vertretern verschiedener Parteien
   * MdB Dirk Wiese, parlamentarischer Staatssekretär BMWI, SPD
