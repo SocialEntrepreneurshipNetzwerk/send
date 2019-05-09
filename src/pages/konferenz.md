@@ -49,7 +49,7 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 11:00 [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
 
 * Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
-* Rechtsform: Purpose Economy als Erfolgsmodell
+* Unternehmenseigentum neu denken: New Work braucht New Ownership
 * Lobby4Good: politische Arbeit für die gute Sache
 * Finanzierung: Transparenz und neue Finanzierungsinstrumente
 
