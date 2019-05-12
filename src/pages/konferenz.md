@@ -29,10 +29,10 @@ Entrepreneurship Sektor.
 
 Teilnehmer*innen Podium:
 
-* Dr. Andreas Lenz, MdB CDU/CSU 
-* Sabine Poschmann, MdB SPD
-* Thomas Sattelberger, MdB FDP
-* Dieter Janecek, MdB Fraktion 90/Die Grünen
+* Dr. Andreas Lenz, MdB CDU/CSU-Fraktion
+* Sabine Poschmann, MdB SPD-Fraktion
+* Thomas Sattelberger, MdB FDP-Fraktion
+* Dieter Janecek, MdB Fraktion Bündnis 90/Die Grünen
 
 Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 
