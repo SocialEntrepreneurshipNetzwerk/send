@@ -7,7 +7,7 @@ excerpt: >-
   Interessent*innen, offene Arbeitstreffen im Impact Hub Berlin an. Hier
   arbeiten wir an aktuelle Themen wie zum Beispiel dem Koalitionsvertrag und der
   Frage, wie wir ihn nutzen können um Social Entrepreneurship weiter zu stärken.
-  Dabei freuen wir uns sehr über Eure Gedanken und Ideen!
+  Dabei freuen  wir uns sehr über Eure Gedanken und Ideen!
 image: /uploads/send_01.02.18_internet-273.jpg
 date: '2018-04-10'
 category: event
