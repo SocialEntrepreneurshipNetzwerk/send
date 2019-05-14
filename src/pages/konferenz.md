@@ -62,6 +62,8 @@ Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
 * Michael Sommer, Caritas
 * Till Behnke, nebenan.de
 
+Moderation: Sabrina Konzok, Regionalgruppensprecherin SEND Berlin
+
 14:45 Barcamp „Kooperationen für Soziale Innovationen“ (in Zusammenarbeit mit dem Berliner
 Senat und der Europäischen Kommission) - Themen werden am Tag selbst ausgewählt – hier eine mögliche Auswahl:
 
