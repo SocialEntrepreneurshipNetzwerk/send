@@ -12,7 +12,7 @@ impactArea:
   - Flucht und Migration
   - Integration
 organization: true
-image: /uploads/weserholz.png
+image: /uploads/weserholz.jpeg
 email: moin@weserholz.de
 link: 'http://weserholz.de/'
 city: Bremen
