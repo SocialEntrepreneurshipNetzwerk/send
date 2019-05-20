@@ -1,6 +1,6 @@
 import React from 'react';
 //import Script from 'react-load-script'; // not sure if we need this for cms. seems to work without it?
-import StickyCTA from '../components/cta/StickyCTAConference';
+import StickyCTA from '../components/cta/StickyCTA';
 import TopImage from '../components/top-image/TopImage';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ProfileBox from '../components/profile-box/ProfileBox';
