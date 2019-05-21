@@ -1,9 +1,9 @@
 ---
-title: Weserholz
+title: weserholz
 description: >-
   Im Designstudio weserholz finden Produkte durch kollaborative Prozesse und
   Dialog zur Form. Das 13-köpfige Team aus derzeit acht Ländern (u.a. Gambia,
-  Afghanistan, Irak) entwickelt innovative Möbel, die sich besonders für die
+  Afghanistan, Iran) entwickelt innovative Möbel, die sich besonders für die
   produktive Zusammenarbeit von Teams eignen. Junge Erwachsene, die ohne
   gesicherten Aufenthalt in Bremen leben, bereichern die Arbeit als Trainees und
   erfahren durch handwerkliche, kreative und sprachliche Prozesse
