@@ -6,7 +6,7 @@ excerpt: >-
   Gemeinsam mit Social Entrepreneurship Netzwerken aus ganz Europa haben wir die
   Positionen der Europäischen Parteien zum Thema Social Entrepreneurship
   verglichen.
-image: /uploads/europa.png
+image: /uploads/flag_yellow_high.jpg
 date: 2019-05-22T09:03:12.189Z
 category: news
 ---
