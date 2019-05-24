@@ -9,7 +9,7 @@ excerpt: >-
   mit der Investitionsbank Berlin (IBB) unter dem Schwerpunkt „Finanzierung
   Social Entrepreneurship“. Im Fokus standen Fragen zur Öffnung bestehender
   Finanzierungs- und Förderinstrumente der IBB und die Gestaltung zukünftiger
-  Förderprogramme für den Sektor.
+  Förderprogramme für den Sektor .
 image: /uploads/image-1-.jpg
 date: '2019-01-31'
 category: news
