@@ -9,7 +9,7 @@ impactArea:
   - Bildung
   - Zukunft der Arbeit
 organization: true
-image: /uploads/goodjobs-logo-_600-kopie-lina-kruse.png
+image: /uploads/goodjobs_logo.png
 email: lina@goobjobs.eu
 link: www.goodjobs.eu
 city: Berlin
