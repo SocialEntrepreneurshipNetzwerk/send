@@ -9,7 +9,7 @@ impactArea:
   - Bildung
   - Zukunft der Arbeit
 organization: true
-image: /uploads/goodjobs_logo.png
+image: /uploads/gj_logo.png
 email: lina@goobjobs.eu
 link: www.goodjobs.eu
 city: Berlin
