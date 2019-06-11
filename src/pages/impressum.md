@@ -4,7 +4,7 @@ templateKey: impressum
 address: >-
   Social Entrepreneurship Netzwerk Deutschland e. V.<br>c/o Bundesverband
   Deutsche Startups e. V.<br>im Haus der Bundespressekonferenz
-  <br>Schiffbauerdamm 40 <br>10117 Berlin
+  <br>Schiffbauerdamm 40 <br>10117 Berlin <br> Telefonnummer: 030-64477658
 email: info@send-ev.de
 bank: >-
   **Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525 00<br>BIC:
