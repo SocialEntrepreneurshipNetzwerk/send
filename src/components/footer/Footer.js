@@ -7,6 +7,7 @@ import Twitter from '../svg/icons_logos/Twitter.js';
 import Youtube from '../svg/icons_logos/Youtube.js';
 import BMW from '../svg/icons_logos/BMW.js';
 import BVDS from '../svg/icons_logos/BVDS.js';
+import KFW from '../svg/icons_logos/KFW.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
@@ -39,6 +40,7 @@ const Footer = () => (
       <div>
         <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
         <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
+        <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
       </div>
     </section>
   </footer>

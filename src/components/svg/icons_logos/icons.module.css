@@ -39,6 +39,16 @@
   fill: #FDFCF4;
 }
 
+.kfw {
+  width: 80px;
+  fill: grey;
+}
+
+.kfw:hover {
+  width: 80px;
+  fill: #1b618c;
+}
+
 .bmw {
   width:140px;
   fill: grey;
