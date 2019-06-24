@@ -35,13 +35,15 @@ section_3:
   profile_boxes:
     - image: /uploads/katrin_elsemann.jpg
       name: Katrin Elsemann
-      organization: ''
+      organization: SEND e.V.
       role: Geschäftsführerin
     - image: /uploads/katharina_osbelt-4.jpg
       name: Katharina Osbelt
+      organization: SEND e.V.
       role: Community Management
     - image: /uploads/send_01.02.18_internet-335.jpg
       name: Michael Wunsch
+      organization: SEND e.V.
       role: Wissenschaftliche Kooperationen
   title: Team
 section_4:
@@ -51,23 +53,29 @@ section_4:
           Bayern 
 
 
-          > Vorläufige Ansprechpartner*innen für die Regionalgruppe Bayern sind
-          Andrea und Vincent. Ihr erreicht die beiden unter
-          <mailto:bayern@send-ev.de>.
+          > Vorläufige Ansprechpartnerin für die Regionalgruppe Bayern ist
+          Andrea Mörike. Ihr erreicht sie unter <mailto:bayern@send-ev.de>.
       - row: >-
           Berlin
 
 
-          > Ansprechpartnerinnen für die Regionalgruppe Berlin sind Sabrina und
-          Janna. Beide können unter <mailto:berlin@send-ev.de> erreicht werden.
+          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok.
+          Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
       - row: >-
           NRW
 
 
-          > Ansprechpartner für die Regionalgruppe NRW sind Daniel und
-          Sebastian. Erreichen könnt Ihr die beiden unter
+          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und
+          Sebastian Grothaus. Erreichen könnt Ihr die beiden unter
           <mailto:nrw@send-ev.de>.
-    title: REGIONALGRUPPEN
+      - row: >-
+          Sachsen
+
+
+          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela
+          Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter
+          <mailto:sachsen@send-ev.de>.
+    title: Regionalgruppen
   column_2:
     rows:
       - row: Bildung
