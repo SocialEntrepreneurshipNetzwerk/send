@@ -35,13 +35,15 @@ section_3:
   profile_boxes:
     - image: /uploads/katrin_elsemann.jpg
       name: Katrin Elsemann
-      organization: ''
+      organization: SEND e.V.
       role: Geschäftsführerin
     - image: /uploads/katharina_osbelt-4.jpg
       name: Katharina Osbelt
+      organization: SEND e.V.
       role: Community Management
     - image: /uploads/send_01.02.18_internet-335.jpg
       name: Michael Wunsch
+      organization: SEND e.V.
       role: Wissenschaftliche Kooperationen
   title: Team
 section_4:
@@ -67,7 +69,7 @@ section_4:
           > Ansprechpartner für die Regionalgruppe NRW sind Daniel und
           Sebastian. Erreichen könnt Ihr die beiden unter
           <mailto:nrw@send-ev.de>.
-    title: REGIONALGRUPPEN
+    title: Regionalgruppen
   column_2:
     rows:
       - row: Bildung
