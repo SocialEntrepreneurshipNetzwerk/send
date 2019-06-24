@@ -53,22 +53,28 @@ section_4:
           Bayern 
 
 
-          > Vorläufige Ansprechpartner*innen für die Regionalgruppe Bayern sind
-          Andrea und Vincent. Ihr erreicht die beiden unter
-          <mailto:bayern@send-ev.de>.
+          > Vorläufige Ansprechpartnerin für die Regionalgruppe Bayern ist
+          Andrea Mörike. Ihr erreicht sie unter <mailto:bayern@send-ev.de>.
       - row: >-
           Berlin
 
 
-          > Ansprechpartnerinnen für die Regionalgruppe Berlin sind Sabrina und
-          Janna. Beide können unter <mailto:berlin@send-ev.de> erreicht werden.
+          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina. Sie
+          kann unter <mailto:berlin@send-ev.de> erreicht werden.
       - row: >-
           NRW
 
 
-          > Ansprechpartner für die Regionalgruppe NRW sind Daniel und
-          Sebastian. Erreichen könnt Ihr die beiden unter
+          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und
+          Sebastian Grothaus. Erreichen könnt Ihr die beiden unter
           <mailto:nrw@send-ev.de>.
+      - row: >-
+          Sachsen
+
+
+          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela
+          Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter
+          <mailto:sachsen@send-ev.de>.
     title: Regionalgruppen
   column_2:
     rows:
