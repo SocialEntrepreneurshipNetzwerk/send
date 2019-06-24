@@ -59,8 +59,8 @@ section_4:
           Berlin
 
 
-          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina. Sie
-          kann unter <mailto:berlin@send-ev.de> erreicht werden.
+          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok.
+          Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
       - row: >-
           NRW
 
