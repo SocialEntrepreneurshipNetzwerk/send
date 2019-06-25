@@ -40,6 +40,7 @@ const Footer = () => (
       <div>
         <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
         <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
+        <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
       </div>
     </section>
   </footer>

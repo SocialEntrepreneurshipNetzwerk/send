@@ -40,12 +40,11 @@
 }
 
 .kfw {
-  width: 80px;
+  width: 160px;
   fill: grey;
 }
 
 .kfw:hover {
-  width: 80px;
   fill: #1b618c;
 }
 
