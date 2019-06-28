@@ -50,10 +50,10 @@ Dann werde Mitglied im Social Entrepreneurship Netzwerk Deutschland und genieße
 - Du wirst Teil eines wachsenden Netzwerks von Social Entrepreneurs in Deutschland
 - Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in Deutschland aktiv mitgestalten
 - In thematischen und regionalen Gruppen kannst Du Dich effektiv vernetzen und eigene Ideen realisieren
-- Du erhältst bevorzugten Zugang zu Workshops von SEND e.V. oder von Partner*innen
-- Du bekommst einen vergünstigten Zugang zu Events von SEND oder von Partner*innen
+- Du wirst zu Workshops von SEND e.V. oder von Partner*innen eingeladen
+- Wir bieten Dir die Teilnahme an Events von SEND oder von Partner*innen zu besonderen Konditionen an
 - Du vergrößerst Deine Sichtbarkeit über unsere Webseite, Social Media und Auftritte auf Veranstaltungen
-- Wir matchen Dich mit externen Organisationen und Akteur*innen aus der Politik und Gesellschaft
+- Wir vernetzten Dich mit externen Organisationen und Akteur*innen aus der Politik und Gesellschaft
 - Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für kommende Generationen tauglich ist!
 
 **Lass uns #GemeinsamWirken**
