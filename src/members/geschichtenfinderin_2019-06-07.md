@@ -5,9 +5,9 @@ impactArea:
   - Inklusion von Menschen mit Behinderung
   - Integration
 organization: true
-image: /uploads/logo-geschichtenfinderin-oskui.jpg
+image: /uploads/geschichtenfinderin-logo.png
 email: christina-oskui@web.de
-link: www.kinder-kurzgeschichten.de
+link: 'http://www.kinder-kurzgeschichten.de/'
 city: Hamburg
 postalCode: 22339
 federalState: Hamburg
