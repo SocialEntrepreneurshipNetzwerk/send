@@ -3,7 +3,7 @@ title: Geschichtenfinderin
 description: >-
   2014 habe ich im Selbstverlag "Der Igel, der seine Stacheln verloren hat"
   veröffentlicht, mit Übersetzung von der Deutsche Zentralbücherei für Blinde in
-  Braille- und Normschrift in 2015. Seitdem arbeite ich an"Neuen Medien für
+  Braille- und Normschrift in 2015. Seitdem arbeite ich an "Neuen Medien für
   blinde und sehbehinderte Kinder und für blinde Eltern von sehenden Kindern".
   Derzeit designe ich Prototypen für meine Bücherbox, damit Inklusion in beide
   Richtungen funktionieren kann. Bisher gibt es auf dem Deutschen Buchmarkt
