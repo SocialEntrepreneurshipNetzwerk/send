@@ -16,7 +16,7 @@ impactArea:
   - Inklusion von Menschen mit Behinderung
   - Integration
 organization: true
-image: /uploads/geschichtenfinderin-logo.png
+image: /uploads/geschichtenfinderin.png
 email: christina-oskui@web.de
 link: 'http://www.kinder-kurzgeschichten.de/'
 city: Hamburg
