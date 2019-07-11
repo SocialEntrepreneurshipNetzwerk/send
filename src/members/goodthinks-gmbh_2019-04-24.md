@@ -10,7 +10,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-111-_li.jpg
 email: hello@goodthinks.org
-link: 'http://www.goodthinks.org'
+link: 'https://www.goodthinks.org'
 city: Karlsruhe
 postalCode: 76135
 federalState: Baden-Württemberg
