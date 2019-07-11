@@ -7,7 +7,7 @@ excerpt: >-
   auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
   Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem
   letzten Teil beleuchten wir, welche Rolle die DNA des Unternehmens dabei
-  spielt...
+  spielt....
 image: /uploads/polarstern_5.jpg
 date: '2018-09-17'
 category: news
