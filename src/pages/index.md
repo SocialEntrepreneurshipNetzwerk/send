@@ -36,7 +36,7 @@ section_2:
       https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
   subtitle: Netzwerk
   title: gemeinsam. wirken.
-  paragraph: >-
+  paragraph: >
     ### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
     gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen?
 
@@ -45,33 +45,31 @@ section_2:
     Startup oder als Fördermitglied:
 
 
-    * Du wirst Teil eines wachsenden Netzwerks von Sozialunternehmer*innen in
-    Deutschland 
+    - Du wirst Teil eines wachsenden Netzwerks von Social Entrepreneurs in
+    Deutschland
 
-    * Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in
+    - Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in
     Deutschland aktiv mitgestalten
 
-    * In thematischen und regionalen Gruppen kannst Du Dich effektiv vernetzen
+    - In thematischen und regionalen Gruppen kannst Du Dich effektiv vernetzen
+    und eigene Ideen realisieren
 
-    * Du erhältst bevorzugten Zugang zu Workshops von SEND oder von
-    Partner*innen 
+    - Du wirst zu Workshops von SEND e.V. oder von Partner*innen eingeladen
 
-    * Du bekommst einen vergünstigten Zugang zu Events von SEND oder von
-    Partner*innen
+    - Wir bieten Dir die Teilnahme an Events von SEND oder von Partner*innen zu
+    besonderen Konditionen an
 
-    * Du vergrößert Deine Sichtbarkeit über unsere Webseite, Social Media und
+    - Du vergrößerst Deine Sichtbarkeit über unsere Webseite, Social Media und
     Auftritte auf Veranstaltungen
 
-    * Wir matchen Dich mit externen Unternehmen und Akteur*innen aus der Politik
-    und Gesellschaft
+    - Wir vernetzten Dich mit externen Organisationen und Akteur*innen aus der
+    Politik und Gesellschaft
 
-    * Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für
-    kommende Generationen tauglich ist! 
-
-
+    - Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für
+    kommende Generationen tauglich ist!
 
 
-    **Lass uns Gemeinsam. Wirken.**
+    **Lass uns #GemeinsamWirken**
   profile_boxes:
     - description: >-
         "Wir glauben, dass Sozialunternehmer viel Gutes in der Welt bewirken
