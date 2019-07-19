@@ -20,7 +20,7 @@ const Footer = () => (
         <figure className={styles.figure_desktop}>
           <img src={logo} alt="Send" />
         </figure>
-        <ButtonCTA color="aqua" label="Jetzt spenden" link="https://www.betterplace.org/de/projects/66103-das-social-entrepreneurship-netzwerk-deutschland-mit-uns-gemeinsam-wirken/donations/new?utm_campaign=donate_btn&utm_content=project%2366103&utm_medium=external_banner&utm_source=projects"/>
+        <ButtonCTA color="aqua" label="Newsletter" link="http://eepurl.com/dAQ3i5"/>
       </div>
       <div className={styles.mobile_view}>
         <ul className={styles.socialNetworks}>
@@ -29,7 +29,6 @@ const Footer = () => (
           <li><a href="https://www.youtube.com/channel/UCnWi-MJEheSG_n48VlBCJoQ/videos" target="_blank"><Youtube /></a></li>
         </ul>
         <ul className={styles.linkList}>
-          <li><a href="http://eepurl.com/dAQ3i5">Newsletter</a></li>
           <li><Link to="/impressum">Impressum</Link></li>
           <li><Link to="/dsgvo">Datenschutzerklärung</Link></li>
         </ul>

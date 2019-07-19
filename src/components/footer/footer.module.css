@@ -63,6 +63,10 @@
   float: right;
 }
 
+.linkList {
+  margin-top: 38px;
+}
+
 @media (max-width: break-main-padding){
   .footer ul{
     padding-top: 0;
