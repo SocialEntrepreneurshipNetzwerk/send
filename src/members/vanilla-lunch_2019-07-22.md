@@ -9,12 +9,9 @@ description: >-
   verzichten müssen. vanilla lunch bietet eine nachhaltige Alternative: Mit
   Hilfe eines Mehrweg-Pfandsystems für Essensboxen entwickeln wir den ersten
   verpackungsfreien Restaurant-Lieferdienst der Welt. Als Basis dient unsere
-  mehrfach preisgekrönte Restaurantführer-App (www.vanilla-bean.com). Wie bei
-  unserem Restaurantführer, steht pflanzliches Essen im Vordergrund. Zahlreiche
-  Studien untermauern die negativen Auswirkungen von Fleischkonsum auf den
-  Klimawandel, unsere Umwelt sowie auf unsere Gesundheit. Mit vanilla lunch
-  wollen wir zeigen wie groß und lecker das vegane Angebot mittlerweile ist,
-  sowie helfen, es weiter zu verbessern.
+  mehrfach preisgekrönte Restaurantführer-App (www.vanilla-bean.com). Mit
+  vanilla lunch wollen wir zeigen wie groß und lecker das vegane Angebot
+  mittlerweile ist, sowie helfen, es weiter zu verbessern.
 
 
   Alle unsere Lieferungen erfolgen CO2-neutral mit dem Fahrrad bzw.
