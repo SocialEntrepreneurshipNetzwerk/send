@@ -1,5 +1,5 @@
 ---
-title: Grünzeug GmbH
+title: vanilla lunch
 description: >-
   vanilla lunch ist der weltweit erste verpackungsfreie Restaurant-Lieferdienst
   – CO2-frei, fair und 100 % vegan.
