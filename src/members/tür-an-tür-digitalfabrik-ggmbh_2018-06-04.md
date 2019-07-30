@@ -13,7 +13,7 @@ impactArea:
   - Integration
 organization: true
 image: /uploads/tat_df_logo.png
-email: ''
+email: digitalfabrik@tuerantuer.de
 link: 'https://tuerantuer.de/'
 city: Augsburg
 postalCode: '86153'
