@@ -34,6 +34,18 @@ export default ({ frontmatter }) => {
         { name: 'twitter:description', content: `${pageDescription}` },
         { name: 'twitter:image', content: `${pageImage}` }
       ]}
-    />
+    >
+      {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111699277-1"></script>
+      <script>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-111699277-1');
+        `}  
+      </script>
+    </Helmet>
   )
 };
