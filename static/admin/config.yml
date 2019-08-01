@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: n3xtcoder/send
-  branch: master
+  branch: chris_sprint1
   base_url: https://send-auth.herokuapp.com
 
 publish_mode: editorial_workflow
