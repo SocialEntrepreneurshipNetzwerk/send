@@ -10,6 +10,24 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "sponsors"
+    label: "Förderer"
+    folder: "src/sponsors"
+    create: true
+    fields: 
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Homepage", name: "homepage", widget: "string"}
+      - {label: "Email", name: "mail", widget: "string"}
+      - {label: "Organisation", name: "organization", widget: "boolean"} 
+  - name: "partner"
+    label: "Partner"
+    folder: "src/partners"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Logo", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
