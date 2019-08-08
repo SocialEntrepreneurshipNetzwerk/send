@@ -6,5 +6,7 @@ section_1:
   title: Unsere Partner
 section_2:
   title: Unsere Förderer
+section_3:
+  title: Unsere privaten Förderer
 ---
 

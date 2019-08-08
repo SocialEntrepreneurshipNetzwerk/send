@@ -37,6 +37,11 @@ class MobileNav extends Component {
             </Link>
           </li>
           <li>
+            <Link className={styles.bold} to="/partner" onClick={this.props.mobileNavClose}>
+                Partner & Förderer
+            </Link>
+          </li>
+          <li>
             <a href="http://eepurl.com/dAQ3i5">
               Newsletter
             </a>

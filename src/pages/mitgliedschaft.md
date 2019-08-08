@@ -10,6 +10,11 @@ cta_link:
 cta_download:
   label: Zur Beitragsordnung
   link: /uploads/neue-beitragsordnung-1-.pdf
+cta_sticky:
+  text: Jetzt Mitglied werden!
+  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  showOnPage: false
+  hexColor: ff007b
 section_1:
   column_1:
     paragraph: >-

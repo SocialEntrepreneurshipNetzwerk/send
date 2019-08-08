@@ -22,7 +22,7 @@
 }
 
 .sticky_cta_polygon {
-  fill: active;
+  /* fill: active; */
   transition: all 0.3s;
 }
 
@@ -31,9 +31,18 @@
     transition: all 0.3s;
 }
 
+.sticky_cta_text_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
 .sticky_cta_text {
+  font-family: 'Karla', sans-serif;
   color: white;
   letter-spacing: 2px;
+  font-size: 18px;
 }
 
 .button {

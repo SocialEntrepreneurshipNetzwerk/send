@@ -7,7 +7,7 @@ import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/positionen_minified.jpg';
 import ColumnText from '../components/column-text/ColumnText';
 import ReactMarkdown from 'react-markdown';
-import ProfileBox3 from '../components/profile-box/ProfileBox3';
+import ProfileBox2 from '../components/profile-box/ProfileBox2';
 
 export default ({ data }) => {
   const frontmatter = data.page.frontmatter;
@@ -18,6 +18,7 @@ export default ({ data }) => {
   const { clip } = frontmatter;
   const title1 = frontmatter.section_1.title;
   const title2 = frontmatter.section_2.title;
+  const title3 = frontmatter.section_3.title;
   
   return (
     <div>
@@ -32,7 +33,8 @@ export default ({ data }) => {
         <section>
           <h1><span>{title2}</span></h1>
           <TriangleBoxContainer boxes={sponsorOrganization} sponsor={true} size="large"/>
-          {sponsorPrivate.map(( item, index ) => <ProfileBox3 content={item} key={index}/> )}
+          <h1><span>{title3}</span></h1>
+          {sponsorPrivate.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
         </section>
       </main>
     </div>
@@ -50,6 +52,9 @@ export const PartnerPageQuery = graphql`
               title
             }
             section_2{
+              title
+            }
+            section_3{
               title
             }
         }
