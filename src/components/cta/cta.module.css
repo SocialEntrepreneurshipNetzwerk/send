@@ -31,6 +31,21 @@
     transition: all 0.3s;
 }
 
+.sticky_cta_text_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.sticky_cta_text {
+  font-family: 'Karla', sans-serif;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 18px;
+  line-height: 21px;
+}
+
 .button {
   display: block;
   min-width: 248px;
