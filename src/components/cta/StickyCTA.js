@@ -12,7 +12,7 @@ const StickyCTA = () => (
       <switch>
         <foreignObject x="25" y="10" width="215" height="75">
           <div className={styles.sticky_cta_text_container}>
-            <p className={styles.sticky_cta_text} xmlns="http://www.w3.org/2000/svg">Jetzt am DSEM 2019 teilnehmen!</p>
+            <p className={styles.sticky_cta_text} xmlns="http://www.w3.org/2000/svg">DSEM 2019: Gib dem Sektor eine Stimme und mach mit!</p>
           </div>
         </foreignObject>
       </switch>
