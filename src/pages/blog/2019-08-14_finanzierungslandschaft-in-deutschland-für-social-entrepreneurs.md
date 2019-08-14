@@ -6,7 +6,7 @@ excerpt: >-
   Die Finanzierung ist immer noch eine der größten Herausforderungen des
   Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
   verbesserte Förder- und Finanzierungslandschaft erarbeitet und ein Booklet
-  über bestehende Finazierungsmöglichkeiten erstellt.
+  über bestehende Finanzierungsmöglichkeiten erstellt.
 image: /uploads/grafik_blogbeitrag_titel2.png
 date: 2019-08-14T11:30:54.429Z
 category: news
@@ -19,15 +19,23 @@ Die Ergebnisse des 1. Deutschen Social Entrepreneurship Monitor zeigen, dass die
 
 ![Konferenz](/uploads/grafik_blogbeitrag_workshop.png "Finanzierungskonferenz im März 2019")
 
+_Finanzierungskonferenz März 2019_
+
 In der ersten Jahreshälfte 2019 hat das Social Entrepreneurship Netzwerk Deutschland (SEND) zusammen mit der KfW Stiftung einen Stakeholder Dialog ins Leben gerufen, um akteurs-übergreifend mit Förderbanken, Impact Investoren, Stiftungen, Crowdfunding Plattformen, Ministerien, sowie Social Entrepreneurs gemeinsame Lösungen für eine verbesserte Förder- und Finanzierungslandschaft zu erarbeiten. Dabei wurden insgesamt 12 Forderungen und Lösungsansätze formuliert, die für eine verbesserte sektor- und phasenübergreifende Finanzierung dringend notwendig sind. Die Ergebnisse könnt Ihr euch [hier ](https://www.send-ev.de/uploads/finanzierung_positionspapier.pdf)ansehen.
 
 ![Positionspapier](/uploads/grafik_blogbeitrag_positionspapier.png "Positionspapier zur Finanzierungslandschaft in Deutschland")
+
+_Positionspapier zur Finanzierungslandschaft in Deutschland_
+
+- - -
 
 **Wer finanziert jetzt schon Social Entrepreneurship?** 
 
 Social Entrepreneurs sind eine sehr heterogene Zielgruppe. Oft bewegen sie sich zwischen gemeinnützigen Organisationen und klassischen Unternehmen, weshalb in vielen Fällen bestehende Finanzierungsinstrumente nicht greifen. Um mehr Transparenz in die Finanzierungslandschaft zu bringen, haben wir relevante Akteure in [dieser Broschüre](https://www.send-ev.de/uploads/finanzierungsbooklet.pdf) gesammelt. Sie liefert Sozialunternehmer*innen auf der Suche nach Finanzierung/Förderung erste Informationen und Kontakte zu möglichen Finanzierungsprogrammen und weiterer Beratung. Wir werden die Broschüre über [diese Umfrage](https://fase.typeform.com/to/PdDWcR) fortlaufend aktualisieren und freuen uns darauf, weitere Finanzierungs- und Förderpartner abbilden zu können.
 
-![Booklet](/uploads/grafik_blogbeitrag_booklet.png "Broschüre zur Finanzierungslandschaft in Deutschland ")
+![https://www.send-ev.de/uploads/finanzierungsbooklet.pdf](/uploads/grafik_blogbeitrag_booklet.png "https://www.send-ev.de/uploads/finanzierungsbooklet.pdf")
+
+- - -
 
 **Was jetzt politisch passieren muss: Vom Reden zum Handeln!**
 
