@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Finanzierungslandschaft in Deutschland für Social Entrepreneure
+title: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
 excerpt: >-
   Die Finanzierung ist immer noch eine der größten Herausforderungen des
   Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
