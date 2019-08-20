@@ -10,6 +10,16 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "team"
+    label: "Team"
+    folder: "src/team"
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Rolle", name: "role", widget: "select", options: [
+        "Vorstand"
+      ]}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"

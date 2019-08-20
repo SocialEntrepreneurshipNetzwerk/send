@@ -15,6 +15,8 @@ export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
   const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
+  const team = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+  const executive = team.filter(member => member.role === "Vorstand");
 
   return (
     <div>
@@ -32,6 +34,9 @@ export default ({ data }) => {
             <BackgroundTurquoise2 image={section_2.image}/>
           </div>
           <ReactMarkdown source={section_2.paragraph}/>
+          <div className={styles.executive_container}>
+            {executive.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
+          </div>
         </section>
         <section>
           <h1><span>{section_3.title}</span></h1>
@@ -107,6 +112,17 @@ export const AbouPageQuery = graphql`
               }
             }
         }
+    }
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/team/"}}) {
+      edges {
+        node {
+          frontmatter{
+            name
+            image
+            role
+          }
+        }
+      }
     }
 }
 `;

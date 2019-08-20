@@ -28,6 +28,10 @@
   padding-bottom: 0px;
 }
 
+.executive_container p {
+  padding: 0;
+}
+
 .clip_image{
   position: relative;
   left: 50%;
