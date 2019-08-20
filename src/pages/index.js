@@ -73,15 +73,15 @@ export const IndexQuery = graphql`
     markdownRemark(fields: { slug: { eq: "/" } }) {
         frontmatter {
             title
-            tagline
-            tagline_large
-            paragraph
             cta_sticky {
               text
               link
               hexColor
               showOnPage
             }
+            tagline
+            tagline_large
+            paragraph
             section_1 {
               title
               paragraph

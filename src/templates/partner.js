@@ -15,7 +15,7 @@ export default ({ data }) => {
   const sponsors = data.sponsors.edges.map(i => i.node.frontmatter);
   const sponsorOrganization = sponsors.filter(sponsor => sponsor.organization === true);
   const sponsorPrivate = sponsors.filter(sponsor => sponsor.organization === false);
-  const { clip } = frontmatter;
+  const { cta_sticky, clip } = frontmatter;
   const title1 = frontmatter.section_1.title;
   const title2 = frontmatter.section_2.title;
   const title3 = frontmatter.section_3.title;
@@ -24,7 +24,9 @@ export default ({ data }) => {
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
-      <StickyCTA/>
+      {cta_sticky.showOnPage &&
+        <StickyCTA data={cta_sticky}/>        
+      }
       <main>
         <section>
           <h1><span>{title1}</span></h1>
@@ -48,6 +50,12 @@ export const PartnerPageQuery = graphql`
         frontmatter {
             clip
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             section_1{
               title
             }
