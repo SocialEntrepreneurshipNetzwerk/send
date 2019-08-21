@@ -10,6 +10,35 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "team"
+    label: "Team"
+    folder: "src/team"
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Rolle", name: "role", widget: "select", options: [
+        "Vorstand",
+        "Regionalgruppe"
+      ]}
+      - {label: "Email", name: "mail", widget: "string", required: false}
+      - {label: "Bundesland", name: "federalState", widget: "select", required: false, options: [
+          "Baden-Württemberg",
+          "Bayern","Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen"
+      ]}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -152,19 +181,7 @@ collections:
             ]}
           - {label: "Section 4", name: "section_4", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
-              {label: "Paragraph", name: "paragraph", widget: "markdown"},
-              {label: "Regionalgruppen", name: "column_1", widget: "object", fields: [
-                {label: "Title", name: "title", widget: "string"},
-                {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "markdown"},
-                ]}
-              ]},
-              {label: "Fachgruppen", name: "column_2", widget: "object", fields: [
-                {label: "Title", name: "title", widget: "string"},
-                {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "markdown"},
-                ]}
-              ]}
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
       - file: "src/pages/positionen.md"
         label: "Positionen"

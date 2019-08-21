@@ -32,6 +32,13 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/team`,
+        name: 'team'
+      }
+    },
+    {
       resolve: 'gatsby-plugin-favicon',
       options: {
         logo: './src/favicon.svg',

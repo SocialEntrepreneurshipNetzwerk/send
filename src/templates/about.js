@@ -15,6 +15,13 @@ export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
   const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
+  const team = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+  const regionalGroups = team.filter(member => member.role === "Regionalgruppe");
+  console.log(regionalGroups);
+  regionalGroups.sort(function(a,b){
+    return a.federalState.localeCompare(b.federalState);
+  });
+
 
   return (
     <div>
@@ -42,19 +49,8 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_4.title}</span></h1>
           <ReactMarkdown source={section_4.paragraph}/>
-          <div className={styles.column_wrapper}>
-            <div className={styles.column}>
-              <p className={styles.column_title}>{section_4.column_1.title}</p>
-              <ul>
-                {section_4.column_1.rows.map(( item, index ) => <li key={index}><ReactMarkdown source={item.row}/></li> )}
-              </ul>
-            </div>
-            <div className={styles.column}>
-              <p className={styles.column_title}>{section_4.column_2.title}</p>
-              <ul>
-                {section_4.column_2.rows.map(( item, index ) => <li key={index}>{item.row}</li> )}
-              </ul>
-            </div>
+          <div className={styles.profile_container}>
+            {regionalGroups.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
           </div>
         </section>
       </main>
@@ -93,20 +89,21 @@ export const AbouPageQuery = graphql`
             section_4{
               title
               paragraph
-              column_1{
-                title
-                rows{
-                  row
-                }
-              }
-              column_2{
-                title
-                rows{
-                  row
-                }
-              }
             }
         }
+    }
+    allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/src/team/"}}) {
+      edges {
+        node {
+          frontmatter{
+            name
+            image
+            role
+            federalState
+            mail
+          }
+        }
+      }
     }
 }
 `;
