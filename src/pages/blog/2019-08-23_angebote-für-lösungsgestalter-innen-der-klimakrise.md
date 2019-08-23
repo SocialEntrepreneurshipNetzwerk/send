@@ -2,7 +2,11 @@
 templateKey: article
 clip: clip_article
 title: Angebote für Lösungsgestalter*innen der Klimakrise
-excerpt: hgjhg
+excerpt: >-
+  Wo finden Lösungsgestalter*innen der Klimakrise Unterstützung? Was sind die
+  Anlaufstellen für die Visionäre, die ihre Idee zur Rettung des Klimas umsetzen
+  möchten? In der folgenden Auflistung haben wir verschiedenste Initiativen,
+  Inkubatoren, Acceleratoren, Ausschreibungen und Events gesammelt.
 image: /uploads/titel_angeboteklimakrise_test.jpg
 date: 2019-08-23T09:27:56.070Z
 category: news
