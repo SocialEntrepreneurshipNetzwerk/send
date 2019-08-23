@@ -30,6 +30,11 @@ export default class IndexPage extends React.Component {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
     const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
+    const graphqlArticleFrontmatter = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+    const graphqlArticleSlugs = data.allMarkdownRemark.edges.map(i=>i.node.fields.slug);
+    const graphqlArticle = graphqlArticleFrontmatter.map((i,index)=>{return {...i, slug: graphqlArticleSlugs[index]}})
+    const articles = graphqlArticle;
+    console.log(articles);
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
@@ -41,6 +46,7 @@ export default class IndexPage extends React.Component {
         </header>
         <main className={styles.main} >
           <h1>{paragraph}</h1>
+          <TriangleBoxContainer boxes={articles} blogpreview={true} article={true}/>
           <section>
             <h1><span>{section_1.title}</span></h1>
             <div className={styles.section_paragraph}><ReactMarkdown source={section_1.paragraph}/></div>
@@ -68,6 +74,22 @@ export default class IndexPage extends React.Component {
 
 export const IndexQuery = graphql`
   query Index {
+    allMarkdownRemark (limit:4 filter: {fileAbsolutePath: {regex: "/src/pages/blog\//"}}, sort:{fields:[frontmatter___date], order: DESC}) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter{
+            title
+            excerpt
+            date (formatString: "DD.MM.YYYY")
+            category
+            image
+          }
+        }
+      }
+    }
     markdownRemark(fields: { slug: { eq: "/" } }) {
         frontmatter {
             title
