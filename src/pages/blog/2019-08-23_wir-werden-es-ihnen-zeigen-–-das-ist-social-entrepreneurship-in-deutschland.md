@@ -2,39 +2,49 @@
 templateKey: article
 clip: clip_article
 title: Wir werden es Ihnen zeigen! – Das ist Social Entrepreneurship in Deutschland
-excerpt: hgjhg
+excerpt: >-
+  Social Entrepreneurship muss noch sichtbarer werden. In unseren Gesprächen mit
+  Politik, Wirtschaft und Zivilgesellschaft kommt oft die Forderung nach Zahlen
+  und Fakten auf. Mit dem Deutschen Social Entrepreneurship Monitor erheben wir
+  diese - jetzt an der Umfrage teilnehmen!
 image: /uploads/deutscher_social_entrepreneurship_monitor.png
 date: 2019-08-23T10:31:53.907Z
 category: news
 ---
-Eine unserer Missionen ist es Social Entrepreneurship in Deutschland sichtbar zu machen und zu unterstützen. In Gesprächen mit Politik, Wirtschaft und Zivilgesellschaft entsteht oft die Forderung nach Zahlen und Fakten. Nur mit Informationen zum Sektor kann Unterstützung zielgerichtet erfolgen.
+Das Thema Social Entrepreneurship ist in vier Koalitionsverträge verankert und es findet sich in den Parteiprogrammen zur anstehenden Wahl in Brandenburg wieder. Es bewegt sich was! Aber noch nicht genug. 
 
-Deswegen erheben wir jährlich den Deutschen Social Entrepreneurship Monitor (DSEM)!
+Social Entrepreneurship muss in Deutschland noch sichtbarer werden. In unseren Gesprächen mit Politik, Wirtschaft und Zivilgesellschaft kommt oft die Forderung nach Zahlen und Fakten auf. Nur mit Informationen zum Ökosystem können uns diese Entscheidungsträger zielgerichtet unterstützen.
 
-Um hierbei möglichst viele Social Entrepreneure zu repräsentieren und ihren Anliegen entsprechendes Gewicht zu verleihen, ist eine große Beteiligung unbedingt erforderlich. 
+Deswegen erheben wir den Deutschen Social Entrepreneurship Monitor (DSEM)!
 
-Du bist Social Entrepreneur? Dann unbedingt [hier](http://bit.ly/DSEM19) an der Umfrage teilnehmen! 
+Um hierbei möglichst viele Social Entrepreneure zu repräsentieren und ihren Anliegen entsprechendes Gewicht zu verleihen, ist eine große Beteiligung unbedingt erforderlich.
 
-Mit dem DSEM 2018 konnten wir bereits einiges erreichen. Dies wird insbesondere dadurch deutlich, dass die Ergebnisse im Bundestag, in Landtagen, in Ministerien, in Ämtern, in Parteien, bei Stiftungen und Förderorganisationen verwendet wurden. Zudem nutzen auch wir den DSEM in allen unseren Gesprächen mit Politik, Wirtschaft und Zivilgesellschaft.
+Deshalb lasst uns zeigen: Wir sind viele und haben ein Stimme.
 
-Der DSEM 2018 war/ist relevant in:
 
-* Seiner Vorstellung im Bundestag
-* Antrag und Diskussion im Plenum des Bundestags
-* Vielen Hintergrundgesprächen mit Politik, Ministerien und anderen Akteuren aus Wirtschaft, Wohlfahrt und Förderern
-* Vielen Diskussionen in Politik und Bundestag in Form von Zitaten
-* Nennung in themenspezifischen Beiträgen
-* Der Steigerung der Sichtbarkeit und Transparenz von Social Entrepreneurship
-* Der Erreichung neuer Zielgruppen; bspw. beziehen sich weitere Akteure auf die Ergebnisse des DSEM
 
-Um mehr Gemeinsam zu Wirken, Eure Bedürfnisse zu verstehen und mehr zu erreichen brauchen wir Eure Stimme! 
+Nimm Dir die Zeit die Umfrage zum DSEM 2019 auszufüllen und helfe, das Potential von Social Entrepreneurship sichtbar zu machen. Die Studie ist eine wichtige Verhandlungsgrundlage und gibt einen detaillierten Einblick in den Sektor. 
 
-Eure Stimme zählt [hier](http://bit.ly/DSEM19)!
+Mit dem letztjährigen DSEM konnten wir bereits einiges erreichen:
 
-Mit DSEM 2019 wollen wir den DSEM 2018 weiterführen und zudem neue Erkenntnisse über Social Entrepreneurship in Deutschland gewinnen. Wie sieht Social Entrepreneurship in Deutschland aktuell aus? Was sind Herausforderungen? Was sind Gemeinsamkeiten und Unterschiede zwischen Social Enterprises? 
+·         Antrag und Diskussion im Plenum des Bundestags
 
-Repräsentiert werden im DSEM 2019 sowohl Social Startups und etablierte Sozialunternehmen, als auch noch gründende Social Entrepreneurs. 
+·         Viele Hintergrundgespräche mit Politik, Ministerien und anderen Akteuren aus Wirtschaft, Wohlfahrt und Förderern
 
-Der DSEM entsteht aus einer Kooperation zwischen dem Social Entrepreneurship Netzwerks Deutschland e.V. und der Otto-von-Guericke-Universität Magdeburg und wird ermöglicht durch SAP.
+·         Zitate des DSEM 2018 wurden von Politikern und im Bundestag verwendet
 
-Du bist Social Entrepreneur? – Jetzt [hier](http://bit.ly/DSEM19) teilnehmen!
+·         Nennung in themenspezifischen Beiträgen
+
+·         Die Erreichung neuer Zielgruppen; bspw. beziehen sich weitere Akteure auf die Ergebnisse des DSEM
+
+
+
+Mit dem DSEM 2019 wollen wir den DSEM 2018 weiterführen und zudem neue Erkenntnisse über Social Entrepreneurship in Deutschland gewinnen. Wie sieht Social Entrepreneurship in Deutschland 2019 aus? Was sind Herausforderungen? Was sind Gemeinsamkeiten und Unterschiede zwischen Social Enterprises?
+
+Repräsentiert werden im DSEM 2019 sowohl Social Startups und etablierte Sozialunternehmen, als auch noch gründende Social Entrepreneurs.
+
+Du bist Social Entrepreneur? Deine Stimme zählt hier: http://bit.ly/DSEM19
+
+
+
+Der DSEM entsteht aus einer Kooperation zwischen dem Social Entrepreneurship Netzwerk Deutschland e.V. und der Otto-von-Guericke-Universität Magdeburg und wird ermöglicht durch SAP.
