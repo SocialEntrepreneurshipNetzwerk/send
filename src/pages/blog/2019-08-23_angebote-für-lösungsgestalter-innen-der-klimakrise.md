@@ -40,12 +40,12 @@ In der folgenden Auflistung haben wir verschiedenste Initiativen, Inkubatoren, A
 * [Stiftungssuche](https://stiftungssuche.de/) - Findet hier über 100 Stiftungen zum Stichwort Klima.
 * [Grüne-Startups](https://gruene-startups.de/) - Lest auf der Plattform für Startups verschiedene Beiträge zu den Themen Nachhaltigkeit und grüne Innovationen.
 * Nutzt die verschiedenen Crowdfunding-Angebote wie [Seedmatch](https://www.seedmatch.de/), [Ecocrowd](https://www.ecocrowd.de/en/), [Green Rocket](https://www.greenrocket.de/), [Betterplace](https://www.betterplace.org/de) und [Startnext](https://www.startnext.com/).
-* [openTransfer Green CAMP in Berlin](https://opentransfer.de/event/opentransfer-green-camp-in-berlin/) - Am 2. August 2019 kamen 150 Engagierte und Interessierte zusammen. Klima & Nachhaltigkeit, Umwelt- und Ressourcenschutz waren die Themen.
+* [openTransfer Green CAMP in Berlin](https://opentransfer.de/event/opentransfer-green-camp-in-berlin/) - Am 2. August 2019 kamen 150 Engagierte und Interessierte zusammen. Klima & Nachhaltigkeit, Umwelt- und Ressourcenschutz waren die Themen
+* [WIWIN Award](https://www.wiwin.de/award) - honoriert mit einem hochdotierten Preis nachhaltige Startups, die kreativ und mutig Lösungen gegen den Klimawandel und die Umweltprobleme unserer Zeit schaffen.
 * Bleibt informiert über anstehende Events in Eurer Region auch zum Thema Klima und abonniert den monatlichen [SEND-Newsletter](https://send-ev.us16.list-manage.com/subscribe?u=0bd9d2e440fd70368ee268dc7&id=db3ae0b8fc).
 
 Aktuell geöffnete Programme:
 
-* Bis 23.08.19 [WIWIN Award](https://www.wiwin.de/award) - Bewerben können sich Startups aus den Bereichen erneuerbare Energien, Energieeffizienz, Elektromobilität, nachhaltiges Bauen, nachhaltige Finanzen, ökologische Landwirtschaft, Circular Economy sowie profitorientierte Sozialunternehmen. Der erste Platz erhält 500.000 €.
 * Bis 01.09.19 [SEA-Certificate](https://seakademie.org/angebot/seacertificate/) – Bewerbt Euch wenn Ihr bei dem renommierten Zertifikatsprogramm lernen wollt, eigene Ideen auf die Beine zu stellen. Das Thema für das kommende Semester: Climate Action.
 * Bis 30.09.19 [ActOn Plastic](http://projecttogether.org/actonplastic) - Dein Lösungsansatz kann Plastik systemisch vermeiden, wiederverwerten oder neudenken? Deine Initiative erweckt gesellschaftspolitische Aufmerksamkeit für das Plastikproblem? Soulbottles, ProjectTogether und die Röchling Stiftung skalieren Deine Lösung mit dem “soulincubator”.
 * Bis 15.11.19 [Global Goals Lab 2019/2020](https://globalgoalslab.eu/) - gesucht werden Sozialunternehmen, die zum Klimaschutz beitragen. Das Lab bietet den Teilnehmer*innen Information, Austausch und Vernetzung und unterstützt Euch bei der Verstetigung oder Skalierung Eurer Geschäftsmodelle.  
