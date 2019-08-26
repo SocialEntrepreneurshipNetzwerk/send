@@ -31,6 +31,8 @@ Mit dem letztjährigen DSEM konnten wir bereits einiges erreichen:
 * Nennung in themenspezifischen Beiträgen
 * Die Erreichung neuer Zielgruppen; bspw. beziehen sich weitere Akteure auf die Ergebnisse des DSEM
 
+![Social Entrepreneurship, Sozialunternehmen, Social Entrepreneur, Soziale Innovationen](/uploads/dsem_fakten_twitter.png "Social Entrepreneurship, Sozialunternehmen, Social Entrepreneur, Soziale Innovationen")
+
 Mit dem DSEM 2019 wollen wir den [DSEM 2018](https://www.send-ev.de/2018-12-12_erster-deutscher-social-entrepreneurship-monitor-veröffentlicht) weiterführen und zudem neue Erkenntnisse über Social Entrepreneurship in Deutschland gewinnen. Wie sieht Social Entrepreneurship in Deutschland 2019 aus? Was sind Herausforderungen? Was sind Gemeinsamkeiten und Unterschiede zwischen Social Enterprises?
 
 Repräsentiert werden im DSEM 2019 sowohl Social Startups und etablierte Sozialunternehmen, als auch noch gründende Social Entrepreneurs.
