@@ -8,7 +8,7 @@ excerpt: >-
   und Fakten auf. Mit dem Deutschen Social Entrepreneurship Monitor erheben wir
   diese - Nimm jetzt an der Umfrage teil!
 image: /uploads/deutscher_social_entrepreneurship_monitor.png
-date: 2019-08-23T10:31:53.907Z
+date: 2019-08-25T22:00:00.000Z
 category: news
 ---
 Das Thema Social Entrepreneurship ist in vier Koalitionsverträge verankert und es findet sich in den Parteiprogrammen zur anstehenden Wahl in Brandenburg wieder. Es bewegt sich was! Aber noch nicht genug. 
