@@ -16,20 +16,14 @@ Greta Thunberg, 16-jährige Klima-Aktivistin im Streik
 
 ![Greta Thunberg FridaysForFuture Klimakrise](/uploads/beitrag_angeboteklimakrise.jpg "Greta Thunberg FridaysForFuture Klimakrise")
 
-
-
 Die teilnehmenden Jugendlichen der FridaysForFuture-Bewegung zeigen es seit Monaten auf: Wir brauchen ein Umdenken der Gesellschaft und eine Klimapolitik, die die katastrophalen Folgen des Klimawandels abwendet! Diese Forderungen sind in unseren Augen absolut unterstützenswert. Daher freuen wir uns sehr, dass es bereits so viele Sozialunternehmen gibt, die sich dem Lösen der Klimakrise verschrieben haben und hier bereits einen enormen Beitrag leisten. Lest auch sehr gerne nochmal in unseren Blogbeitrag [\#FridaysForFuture und Social Entrepreneurship](https://www.send-ev.de/2019-03-14_-fridaysforfuture-und-social-entrepreneurship/) rein, in welchem wir Euch drei unserer Mitglieder aus dem Bereich vorstellen.
 
 Doch wo finden genau diese Lösungsgestalter*innen der Klimakrise Unterstützung? Was sind die Anlaufstellen für die Visionäre, die ihre Idee zur Rettung des Klimas umsetzen möchten? Auch Du möchtest in dem Bereich aktiv werden und fragst Dich, wie Du Dein Know-How und auch Deine finanziellen Ressourcen aufbessern kannst?
 
- 
-
 In der folgenden Auflistung haben wir verschiedenste Initiativen, Inkubatoren, Acceleratoren, Ausschreibungen und Events gesammelt, die genau diese Fragen mit ihren umfassenden Angeboten beantworten. Nutzt solche Programme und vergrößert somit die Wirkung Eurer Idee für unseren Planeten. Die Bandbreite ist groß: Neben dauerhaften Angeboten haben wir Euch hier auch temporäre Aktionen aufgelistet - einige davon sind gerade für Bewerbungen geöffnet, andere sind in der Regel sich wiederholende Programme und schon bald wieder aktuell. 
 
-
-
-*  [EIT Climate-KIC](https://www.climate-kic.org/) - Europas führende Initiative im Bereich Klima-Innovation bietet z.B. verschiedene Bildungsprogramme, ein Inkubator- und Accelerator-Programm sowie einen Austausch in der eigenen Community an.
-*  [<Smart> Green Startup Accelerator](https://smartgreen-accelerator.de/) - beschleunigt Startups der Green Economy mit wirksamen Programmen, dem zielgerichteten Aufbau von Industriekooperationen und Zugang zu exklusiven Finanzierungsinstrumenten. Aktuell ist das [CAMP](https://smartgreen-accelerator.de/programme/camp/) und das [GROW Programm](https://smartgreen-accelerator.de/programme/grow/) für Bewerbungen geöffnet.
+* [EIT Climate-KIC](https://www.climate-kic.org/) - Europas führende Initiative im Bereich Klima-Innovation bietet z.B. verschiedene Bildungsprogramme, ein Inkubator- und Accelerator-Programm sowie einen Austausch in der eigenen Community an.
+* [Smart Green Startup Accelerator](https://smartgreen-accelerator.de/) - beschleunigt Startups der Green Economy mit wirksamen Programmen, dem zielgerichteten Aufbau von Industriekooperationen und Zugang zu exklusiven Finanzierungsinstrumenten. Aktuell ist das [CAMP](https://smartgreen-accelerator.de/programme/camp/) und das [GROW Programm](https://smartgreen-accelerator.de/programme/grow/) für Bewerbungen geöffnet.
 * [Entrepreneurs4Future](https://www.entrepreneurs4future.de/) - Ist eine Initiative verschiedener Organisationen, die davon überzeugt sind, dass schnellere und bessere Klimaschutzmaßnahmen nötig sind. Es gibt aktuell deutschlandweit verschiedene [Arbeits- und Vernetzungstreffen](https://www.entrepreneurs4future.de/aktivitaeten). Schließt Euch vor Ort mit anderen Zukunftsunternehmer*innen zusammen.
 * [CRCLR](https://crclr.org/de) - Hier werden zirkuläre Orte und Konzepte entwickelt. Neben interessanten Veranstaltungen erhaltet Ihr hier außerdem Beratung zu Themen wie Kreislaufwirtschaft, Müllvermeidung und Bürger*innen-Aktivierung.
 * [CleanTech Innovation Center](https://cleantech-innovationcenter.de/) - Der Coworking Space für grüne Start-ups bietet auch ein Mentorenprogramm, ein starkes Partnernetzwerk und internationale Austauschprogramme an.
@@ -59,12 +53,6 @@ Aktuell geöffnete Programme:
 
 Ihr kennt weitere Programme und Unterstützungsangebote? Dann meldet Euch gerne bei uns!
 
- 
-
 Wir sind natürlich weiterhin am Thema dran! Lasst uns #GemeinsamWirken!
-
-
-
-
 
 Photos:  Markus Spiske on Unsplash
