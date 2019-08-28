@@ -14,7 +14,11 @@ category: news
 _“Why should I be studying for a future that soon may be no more, when no one is doing anything to save that future? And what is the point of learning facts when the most important facts clearly mean nothing to our society?”_\
 Greta Thunberg, 16-jährige Klima-Aktivistin im Streik
 
+
+
 ![Greta Thunberg FridaysForFuture Klimakrise](/uploads/beitrag_angeboteklimakrise.jpg "Greta Thunberg FridaysForFuture Klimakrise")
+
+
 
 Die teilnehmenden Jugendlichen der FridaysForFuture-Bewegung zeigen es seit Monaten auf: Wir brauchen ein Umdenken der Gesellschaft und eine Klimapolitik, die die katastrophalen Folgen des Klimawandels abwendet! Diese Forderungen sind in unseren Augen absolut unterstützenswert. Daher freuen wir uns sehr, dass es bereits so viele Sozialunternehmen gibt, die sich dem Lösen der Klimakrise verschrieben haben und hier bereits einen enormen Beitrag leisten. Lest auch sehr gerne nochmal in unseren Blogbeitrag [\#FridaysForFuture und Social Entrepreneurship](https://www.send-ev.de/2019-03-14_-fridaysforfuture-und-social-entrepreneurship/) rein, in welchem wir Euch drei unserer Mitglieder aus dem Bereich vorstellen.
 
@@ -31,7 +35,7 @@ In der folgenden Auflistung haben wir verschiedenste Initiativen, Inkubatoren, A
 * [UnternehmensGrün](https://www.unternehmensgruen.org) – die politische Stimme der nachhaltigen Wirtschaft, hier setzen sich grüne Start-ups gemeinsam mit etablierten Unternehmen in einem starken Netzwerk für die Transformation ein.
 * [Eco Innovation Alliance](http://eco-innovation-alliance.com/) - ein Bündnis von Start-ups und Innovationsunternehmen aus der Green Economy. Ihr Ziel: Deutschland bei grünen Innovationen zurück in die erste Liga zu heben.
 * [Heldenrat](http://www.heldenrat.org/?fbclid=IwAR1f9l8ZRpZuRLYcvrI4W_I8iMb3m6hNKPEijHMXtK2OW3VbnSkeToQcd3g) - kostenfreie Begleitung und Beratung. Mit ihrer Moderations- und Prozesskompetenz wollen sie den Aufbau von Know-how in gemeinwohlorientierten Organisationen unterstützen.
-* [ClimateActionChallenge](https://projecttogether.org/challenges/climate-action-challenge/) - ProjectTogether hat gemeinsam mit EIT Climate-KIC und Ecosia Initiativen gesucht, die Lösungen zum Klimaschutz in den vier Sektoren Energie, Industrie, Landwirtschaft und Transport entwickeln und umsetzen.
+* [ClimateActionChallenge](https://projecttogether.org/climate-action/) - ProjectTogether hat gemeinsam mit EIT Climate-KIC und Ecosia Initiativen gesucht, die Lösungen zum Klimaschutz in den vier Sektoren Energie, Industrie, Landwirtschaft und Transport entwickeln und umsetzen.
 * [Global Entrepreneurship Summer School](https://globalsummerschool.org) - Eine Woche lang arbeiten Studierende an den drängenden Klima-Herausforderungen unserer Zeit. Bleibt [hier](https://www.instagram.com/globalentrepreneursummerschool/?hl=de) auf dem Laufenden.
 * [StartGreen Award](https://start-green.net/award/ablauf-und-bewertung/) - unterstützt innovative Start-ups im Bereich Klimaschutz und Nachhaltigkeit und gibt ihnen Sichtbarkeit in der deutschen und europäischen Szene.
 * [Grüne Helden Förderpreis](https://grueneheldenaward.de/) - Ein Preis für öko-soziale Unternehmungen, Gemeinwohl fördernde Geschäftsmodelle und Non-Profit-Herzensprojekte.
