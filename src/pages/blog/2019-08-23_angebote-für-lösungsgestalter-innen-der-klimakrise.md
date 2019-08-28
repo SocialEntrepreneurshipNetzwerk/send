@@ -14,7 +14,11 @@ category: news
 _“Why should I be studying for a future that soon may be no more, when no one is doing anything to save that future? And what is the point of learning facts when the most important facts clearly mean nothing to our society?”_\
 Greta Thunberg, 16-jährige Klima-Aktivistin im Streik
 
+
+
 ![Greta Thunberg FridaysForFuture Klimakrise](/uploads/beitrag_angeboteklimakrise.jpg "Greta Thunberg FridaysForFuture Klimakrise")
+
+
 
 Die teilnehmenden Jugendlichen der FridaysForFuture-Bewegung zeigen es seit Monaten auf: Wir brauchen ein Umdenken der Gesellschaft und eine Klimapolitik, die die katastrophalen Folgen des Klimawandels abwendet! Diese Forderungen sind in unseren Augen absolut unterstützenswert. Daher freuen wir uns sehr, dass es bereits so viele Sozialunternehmen gibt, die sich dem Lösen der Klimakrise verschrieben haben und hier bereits einen enormen Beitrag leisten. Lest auch sehr gerne nochmal in unseren Blogbeitrag [\#FridaysForFuture und Social Entrepreneurship](https://www.send-ev.de/2019-03-14_-fridaysforfuture-und-social-entrepreneurship/) rein, in welchem wir Euch drei unserer Mitglieder aus dem Bereich vorstellen.
 
