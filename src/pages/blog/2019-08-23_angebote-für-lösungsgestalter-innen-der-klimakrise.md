@@ -14,11 +14,7 @@ category: news
 _“Why should I be studying for a future that soon may be no more, when no one is doing anything to save that future? And what is the point of learning facts when the most important facts clearly mean nothing to our society?”_\
 Greta Thunberg, 16-jährige Klima-Aktivistin im Streik
 
-
-
 ![Greta Thunberg FridaysForFuture Klimakrise](/uploads/beitrag_angeboteklimakrise.jpg "Greta Thunberg FridaysForFuture Klimakrise")
-
-
 
 Die teilnehmenden Jugendlichen der FridaysForFuture-Bewegung zeigen es seit Monaten auf: Wir brauchen ein Umdenken der Gesellschaft und eine Klimapolitik, die die katastrophalen Folgen des Klimawandels abwendet! Diese Forderungen sind in unseren Augen absolut unterstützenswert. Daher freuen wir uns sehr, dass es bereits so viele Sozialunternehmen gibt, die sich dem Lösen der Klimakrise verschrieben haben und hier bereits einen enormen Beitrag leisten. Lest auch sehr gerne nochmal in unseren Blogbeitrag [\#FridaysForFuture und Social Entrepreneurship](https://www.send-ev.de/2019-03-14_-fridaysforfuture-und-social-entrepreneurship/) rein, in welchem wir Euch drei unserer Mitglieder aus dem Bereich vorstellen.
 
@@ -32,6 +28,7 @@ In der folgenden Auflistung haben wir verschiedenste Initiativen, Inkubatoren, A
 * [CRCLR](https://crclr.org/de) - Hier werden zirkuläre Orte und Konzepte entwickelt. Neben interessanten Veranstaltungen erhaltet Ihr hier außerdem Beratung zu Themen wie Kreislaufwirtschaft, Müllvermeidung und Bürger*innen-Aktivierung.
 * [CleanTech Innovation Center](https://cleantech-innovationcenter.de/) - Der Coworking Space für grüne Start-ups bietet auch ein Mentorenprogramm, ein starkes Partnernetzwerk und internationale Austauschprogramme an.
 * [dasselbe in grün](https://www.dasselbe-in-gruen.de/) - vernetzen die nachhaltige Wirtschaft, informieren über öko-soziale Themen und bieten Tipps für sinnvolle Alternativen zu konventionellen Produkten.
+* [Green Startups Plattform ](https://deutschestartups.org/community/plattformen/greenstartups/)- das Netzwerk für nachhaltige Startups, innovative Unternehmen und wichtige Akteure der Green Economy im Startup-Verband. Mit unterschiedlichen Aktivitäten unterstützt die Plattform die Mitglieder dabei, ihre grünen Innovationen erfolgreich im Markt zu verankern. 
 * [UnternehmensGrün](https://www.unternehmensgruen.org) – die politische Stimme der nachhaltigen Wirtschaft, hier setzen sich grüne Start-ups gemeinsam mit etablierten Unternehmen in einem starken Netzwerk für die Transformation ein.
 * [Eco Innovation Alliance](http://eco-innovation-alliance.com/) - ein Bündnis von Start-ups und Innovationsunternehmen aus der Green Economy. Ihr Ziel: Deutschland bei grünen Innovationen zurück in die erste Liga zu heben.
 * [Heldenrat](http://www.heldenrat.org/?fbclid=IwAR1f9l8ZRpZuRLYcvrI4W_I8iMb3m6hNKPEijHMXtK2OW3VbnSkeToQcd3g) - kostenfreie Begleitung und Beratung. Mit ihrer Moderations- und Prozesskompetenz wollen sie den Aufbau von Know-how in gemeinwohlorientierten Organisationen unterstützen.
