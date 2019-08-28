@@ -8,7 +8,7 @@ excerpt: >-
   haben wir verschiedenste Möglichkeiten gesammelt, so dass Ihr die Wirkung
   Eurer Idee für unseren Planeten vergrößern könnt!
 image: /uploads/titel_angeboteklimakrise_test.jpg
-date: 2019-08-23T09:27:56.070Z
+date: 2019-08-27T22:00:00.000Z
 category: news
 ---
 _“Why should I be studying for a future that soon may be no more, when no one is doing anything to save that future? And what is the point of learning facts when the most important facts clearly mean nothing to our society?”_\
