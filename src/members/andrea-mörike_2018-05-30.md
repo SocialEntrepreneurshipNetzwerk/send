@@ -15,7 +15,7 @@ impactArea:
 organization: false
 image: /uploads/andrea-mörike.jpg
 email: andrea@moerikeconsult.com
-link: www.sozialunternehmensberatung.de
+link: 'http://sozialunternehmensberatung.de/'
 city: München
 postalCode: 81667
 federalState: Bayern
