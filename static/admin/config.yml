@@ -278,3 +278,13 @@ collections:
           - {label: "Page Title ", name: "title", widget: "string"}
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/downloads.md"
+        label: "Downloads"
+        name: "downloads"
+        fields:
+          - {label: "Page Title", name: "title", widget: "string"}
+          - {label: "Download Material", name: "downloadMaterial", widget: "list", fields: [
+                {label: "Download Text", name: "downloadText", widget: "string"},
+                {label: "Button Text", name: "buttonText", widget: "string"},
+                {label: "File", name: "file", widget: "file"}
+            ]}
