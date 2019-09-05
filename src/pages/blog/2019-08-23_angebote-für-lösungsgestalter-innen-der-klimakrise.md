@@ -52,6 +52,7 @@ Aktuell geöffnete Programme:
 * Bis 30.09.19 [ActOn Plastic](http://projecttogether.org/actonplastic) - Dein Lösungsansatz kann Plastik systemisch vermeiden, wiederverwerten oder neudenken? Deine Initiative erweckt gesellschaftspolitische Aufmerksamkeit für das Plastikproblem? Soulbottles, ProjectTogether und die Röchling Stiftung skalieren Deine Lösung mit dem “soulincubator”.
 * Bis 15.11.19 [Global Goals Lab 2019/2020](https://globalgoalslab.eu/) - gesucht werden Sozialunternehmen, die zum Klimaschutz beitragen. Das Lab bietet den Teilnehmer*innen Information, Austausch und Vernetzung und unterstützt Euch bei der Verstetigung oder Skalierung Eurer Geschäftsmodelle.  
 * Bis 14.07.20 [„Krombacher Naturstarter“](https://www.startnext.com/pages/krombacher-naturstarter/campaign/krombacher-naturstarter-296) - Bewirb' Dich mit Deiner Idee für eine Crowdfunding-Kampagne zum Thema Umwelt- und Naturschutz und sichere Dir für jeden Betrag, den Du über Deine Crowd einsammelst, zusätzliche 25% finanzielle Unterstützung von Krombacher.
+* Bis Ende 2020: [Hamburger Klimafonds](http://moinzukunft.hamburg/ueber-den-klimafonds/12880018/ueber-den-fonds/) - Unter dem Motto #moinzukunft stellt Hamburg 450.000€ für gemeinwohlorientierte Klimaschutzprojekte zur Verfügung. Jedes Projekt kann jährlich mit bis zu 20.000€ gefördert werden. 
 
 Ihr kennt weitere Programme und Unterstützungsangebote? Dann meldet Euch gerne bei uns!
 
