@@ -14,12 +14,12 @@ collections:
     label: "Förderer"
     folder: "src/sponsors"
     create: true
-    fields: 
+    fields:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Bild", name: "image", widget: "image"}
       - {label: "Homepage", name: "homepage", widget: "string", required: false}
       - {label: "Email", name: "mail", widget: "string", required: false}
-      - {label: "Organisation", name: "organization", widget: "boolean"} 
+      - {label: "Organisation", name: "organization", widget: "boolean"}
   - name: "partner"
     label: "Partner"
     folder: "src/partners"

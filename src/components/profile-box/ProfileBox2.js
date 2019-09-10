@@ -11,16 +11,17 @@ const ProfileBox2 = ( props ) => (
       {props.content.name &&
         <p>{props.content.name}</p>
       }
+
       {props.content.title &&
         <p>{props.content.title}</p>
-      }
-      {props.content.role &&
+      }      {props.content.role &&
         <p>{props.content.role}</p>
       }
       {props.content.organization &&
         <p>{props.content.organization}</p>
       }
-      {props.content.mail && 
+
+      {props.content.mail &&
         <p><a className={styles.mail_profile2} href={"mailto:"+props.content.mail}>{props.content.mail}</a></p>
       }
     </div>
