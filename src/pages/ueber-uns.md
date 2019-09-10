@@ -52,43 +52,6 @@ section_3:
       role: Wissenschaftliche Kooperationen
   title: Team
 section_4:
-  column_1:
-    rows:
-      - row: >-
-          Bayern 
-
-
-          > Vorläufige Ansprechpartnerin für die Regionalgruppe Bayern ist
-          Andrea Mörike. Ihr erreicht sie unter <mailto:bayern@send-ev.de>.
-      - row: >-
-          Berlin
-
-
-          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok.
-          Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
-      - row: >-
-          NRW
-
-
-          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und
-          Sebastian Grothaus. Erreichen könnt Ihr die beiden unter
-          <mailto:nrw@send-ev.de>.
-      - row: >-
-          Sachsen
-
-
-          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela
-          Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter
-          <mailto:sachsen@send-ev.de>.
-    title: Regionalgruppen
-  column_2:
-    rows:
-      - row: Bildung
-      - row: Finanzierung
-      - row: Genossenschaften
-      - row: Politik
-      - row: Rechtsform
-    title: Plattformen
   paragraph: >-
     SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
     unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und
