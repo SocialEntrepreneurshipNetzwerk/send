@@ -1,10 +1,5 @@
 ---
 title: Home
-cta_sticky:
-  text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
-  showOnPage: true
-  hexColor: '#ff007b'
 tagline: gemeinsam. wirken.
 tagline_large: |-
   **Social Entrepreneurship Netzwerk Deutschland e.V.**
@@ -39,8 +34,6 @@ section_2:
     label: Jetzt mitmachen!
     link: >-
       https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
-  subtitle: Netzwerk
-  title: gemeinsam. wirken.
   paragraph: >
     ### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
     gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen?
@@ -101,5 +94,13 @@ section_2:
       image: /uploads/murat-vural.jpg
       name: Murat Vural
       project: Chancenwerk e.V.
+  subtitle: Netzwerk
+  title: gemeinsam. wirken.
+cta_sticky:
+  hexColor: '#ffcc33'
+  link: >-
+    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  showOnPage: true
+  text: Jetzt Mitglied werden!
 ---
 
