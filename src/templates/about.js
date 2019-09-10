@@ -12,8 +12,10 @@ import styles from './about.module.css';
 
 
 export default ({ data }) => {
-
+  console.log("about data", data)
   const frontmatter = data.markdownRemark.frontmatter;
+  const { cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
+
 
   const team = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
   const executive = team.filter(member => member.role === "Vorstand");
