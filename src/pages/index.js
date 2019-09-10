@@ -44,11 +44,10 @@ export default class IndexPage extends React.Component {
         }
         <header className={styles.header}>
           <h1>{tagline}</h1>
-          <ReactMarkdown source={tagline_large}/>
         </header>
         <main className={styles.main} >
-          <h1>{paragraph}</h1>
           <TriangleBoxContainer boxes={articles} blogpreview={true} article={true}/>
+          <h1 className={styles.decorativeParagraph}>{paragraph}</h1>
           <section>
             <h1><span>{section_1.title}</span></h1>
             <div className={styles.section_paragraph}><ReactMarkdown source={section_1.paragraph}/></div>
