@@ -10,7 +10,7 @@ const TriangleBoxContainer = ( props ) => {
 
   const boxes = props.article ? (
     props.boxes.map(( box, index ) => {
-      return <TriangleBoxArticle box={box} article={props.article} key={index} />;
+      return <TriangleBoxArticle box={box} article={props.article} blogpreview={props.blogpreview} key={index} />;
     })
   ) : (
     props.partner ? (
