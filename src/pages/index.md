@@ -101,5 +101,5 @@ cta_sticky:
   link: >-
     https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1
   showOnPage: true
-  text: DSEM 2019: Gib dem Sektor eine Stimme und mach mit!
+  text: 'DSEM 2019: Gib dem Sektor eine Stimme und mach mit!'
 ---
