@@ -156,13 +156,15 @@ export default class Netzwerk extends Component {
 
     const frontmatter = data.markdownRemark.frontmatter;
     const members = this.state.members || data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
-    const {clip, section_1, section_2} = frontmatter;
+    const {cta_sticky, clip, section_1, section_2} = frontmatter;
 
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} clip={clip}/>
-        <StickyCTA/>
+        {cta_sticky.showOnPage &&
+          <StickyCTA data={cta_sticky}/>        
+        }
         <main className={styles.main}>
           <section>
             <h1><span>{section_1.title}</span></h1>
@@ -205,6 +207,12 @@ export const NetzwerkPageQuery = graphql`
         frontmatter {
             clip
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             section_1 {
               title
               paragraph

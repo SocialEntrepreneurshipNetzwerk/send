@@ -14,13 +14,15 @@ import styles from './about.module.css';
 export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
-  const { clip, section_1, section_2, section_3, section_4 } = frontmatter;
+  const { cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
 
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
-      <StickyCTA/>
+      {cta_sticky.showOnPage &&
+        <StickyCTA data={cta_sticky}/>        
+      }
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
@@ -71,6 +73,12 @@ export const AbouPageQuery = graphql`
     markdownRemark(fields: { slug: { eq: "/ueber-uns" } }) {
         frontmatter {
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             clip
             section_1{
               title

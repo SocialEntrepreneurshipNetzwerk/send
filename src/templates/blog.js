@@ -82,13 +82,17 @@ export default class Blog extends Component {
     const graphqlArticle = graphqlArticleFrontmatter.map((i,index)=>{return {...i, slug: graphqlArticleSlugs[index]}})
     const articles = this.state.articles || graphqlArticle;
     const clip = frontmatter.clip;
-    const title = frontmatter.section_1.title
+    const title = frontmatter.section_1.title;
+    const cta_sticky = frontmatter.cta_sticky;
+
 
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} clip={clip}/>
-        <StickyCTA/>
+        {cta_sticky.showOnPage &&
+          <StickyCTA data={cta_sticky}/>        
+        }
         <main className={styles.main}>
           <section>
             <h1><span>{title}</span></h1>
@@ -114,6 +118,12 @@ export const BlogQuery = graphql`
         frontmatter {
             clip
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             section_1{
               title
             }

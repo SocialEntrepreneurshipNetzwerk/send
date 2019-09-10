@@ -11,12 +11,14 @@ import styles from './positionen.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
-  const { clip, section_1, section_2 } = frontmatter;
+  const { cta_sticky, clip, section_1, section_2 } = frontmatter;
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
-      <StickyCTA/>
+      {cta_sticky.showOnPage &&
+        <StickyCTA data={cta_sticky}/>        
+      }
       <main>
         <section>
           <h1><span>{section_1.title}</span></h1>
@@ -38,6 +40,12 @@ export const PositionenPageQuery = graphql`
         frontmatter {
             clip
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             section_1 {
               title
               paragraph

@@ -110,5 +110,9 @@
   z-index:9;
 }
 
+.mail_profile2{
+  color: #00027f;
+}
+
 /* Internet Explorer 10+, Microsoft Edge Browser HACK */
 _:-ms-lang(x), .clip_profile { border-radius: 50%; } 

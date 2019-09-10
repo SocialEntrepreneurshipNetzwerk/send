@@ -29,12 +29,14 @@ export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const frontmatter = data.markdownRemark.frontmatter;
-    const { tagline, tagline_large, paragraph, section_1, section_2, section_3 } = frontmatter;
+    const { tagline, tagline_large, paragraph, cta_sticky, section_1, section_2, section_3 } = frontmatter;
     return (
       <div>
         <PageHelmet frontmatter={frontmatter}/>
         <TopImage imageSource={topImage} isHome={true}/>
-        <StickyCTA/>
+        {cta_sticky.showOnPage &&
+          <StickyCTA data={cta_sticky}/>        
+        }
         <header className={styles.header}>
           <h1>{tagline}</h1>
           <ReactMarkdown source={tagline_large}/>
@@ -71,6 +73,12 @@ export const IndexQuery = graphql`
     markdownRemark(fields: { slug: { eq: "/" } }) {
         frontmatter {
             title
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
+            }
             tagline
             tagline_large
             paragraph

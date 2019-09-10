@@ -22,7 +22,7 @@
 }
 
 .sticky_cta_polygon {
-  fill: active;
+  /* fill: active; */
   transition: all 0.3s;
 }
 

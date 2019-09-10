@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: n3xtcoder/send
-  branch: master
+  branch: chris_sprint1
   base_url: https://send-auth.herokuapp.com
 
 publish_mode: editorial_workflow
@@ -10,6 +10,24 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "sponsors"
+    label: "Förderer"
+    folder: "src/sponsors"
+    create: true
+    fields: 
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Homepage", name: "homepage", widget: "string", required: false}
+      - {label: "Email", name: "mail", widget: "string", required: false}
+      - {label: "Organisation", name: "organization", widget: "boolean"} 
+  - name: "partner"
+    label: "Partner"
+    folder: "src/partners"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Logo", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -106,6 +124,12 @@ collections:
                   {label: "Description", name: "description", widget: "string"}
               ]}
             ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string"},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
       - file: "src/pages/netzwerk.md"
         label: "Netzwerk"
         name: "netzwerk"
@@ -125,6 +149,12 @@ collections:
                 {label: "Link", name: "link", widget: "string"}
               ]}
             ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+                {label: "Text", name: "text", widget: "string"},
+                {label: "Link", name: "link", widget: "string"},
+                {label: "HexColor", name: "hexColor", widget: "string"},
+                {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+              ]}
       - file: "src/pages/ueber-uns.md"
         label: "Über uns"
         name: "ueber-uns"
@@ -166,6 +196,12 @@ collections:
                 ]}
               ]}
             ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string"},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
       - file: "src/pages/positionen.md"
         label: "Positionen"
         name: "positionen"
@@ -187,6 +223,12 @@ collections:
                 {label: "Illustration", name: "icon", widget: "hidden"},
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
+            ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string"},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
             ]}
       - file: "src/pages/mitgliedschaft.md"
         label: Mitgliedschaft
@@ -216,6 +258,12 @@ collections:
               ]}
             ]}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string"},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
       - file: "src/pages/blog.md"
         label: "Blog"
         name: "blog"
@@ -224,6 +272,12 @@ collections:
           - {label: "Meta-Pagetitle for google", name: "title", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
+            ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string"},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
             ]}
       - file: "src/pages/konferenz.md"
         label: "Konferenz 16.-17. März 2019"
