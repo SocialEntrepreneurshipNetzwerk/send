@@ -28,7 +28,8 @@ const Footer = () => (
           <li><a href="https://twitter.com/send_ev" target="_blank"><Twitter /></a></li>
           <li><a href="https://www.youtube.com/channel/UCnWi-MJEheSG_n48VlBCJoQ/videos" target="_blank"><Youtube /></a></li>
         </ul>
-        <ul className={styles.linkList}>
+        <ul>
+          <li><Link to="/downloads">Downloads</Link></li>
           <li><Link to="/impressum">Kontakt & Impressum</Link></li>
           <li><Link to="/dsgvo">Datenschutzerklärung</Link></li>
         </ul>

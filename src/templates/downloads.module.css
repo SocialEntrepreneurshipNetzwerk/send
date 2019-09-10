@@ -1,0 +1,18 @@
+@import "../layouts/variables.css";
+
+.main{
+  padding-top: 300px;
+}
+
+.main h1 {
+  font-size: 28px;
+  line-height: 1.14;
+  color: deep-blue;
+  text-align: center;
+  margin-bottom: 3em;
+}
+@media (max-width: break-mobile){
+  .main h1 {
+    display:block;
+  }
+}
