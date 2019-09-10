@@ -99,8 +99,7 @@ section_2:
 cta_sticky:
   hexColor: '#ff007b'
   link: >-
-    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+    https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1
   showOnPage: true
-  text: Jetzt Mitglied werden!
+  text: DSEM 2019: Gib dem Sektor eine Stimme und mach mit!
 ---
-
