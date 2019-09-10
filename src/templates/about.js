@@ -38,9 +38,6 @@ export default ({ data }) => {
         </section>
         <section className={styles.section2}>
           <h1><span>{section_2.title}</span></h1>
-          <div className={styles.clip_image} style={{ backgroundImage: `url(${section_2.image})` }}>
-            <BackgroundTurquoise2 image={section_2.image}/>
-          </div>
           <ReactMarkdown source={section_2.paragraph}/>
           <div className={styles.executive_container}>
             {executive.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
