@@ -74,8 +74,8 @@ export default ({ data }) => {
 
 
 
-export const AbouPageQuery = graphql`
-  query AbouPage {
+export const AboutPageQuery = graphql`
+  query AboutPage {
     markdownRemark(fields: { slug: { eq: "/ueber-uns" } }) {
         frontmatter {
             title
