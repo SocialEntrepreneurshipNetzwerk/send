@@ -4,7 +4,7 @@
   "version": "1.9.4",
   "author": "Austin Green",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "^0.19.0",
     "classnames": "^2.2.6",
     "elasticlunr": "0.9.5",
     "express": "^4.16.2",
