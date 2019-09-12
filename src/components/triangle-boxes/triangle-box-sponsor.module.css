@@ -6,10 +6,9 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 45%;
+  width: 30%;
   margin-bottom: 150px;
   text-align: left;
-  padding-top: 5em;
 }
 
 .triangle_box_sponsor svg:last-of-type {
@@ -19,16 +18,18 @@
 }
 
 .sponsor_image {
-  height: 100px;
-  flex: 0 0 150px;
+  height: 220px;
+  width: 100%;
   background-position: center;
   background-size: cover;
 }
+
 @media (max-width: break-boxes) {
   .sponsor_image{
     flex: 0 0 300px;
   }
 }
+
 @media (max-width: break-main-padding) {
     .triangle_box_sponsor {
         width: 100%;
@@ -42,12 +43,14 @@
 
 .sponsor_preview_content {
   position: relative;
-  flex: 1;
+  width: 100%;
   padding: 20px 30px;
 }
+
 .sponsor_preview_content h1 {
     margin-bottom: 0.5em;
 }
+
 @media (max-width: break-main-padding) {
   .sponsor_preview_content{
     padding: 20px 0;
@@ -80,6 +83,7 @@
   letter-spacing: normal;
   text-transform: none;
 }
+
 .triangle_box_sponsor p {
     font-size: 18px;
 }

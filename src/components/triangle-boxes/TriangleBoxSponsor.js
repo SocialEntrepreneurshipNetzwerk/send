@@ -1,9 +1,9 @@
 import React from 'react';
+// STYLES
+import styles from './triangle-box-sponsor.module.css';
+// UI
 import Triangle from '../svg/Triangle.js';
 import TriangleBottom from '../svg/TriangleBottom.js';
-import styles from './triangle-box-sponsor.module.css';
-import ReactMarkdown from 'react-markdown';
-import Link from 'gatsby-link';
 
 const TriangleBoxSponsor = ( props ) => {
 
@@ -14,8 +14,8 @@ const TriangleBoxSponsor = ( props ) => {
       </span>
       <div className={styles.sponsor_preview_content}>
         <h1>{props.box.title}</h1>
-        <a href={"mailto:"+props.box.mail}>Email: {props.box.mail}</a>
-        <a href={props.box.homepage}>Homepage: {props.box.homepage}</a>
+        <a href={`mailto: ${props.box.mail}`}>{props.box.mail}</a>
+        <a href={props.box.homepage} target="_blank">{props.box.homepage}</a>
         <TriangleBottom/>
       </div>
     </article>
