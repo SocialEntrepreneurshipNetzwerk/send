@@ -26,11 +26,6 @@
   transition: all 0.3s;
 }
 
-.sticky_cta_polygon:hover {
-  fill: dark-active;
-    transition: all 0.3s;
-}
-
 .sticky_cta_text_container {
   display: flex;
   justify-content: center;
