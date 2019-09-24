@@ -4,14 +4,13 @@
 .triangle_box_partner {
   position: relative;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   flex-wrap: wrap;
   width: 45%;
   margin-bottom: 150px;
   margin-left: 0;
   margin-right: 5%;
   text-align: left;
-  padding-top: 5em;
 }
 
 .triangle_box_partner:nth-child(2n){
@@ -27,7 +26,7 @@
 
 .partner_image {
   height: 100px;
-  flex: 0 0 150px;
+  flex: 0 0 350px;
   background-position: center;
   background-size: cover;
 }
