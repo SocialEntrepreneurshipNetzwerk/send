@@ -12,6 +12,7 @@ public_folder: /uploads
 collections:
   - name: "team"
     label: "Team"
+    identifier_field: "name"
     folder: "src/team"
     create: true
     fields:
