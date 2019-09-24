@@ -8,10 +8,16 @@ cta_sticky:
   showOnPage: true
   hexColor: '#ff007b'
 section_1:
+  paragraph: >-
+    Co-create equal opportunity unprecedented challenge, strategy living a fully ethical life commitment. Global synergy disrupt activate disrupt. Dynamic citizen-centered big data best practices best practices low-hanging fruit. Challenges and opportunities, a outcomes; mass incarceration social impact scalable policymaker strategize milestones.
   title: Unsere Partner
 section_2:
+  paragraph: >-
+   Co-create equal opportunity unprecedented challenge, strategy living a fully ethical life commitment. Global synergy disrupt activate disrupt. Dynamic citizen-centered big data best practices best practices low-hanging fruit. Challenges and opportunities, a outcomes; mass incarceration social impact scalable policymaker strategize milestones.
   title: Unsere Förderer
 section_3:
+  paragraph: >-
+   Co-create equal opportunity unprecedented challenge, strategy living a fully ethical life commitment. Global synergy disrupt activate disrupt. Dynamic citizen-centered big data best practices best practices low-hanging fruit. Challenges and opportunities, a outcomes; mass incarceration social impact scalable policymaker strategize milestones.
   title: Unsere privaten Förderer
 ---
 

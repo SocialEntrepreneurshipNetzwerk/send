@@ -125,7 +125,7 @@ collections:
               ]}
             ]}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-              {label: "Text", name: "text", widget: "string"},
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
               {label: "Link", name: "link", widget: "string"},
               {label: "HexColor", name: "hexColor", widget: "string"},
               {lable: "Show on page", name: "showOnPage", widget: "boolean"}
@@ -150,7 +150,7 @@ collections:
               ]}
             ]}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-                {label: "Text", name: "text", widget: "string"},
+                {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
                 {label: "Link", name: "link", widget: "string"},
                 {label: "HexColor", name: "hexColor", widget: "string"},
                 {lable: "Show on page", name: "showOnPage", widget: "boolean"}
@@ -185,7 +185,7 @@ collections:
               {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-              {label: "Text", name: "text", widget: "string"},
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
               {label: "Link", name: "link", widget: "string"},
               {label: "HexColor", name: "hexColor", widget: "string"},
               {lable: "Show on page", name: "showOnPage", widget: "boolean"}
@@ -213,7 +213,7 @@ collections:
               ]}
             ]}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-              {label: "Text", name: "text", widget: "string"},
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
               {label: "Link", name: "link", widget: "string"},
               {label: "HexColor", name: "hexColor", widget: "string"},
               {lable: "Show on page", name: "showOnPage", widget: "boolean"}
@@ -247,7 +247,7 @@ collections:
             ]}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-              {label: "Text", name: "text", widget: "string"},
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
               {label: "Link", name: "link", widget: "string"},
               {label: "HexColor", name: "hexColor", widget: "string"},
               {lable: "Show on page", name: "showOnPage", widget: "boolean"}
@@ -262,10 +262,35 @@ collections:
               {label: "Title", name: "title", widget: "string"},
             ]}
           - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
-              {label: "Text", name: "text", widget: "string"},
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
               {label: "Link", name: "link", widget: "string"},
               {label: "HexColor", name: "hexColor", widget: "string"},
               {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
+      - file: "src/pages/partner.md"
+        label: "Partner"
+        name: "partner"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 3", name: "section_3", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
       - file: "src/pages/konferenz.md"
         label: "Konferenz 16.-17. März 2019"

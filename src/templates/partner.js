@@ -1,13 +1,12 @@
 import React from 'react';
 import PageHelmet from '../components/PageHelmet';
-import StickyCTA from '../components/cta/StickyCTA';
-import TopImage from '../components/top-image/TopImage';
-import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
-import ButtonCTA from '../components/cta/ButtonCTA';
 import topImage from '../img/positionen_minified.jpg';
-import ColumnText from '../components/column-text/ColumnText';
-import ReactMarkdown from 'react-markdown';
+// UI
+import TopImage from '../components/top-image/TopImage';
+import StickyCTA from '../components/cta/StickyCTA';
+import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
+import ReactMarkdown from 'react-markdown';
 
 export default ({ data }) => {
   const frontmatter = data.page.frontmatter;
@@ -16,26 +15,31 @@ export default ({ data }) => {
   const sponsorOrganization = sponsors.filter(sponsor => sponsor.organization === true);
   const sponsorPrivate = sponsors.filter(sponsor => sponsor.organization === false);
   const { cta_sticky, clip } = frontmatter;
-  const title1 = frontmatter.section_1.title;
-  const title2 = frontmatter.section_2.title;
-  const title3 = frontmatter.section_3.title;
-  
+  const section_1 = frontmatter.section_1;
+  const section_2 = frontmatter.section_2;
+  const section_3 = frontmatter.section_3;
+
+  debugger
+
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={topImage} clip={clip}/>
-      {cta_sticky.showOnPage &&
-        <StickyCTA data={cta_sticky}/>        
+      {
+        cta_sticky.showOnPage && <StickyCTA data={cta_sticky}/>
       }
       <main>
         <section>
-          <h1><span>{title1}</span></h1>
+          <h1><span>{section_1.title}</span></h1>
+          <ReactMarkdown source={section_1.paragraph}/>
           <TriangleBoxContainer boxes={partner} partner={true} size="large"/>
         </section>
         <section>
-          <h1><span>{title2}</span></h1>
+          <h1><span>{section_2.title}</span></h1>
+          <ReactMarkdown source={section_2.paragraph}/>
           <TriangleBoxContainer boxes={sponsorOrganization} sponsor={true} size="large"/>
-          <h1><span>{title3}</span></h1>
+          <h1><span>{section_3.title}</span></h1>
+          <ReactMarkdown source={section_3.paragraph}/>
           {sponsorPrivate.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
         </section>
       </main>
@@ -58,12 +62,15 @@ export const PartnerPageQuery = graphql`
             }
             section_1{
               title
+              paragraph
             }
             section_2{
               title
+              paragraph
             }
             section_3{
               title
+              paragraph
             }
         }
       }

@@ -8,8 +8,15 @@
   flex-wrap: wrap;
   width: 45%;
   margin-bottom: 150px;
+  margin-left: 0;
+  margin-right: 5%;
   text-align: left;
   padding-top: 5em;
+}
+
+.triangle_box_partner:nth-child(2n){
+  margin-left: 5%;
+  margin-right: 0;
 }
 
 .triangle_box_partner svg:last-of-type {
@@ -32,6 +39,10 @@
 @media (max-width: break-main-padding) {
     .triangle_box_partner {
         width: 100%;
+    }
+    .triangle_box_partner:nth-child(1n){
+      margin-left: 0;
+      margin-right:0;
     }
   .partner_image{
     flex: 1 0 100%;
