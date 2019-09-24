@@ -11,7 +11,7 @@ image: /uploads/social-innovation-capital-berlin-titelbild_520x450.jpg
 date: 2019-09-23T22:00:00.000Z
 category: news
 ---
-In den letzten Jahren hat sich Berlin als eine der dynamischsten Wirtschaftsregionen im Herzen Europas und führender Standort für Gründer*innen aus der Kreativwirtschaft und der Technologiebranche etabliert. Zugleich zeigt sich ein zunehmendes Interesse am Konzept der Sozialen Innovation, welche nicht nur eine Grundlage für unternehmerische Aktivitäten zur Lösung gesellschaftlicher Herausforderungen, sondern auch einen wichtigen Aspekt einer Sozialen Solidarischen Ökonomie (SSÖ) darstellt. Neben traditionellen wirtschaftlichen Betrieben werden daher immer mehr fair und nachhaltig wirtschaftende Unternehmen mit dem Zweck der gesellschaftlichen Problemlösung oder des kooperativen Wirtschaftens bzw. der ökonomischen Selbsthilfe gegründet (vgl. z.B. Deutscher Social Entrepreneurship Monitor (DSEM) und „Soziale Ökonomie in Berlin - Perspektive für neue Angebote und sinnvolle Arbeitsplätze in der Hauptstadt“). Vor diesem Hintergrund bietet die Stadt Berlin beste Voraussetzungen, um deutschlandweit und international eine Vorreiterrolle als anerkannter Standort für soziale Innovationen einzunehmen. 
+In den letzten Jahren hat sich Berlin als eine der dynamischsten Wirtschaftsregionen im Herzen Europas und führender Standort für Gründer*innen aus der Kreativwirtschaft und der Technologiebranche etabliert. Zugleich zeigt sich ein zunehmendes Interesse am Konzept der Sozialen Innovation, welche nicht nur eine Grundlage für unternehmerische Aktivitäten zur Lösung gesellschaftlicher Herausforderungen, sondern auch einen wichtigen Aspekt einer Sozialen Solidarischen Ökonomie (SSÖ) darstellt. Neben traditionellen wirtschaftlichen Betrieben werden daher immer mehr fair und nachhaltig wirtschaftende Unternehmen mit dem Zweck der gesellschaftlichen Problemlösung oder des kooperativen Wirtschaftens bzw. der ökonomischen Selbsthilfe gegründet (vgl. z.B. [Deutscher Social Entrepreneurship Monitor ](https://www.send-ev.de/uploads/dsem-2018_web.pdf)(DSEM) und „Soziale Ökonomie in Berlin - Perspektive für neue Angebote und sinnvolle Arbeitsplätze in der Hauptstadt“). Vor diesem Hintergrund bietet die Stadt Berlin beste Voraussetzungen, um deutschlandweit und international eine Vorreiterrolle als anerkannter Standort für soziale Innovationen einzunehmen. 
 
 ![Social Innovation Capital Berlin Zitat Sabrina Konzok](/uploads/social-innovation-capital-berlin_sabrina_800x600.jpg "Social Innovation Capital Berlin Zitat Sabrina Konzok")
 
@@ -36,3 +36,7 @@ Helmut Geissler: helmut.geissler@netz-bb.de
 **SEND e.V.** (Berlin) / <https://www.send-ev.de>
 
 Sabrina Konzok: berlin@send-ev.de
+
+
+
+Den Onepager zum Thema Social Innovation Capital Berlin könnt Ihr gern [hier](https://www.send-ev.de/uploads/sicberlin.pdf) runterladen.
