@@ -15,9 +15,10 @@ export default ({ data }) => {
   console.log("about data", data)
   const frontmatter = data.markdownRemark.frontmatter;
   const {cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
-  const team = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
-  const executive = team.filter(member => member.role === "Vorstand");
-  const regionalGroups = team.filter(member => member.role === "Regionalgruppe");
+  const teamAll = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
+  const executive = teamAll.filter(member => member.role === "Vorstand");
+  const regionalGroups = teamAll.filter(member => member.role === "Regionalgruppe");
+  const team = teamAll.filter(member => member.role === "Team");
   console.log(regionalGroups);
   regionalGroups.sort(function(a,b){
     return a.federalState.localeCompare(b.federalState);
@@ -46,7 +47,7 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_3.title}</span></h1>
           <div className={styles.profile_container}>
-            {section_3.profile_boxes.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
+            {team.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
           </div>
         </section>
         <section>
@@ -88,12 +89,6 @@ export const AboutPageQuery = graphql`
             }
             section_3 {
               title
-              profile_boxes {
-                name
-                role
-                organization
-                image
-              }
             }
             section_4{
               title
@@ -110,6 +105,7 @@ export const AboutPageQuery = graphql`
             role
             federalState
             mail
+            description
           }
         }
       }
