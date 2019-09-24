@@ -2,11 +2,6 @@
 templateKey: about
 clip: clip_positionen
 title: Über uns
-cta_sticky:
-  text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
-  showOnPage: true
-  hexColor: '#ff007b'
 section_1:
   paragraph: >-
     In Deutschland werden technologische Innovationen auf breiter Basis
@@ -32,10 +27,9 @@ section_2:
     und arbeitet ehrenamtlich.
 
 
-    Markus Sauerhammer (1. Vorsitzender), Birgit Heilig (nicht auf dem Foto),
-    Norbert Kunz, Leon Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias
-    Scheffelmeier
-  title: Gründungsvorstand
+    Markus Sauerhammer (1. Vorsitzender), Birgit Heilig, Norbert Kunz, Leon
+    Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
+  title: Vorstand
 section_3:
   profile_boxes:
     - image: /uploads/katrin_elsemann.jpg
@@ -60,5 +54,11 @@ section_4:
     Themen und Regionen haben sich bereits zusammengeschlossen oder sind im
     Aufbau:
   title: Wie wir arbeiten
+cta_sticky:
+  hexColor: '#ff007b'
+  link: >-
+    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  showOnPage: true
+  text: Jetzt Mitglied werden!
 ---
 
