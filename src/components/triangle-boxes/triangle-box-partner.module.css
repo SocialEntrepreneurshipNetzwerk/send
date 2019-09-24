@@ -44,8 +44,7 @@
       margin-right:0;
     }
   .partner_image{
-    flex: 1 0 100%;
-    height: 0;
+    flex: 1 0 350px;
     padding-top: 66%;
   }
 }
@@ -68,7 +67,6 @@
 .triangle_box_partner a {
   color: deep-blue;
   font-size: 12px;
-  font-weight: 700;
   line-height: 2;
   letter-spacing: 3px;
   text-transform: uppercase;
