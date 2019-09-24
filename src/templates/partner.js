@@ -19,8 +19,6 @@ export default ({ data }) => {
   const section_2 = frontmatter.section_2;
   const section_3 = frontmatter.section_3;
 
-  debugger
-
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
