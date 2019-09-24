@@ -36,3 +36,7 @@ Helmut Geissler: helmut.geissler@netz-bb.de
 **SEND e.V.** (Berlin) / <https://www.send-ev.de>
 
 Sabrina Konzok: berlin@send-ev.de
+
+
+
+Den Onepager zum Thema Social Innovation Capital Berlin könnt Ihr gern [hier](https://www.send-ev.de/uploads/sicberlin.pdf) runterladen.
