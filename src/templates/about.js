@@ -48,7 +48,6 @@ export default ({ data }) => {
           <h1><span>{section_3.title}</span></h1>
           <div className={styles.profile_container}>
             {team.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
-            {section_3.profile_boxes.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
         </section>
         <section>
@@ -90,12 +89,6 @@ export const AboutPageQuery = graphql`
             }
             section_3 {
               title
-              profile_boxes {
-                name
-                role
-                organization
-                image
-              }
             }
             section_4{
               title
