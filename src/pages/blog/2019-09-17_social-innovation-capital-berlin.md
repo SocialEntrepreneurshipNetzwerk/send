@@ -7,7 +7,7 @@ excerpt: >-
   Wirtschaftsregionen im Herzen Europas und führender Standort für Gründer*innen
   aus der Kreativwirtschaft und der Technologiebranche etabliert. Zugleich zeigt
   sich ein zunehmendes Interesse am Konzept der Sozialen Innovation.
-image: /uploads/social-innovation-capital-berlin-titelbild_520x450.jpg
+image: /uploads/social-innovation-capital-berlin-titelbild.jpg
 date: 2019-09-23T22:00:00.000Z
 category: news
 ---
