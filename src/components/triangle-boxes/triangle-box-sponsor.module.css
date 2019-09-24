@@ -6,9 +6,21 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 30%;
+  width: 28%;
   margin-bottom: 150px;
   text-align: left;
+  margin-left: 0;
+  margin-right: 8%;
+}
+
+.triangle_box_sponsor:nth-child(3n) {
+  margin-left: 8% ;
+  margin-right: 0px;
+}
+
+.triangle_box_sponsor:nth-child(3n) {
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .triangle_box_sponsor svg:last-of-type {
@@ -24,15 +36,21 @@
   background-size: cover;
 }
 
+/*
 @media (max-width: break-boxes) {
   .sponsor_image{
     flex: 0 0 300px;
   }
 }
+*/
 
 @media (max-width: break-main-padding) {
     .triangle_box_sponsor {
         width: 100%;
+    }
+    .triangle_box_sponsor:nth-child(1n){
+      margin-left: 0;
+      margin-right:0;
     }
   .sponsor_image{
     flex: 1 0 100%;
