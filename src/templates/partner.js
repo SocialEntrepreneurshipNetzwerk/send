@@ -7,6 +7,7 @@ import StickyCTA from '../components/cta/StickyCTA';
 import TriangleBoxContainer from '../components/triangle-boxes/TriangleBoxContainer';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import ReactMarkdown from 'react-markdown';
+import styles from './partner.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.page.frontmatter;
@@ -38,7 +39,9 @@ export default ({ data }) => {
           <TriangleBoxContainer boxes={sponsorOrganization} sponsor={true} size="large"/>
           <h1><span>{section_3.title}</span></h1>
           <ReactMarkdown source={section_3.paragraph}/>
-          {sponsorPrivate.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
+          <div className={styles.profile_container}>
+            {sponsorPrivate.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
+          </div>
         </section>
       </main>
     </div>
