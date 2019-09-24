@@ -80,6 +80,7 @@ export const PartnerPageQuery = graphql`
               title
               image
               description
+              email
             }
           }
         }
