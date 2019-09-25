@@ -157,6 +157,7 @@
   padding-top: 20px;
   letter-spacing: normal;
   text-transform: none;
+  word-break: break-word;
 }
 
 .article_image_blogpreview {

@@ -10,7 +10,7 @@
 
 .background_footer{
   position: absolute;
-  width: 99.5vw;
+  width: 100vw;
   height: 100%;
   z-index:-1;
 }
@@ -29,7 +29,7 @@
 
 /* Internet Explorer 10+, Microsoft Edge Browser HACK */
 
-_:-ms-lang(x), .triangle { opacity: 0.6; } 
+_:-ms-lang(x), .triangle { opacity: 0.6; }
 
 .background_turquoise {
   position: absolute;
