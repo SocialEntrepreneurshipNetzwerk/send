@@ -1,7 +1,8 @@
 ---
-name: Test Regio
-image: /uploads/katrin_elsemann.jpg
+name: Daniel Bartel
+image: /uploads/daniel-bartel-.jpg
 role: Regionalgruppe
-mail: a@b.de
-federalState: Hessen
+mail: nrw@send-ev.de
+federalState: Nordrhein-Westfalen
 ---
+
