@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/volta-logo.png
 email: oliver.weyer@voltastics.org
-link: www.voltastics.org
+link: 'https://www.voltastics.org'
 city: Köln
 postalCode: 50937
 federalState: Nordrhein-Westfalen
