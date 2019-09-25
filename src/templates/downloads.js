@@ -18,7 +18,7 @@ export default ({ data }) => {
               {downloadMaterial.map((item, index) => {
                   return(
                       <div key={index}>
-                          <h2>{item.downloadHeadline}</h2>
+                          <h3>{item.downloadHeadline}</h3>
                           <p>{item.downloadText}</p>
                           <ButtonCTA color="active" label={item.buttonText} link={item.file} />
                       </div>
