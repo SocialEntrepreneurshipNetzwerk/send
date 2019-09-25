@@ -1,7 +1,9 @@
 ---
-name: Test Regio
-image: /uploads/katrin_elsemann.jpg
+name: Sabrina Konzok
+image: /uploads/sabrina-konzok-.jpg
 role: Regionalgruppe
-mail: a@b.de
-federalState: Bayern
+description: Regionalgruppensprecherin
+mail: berlin@send-ev.de
+federalState: Berlin
 ---
+
