@@ -383,8 +383,9 @@ collections:
         name: "downloads"
         fields:
           - {label: "Page Title", name: "title", widget: "string"}
-          - {label: "Download Material", name: "downloadMaterial", widget: "list", fields: [
-                {label: "Download Text", name: "downloadText", widget: "string"},
-                {label: "Button Text", name: "buttonText", widget: "string"},
-                {label: "File", name: "file", widget: "file"}
+          - {label: "Download Material", name: "downloadMaterial", widget: "list", required: false, fields: [
+                {label: "Download Headline", name: "downloadHeadline", widget: "string", required: false},
+                {label: "Download Text", name: "downloadText", widget: "string", required: false},
+                {label: "Button Text", name: "buttonText", widget: "string", required: false},
+                {label: "File", name: "file", widget: "file", required: false}
             ]}

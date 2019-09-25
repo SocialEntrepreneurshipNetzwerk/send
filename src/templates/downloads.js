@@ -1,14 +1,15 @@
 import React from 'react';
+// UI
+import ReactMarkdown from 'react-markdown';
 import PageHelmet from '../components/PageHelmet';
 import ButtonCTA from '../components/cta/ButtonCTA';
-import ReactMarkdown from 'react-markdown';
+// STYLES
 import styles from './downloads.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.markdownRemark.frontmatter;
   const { title, downloadMaterial } = frontmatter;
-  const content = data.markdownRemark.html;
-  console.log(downloadMaterial);
+
   return (
 	  <div>
 	  	<PageHelmet frontmatter={frontmatter}/>
@@ -17,6 +18,7 @@ export default ({ data }) => {
               {downloadMaterial.map((item, index) => {
                   return(
                       <div key={index}>
+                          <h2>{item.downloadHeadline}</h2>
                           <p>{item.downloadText}</p>
                           <ButtonCTA color="active" label={item.buttonText} link={item.file} />
                       </div>
@@ -33,6 +35,7 @@ query DownloadsPage {
       frontmatter {
         title
         downloadMaterial {
+          downloadHeadline
           downloadText
           buttonText
           file
