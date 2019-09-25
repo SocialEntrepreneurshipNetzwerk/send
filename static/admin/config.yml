@@ -10,6 +10,38 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "team"
+    label: "Team"
+    identifier_field: "name"
+    folder: "src/team"
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Rolle", name: "role", widget: "select", options: [
+        "Regionalgruppe",
+        "Team",
+        "Vorstand"
+      ]}
+      - {label: "Kurzbeschreibung", name: "description", widget: "text", required: false}
+      - {label: "Email", name: "mail", widget: "string", required: false}
+      - {label: "Bundesland", name: "federalState", widget: "select", required: false, options: [
+          "Baden-Württemberg",
+          "Bayern","Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen"
+      ]}
   - name: "sponsors"
     label: "Förderer"
     folder: "src/sponsors"
@@ -19,7 +51,7 @@ collections:
       - {label: "Bild", name: "image", widget: "image"}
       - {label: "Homepage", name: "homepage", widget: "string", required: false}
       - {label: "Email", name: "mail", widget: "string", required: false}
-      - {label: "Organisation", name: "organization", widget: "boolean"}
+      - {label: "Organisation", name: "organization", widget: "boolean", default: true}
   - name: "partner"
     label: "Partner"
     folder: "src/partners"
