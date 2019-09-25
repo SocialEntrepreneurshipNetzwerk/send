@@ -25,10 +25,6 @@ section_2:
     Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
     die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
     und arbeitet ehrenamtlich.
-
-
-    Markus Sauerhammer (1. Vorsitzender), Birgit Heilig, Norbert Kunz, Leon
-    Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
   title: Vorstand
 section_3:
   profile_boxes:
@@ -51,9 +47,8 @@ section_4:
     unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und
     Vernetzung organisieren wir uns über einen eigenen SLACK – Kanal und
     tauschen uns virtuell und real in Regional- und Fachgruppen aus. Folgende
-    Themen und Regionen haben sich bereits zusammengeschlossen oder sind im
-    Aufbau:
-  title: Wie wir arbeiten
+    Regionen haben sich bereits zusammengeschlossen:
+  title: Regionalgruppen
 cta_sticky:
   hexColor: '#ff007b'
   link: >-
