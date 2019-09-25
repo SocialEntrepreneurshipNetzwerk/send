@@ -21,7 +21,7 @@ impactArea:
   - Entrepreneurshipförderung
 organization: true
 image: /uploads/ka-logog.png
-email: kemayou@kabako.africa
+email: kemayou@kabakoo.africa
 link: 'https://www.kabakoo.africa/'
 city: Paris
 postalCode: 75017
