@@ -387,5 +387,6 @@ collections:
                 {label: "Download Headline", name: "downloadHeadline", widget: "string", required: false},
                 {label: "Download Text", name: "downloadText", widget: "markdown", required: false},
                 {label: "Button Text", name: "buttonText", widget: "string", required: false},
-                {label: "File", name: "file", widget: "file", required: false}
+                {label: "File", name: "file", widget: "file", required: false},
+                {label: "Link", name: "link", widget: "string", required: false},
             ]}

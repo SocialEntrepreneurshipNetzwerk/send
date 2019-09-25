@@ -21,7 +21,7 @@ export default ({ data }) => {
               <div key={index}>
                 <h3>{item.downloadHeadline}</h3>
                 <ReactMarkdown source={item.downloadText} />
-                <ButtonCTA color="active" label={item.buttonText} link={item.file}/>
+                <ButtonCTA color="active" label={item.buttonText} link={item.file === null ? item.link : item.file}/>
               </div>
             );
           })
@@ -41,6 +41,7 @@ query DownloadsPage {
           downloadText
           buttonText
           file
+          link
         }
       }
     }

@@ -29,7 +29,7 @@ const Footer = () => (
           <li><a href="https://www.youtube.com/channel/UCnWi-MJEheSG_n48VlBCJoQ/videos" target="_blank"><Youtube /></a></li>
         </ul>
         <ul>
-          <li><Link to="/downloads">Downloads</Link></li>
+          <li><Link to="/downloads">Downloads & Presse</Link></li>
           <li><Link to="/impressum">Kontakt & Impressum</Link></li>
           <li><Link to="/dsgvo">Datenschutzerklärung</Link></li>
         </ul>
