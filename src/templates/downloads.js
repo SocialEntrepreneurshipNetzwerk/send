@@ -11,20 +11,22 @@ export default ({ data }) => {
   const { title, downloadMaterial } = frontmatter;
 
   return (
-	  <div>
-	  	<PageHelmet frontmatter={frontmatter}/>
-	  	<main className={styles.main}>
-	  		<h1>{title}</h1>
-              {downloadMaterial.map((item, index) => {
-                  return(
-                      <div key={index}>
-                          <h3>{item.downloadHeadline}</h3>
-                          <p>{item.downloadText}</p>
-                          <ButtonCTA color="active" label={item.buttonText} link={item.file} />
-                      </div>
-                  )
-              })}
-	  	</main>
+    <div>
+      <PageHelmet frontmatter={frontmatter}/>
+      <main className={styles.main}>
+        <h1>{title}</h1>
+        {
+          downloadMaterial.map(( item, index ) => {
+            return (
+              <div key={index}>
+                <h3>{item.downloadHeadline}</h3>
+                <ReactMarkdown source={item.downloadText}/>
+                <ButtonCTA color="active" label={item.buttonText} link={item.file}/>
+              </div>
+            );
+          })
+        }
+      </main>
     </div>
   );
 };
