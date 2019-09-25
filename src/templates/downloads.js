@@ -20,7 +20,7 @@ export default ({ data }) => {
             return (
               <div key={index}>
                 <h3>{item.downloadHeadline}</h3>
-                <p>{item.downloadText}</p>
+                <ReactMarkdown source={item.downloadText} />
                 <ButtonCTA color="active" label={item.buttonText} link={item.file}/>
               </div>
             );
