@@ -31,9 +31,11 @@ section_1:
     Sektor und geben ihm eine Stimme!
 section_2:
   cta:
-    label: Jetzt mitmachen!
+    label: Jetzt Mitglied werden
     link: >-
       https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  subtitle: Netzwerk
+  title: gemeinsam. wirken.
   paragraph: >
     ### Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
     gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen?
@@ -94,12 +96,10 @@ section_2:
       image: /uploads/murat-vural.jpg
       name: Murat Vural
       project: Chancenwerk e.V.
-  subtitle: Netzwerk
-  title: gemeinsam. wirken.
 cta_sticky:
   hexColor: '#ff007b'
-  link: >-
-    https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1
-  showOnPage: true
+  link: 'https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1'
+  showOnPage: false
   text: 'DSEM 2019: Gib dem Sektor eine Stimme und mach mit!'
 ---
+
