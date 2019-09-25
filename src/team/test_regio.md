@@ -1,7 +1,9 @@
 ---
-name: Test Regio
-image: /uploads/katrin_elsemann.jpg
+name: Andrea Mörike
+image: /uploads/andrea-moerike-moerike-consulting.png
 role: Regionalgruppe
-mail: a@b.de
-federalState: Berlin
+description: Regionalgruppensprecherin
+mail: bayern@send-ev.de
+federalState: Bayern
 ---
+
