@@ -1,10 +1,8 @@
 ---
-name: Katrin Elsemann
-image: /uploads/katrin_elsemann.jpg
+name: Johanna Kühner
+image: /uploads/johanna-kuehner.jpg
 role: Team
-description: |-
-  Geschäftsführerin
-
-  SEND e.V.
+description: Werkstudentin
+mail: johanna.kuehner@send-ev.de
 ---
 
