@@ -53,8 +53,9 @@ section_4:
           Bayern 
 
 
-          > Vorläufige Ansprechpartnerin für die Regionalgruppe Bayern ist
-          Andrea Mörike. Ihr erreicht sie unter <mailto:bayern@send-ev.de>.
+          > Ansprechpartner*innen für die Regionalgruppe Bayern sind Andrea
+          Mörike und Raphael Brandmiller. Erreichen könnt ihr die beiden unter
+          <mailto:bayern@send-ev.de>.
       - row: >-
           Berlin
 
