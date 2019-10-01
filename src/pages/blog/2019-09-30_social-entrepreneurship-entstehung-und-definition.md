@@ -2,9 +2,13 @@
 templateKey: article
 clip: clip_article
 title: Social Entrepreneurship - Entstehung und Definition
-excerpt: ghgfjfj
-image: /uploads/definition-social-entrepreneurship-titelbild.jpg
-date: 2019-09-30T13:40:43.461Z
+excerpt: >-
+  Katharina hat sich der herausfordernden Frage "Wie definieren wir Social
+  Entrepreneurship?" angenommen und darüber ihre Abschlussarbeit geschrieben.
+  Über ihr Leben als "Doppelagentin" und die daraus entstandene Definition könnt
+  Ihr hier nachlesen.
+image: /uploads/definition-socent-header.jpg
+date: 2019-10-01T13:40:43.461Z
 category: news
 ---
 _„Alle Probleme, die mit der Frage nach der Definition und ihrer Stellung bei der Darstellung einer Wissenschaft enger zusammenhängen, befinden sich in einem weniger erfreulichen Zustand (Walter Dubislav, 1931)“._  
@@ -14,6 +18,8 @@ Auch wenn Herrn Dubislavs Interesse an moderner Logik und Axiomatik sicherlich e
 Als Anlaufstelle für das Thema in Deutschland war immer klar, dass SEND sich mit dieser schwierigen und vor allem sehr aufgeladenen Frage auseinandersetzen musste. Im Alltag wurde das Projekt immer wieder vertagt, zu groß schien die Aufgabe, als dass man sie neben den vielen anderen To-Do’s hätte erledigen können. Da traf es sich gut, dass ich lange Zeit das Leben einer Doppelagentin leben durfte: als Community Managerin bei SEND und als Studentin an der TU Berlin. Letztere Rolle war eigentlich nur noch eine Formalität, einzig das Verfassen einer Abschlussarbeit fehlte noch, um die wissenschaftliche Welt endgültig zu verlassen (zumindest in meiner damaligen Funktion). So nahm ich mich schließlich der herausfordernden Frage an: „Wie definieren wir Social Entrepreneurship?“.
 
 Anfangs hatte diese Angelegenheit erstaunlich wenig Berührungspunkte mit dem sonstigen Alltag bei SEND. Ich wälzte wissenschaftliche Publikationen zu den Ursprüngen der Bewegung, stellte mich der Frage, welche Besonderheiten es in Deutschland zu beachten gibt und rieb mich an Details wie der Unterscheidung zu angrenzenden Sektoren wie Sustainable Entrepreneurship. Nach dem Abschluss meiner Literaturrecherche war es jedoch an der Zeit den Blick für die Praxis wieder zu öffnen – unsere Definition sollte ja schließlich anschlussfähig sein und die Ansichten der Akteur*innen des Sektors angemessen abbilden. So begann der Teil, den alle mit Spannung erwartet hatten: die empirische Forschung. Auch wenn die Frage „Was ist Deine Definition von Social Entrepreneurship?“ harmlos klingen mag, so waren wir doch sehr gespannt auf die Ergebnisse. Würden die Meinungen sehr stark auseinander gehen? Würden sich bestimmte Lager bilden? Wo könnten die größten Streitpunkte liegen und wo würde Konsens herrschen?
+
+![3 Dimensionen Social Entrepreneurship](/uploads/definition-social-entrepreneurship-beitrag.jpg "Social Entrepreneurship")
 
 Einige der Ergebnisse sorgten im Team für Überraschung. So waren etwa die Antworten zur Frage der Gewinnverwendung erstaunlich einheitlich, was wir auf Grund vorhergegangener Diskussionen nicht erwartet hätten. Andere Resultate, wie die Bedeutung der Lösung gesellschaftlicher Herausforderungen hatten wir ohnehin angenommen und in der Befragung lediglich eine Bestätigung unserer Annahmen gesucht. Schnell wurde auch ersichtlich, dass mit der vorliegenden Arbeit zwar ein Grobkonstrukt für die Frage der Definition erstellt werden konnte, konkretere und greifbarere Charakteristika aber weiterhin fehlten. Fragen wie „Was sind gesellschaftliche Mehrwerte?“ oder „Wie kann man diese messen?“ blieben ungeklärt.
 
