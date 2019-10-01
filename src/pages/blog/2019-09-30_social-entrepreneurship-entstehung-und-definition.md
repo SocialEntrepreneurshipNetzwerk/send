@@ -3,10 +3,10 @@ templateKey: article
 clip: clip_article
 title: Social Entrepreneurship - Entstehung und Definition
 excerpt: >-
-  Katharina hat sich der herausfordernden Frage "Wie definieren wir Social
-  Entrepreneurship?" angenommen und darüber ihre Abschlussarbeit geschrieben.
-  Über ihr Leben als "Doppelagentin" und die daraus entstandene Definition könnt
-  Ihr hier nachlesen.
+  Unsere Community Managerin Katharina hat sich der herausfordernden Frage "Wie
+  definieren wir Social Entrepreneurship?" angenommen und darüber ihre
+  Abschlussarbeit geschrieben. Über ihr Leben als "Doppelagentin" und die daraus
+  entstandene Definition könnt Ihr hier nachlesen.
 image: /uploads/definition-socent-header.jpg
 date: 2019-10-01T13:40:43.461Z
 category: news
