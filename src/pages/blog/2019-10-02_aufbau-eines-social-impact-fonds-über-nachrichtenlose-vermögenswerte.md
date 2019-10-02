@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Aufbau eines Social Impact Fonds über nachrichtenlose Vermögenswerte
+title: Social Impact Fonds über nachrichtenlose Vermögenswerte
 excerpt: >-
   Die Finanzierung von Social Entrepreneurship und Sozialen Innovationen ist in
   Deutschland eine große Herausforderung. Im dem Beitrag erfahrt ihr wie wir
