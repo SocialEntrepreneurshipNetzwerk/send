@@ -12,7 +12,7 @@ image: /uploads/crowdfunding.jpg
 date: '2017-09-04'
 category: news
 ---
-Das Social Entrepreneurship Netzwerk Deutschland e. V. hat [heute sein Crowdfunding gestartet.](https://www.startnext.com/send) Heute Abend hatten wir bereits ein viertel unserer ersten Fundingschwelle erreicht.
+Das Social Entrepreneurship Netzwerk Deutschland e. V. hat [heute sein Crowdfunding gestartet.](https://www.startnext.com/send) Heute Abend hatten wir bereits ein viertel unserer ersten Fundingschwelle erreicht. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ez6W_5bxnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
