@@ -14,6 +14,8 @@ category: news
 ---
 Das Social Entrepreneurship Netzwerk Deutschland e. V. hat [heute sein Crowdfunding gestartet.](https://www.startnext.com/send) Heute Abend hatten wir bereits ein viertel unserer ersten Fundingschwelle erreicht.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Ez6W_5bxnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Du teilst unsere Überzeugung, dass wir für die Lösung unserer gesellschaftlichen Herausforderungen zeitgemäße Lösungen brauchen? Setzt Dich für einen positiven gesellschaftlichen Wandel ein? Möchtest, dass soziale Innovationen mit dem gleichen Nachdruck wie technologische Innovationen gefördert werden? Dann werde Teil von SEND. Lass uns gemeinsam.wirken.
 
 **Mehrwerte für Sozialunternehmer*innen:**
