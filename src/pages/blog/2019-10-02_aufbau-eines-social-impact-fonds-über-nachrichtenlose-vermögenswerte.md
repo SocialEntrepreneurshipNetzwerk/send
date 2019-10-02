@@ -4,9 +4,10 @@ clip: clip_article
 title: Aufbau eines Social Impact Fonds über nachrichtenlose Vermögenswerte
 excerpt: >-
   Die Finanzierung von Social Entrepreneurship und Sozialen Innovationen ist in
-  Deutschland eine große Herausforderung. Was wir von anderen Ländern lernen
-  können und wie wir hierfür mehrere Milliarden ohne eine Belastung der
-  Steuerzahler*innen generieren können verraten wir in diesem Beitrag.
+  Deutschland eine große Herausforderung. Im dem Beitrag erfahrt ihr wie wir
+  mehrere Milliarden Euro für Lösungen unserer gesellschaftlichen
+  Herausforderungen ohne eine Belastung der Steuerzahler*innen generieren
+  können.
 image: /uploads/bildschirmfoto-2019-10-02-um-17.19.40.png
 date: 2019-10-02T14:51:05.501Z
 category: news
