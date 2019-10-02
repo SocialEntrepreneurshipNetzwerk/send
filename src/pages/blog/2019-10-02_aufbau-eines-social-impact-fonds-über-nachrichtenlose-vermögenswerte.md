@@ -24,8 +24,6 @@ In anderen Ländern werden diese Gelder für das Gemeinwohl genutzt. So finanzie
 
 **<<< ZITATKARTE CLIFF PRIOR, CEO BIG SOCIETY CAPITAL: “The UK wholesale impact investor, Big Society Capital, was capitalised to £600m in 2012. Seven years on, it has made £1.7bn available with coinvestors, already deploying £1bn into over 1200 social enterprises and non-profits. It has supported 50 intermediary social investors and increased by more than 6 times the amount of risk capital to social organisations. The social impact is outstanding. We believe that an equivalent organisation in Germany could achieve just as much if not more, learning from the experience in the UK and the 6 other countries now developing wholesale impact investors.” >>>**
 
-
-
 ## Finanzierung für Lösungsgestalter*innen verbessern
 
 In der aktuellen Diskussion zur Bewältigung der Herausforderungen des Klimawandels betont die Regierung immer wieder die Relevanz von Innovationen. Im aktuellen Koalitionsvertrag wurde für die Lösung unserer gesellschaftlichen Herausforderungen zwar mehrfach eine Unterstützung für Soziale Innovationen und Social Entrepreneurship verankert, jedoch fand eine ernsthafte Umsetzung bislang nicht statt. 
@@ -33,8 +31,6 @@ In der aktuellen Diskussion zur Bewältigung der Herausforderungen des Klimawand
 Dabei zeigt inzwischen eine Vielzahl von Studien die Notwendigkeit einer Verbesserung der Rahmenbedingungen und Finanzierungssituation deutlich auf. So hat Anfang diesen Jahres KfW-Research über die Studie “Social Entrepreneurs in Deutschland: Raus aus der Nische” die Defizite der Rahmenbedingungen im Vergleich zu klassischen Gründungen aufgezeigt. Auch etablierte Akteure stehen bei der Umsetzung innovativer Lösungen vor ähnlichen Herausforderungen. Basierend auf den Erfahrungen anderer Länder wäre der Aufbau eines Social Impact Fonds über “nachrichtenlose Assets” ein wichtiger Lösungsbaustein. 
 
 **<<< ZITATKARTE PROF. DR. MAJA GÖPEL, GENRERALSEKRETÄRIN WBGU: “Das Ziel, nachhaltige Gesellschaften zu schaffen, braucht mehr als die Suche nach Technologiesprüngen. Es geht um eine Neugestaltung unserer Prozesse des Produzierens und Konsumierens und den Umbau der Infrastrukturen unseres Zusammenlebens. Ein formidables Innovationsprojekt mit vielen sozialen und kulturellen Facetten, die in bisherigen Förderstrukturen weitgehend unberücksichtigt bleiben. Gestrandetes Geld genau dafür einzusetzen, macht einfach nur Sinn!” >>>**
-
-
 
 ## Ein Gewinn für alle Beteiligten
 
