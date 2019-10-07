@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/logo-bring-together-patchwork-communities.jpg
 email: info@bring-together.de
-link: www.bring-together.de
+link: 'https://www.bring-together.de'
 city: Leipzig
 postalCode: '04107'
 federalState: Sachsen
