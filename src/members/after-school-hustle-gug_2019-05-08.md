@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-115-_li.jpg
 email: pawer@afterschoolhustle.org
-link: afterschoolhustle.org
+link: 'https://afterschoolhustle.org'
 city: Berlin
 postalCode: 10178
 federalState: Berlin
