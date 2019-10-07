@@ -18,7 +18,7 @@ impactArea:
 organization: true
 image: /uploads/chancen_logo.png
 email: florian@chancen-eg.de
-link: www.chancen-eg.de
+link: 'https://www.chancen-eg.de'
 city: Berlin
 postalCode: 10997
 federalState: Berlin
