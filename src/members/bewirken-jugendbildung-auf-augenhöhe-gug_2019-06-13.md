@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/bewirken_logo.png
 email: info@bewirken.org
-link: www.bewirken.org
+link: 'https://www.bewirken.org'
 city: Lüneburg
 postalCode: 21339
 federalState: Schleswig-Holstein
