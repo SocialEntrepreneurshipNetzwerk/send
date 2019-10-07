@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/arbeiterkind.de_regionaltreffen_sueddeutschland_2016.jpg
 email: presse@arbeiterkind.de
-link: 'http://www.arbeiterkind.de/'
+link: 'https://www.arbeiterkind.de/'
 city: Berlin
 postalCode: '10178'
 federalState: Berlin
