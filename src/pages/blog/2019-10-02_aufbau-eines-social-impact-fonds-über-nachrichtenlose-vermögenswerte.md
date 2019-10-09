@@ -8,8 +8,8 @@ excerpt: >-
   mehrere Milliarden Euro für Lösungen unserer gesellschaftlichen
   Herausforderungen ohne eine Belastung der Steuerzahler*innen generieren
   können.
-image: /uploads/bildschirmfoto-2019-10-02-um-17.19.40.png
-date: 2019-10-02T14:51:05.501Z
+image: /uploads/header-titelbild-blog.jpg
+date: 2019-10-10T14:51:05.501Z
 category: news
 ---
 Aktuell stehen wir vor einer Vielzahl großer gesellschaftlicher Herausforderungen wie dem Klimawandel, einer alternden Gesellschaft oder dem Strukturwandel durch die digitale Transformation. Trotz der Dringlichkeit dieser Themen haben es innovative Lösungen in Deutschland noch immer schwer die passende Finanzierung zu erhalten. Mit dem Modell eines Social Impact Fonds könnte diese ohne Belastung der Steuerzahler*innen über die Nutzung sogenannter “Nachrichtenloser Assets” erfolgen. Das Modell ist bereits in anderen Ländern erprobt und bietet eine Reihe weiterer Mehrwerte. Näheres zu dem Konzept haben wir in dem nachfolgenden Video zusammengefasst. 
@@ -46,6 +46,6 @@ Autoren des vorliegenden Berichtes sind Antonis Schwarz, Andreas Zubrod und Mark
 
 Kontakt für Rückfragen:
 
-Markus Sauerhammer /// info@send-ev.de /// 030/64477658
+Markus Sauerhammer /// info@send-ev.de /// 030-64477658
 
 Download Bericht: <http://www.send-ev.de/uploads/sif.pdf>
