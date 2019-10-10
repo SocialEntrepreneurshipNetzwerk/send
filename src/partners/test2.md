@@ -7,10 +7,8 @@ description: >-
   Ideen zum Wohle der Gesellschaft in die Tat umsetzen. Eine Förderung von
   Social Entrepreneurship zusammen mit Politik und Verbänden ist der richtige
   Weg, um in Deutschland unternehmerischen Mut wiederzubeleben und genau diese
-  kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner und
-  bietet eben diesen Menschen eine Plattform, um ihre sozialen Innovationen
-  voranzutreiben.“  Steffen Ganders, Director Corporate Affairs Samsung
-  Electronics.
+  kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner .“ 
+  Steffen Ganders
 email: hier Webseite
 ---
 
