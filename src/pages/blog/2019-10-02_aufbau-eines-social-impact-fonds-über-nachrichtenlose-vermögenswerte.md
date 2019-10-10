@@ -38,7 +38,7 @@ Gewinner des vorliegenden Konzeptes wäre in erster Linie die Gesellschaft als G
 
 Jetzt liegt es an der Politik eine entsprechende Lösung zu realisieren! Unser Bericht soll hierzu eine Diskussions- und Arbeitsgrundlage liefern! 
 
-![Bericht Nachrichtenlose Assets Reformvorschlag](/uploads/bericht_nachrichtenlose-konten.png "Bericht Nachrichtenlose Assets Reformvorschlag")
+![Bericht Nachrichtenlose Assets Reformvorschlag](/uploads/bericht-nachrichtenlose-assets.png "Bericht Nachrichtenlose Assets Reformvorschlag")
 
 [Der Bericht ](http://www.send-ev.de/uploads/sif.pdf)für den Aufbau eines Social Impact Fonds durch die Nutzung nachrichtenloser Assets ist ein gemeinsames Projekt von Ashoka, Bundesinitiative Impact Investing, Social Entrepreneurship Netzwerk Deutschland und dem Verband Deutscher Erbenermittler. 
 
