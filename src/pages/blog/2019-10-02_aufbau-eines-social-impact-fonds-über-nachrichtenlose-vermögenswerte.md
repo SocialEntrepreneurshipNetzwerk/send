@@ -40,7 +40,7 @@ Jetzt liegt es an der Politik eine entsprechende Lösung zu realisieren! Unser B
 
 ![Bericht Nachrichtenlose Assets Reformvorschlag](/uploads/bericht-nachrichtenlose-assets.png "Bericht Nachrichtenlose Assets Reformvorschlag")
 
-[Der Bericht ](http://www.send-ev.de/uploads/sif.pdf)für den Aufbau eines Social Impact Fonds durch die Nutzung nachrichtenloser Assets ist ein gemeinsames Projekt von Ashoka, Bundesinitiative Impact Investing, Social Entrepreneurship Netzwerk Deutschland und dem Verband Deutscher Erbenermittler. 
+[Der Bericht](http://www.send-ev.de/uploads/sif.pdf) für den Aufbau eines Social Impact Fonds durch die Nutzung nachrichtenloser Assets ist ein gemeinsames Projekt von Ashoka, Bundesinitiative Impact Investing, Social Entrepreneurship Netzwerk Deutschland und dem Verband Deutscher Erbenermittler. 
 
 Autoren des vorliegenden Berichtes sind Antonis Schwarz, Andreas Zubrod und Markus Sauerhammer. 
 
