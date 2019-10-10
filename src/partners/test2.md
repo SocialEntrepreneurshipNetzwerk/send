@@ -1,11 +1,16 @@
 ---
-title: Test2 GmbH
-image: /uploads/solidrinks-logo-yellow.png
+title: Samsung
+image: /uploads/samsung-steffen-ganders.jpg
 description: >-
-  Die 4L Vision inspiriert, motiviert und begleitet Unternehmer*innen,
-  Unternehmen und Organisationen dabei, Visionen für eine bessere Welt zu
-  entwickeln und den Sinn ihres Wirkens sowie ihre Verankerung in der
-  Gesellschaft zu finden und umzusetzen.
-email: test2@test.de
+  "Wir wollen Menschen stärken, die den Mut haben etwas zu verändern. Menschen,
+  die den Nutzen von neuen Technologien erkennen und mit digitalen Lösungen ihre
+  Ideen zum Wohle der Gesellschaft in die Tat umsetzen. Eine Förderung von
+  Social Entrepreneurship zusammen mit Politik und Verbänden ist der richtige
+  Weg, um in Deutschland unternehmerischen Mut wiederzubeleben und genau diese
+  kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner und
+  bietet eben diesen Menschen eine Plattform, um ihre sozialen Innovationen
+  voranzutreiben.“  Steffen Ganders, Director Corporate Affairs Samsung
+  Electronics.
+email: hier Webseite
 ---
 
