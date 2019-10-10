@@ -36,7 +36,7 @@ Dabei zeigt inzwischen eine Vielzahl von Studien die Notwendigkeit einer Verbess
 
 Gewinner des vorliegenden Konzeptes wäre in erster Linie die Gesellschaft als Ganzes. Über einen Social Impact Fonds würde für innovative Lösungen unserer gesellschaftlichen Herausforderungen endlich das dringend benötigte Kapital zur Verfügung stehen. Potenzielle Erben hätten zudem über das vorgeschlagene Konstrukt die Möglichkeit nachrichtenlose Vermögenswerte Verstorbener über ein Register aufzufinden. Vermögensverwalter wie Banken erhalten endlich einen sicheren Rechtsrahmen für den Umgang mit “nachrichtenlosen Assets” und reduzieren neben dem Verwaltungsaufwand das Reputationsrisko, das mit der bislang fehlenden Regulierung einhergeht. 
 
-Jetzt liegt es an der Politik eine entsprechende Lösung zu realisieren! Unser Bericht soll hierzu eine Diskussions- und Arbeitsgrundlage liefern! 
+Jetzt liegt es an der Politik eine entsprechende Lösung zu realisieren! [Unser Bericht](https://www.send-ev.de/uploads/sif.pdf) soll hierzu eine Diskussions- und Arbeitsgrundlage liefern! 
 
 ![Bericht Nachrichtenlose Assets Reformvorschlag](/uploads/bericht-nachrichtenlose-assets.png "Bericht Nachrichtenlose Assets Reformvorschlag")
 
@@ -48,4 +48,4 @@ Kontakt für Rückfragen:
 
 Markus Sauerhammer /// info@send-ev.de /// 030-64477658
 
-Download Bericht: <http://www.send-ev.de/uploads/sif.pdf>
+Download Bericht: <https://www.send-ev.de/uploads/sif.pdf>
