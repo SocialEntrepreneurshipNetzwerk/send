@@ -1,8 +1,8 @@
 ---
-title: Test2 Tester
-homepage: www.test2.de
-image: /uploads/katharina_osbelt.jpg
-mail: test2@test2.de
+title: Hans Sauer Stiftung
+image: /uploads/500px-hans-sauer-stiftung-logo.png
+homepage: 'https://www.hanssauerstiftung.de/'
+mail: ''
 organization: true
 ---
 
