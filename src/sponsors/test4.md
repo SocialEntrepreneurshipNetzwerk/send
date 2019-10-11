@@ -1,8 +1,8 @@
 ---
-title: Test4 Tester
-homepage: www.test.de
+title: LilyPut Beteiligungs GmbH
 image: /uploads/katharina_osbelt.jpg
-mail: test4@test2.de
+homepage: 'www.test.de ? '
+mail: ''
 organization: true
 ---
 
