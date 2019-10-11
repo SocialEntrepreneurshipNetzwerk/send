@@ -1,6 +1,7 @@
 ---
-title: Margareta Magnoli
-image: /uploads/Laura_Kromminga.jpg
-organization: false
+title: 'Triodos '
+image: /uploads/2000px-triodos_bank_logo.png
+homepage: www.triodos.de
+organization: true
 ---
 
