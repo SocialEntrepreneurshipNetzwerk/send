@@ -1,8 +1,8 @@
 ---
-title: Test3 Tester
-homepage: www.test2.de
-image: /uploads/katharina_osbelt.jpg
-mail: test3@test.de
+title: Fraunhofer Institut
+image: /uploads/fraunhofer.png
+homepage: 'https://www.fraunhofer.de/'
+mail: ''
 organization: true
 ---
 
