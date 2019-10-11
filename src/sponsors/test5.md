@@ -1,8 +1,8 @@
 ---
-title: Test5 Tester
-homepage: www.test.de
-image: /uploads/katharina_osbelt.jpg
-mail: test5@test2.de
+title: Sage Foundation
+image: /uploads/sage_logo.png
+homepage: 'https://www.sage.com/de-de/unternehmen/sage-foundation/'
+mail: ''
 organization: true
 ---
 
