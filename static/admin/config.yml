@@ -60,7 +60,7 @@ collections:
       - {label: "Name", name: "title", widget: "string"}
       - {label: "Logo", name: "image", widget: "image"}
       - {label: "Description", name: "description", widget: "markdown"}
-      - {label: "Homepage", name: "homepage", widget: "string"}
+      - {label: "Homepage", name: "link", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"

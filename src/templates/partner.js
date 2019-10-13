@@ -11,10 +11,10 @@ import styles from './partner.module.css';
 
 export default ({ data }) => {
   const frontmatter = data.page.frontmatter;
-  const partner = data.partners.edges.map(i => i.node.frontmatter);
-  const sponsors = data.sponsors.edges.map(i => i.node.frontmatter);
-  const sponsorOrganization = sponsors.filter(sponsor => sponsor.organization === true);
-  const sponsorPrivate = sponsors.filter(sponsor => sponsor.organization === false);
+  const partner = data.partners.edges.map( i => i.node.frontmatter );
+  const sponsors = data.sponsors.edges.map( i => i.node.frontmatter );
+  const sponsorOrganization = sponsors.filter( sponsor => sponsor.organization === true );
+  const sponsorPrivate = sponsors.filter( sponsor => sponsor.organization === false );
   const { cta_sticky, clip } = frontmatter;
   const section_1 = frontmatter.section_1;
   const section_2 = frontmatter.section_2;
@@ -31,7 +31,7 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_1.title}</span></h1>
           <ReactMarkdown source={section_1.paragraph}/>
-          <TriangleBoxContainer boxes={partner} partner={true} size="large"/>
+          <TriangleBoxContainer boxes={partner} size="large"/>
         </section>
         <section>
           <h1><span>{section_2.title}</span></h1>
@@ -83,7 +83,7 @@ export const PartnerPageQuery = graphql`
               title
               image
               description
-              homepage
+              link
             }
           }
         }
@@ -101,6 +101,6 @@ export const PartnerPageQuery = graphql`
             }
           }
         }
-      } 
+      }
   }
 `;
