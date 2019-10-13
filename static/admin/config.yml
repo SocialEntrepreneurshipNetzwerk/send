@@ -201,7 +201,6 @@ collections:
             ]}
           - {label: "Section 2", name: "section_2", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
-              {label: "Image", name: "image", widget: image},
               {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
           - {label: "Section 3", name: "section_3", widget: "object", fields: [

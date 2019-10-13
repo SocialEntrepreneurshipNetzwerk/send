@@ -84,7 +84,6 @@ export const AboutPageQuery = graphql`
             }
             section_2{
               title
-              image
               paragraph
             }
             section_3 {
