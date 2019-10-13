@@ -12,16 +12,16 @@ import styles from './about.module.css';
 
 
 export default ({ data }) => {
-  console.log("about data", data)
+  console.log( 'about data', data );
   const frontmatter = data.markdownRemark.frontmatter;
-  const {cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
-  const teamAll = data.allMarkdownRemark.edges.map(i => i.node.frontmatter);
-  const executive = teamAll.filter(member => member.role === "Vorstand");
-  const regionalGroups = teamAll.filter(member => member.role === "Regionalgruppe");
-  const team = teamAll.filter(member => member.role === "Team");
-  console.log(regionalGroups);
-  regionalGroups.sort(function(a,b){
-    return a.federalState.localeCompare(b.federalState);
+  const { cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
+  const teamAll = data.allMarkdownRemark.edges.map( i => i.node.frontmatter );
+  const executive = teamAll.filter( member => member.role === 'Vorstand' );
+  const regionalGroups = teamAll.filter( member => member.role === 'Regionalgruppe' );
+  const team = teamAll.filter( member => member.role === 'Team' );
+  console.log( regionalGroups );
+  regionalGroups.sort( function( a, b ) {
+    return a.federalState.localeCompare( b.federalState );
   });
 
 
@@ -47,14 +47,14 @@ export default ({ data }) => {
         <section>
           <h1><span>{section_3.title}</span></h1>
           <div className={styles.profile_container}>
-            {team.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
+            {team.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
         </section>
         <section>
           <h1><span>{section_4.title}</span></h1>
           <ReactMarkdown source={section_4.paragraph}/>
           <div className={styles.profile_container}>
-            {regionalGroups.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
+            {regionalGroups.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
         </section>
       </main>
