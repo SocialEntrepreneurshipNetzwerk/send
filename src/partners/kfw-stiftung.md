@@ -9,7 +9,6 @@ description: >-
   Weg, um in Deutschland unternehmerischen Mut wiederzubeleben und genau diese
   kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner und
   bietet eben diesen Menschen. Markus Mustermann
-email: >-
+homepage: >-
   https://www.kfw-stiftung.de/kunst-kultur/villa-102/the-politics-of-translation/
 ---
-

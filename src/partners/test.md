@@ -7,6 +7,5 @@ description: >-
   Stimme zu geben. Wir fördern SEND e.V., weil das Netzwerk damit Wegbereiter
   für verantwortungsvolles Unternehmertum in Deutschland ist. Jetzt und für die
   Zukunft der jungen und kommenden Generationen." Lukas Harlan
-email: www.schoepflin-stiftung.de
+homepage: www.schoepflin-stiftung.de
 ---
-

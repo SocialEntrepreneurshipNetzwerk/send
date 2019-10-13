@@ -8,6 +8,5 @@ description: >-
   Macher zu unterstützen. SEND ist hierfür der richtige Partner und bietet eben
   diesen Menschen eine Plattform, um ihre sozialen Innovationen voranzutreiben.“
   Maike Masterfrau
-email: 'https://deutschestartups.org'
+homepage: 'https://deutschestartups.org'
 ---
-

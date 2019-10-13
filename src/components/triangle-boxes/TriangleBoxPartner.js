@@ -8,7 +8,7 @@ import styles from './triangle-box-partner.module.css';
 
 const TriangleBoxPartner = ( props ) => {
 
-  const { image, title, description, email } = props.box;
+  const { image, title, description, homepage } = props.box;
 
   return (
     <article className = {styles.triangle_box_partner}>
@@ -18,7 +18,7 @@ const TriangleBoxPartner = ( props ) => {
       <div className={styles.partner_preview_content}>
         <h1>{title}</h1>
         <ReactMarkdown source={description}/>
-        <a href={`mailto:${email}`} >{email}</a>
+        <a href={homepage} >{homepage}</a>
         <TriangleBottom/>
       </div>
     </article>
