@@ -40,8 +40,8 @@ export default ({ data }) => {
         <section className={styles.section2}>
           <h1><span>{section_2.title}</span></h1>
           <ReactMarkdown source={section_2.paragraph}/>
-          <div className={styles.executive_container}>
-            {executive.map((item, index) => <ProfileBox2 content={item} key={index}/>)}
+          <div className={styles.profile_container}>
+            {executive.map(( item, index ) => <ProfileBox2 content={item} key={index}/> )}
           </div>
         </section>
         <section>
