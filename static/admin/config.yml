@@ -325,6 +325,22 @@ collections:
               {label: "Title", name: "title", widget: "string"},
               {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
+      - file: "src/pages/events.md"
+        label: "Events"
+        name: "events"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Page Image", name: "image", widget: "image"}
+          - {label: "Content", name: "content", widget: "list", types: [
+              {label: "Event", name: "event", widget: "object", fields: [
+                {label: "Title", name: "eventTitle", widget: "string"},
+                {label: "Description", name: "eventDescription", widget: "text", pattern: ['^.{0,350}$', "Maximum 350 characters!"]},
+                {label: "Image", name: "eventImage", widget: "image"},
+                {label: "Link", name: "eventLink", widget: "string"}
+              ]}
+            ]}
       - file: "src/pages/konferenz.md"
         label: "Konferenz 16.-17. März 2019"
         name: "konferenz"
