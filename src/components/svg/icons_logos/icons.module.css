@@ -65,3 +65,16 @@
   stop-color: grey;
   fill: grey;
 }
+
+.schoepflin {
+  width: 180px;
+  fill: grey;
+  padding-top: 10px;
+}
+
+.schoepflin:hover path{
+  fill: #85878b;
+}
+.schoepflin:hover path:first-child {
+  fill: #040606;
+}
