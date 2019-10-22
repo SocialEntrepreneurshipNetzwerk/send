@@ -17,21 +17,13 @@ __
 
 ## NRW macht es dem Bund nach
 
-
-
 Bereits um das Jahr 2000 hat die damalige Bundesregierung das Thema Social Entrepreneurship erkannt, es aber in der Zwischenzeit nicht sonderlich vorangetrieben. Als Gesellschaft müssen wir seither eine Vielzahl von Herausforderungen lösen: Klimawandel, demografischer Wandel und der digitale Strukturwandel sind nur drei Beispiele. Social Entrepreneurship setzt sich global immer mehr als Lösungsinstrument hierfür durch. Dies hat auch die Bundesregierung, fast 2 Jahrzehnte später, im jetzigen Koalitionsvertrag erstmalig [bestätigt](https://www.send-ev.de/2019-02-11_statement-zur-antwort-der-bundesregierung-auf-die-kleine-anfrage-„social-entrepreneurship“-von-der-bundestagsfraktion-bündnis-90-die-grünen/): „Social Entrepreneurship spielt bei der Lösung aktueller gesellschaftlicher und sozialer Herausforderungen eine zunehmend wichtige Rolle. Social Entrepreneurship wollen wir noch stärker als bisher fördern und unterstützen.“
-
-
 
 Unzählige Studien machen unmissverständlich darauf aufmerksam, dass ein “weiter so” im klassischen Wirtschaften nicht mehr funktioniert und gleichzeitig ein [Milliardenpotenzial in Social Entrepreneurship](https://www.ashoka.org/de-DE/story/studie-von-ashoka-und-mckinsey-zeigt-milliardenpotenzial-von-sozialen-innovationen) liegt. Selbst die EU in Brüssel mahnt die Deutschen zu mehr Engagement. Daher hat sich 2017 die wachsende Szene hierzulande als Social Entrepreneurship Netzwerk Deutschland (SEND e.V.) organisiert - auch in NRW. Die Ergebnisse unseres 2018 erschienenen [Deutschen Social Entrepreneurship Monitors ](https://www.send-ev.de/2018-12-12_erster-deutscher-social-entrepreneurship-monitor-veroeffentlicht)bestätigen: Die Arbeit der Politik wird mit der Schulnote 4,6 bewertet und gleichzeitig wird eine „schwache Lobby“ als größte Herausforderung genannt. 
 
+Das verwundert mit Blick auf den schwarz-gelben Koalitionsvertrag in NRW nicht sonderlich, da dort Social Entrepreneure oder Social Startups mit keinem Wort erwähnt werden. In Hessen, Bayern und Bremen wurde eine Unterstützung von #SocEnt in den Koalitionsverträgen schon verankert. Im Juni 2019 stellte der Abgeordnete Matthi Bolte-Richter der Fraktion BÜNDNIS 90/DIE GRÜNEN dazu eine [Kleine Anfrage](https://kleineanfragen.de/nordrhein-westfalen/17/6913-fliegen-social-entrepreneurs-social-startups-und-sozialunternehmen-unter-dem-radar-der-landesregierung) mit dem Titel „Fliegen Social Entrepreneurs, Social Startups und Sozialunternehmen unter dem Radar der Landesregierung?“ Wir nehmen diesen Schriftverkehr als Anlass für eine kurze Bestandsaufnahme. Unsere Kommentare zu den Antworten der Landesregierung finden sich [hier](https://www.send-ev.de/uploads/analyse-antworten-der-landesregierung.pdf).  
 
-
-Das verwundert mit Blick auf den schwarz-gelben Koalitionsvertrag in NRW nicht sonderlich, da dort Social Entrepreneure oder Social Startups mit keinem Wort erwähnt werden. In Hessen, Bayern und Bremen wurde eine Unterstützung von #SocEnt in den Koalitionsverträgen schon verankert. Im Juni 2019 stellte der Abgeordnete Matthi Bolte-Richter der Fraktion BÜNDNIS 90/DIE GRÜNEN dazu eine [Kleine Anfrage](https://kleineanfragen.de/nordrhein-westfalen/17/6913-fliegen-social-entrepreneurs-social-startups-und-sozialunternehmen-unter-dem-radar-der-landesregierung) mit dem Titel „Fliegen Social Entrepreneurs, Social Startups und Sozialunternehmen unter dem Radar der Landesregierung?“ Wir nehmen diesen Schriftverkehr als Anlass für eine kurze Bestandsaufnahme. Unsere Kommentare zu den Antworten der Landesregierung finden sich im PDF weiter unten.  
-
-
-
-## Wo Nordrhein-Westfalen große Chancen hat 
+## Wo Nordrhein-Westfalen große Chancen hat
 
 Zusammenfassend ist nicht ersichtlich, warum es in NRW weiterhin ein Randthema ist, die enorme Motivation und Einsatzbereitschaft der hiesigen Gründer*innen anzuerkennen, die für Lösungen kämpfen, die mehr denn je gebraucht werden. “Soziales und ökologisches Unternehmertum darf kein Add-on sein, sondern wir brauchen klar definierte Aufgaben, spezialisiertes Personal und ausreichende Finanzmittel.” so auch in der [Analyse der Antwort ](https://matthi-bolte.de/2019/08/14/social-entrepreneurs-fliegen-unter-dem-schwarz-gelben-radar/)durch den Abgeordneten Matthi Bolte-Richter. 
 
@@ -45,6 +37,4 @@ Dass unser geliebtes Bundesland in Sachen Social Startups Vorreiter werden kann,
 
 Die SocEnt-Community sowie NRWalley stehen für den erfolgreichen Wandel ganz lean zur Verfügung! Heben wir diese Krisenchance gemeinsam!
 
-Melusine Reimers & Daniel Bartel 
-
-Unternehmer*innen, ehrenamtlich im SEND e.V. NRW engagiert
+Autoren: Melusine Reimers & Daniel Bartel :: Unternehmer*innen, ehrenamtlich im SEND e.V. NRW engagiert
