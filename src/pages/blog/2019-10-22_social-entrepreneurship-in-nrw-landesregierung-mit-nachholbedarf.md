@@ -35,10 +35,10 @@ Die soziale Marktwirtschaft braucht neue Impulse. Hier darf NRW aktiv eine neue,
 
 Ein positives Beispiel setzt die Startup-Unit Wirtschaftsförderung der Stadt Düsseldorf, die sich zusammen mit dem [Rheinlandpitch Social Impact Spezial ](https://www.send-ev.de/2019-03-13_rheinland-pitch-social-impact-special-1-3-der-eser-2019-events-des-send-e-v/)bei der Ausschreibung der European Social Economy Regions beworben hat und somit eine Vertreter*in der Szene sowie Autor dieses folgenden Statements zur internationalen Vernetzungswoche nach Brüssel reisen kann.
 
-![Buy Social Event Netzwerkveranstaltung](/uploads/eventbite-titelbild-netzwerkveranstaltung2.jpg "Buy Social Event Netzwerkveranstaltung")
-
 Dass unser geliebtes Bundesland in Sachen Social Startups Vorreiter werden kann, wird auch dadurch deutlich, dass die meisten Teilnehmer*innen des Deutschen Social Entrepreneurship Monitors 2018 aus NRW stammen. Mit der Ausrichtung der SEND-Mitgliederversammlung am 30.10. auf Einladung der Stadt Dortmund unterstreicht auch der in Berlin ansässige Bundesverband die hohe Bedeutung Nordrhein-Westfalens. Anschließend können sich Organisationen und die öffentliche Hand über [das Potenzial nachhaltiger Beschaffung ](https://www.eventbrite.de/e/send-netzwerkveranstaltung-buy-social-das-potential-von-nachhaltigem-einkauf-und-beschaffung-tickets-67985228649)austauschen und mit Kaufentscheidungen lokale Sozialunternehmen ganz konkret unterstützen. 
+
+![Buy Social Event Netzwerkveranstaltung](/uploads/eventbite-titelbild-netzwerkveranstaltung2.jpg "Buy Social Event Netzwerkveranstaltung")
 
 Die SocEnt-Community sowie NRWalley stehen für den erfolgreichen Wandel ganz lean zur Verfügung! Heben wir diese Krisenchance gemeinsam!
 
-Autoren: Melusine Reimers & Daniel Bartel :: Unternehmer*innen, ehrenamtlich im SEND e.V. NRW engagiert
+Autoren: Melusine Reimers & Daniel Bartel (Unternehmer*innen, ehrenamtlich im SEND e.V. NRW engagiert)
