@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/plasticfree.png
 email: merlin@plasticfreeworld.com
-link: www.plasticfreeworld.com
+link: 'https://www.plasticfreeworld.com'
 city: Teltow
 postalCode: 14513
 federalState: Brandenburg
