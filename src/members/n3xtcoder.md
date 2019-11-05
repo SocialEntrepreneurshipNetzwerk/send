@@ -10,13 +10,15 @@ description: >-
 
   NEXTCODER ist der technische Partner von SEND. Die Webpräsenz und das
   grafische Erscheinungsbild wird von uns gestaltet und entwickelt.
+impactArea:
+  - Entrepreneurshipförderung
+  - Dienstleistungen für Sozialunternehmen
+organization: true
+image: /uploads/nc_logo_with_background.png
 email: info@n3xtcoder.org
 link: 'http://n3xtcoder.org/'
-image: /uploads/nc_logo_with_background.png
-city:
-postalCode:
-federalState:
-impactArea:
-organization:
+city: Berlin
+postalCode: 10119
+federalState: Berlin
 ---
 
