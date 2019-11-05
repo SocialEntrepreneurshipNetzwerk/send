@@ -78,3 +78,12 @@
 .schoepflin:hover path:first-child {
   fill: #040606;
 }
+
+.samsung {
+  width: 140px;
+  fill: grey;
+  padding-top: 10px;
+}
+.samsung:hover g{
+  fill: #1428a0;
+}

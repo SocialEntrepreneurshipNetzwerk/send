@@ -9,6 +9,7 @@ import BMW from '../svg/icons_logos/BMW.js';
 import BVDS from '../svg/icons_logos/BVDS.js';
 import KFW from '../svg/icons_logos/KFW.js';
 import Schoepflin from '../svg/icons_logos/Schoepflin.js';
+import Samsung from '../svg/icons_logos/Samsung.js';
 import styles from './footer.module.css';
 import Link from 'gatsby-link';
 
@@ -45,6 +46,7 @@ const Footer = () => (
         <div>
           <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
           <a href="https://www.kfw-stiftung.de" target="_blank"><Schoepflin/></a>
+          <a href="https://www.samsung.com/de/" target="_blank"><Samsung/></a>
         </div>
       </div>
     </section>
