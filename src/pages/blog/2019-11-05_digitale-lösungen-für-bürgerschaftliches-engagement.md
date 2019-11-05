@@ -4,10 +4,10 @@ clip: clip_article
 title: Digitale Lösungen für bürgerschaftliches Engagement
 excerpt: >-
   Die Welt verändert sich immer schneller und die Politik hängt weiterhin
-  hinterher. Zu Zeiten von #FridaysforFuture oder #unteilbar sind Menschen
-  zunehmend daran interessiert, sich wirkungsvoll bei sozialen Bewegungen zu
-  engagieren, machen es zumeist aber aufgrund des strukturellen Wandels des
-  Ehrenamts nicht.
+  hinterher. Zu Zeiten von #FridaysforFuture sind Menschen zunehmend daran
+  interessiert, sich wirkungsvoll bei sozialen Bewegungen zu engagieren, machen
+  es zumeist aber aufgrund des strukturellen Wandels des Ehrenamts nicht -
+  digitale Plattformen können hier Abhilfe schaffen.
 image: /uploads/170607_bw_sabrina_web_0001.jpg
 date: 2019-11-05T11:17:02.488Z
 category: news
