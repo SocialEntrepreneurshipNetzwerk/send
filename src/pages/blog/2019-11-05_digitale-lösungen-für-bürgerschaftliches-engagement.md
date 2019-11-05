@@ -8,7 +8,7 @@ excerpt: >-
   interessiert, sich wirkungsvoll bei sozialen Bewegungen zu engagieren, machen
   es zumeist aber aufgrund des strukturellen Wandels des Ehrenamts nicht -
   digitale Plattformen können hier Abhilfe schaffen.
-image: /uploads/170607_bw_sabrina_web_0001.jpg
+image: /uploads/header-ehrenamt.jpg
 date: 2019-11-05T11:17:02.488Z
 category: news
 ---
@@ -20,11 +20,7 @@ Daher muss auch die Politik diese Veränderungen anerkennen und ihren Beitrag le
 
 Wir haben deshalb mit unseren Mitgliedern, die an der Schnittstelle zwischen klassisch ehrenamtlichen Organisationen und der Wirtschaft arbeiten, ein Positionspapier erarbeitet. Wir wollen der Politik damit zeigen, wie sie die Rahmenbedingungen für das bürgerschaftliche Engagement und seine Unterstützer*innen zeitgemäß und sozial-innovativ anpassen kann. Denn es geht um Aspekte wie Identifikation, Wertschätzung und Mitgestaltung. Digitale Lösungen setzen hier an und vereinfachen die Bürokratie und senken Zugangsbarrieren.
 
-
-
 ![Zitat und Teamfoto vostel.de](/uploads/bild_blogartikel_vostel.png "Zitat und Teamfoto vostel.de")
-
-
 
 In dem Positionspapier haben wir 5 Handlungsfelder für die Politik identifiziert und mit konkreten Forderungen der digitalen Sozialunternehmer\*innen untermalt, sodass es für zukunftsorientierte Ideengeber\*innen zukünftig leichter ist, eine eigene Organisation zu gründen, sie weiterzuentwickeln oder nachhaltig zu etablieren.
 
@@ -44,10 +40,12 @@ Weitere Forderungen sind zum einen die feste Verankerung von Service Learning Fo
 
 ![Zitat und Bild Oliver Weyer von Voltastics](/uploads/bild_blogartikel_voltastic.png "Zitat und Bild Oliver Weyer von Voltastics")
 
-
-
 Schaut euch für tiefergehende Informationen und all unsere Forderungen einfach in Ruhe unser Positionspapier an. Wir verstehen unter Digitalisierung und Sozialen Innovationen nicht einfach nur Buzzwörter, die schick klingen. Stattdessen wollen wir sozial-innovativ agieren und das bürgerschaftliche Engagement digital voranbringen und gestalten!
 
 Wenn ihr Fragen zum Thema habt oder uns unterstützen wollt, meldet euch bei Hannah, der Ansprechpartnerin bei SEND zum Thema Bürgerschaftliches Engagement. 
 
 Hannah Fürstenwerth: hannah.fuerstenwerth@send-ev.de
+
+
+
+Foto von Dakota Corbin / Unsplash
