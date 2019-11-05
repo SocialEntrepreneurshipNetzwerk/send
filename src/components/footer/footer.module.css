@@ -14,7 +14,7 @@
 }
 @media (max-width: break-footer){
   .footer {
-    height: 740px;
+    height: 940px;
   }
 }
 
@@ -117,19 +117,32 @@
 }
 @media (max-width: break-main-padding){
   .footer section {
+    transform: translateY(26px);
     bottom: 40px;
   }
 }
 @media (max-width: break-footer){
   .footer section {
+    transform: translateY(64px);
     bottom: 60px;
   }
 }
 
-.footer section>div{
+.partnerLogos{
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: nowrap;
+}
+@media (max-width: break-main-padding) {
+  .partnerLogos{
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: break-footer) {
+  .partnerLogos a{
+    display: block;
+  }
 }
 
 .footer section p {
@@ -165,6 +178,6 @@
     width: 248px;
   }
   .mobile_view:first-child {
-    margin-top: 100px;
+    margin-top: 200px;
   }
 }

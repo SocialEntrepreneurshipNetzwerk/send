@@ -19,7 +19,11 @@ Allerdings wird das positive Wirkungspotential von sozialen Innovationen für ge
 
 ![Social Innovation Capital Berlin Zitat Leon Reiner](/uploads/social-innovation-capital-berlin_leon_800x420.jpg "Social Innovation Capital Berlin Zitat Leon Reiner")
 
-Das Projekt umfasst die Untersuchung der heterogenen Landschaft der SSÖ, die Ermittlung von Bedarfen, Möglichkeiten und Visionen, den Wirtschaftssektor weiterzuentwickeln, sowie die Entwicklung von Projektideen, deren spätere Umsetzung möglichst eigenständig erfolgen sollte. Damit wird der Grundstein für eine Strategie gelegt, die es schafft, relevante Akteure vor Ort sichtbarer zu machen, sie besser zu vernetzen und die SSÖ sowie das soziale Unternehmertum zu stärken. Langfristig soll Berlin im globalen Kontext als ein „Hotspot“ für soziale Innovation positioniert werden. Alle Akteure, die ein Interesse an der Mitgestaltung des Projekts haben, sind herzlich eingeladen, sich bei den jeweiligen Ansprechpartnern der Projektpartner zu informieren:
+Das Projekt umfasst die Untersuchung der heterogenen Landschaft der SSÖ, die Ermittlung von Bedarfen, Möglichkeiten und Visionen, den Wirtschaftssektor weiterzuentwickeln, sowie die Entwicklung von Projektideen, deren spätere Umsetzung möglichst eigenständig erfolgen sollte. Damit wird der Grundstein für eine Strategie gelegt, die es schafft, relevante Akteure vor Ort sichtbarer zu machen, sie besser zu vernetzen und die SSÖ sowie das soziale Unternehmertum zu stärken. Langfristig soll Berlin im globalen Kontext als ein „Hotspot“ für soziale Innovation positioniert werden. 
+
+![Zitat Farhad Dilmaghani Phineo](/uploads/social-innovation-capital-berlin_farhad_dilmaghani.jpg "Zitat Farhad Dilmaghani Phineo")
+
+Alle Akteure, die ein Interesse an der Mitgestaltung des Projekts haben, sind herzlich eingeladen, sich bei den jeweiligen Ansprechpartnern der Projektpartner zu informieren:
 
 **Phineo gAG** / [https://www.phineo.org](https://www.phineo.org/)
 
@@ -38,3 +42,7 @@ Helmut Geissler: helmut.geissler@netz-bb.de
 Sabrina Konzok: berlin@send-ev.de
 
 Den Onepager zum Thema Social Innovation Capital Berlin könnt Ihr gern [hier](https://www.send-ev.de/uploads/sicberlin.pdf) runterladen.
+
+
+
+_Copyright Bild Farhad Dilmaghani: PHINEO_
