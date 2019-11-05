@@ -8,7 +8,6 @@ description: >-
   entwickeln wir technologische Lösungen, die mindestens zu einem der 17
   Sustainable Development Goals der Vereinten Nationen beitragen.
 
-
   NEXTCODER ist der technische Partner von SEND. Die Webpräsenz und das
   grafische Erscheinungsbild wird von uns gestaltet und entwickelt.
 impactArea:
