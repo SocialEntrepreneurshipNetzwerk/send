@@ -10,5 +10,5 @@ description: >-
   kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner und
   bietet eben diesen Menschen.* - Markus Mustermann
 link: >-
-  https://www.kfw-stiftung.de/kunst-kultur/villa-102/the-politics-of-translation/
+  https://www.kfw-stiftung.de
 ---
