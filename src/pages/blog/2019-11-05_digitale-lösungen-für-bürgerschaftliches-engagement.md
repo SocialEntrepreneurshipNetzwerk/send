@@ -22,6 +22,8 @@ Wir haben deshalb mit unseren Mitgliedern, die an der Schnittstelle zwischen kla
 
 ![Zitat und Teamfoto vostel.de](/uploads/bild_blogartikel_vostel.png "Zitat und Teamfoto vostel.de")
 
+_Bild: Das Team von_ [_vostel.de_](https://vostel.de/de/)__
+
 In dem Positionspapier haben wir 5 Handlungsfelder für die Politik identifiziert und mit konkreten Forderungen der digitalen Sozialunternehmer\*innen untermalt, sodass es für zukunftsorientierte Ideengeber\*innen zukünftig leichter ist, eine eigene Organisation zu gründen, sie weiterzuentwickeln oder nachhaltig zu etablieren.
 
 Diese Handlungsfelder sind:
@@ -32,7 +34,7 @@ Diese Handlungsfelder sind:
 4. Zugang zu Finanzierungsinstrumenten/ Förderprogrammen
 5. Rahmenbedingungen für persönliches Engagement der freiwillig Engagierten Bürger*innen stärken
 
-All unsere Forderungen haben wir mit Quellen untermauert, sodass ihr euch darüber hinaus noch tiefergehend informieren könnt.
+All unsere Forderungen haben wir mit Quellen untermauert, sodass Ihr Euch darüber hinaus noch tiefergehend informieren könnt.
 
 U.a. fordern wir die Politik dazu auf, gemeinsame Innovations- und Testräume aufzubauen, wofür sich auch [die Wohlfahrt](https://www.diakonie.de/fileadmin/user_upload/Diakonie/PDFs/Stellungnahmen_PDF/2019-01-07_finaler_Stand_Positionspapier_Wohlfahrt_Startup_korrigiert7.pdf) einsetzt, sodass die Entwicklung, Gründung und Skalierung engagementfördernder Innovationen in Deutschland lokal unterstützt wird. Die geplante [Deutsche Stiftung für Engagement und Ehrenamt](https://www.bundesregierung.de/breg-de/aktuelles/gesellschaftliches-engagement-1646310) mit Sitz in Neustrelitz könnte diese Innovationsräume fördern (siehe hierzu Handlungsfeld 1 des [Positionspapiers](https://www.send-ev.de/uploads/positionspapier_engagement.pdf)).
 
@@ -40,9 +42,11 @@ Weitere Forderungen sind zum einen die feste Verankerung von Service Learning Fo
 
 ![Zitat und Bild Oliver Weyer von Voltastics](/uploads/bild_blogartikel_voltastic.png "Zitat und Bild Oliver Weyer von Voltastics")
 
-Schaut euch für tiefergehende Informationen und all unsere Forderungen einfach in Ruhe unser Positionspapier an. Wir verstehen unter Digitalisierung und Sozialen Innovationen nicht einfach nur Buzzwörter, die schick klingen. Stattdessen wollen wir sozial-innovativ agieren und das bürgerschaftliche Engagement digital voranbringen und gestalten!
+_Bild: Oliver Weyer von Voltastics:_ [_www.voltastics.org_](https://www.voltastics.org)__
 
-Wenn ihr Fragen zum Thema habt oder uns unterstützen wollt, meldet euch bei Hannah, der Ansprechpartnerin bei SEND zum Thema Bürgerschaftliches Engagement. 
+Schaut Euch für tiefergehende Informationen und all unsere Forderungen einfach in Ruhe unser Positionspapier an. Wir verstehen unter Digitalisierung und Sozialen Innovationen nicht einfach nur Buzzwörter, die schick klingen. Stattdessen wollen wir sozial-innovativ agieren und das bürgerschaftliche Engagement digital voranbringen und gestalten!
+
+Wenn Ihr Fragen zum Thema habt oder uns unterstützen wollt, meldet Euch bei Hannah, der Ansprechpartnerin bei SEND zum Thema Bürgerschaftliches Engagement. 
 
 Hannah Fürstenwerth: hannah.fuerstenwerth@send-ev.de
 
