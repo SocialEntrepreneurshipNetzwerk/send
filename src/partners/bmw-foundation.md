@@ -8,6 +8,6 @@ description: >-
   Politik und Verbänden ist der richtige Weg, um in Deutschland
   unternehmerischen Mut wiederzubeleben und genau diese kreativen Macher zu
   unterstützen. Merlind Harms
-email: www.bmw-foundation.org/de/
+email: www.bmw-foundation.org
 ---
 
