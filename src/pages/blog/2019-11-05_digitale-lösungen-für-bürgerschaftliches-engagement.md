@@ -22,7 +22,7 @@ Wir haben deshalb mit unseren Mitgliedern, die an der Schnittstelle zwischen kla
 
 ![Zitat und Teamfoto vostel.de](/uploads/bild_blogartikel_vostel.png "Zitat und Teamfoto vostel.de")
 
-_Bild: Das Team von_ [_vostel.de_](https://vostel.de/de/)__
+_Bild: Das Team von_ [_vostel.de_](https://vostel.de/de/)
 
 In dem Positionspapier haben wir 5 Handlungsfelder für die Politik identifiziert und mit konkreten Forderungen der digitalen Sozialunternehmer\*innen untermalt, sodass es für zukunftsorientierte Ideengeber\*innen zukünftig leichter ist, eine eigene Organisation zu gründen, sie weiterzuentwickeln oder nachhaltig zu etablieren.
 
@@ -42,7 +42,7 @@ Weitere Forderungen sind zum einen die feste Verankerung von Service Learning Fo
 
 ![Zitat und Bild Oliver Weyer von Voltastics](/uploads/bild_blogartikel_voltastic.png "Zitat und Bild Oliver Weyer von Voltastics")
 
-_Bild: Oliver Weyer von Voltastics:_ [_www.voltastics.org_](https://www.voltastics.org)__
+_Bild: Oliver Weyer von Voltastics:_ [_www.voltastics.org_](https://www.voltastics.org)
 
 Schaut Euch für tiefergehende Informationen und all unsere Forderungen einfach in Ruhe unser Positionspapier an. Wir verstehen unter Digitalisierung und Sozialen Innovationen nicht einfach nur Buzzwörter, die schick klingen. Stattdessen wollen wir sozial-innovativ agieren und das bürgerschaftliche Engagement digital voranbringen und gestalten!
 
