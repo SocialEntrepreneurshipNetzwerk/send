@@ -64,10 +64,10 @@ Die folgenden vier Programme richten sich an Intermediäre (wie Banken, Investor
    [verlängert](https://www.european-microfinance.org/call/easi-ta-social-entrepreneurship). Gerade deutsche Institutionen haben hier also die Möglichkeit von ihren europäischen Partner*innen etwas zu lernen! 
 4. [EFSI Equity instrument](https://www.eif.org/what_we_do/equity/efsi/): Der Europäische Investement Fonds bietet bis zum 30.09.2020 verschiedene equity instruments für Intermediäre an, die explizit Social Impact generieren und Sozialunternehmen und den sozialen Sektor allgemein fördern.
 
-
-
 Das Toolkit wird regelmäßig aktualisiert und auch wir werden diesen Blogartikel dementsprechend aktuell halten. Für generelle Finanzierungsmöglichkeiten in Deutschland, schaut Euch auch diese [Broschüre](https://www.send-ev.de/uploads/finanzierungsbooklet.pdf) von uns an. Für weitere Informationen zum Thema Finanzierungslandschaft und unseren Forderungen in Deutschland, lest gerne auch diesen [Blogartikel](https://www.send-ev.de/2019-08-14_finanzierungslandschaft-in-deutschland-für-social-entrepreneurs/)! 
 
 Wenn von Euch jemand Erfahrungen mit EU-Programmen hat, die in dieser Auflistung noch fehlen, gebt uns bitte Bescheid! Ebenso freuen wir uns auf Feedback von Euch und Euren Erfahrungen mit EU-Förderungen.
 
 Meldet Euch einfach bei uns unter info@send-ev.de.
+
+_Foto von Olia Nayda on Unsplash_
