@@ -8,7 +8,7 @@ excerpt: >-
   (wie Banken, Investor*innen, Fonds, Incubators, Accelerators)
   Sozialunternehmen in Deutschland mit EU-Fördergeldern fördern könnt? Dann lest
   hier weiter!
-image: /uploads/architektur-berlin-gebaude-109630.jpg
+image: /uploads/header-finanzierung-eu.jpg
 date: 2019-11-08T07:30:44.531Z
 category: news
 ---
