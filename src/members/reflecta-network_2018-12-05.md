@@ -1,5 +1,5 @@
 ---
-title: Reflecta.Network
+title: Reflecta
 description: >-
   Das Reflecta.Network ist eine digitale Plattform für diejenigen, die Antworten
   auf die drängenden Fragen unserer Zeit suchen. Das Ziel ist es, die UN Global
