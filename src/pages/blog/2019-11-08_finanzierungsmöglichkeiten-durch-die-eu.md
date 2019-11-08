@@ -34,9 +34,9 @@ Die [Next Generation Internet](https://www.ngi.eu/about/) (NGI) Initiative gehö
 
 Aktuell gibt es im Rahmen der NGI drei relevante offene Ausschreibungen:
 
-1. __[_Next Generation Search and Discovery_](https://nlnet.nl/discovery/) _(NGI Zero Discovery):_ In diesem Förderstrang geht es um die Gestaltung von sozialen und transparenten Suchoptionen im Internet durch open-source Technologien. Deadline der aktuellen und Ausschreibung ist bereits der 01.12.2019 und es geht um Förderungen zwischen 5.000€ und 50.000€.
-2. __[_Privacy & Trust Enhancing Technologies_](https://nlnet.nl/PET/) _(NGI Zero PET):_ Deadline des aktuellen Calls ist ebenfalls bereits der 01.12.2019 und es geht wiederum um Förderungen zwischen 5.000€ und 50.000€.
-3. __[_Decentralised Technologies_](https://www.ngi.eu/news/2019/11/05/ledger-funding-for-decentralised-human-centric-tech-solutions/) _(LEDGER):_ Durch diese Blockchain Initiative bekommt Ihr ein Mentoring, Trainings und bis zu 200.000€ Förderung, um ein Minimum Viable Product (MVP) zu erstellen, das privacy-by-design, Offenheit und data governance als Grundwerte beinhaltet. Im Fokus stehen diese fünf Themen: Health, Finance, Collaborative Economy, Public Services, and Energy. Deadline ist der 31.01.2020.
+1. [Next Generation Search and Discovery](https://nlnet.nl/discovery/) _(NGI Zero Discovery):_ In diesem Förderstrang geht es um die Gestaltung von sozialen und transparenten Suchoptionen im Internet durch open-source Technologien. Deadline der aktuellen und Ausschreibung ist bereits der 01.12.2019 und es geht um Förderungen zwischen 5.000€ und 50.000€.
+2. [Privacy & Trust Enhancing Technologies](https://nlnet.nl/PET/) (_NGI Zero PET):_ Deadline des aktuellen Calls ist ebenfalls bereits der 01.12.2019 und es geht wiederum um Förderungen zwischen 5.000€ und 50.000€.
+3. [Decentralised Technologies](https://www.ngi.eu/news/2019/11/05/ledger-funding-for-decentralised-human-centric-tech-solutions/) _(LEDGER):_ Durch diese Blockchain Initiative bekommt Ihr ein Mentoring, Trainings und bis zu 200.000€ Förderung, um ein Minimum Viable Product (MVP) zu erstellen, das privacy-by-design, Offenheit und data governance als Grundwerte beinhaltet. Im Fokus stehen diese fünf Themen: Health, Finance, Collaborative Economy, Public Services, and Energy. Deadline ist der 31.01.2020.
 
 \---
 
