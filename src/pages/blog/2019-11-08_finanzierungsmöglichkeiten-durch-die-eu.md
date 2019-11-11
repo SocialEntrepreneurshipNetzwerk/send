@@ -9,7 +9,7 @@ excerpt: >-
   Sozialunternehmen in Deutschland mit EU-Fördergeldern fördern könnt? Dann lest
   hier weiter!
 image: /uploads/header-finanzierung-eu.jpg
-date: 2019-11-08T07:30:44.531Z
+date: 2019-11-10T23:00:00.000Z
 category: news
 ---
 Ihr habt Euch immer schon mal gefragt, ob Euer Unternehmen, Eure Organisation nicht auch von der EU gefördert werden könnte? Oder wie Ihr als Intermediär (wie Banken, Investor*innen, Fonds, Incubators, Accelerators) Sozialunternehmen in Deutschland mit EU-Fördergeldern fördern könnt?
