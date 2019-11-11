@@ -16,7 +16,7 @@ Ihr habt Euch immer schon mal gefragt, ob Euer Unternehmen, Eure Organisation ni
 
 **Dann lest weiter!** 
 
-EU-Förderungen basieren auf dem Haushaltsplan der EU ( der nennt sich mehrjähriger Finanzrahmen (MFR) und wird immer für 6 Jahre beschlossen). Der aktuelle Plan umfasst den Zeitraum 2014 – 2020. Daher sind viele Bewerbungsphasen bereits geschlossen, aber dennoch erfahrt Ihr im Folgenden zum einen etwas über die aktuellen Aussschreibungen und Programme und zum anderen gibt es auch Informationen über die Gestaltung des Haushaltsplans für 2021 – 2027. 
+EU-Förderungen basieren auf dem Haushaltsplan der EU (der nennt sich mehrjähriger Finanzrahmen (MFR) und wird immer für 6 Jahre beschlossen). Der aktuelle Plan umfasst den Zeitraum 2014 – 2020. Daher sind viele Bewerbungsphasen bereits geschlossen, aber dennoch erfahrt Ihr im Folgenden zum einen etwas über die aktuellen Aussschreibungen und Programme und zum anderen gibt es auch Informationen über die Gestaltung des Haushaltsplans für 2021 – 2027. 
 
 Eine grundsätzliche gute Übersicht verschiedener Programme der EU auf Englisch findet Ihr im [European Funding Toolkit for Social Enterprise Support Organisations & Social Enterprises](http://euclidnetwork.eu/wp-content/uploads/2019/03/euclid_funding-guide_web.pdf) vom [Euclid Network](https://euclidnetwork.eu). Neben den verschiedenen Finanzierungsprogrammen gibt das Toolkit auch einige Hintergrundinformationen über bisherige Förderinitiativen auf europäischer Ebene und den zuständigen Institutionen. 
 
@@ -30,7 +30,7 @@ Im Rahmen des Forschungs- und Innovationsprogramms der EU [Horizon 2020](https:/
 
 \---
 
-Die [Next Generation Internet](https://www.ngi.eu/about/) (NGI) Initiative gehört bspw. zu Horizon2020 und zielt darauf ab, das Internet und das Plattform-Ökosystem zukünftig sozialer und inklusiver zu gestalten. Wenn Blockchain, open-source technology und privacy-by-design keine Fremdwörter sind, meldet Euch bei der [NGI Community](https://community.ngi.eu/signin) an und verpasse keine neue Ausschreibung!
+Die [Next Generation Internet](https://www.ngi.eu/about/) (NGI) Initiative gehört bspw. zu Horizon2020 und zielt darauf ab, das Internet und das Plattform-Ökosystem zukünftig sozialer und inklusiver zu gestalten. Wenn Blockchain, open-source technology und privacy-by-design keine Fremdwörter für Euch sind, meldet Euch bei der [NGI Community](https://community.ngi.eu/signin) an und verpasst keine neue Ausschreibung!
 
 Aktuell gibt es im Rahmen der NGI drei relevante offene Ausschreibungen:
 
