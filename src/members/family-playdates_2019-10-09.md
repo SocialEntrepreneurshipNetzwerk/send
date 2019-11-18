@@ -19,7 +19,7 @@ impactArea:
 organization: true
 image: /uploads/play.png
 email: agnesa@family-playdates.org
-link: www.family-playdates.org
+link: 'https://www.family-playdates.org'
 city: Frankfurt am Main
 postalCode: 60487
 federalState: Hessen
