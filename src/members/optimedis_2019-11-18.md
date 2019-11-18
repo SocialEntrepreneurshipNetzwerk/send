@@ -18,7 +18,7 @@ impactArea:
 organization: true
 image: /uploads/opti.png
 email: h.hildebrandt@optimedis.de
-link: www.optimedis.de
+link: 'https://www.optimedis.de'
 city: Hamburg
 postalCode: 20095
 federalState: Hamburg
