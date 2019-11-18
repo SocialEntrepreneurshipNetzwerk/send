@@ -10,7 +10,7 @@ impactArea:
 organization: true
 image: /uploads/digitalweltverändern.png
 email: hallo@digital-weltverbessern.de
-link: www.digital-weltverbessern.de
+link: 'https://www.digital-weltverbessern.de'
 city: Hamburg
 postalCode: 22767
 federalState: Hamburg
