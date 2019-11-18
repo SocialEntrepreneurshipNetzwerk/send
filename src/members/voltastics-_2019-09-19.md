@@ -1,21 +1,24 @@
 ---
 title: '#VOLTASTICS '
 description: >-
-  #VOLTASTICS - Mehr Sichtbarkeit und Anerkennung fürs ehrenamtliche Engagement
-  in Deutschland.
+  #VOLTASTICS - Mehr Sichtbarkeit und Anerkennung für ehrenamtliches und
+  freiwilliges Engagement in Deutschland.
 
 
-  Über 23 Millionen Ehrenamtler*innen leisten einen wertvollen Beitrag für
-  unsere Gesellschaft. Wir begeistern Ehrenamtler*innen, Organisationen,
-  Unternehmen und Städte sich digital zu vernetzen, um ehrenamtliches Engagement
-  sichtbarer zu machen und gegenseitige Unterstützung besser zu organisieren.
+  Über 30 Millionen freiwillig Engagierte leisten einen wertvollen Beitrag für
+  unsere Gesellschaft. Wir begeistern Freiwillige Organisationen Unternehmen und
+  Städte sich digital zu vernetzen um freiwilliges Engagement sichtbarer zu
+  machen und gegenseitige Unterstützung besser zu organisieren.
 
 
-  Wir vernetzen die Player des ehrenamtlichen Engagements.
+  Wir vernetzen die Player des ehrenamtlichen und freiwilligen Engagements in
+  Deutschland. Freiwillig Engagierte bei #VOLTASTICS erfassen Ihre Aktivitäten.
+  Automatisch via App. Unternehmen Organisationen und Städte können Freiwillige
+  somit aktiver unterstützen.
 impactArea:
   - Demokratie & Engagement von Bürger*innen
 organization: true
-image: /uploads/volta-logo.png
+image: /uploads/voltastics.png
 email: oliver.weyer@voltastics.org
 link: 'https://www.voltastics.org'
 city: Köln
