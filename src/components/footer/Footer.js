@@ -41,15 +41,11 @@ const Footer = () => (
     <section>
       <p>Kooperationspartner und Premiumförderer</p>
       <div className={styles.partnerLogos}>
-        <div >
           <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
           <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
-        </div>
-        <div>
           <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
           <a href="https://www.kfw-stiftung.de" target="_blank"><Schoepflin/></a>
           <a href="https://www.samsung.com/de/" target="_blank"><Samsung/></a>
-        </div>
       </div>
     </section>
   </footer>
