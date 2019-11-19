@@ -1,8 +1,8 @@
 ---
-name: Leon Reiner
-image: /uploads/leon-reiner-impact-hub-berlin.png
+name: Sally Ollech
+image: /uploads/sally-ollech.jpg
 role: Vorstand
-description: Geschäftsführer Impact Hub Berlin
-mail: leon.reiner@send-ev.de
+description: Diversicon
+mail: ''
 ---
 
