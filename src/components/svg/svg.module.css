@@ -16,7 +16,7 @@
 }
 
 .lowerGroup{
-  transform: scaleY(1.5) translate(1px, 140px);
+  transform: scaleY(2.5) translate(1px,77px);
 }
 
 .triangle {
@@ -29,7 +29,7 @@
 
 /* Internet Explorer 10+, Microsoft Edge Browser HACK */
 
-_:-ms-lang(x), .triangle { opacity: 0.6; } 
+_:-ms-lang(x), .triangle { opacity: 0.6; }
 
 .background_turquoise {
   position: absolute;

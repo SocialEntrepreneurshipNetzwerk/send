@@ -4,17 +4,17 @@
 .footer{
   position: relative;
   width: 99vw;
-  height: 500px;
+  height: 450px;
   overflow: hidden;
 }
 @media (max-width: break-main-padding){
   .footer{
-    height: 780px
+    height: 700px
   }
 }
 @media (max-width: break-footer){
   .footer {
-    height: 1070px;
+    height: 964px;;
   }
 }
 
