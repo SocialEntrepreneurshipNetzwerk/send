@@ -1,6 +1,6 @@
 ---
 name: ' Markus Sauerhammer'
-image: /uploads/Markus_Sauerhammer.jpg
+image: /uploads/markus-sauerhammer.jpg
 role: Vorstand
 description: |
   1. Vorsitzender
