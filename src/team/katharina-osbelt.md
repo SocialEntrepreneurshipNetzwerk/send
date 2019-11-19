@@ -2,9 +2,7 @@
 name: Katharina Osbelt
 image: /uploads/katharina_osbelt.jpg
 role: Team
-description: |-
-  Community Management
-
-  SEND e.V.
+description: Community Management
+mail: katharina.osbelt@send-ev.de
 ---
 
