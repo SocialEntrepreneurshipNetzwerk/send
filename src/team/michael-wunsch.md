@@ -1,10 +1,10 @@
 ---
 name: Michael Wunsch
-image: /uploads/send_01.02.18_internet-335.jpg
+image: /uploads/michael-wunsch.jpg
 role: Team
-description: |-
+description: |+
   Wissenschaftliche Kooperationen
 
-  SEND e.V.
+mail: michael.wunsch@send-ev.de
 ---
 
