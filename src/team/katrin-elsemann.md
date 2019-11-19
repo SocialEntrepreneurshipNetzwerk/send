@@ -1,6 +1,6 @@
 ---
 name: Katrin Elsemann
-image: /uploads/katrin.png
+image: /uploads/katrin-elsemann.jpg
 role: Team
 description: Geschäftsführerin
 mail: katrin.elsemann@send-ev.de
