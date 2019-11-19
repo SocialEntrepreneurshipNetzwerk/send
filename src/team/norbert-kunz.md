@@ -1,8 +1,8 @@
 ---
-name: Norbert Kunz
-image: /uploads/norbert-kunz-social-impact-lab-berlin.png
+name: Philipp von der Wippel
+image: /uploads/philipp-von-der-wippel.jpg
 role: Vorstand
-description: Geschäftsführer Social Impact gGmbH
-mail: norbert.kunz@send-ev.de
+description: ProjectTogether
+mail: ''
 ---
 
