@@ -134,6 +134,11 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.partnerLogos span {
+  width: 260px;
+}
+
 @media (max-width: break-main-padding) {
   .partnerLogos{
     flex-wrap: wrap;
