@@ -1,7 +1,8 @@
 import React from 'react';
+// UI
 import BackgroundFooter from '../svg/BackgroundFooter.js';
-import logo from '../../img/logo-negative.svg';
 import ButtonCTA from '../cta/ButtonCTA.js';
+import logo from '../../img/logo-negative.svg';
 import Facebook from '../svg/icons_logos/Facebook.js';
 import Twitter from '../svg/icons_logos/Twitter.js';
 import Youtube from '../svg/icons_logos/Youtube.js';
@@ -10,8 +11,9 @@ import BVDS from '../svg/icons_logos/BVDS.js';
 import KFW from '../svg/icons_logos/KFW.js';
 import Schoepflin from '../svg/icons_logos/Schoepflin.js';
 import Samsung from '../svg/icons_logos/Samsung.js';
-import styles from './footer.module.css';
 import Link from 'gatsby-link';
+// STYLES
+import styles from './footer.module.css';
 
 
 const Footer = () => (
