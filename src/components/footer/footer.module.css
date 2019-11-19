@@ -4,17 +4,17 @@
 .footer{
   position: relative;
   width: 99vw;
-  height: 342px;
+  height: 450px;
   overflow: hidden;
 }
 @media (max-width: break-main-padding){
   .footer{
-    height: 600px
+    height: 700px
   }
 }
 @media (max-width: break-footer){
   .footer {
-    height: 940px;
+    height: 964px;;
   }
 }
 
@@ -132,8 +132,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
+
+.partnerLogos span {
+  width: 260px;
+}
+
 @media (max-width: break-main-padding) {
   .partnerLogos{
     flex-wrap: wrap;
