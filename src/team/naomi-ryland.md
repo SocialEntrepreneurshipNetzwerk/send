@@ -1,8 +1,8 @@
 ---
-name: Naomi Ryland
-image: /uploads/naomi.png
+name: Julia Post
+image: /uploads/julia-post.jpg
 role: Vorstand
-description: Geschäftsführerin tbd*
-mail: naomi.ryland@send-ev.de
+description: Open Your Window
+mail: ''
 ---
 
