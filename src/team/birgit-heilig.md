@@ -1,8 +1,8 @@
 ---
 name: Birgit Heilig
-image: /uploads/birgit-heilig-social-impact-ggmbh.png
+image: /uploads/birgit-heilig.jpg
 role: Vorstand
-description: Standortleiterin Social Impact gGmbH
-mail: birgit.heilig@send-ev.de
+description: Social Impact
+mail: ''
 ---
 
