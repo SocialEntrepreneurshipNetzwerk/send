@@ -15,7 +15,7 @@ const TriangleBoxSponsor = ( props ) => {
       <div className={styles.sponsor_preview_content}>
         <h1>{props.box.title}</h1>
         <a href={`mailto: ${props.box.mail}`}>{props.box.mail}</a>
-        <a href={props.box.homepage} target="_blank">{props.box.homepage}</a>
+        <a href={props.box.homepage} target="_blank">{props.box.homepage.replace( /(https?:\/\/)|\/?$/g, '' )}</a>
         <TriangleBottom/>
       </div>
     </article>
