@@ -100,7 +100,8 @@
   padding-top: 63%;
   width:100%;
   background-color: white;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
