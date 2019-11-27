@@ -1,12 +1,21 @@
 ---
 title: BMW Foundation
-image: /uploads/2000px-bmw_foundation_herbert_quandt.png
+image: /uploads/bmw-foundation_markus-hipp.png
 description: >-
-  *Mut haben etwas zu verändern. Menschen, die den Nutzen von neuen Technologien
-  erkennen und mit digitalen Lösungen ihre Ideen zum Wohle der Gesellschaft in
-  die Tat umsetzen. Eine Förderung von Social Entrepreneurship zusammen mit
-  Politik und Verbänden ist der richtige Weg, um in Deutschland
-  unternehmerischen Mut wiederzubeleben und genau diese kreativen Macher zu
-  unterstützen.* - Merlind Harms
-link: 'https://bmw-foundation.org/de/'
+  _„Social Entrepreneure leisten einen unverzichtbaren Beitrag um unsere
+  Gesellschaft und Wirtschaft zukunftsfähig zu machen. Wir zählen viele
+  erfolgreiche Sozialunternehmer zu unserem globalen BMW Foundation Responsible
+  Leaders Network. Obwohl das Thema aktuell viel Aufmerksamkeit bekommt, braucht
+  es jedoch noch mehr Verankerung in der Politik und Zusammenarbeit mit anderen
+  zentralen Akteuren. SEND nimmt sich dieser Herausforderung an, baut das
+  Ökosystem in Deutschland weiter aus und hilft damit diesen wichtigen Ansatz in
+  den Mainstream zu bringen.“_
+
+
+  Markus Hipp
+
+
+  __
+link: 'https://bmw-foundation.org'
 ---
+
