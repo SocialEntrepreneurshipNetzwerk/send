@@ -13,9 +13,6 @@ description: >-
 
 
   Markus Hipp
-
-
-  __
 link: 'https://bmw-foundation.org'
 ---
 
