@@ -7,8 +7,8 @@ section_1:
     Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
     Sozialunternehmen, aufstrebende Social Start Ups, engagierte
     Sozialunternehmer*innen, sowie Förderpartner aus Wirtschaft und
-    Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt
-    wird.
+    Gesellschaft. Hier findet Ihr ihre Kurzportraits, die regelmäßig
+    aktualisiert werden.
   title: Unsere Mitglieder
 section_2:
   cta:
