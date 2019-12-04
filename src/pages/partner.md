@@ -19,7 +19,7 @@ section_2:
     stärken. Auch Organisationen, die dem Sektor selbst nicht angehören, das
     Thema aber förderungswürdig finden und die enormen Potenziale für unsere
     Gesellschaft sehen, können Teil von SEND werden. Durch die Unterstützung
-    folgender Fördermitglieder wird uns das #GemeinsamWirken ermöglicht:
+    folgender Fördermitglieder wird uns das #GemeinsamWirken ermöglicht.
   title: Fördermitglieder
 section_3:
   paragraph: >-
