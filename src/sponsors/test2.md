@@ -1,6 +1,6 @@
 ---
 title: Hans Sauer Stiftung
-image: /uploads/500px-hans-sauer-stiftung-logo.png
+image: /uploads/hans-sauer-stiftung.jpg
 homepage: www.hanssauerstiftung.de
 mail: ''
 organization: true
