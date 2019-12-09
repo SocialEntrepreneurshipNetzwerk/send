@@ -21,7 +21,11 @@ export default ({ data }) => {
   const team = teamAll.filter( member => member.role === 'Team' );
   console.log( regionalGroups );
   regionalGroups.sort( function( a, b ) {
-    return a.federalState.localeCompare( b.federalState );
+    if (a.federalState && b.federalState) {
+      return a.federalState.localeCompare(b.federalState);
+    } else {
+      return false
+    }
   });
 
 
