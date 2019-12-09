@@ -3,11 +3,11 @@ templateKey: article
 clip: clip_article
 title: Hamburg. Hafen für Social Entrepreneurs?
 excerpt: >-
-  Hamburg kann Hafen, Hamburg kann Medien, aber kann Hamburg auch soziale
-  Innovation? Das war unsere Frage an die Fraktionsvorsitzenden bzw.
-  Fachsprecher von SPD, Bündnis90/ GRÜNE und FDP sowie den Spitzenkandidaten der
-  CDU für die Hamburgische Bürgerschaft. Erfahrt hier mehr über einen spannenden
-  Austausch im Hamburger Betahaus.
+  Im Februar 2020 wird die Hamburgische Bürgerschaft neu gewählt. Wie attraktiv
+  ist Hamburg für soziale Innovation? Diese Frage haben wir den
+  Fraktionsvorsitzenden bzw. Fachsprecher von SPD, Bündnis90/ GRÜNE und FDP
+  sowie den Spitzenkandidaten der CDU für die Hamburgische Bürgerschaft
+  gestellt. Erfahrt hier mehr über einen spannenden Austausch.
 image: /uploads/header-hamburg-hafen-social-entrepreneurs.jpg
 date: 2019-12-09T07:30:44.531Z
 category: news
