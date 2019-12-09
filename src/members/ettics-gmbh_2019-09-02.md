@@ -18,7 +18,7 @@ impactArea:
 organization: true
 image: /uploads/ettics.png
 email: jan@ettics.de
-link: www.ettics.com
+link: 'https://www.ettics.com'
 city: Witten
 postalCode: 58452
 federalState: Nordrhein-Westfalen
