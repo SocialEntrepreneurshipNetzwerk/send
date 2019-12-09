@@ -1,8 +1,8 @@
 ---
-name: Matthias Scheffelmeier
-image: /uploads/matthias-scheffelmeier-ashoka.png
+name: Laura Haverkamp
+image: /uploads/laura-haverkamp.jpg
 role: Vorstand
-description: Vorstand
-mail: matthias.scheffelmeier@send-ev.de
+description: Ashoka
+mail: ''
 ---
 

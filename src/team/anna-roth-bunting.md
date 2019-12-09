@@ -1,8 +1,8 @@
 ---
-name: Anna Roth-Bunting
-image: /uploads/anna-roth-bunting.jpg
+name: Sabrina Konzok
+image: /uploads/sabrina-konzok.jpg
 role: Vorstand
-description: ''
+description: Kiron
 mail: ''
 ---
 

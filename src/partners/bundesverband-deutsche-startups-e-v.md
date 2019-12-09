@@ -1,13 +1,13 @@
 ---
 title: Bundesverband Deutsche Startups e.V
-image: /uploads/satrtup-verband_logo_deutsch_png.png
+image: /uploads/bvds_christoph-stresing.png
 description: >-
-  "Der Gesellschaft in die Tat umsetzen. Eine Förderung von Social
-  Entrepreneurship zusammen mit Politik und Verbänden ist der richtige Weg, um
-  in Deutschland unternehmerischen Mut wiederzubeleben und genau diese kreativen
-  Macher zu unterstützen. SEND ist hierfür der richtige Partner und bietet eben
-  diesen Menschen eine Plattform, um ihre sozialen Innovationen voranzutreiben.“
-  Maike Masterfrau
-email: 'https://deutschestartups.org'
+  _"Viel zu selten werden Fragen nach der gesellschaftlichen Rendite ganz oben
+  auf die Agenda gesetzt. SEND will das ändern und ist deshalb als Stimme und
+  Treiber für soziales Unternehmertum in Deutschland unverzichtbar."_
+
+
+  Christoph J. Stresing
+link: 'https://deutschestartups.org'
 ---
 

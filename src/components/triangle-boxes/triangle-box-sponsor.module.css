@@ -33,7 +33,8 @@
   height: 220px;
   width: 100%;
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 /*
@@ -80,12 +81,12 @@
 }
 
 .triangle_box_sponsor a {
-  display: block;
-  color: deep-blue;
-  font-size: 12px;
-  line-height: 2;
+  display:block;
+  font-size: 16px;
+  line-height: 1.2;
   letter-spacing: 1px;
-  text-transform: uppercase;
+  color: aqua;
+  font-weight: 700;
 }
 
 .triangle_box_sponsor a span {

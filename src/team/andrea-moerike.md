@@ -1,8 +1,8 @@
 ---
 name: Andrea Mörike
-image: /uploads/andrea-moerike-moerike-consulting.png
+image: /uploads/andrea-moerike.png
 role: Regionalgruppe
-description: Regionalgruppensprecherin
+description: ''
 mail: bayern@send-ev.de
 federalState: Bayern
 ---

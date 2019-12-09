@@ -20,7 +20,6 @@ section_1:
     eines schlagkräftigen Netzwerks starten.
   title: Gründungsgeschichte
 section_2:
-  image: /uploads/sam_2102.jpg
   paragraph: >-
     Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
     die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
