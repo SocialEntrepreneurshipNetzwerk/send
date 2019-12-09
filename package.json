@@ -43,6 +43,12 @@
   "devDependencies": {
     "eslint": "^4.13.1",
     "eslint-config-idiomatic": "^4.0.0",
-    "eslint-plugin-react": "^7.5.1"
+    "eslint-plugin-react": "^7.5.1",
+    "front-matter": "^3.0.2",
+    "glob": "^7.1.6",
+    "remark": "^11.0.2",
+    "remark-html": "^10.0.0",
+    "remark-preset-lint-recommended": "^3.0.3",
+    "vfile-reporter": "^6.0.0"
   }
 }
