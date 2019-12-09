@@ -22,9 +22,9 @@ export default ({ data }) => {
   console.log( regionalGroups );
   regionalGroups.sort( function( a, b ) {
     if (a.federalState && b.federalState) {
-      return a.federalState.localeCompare(b.federalState);
+      return a.federalState > b.federalState ? 1 : -1
     } else {
-      return false
+      return 0
     }
   });
 
