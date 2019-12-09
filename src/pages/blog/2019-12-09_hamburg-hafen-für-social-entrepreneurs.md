@@ -4,10 +4,10 @@ clip: clip_article
 title: Hamburg. Hafen für Social Entrepreneurs?
 excerpt: >-
   Im Februar 2020 wird die Hamburgische Bürgerschaft neu gewählt. Wie attraktiv
-  ist Hamburg für soziale Innovationen? Diese Frage haben wir den
-  Fraktionsvorsitzenden bzw. Fachsprechern von SPD, Bündnis90/ GRÜNE und FDP
-  sowie den Spitzenkandidaten der CDU für die Hamburgische Bürgerschaft
-  gestellt. Erfahrt hier mehr über einen spannenden Austausch.
+  Hamburg für soziale Innovationen ist, hat unsere Regionalgruppe die
+  Fraktionsvorsitzenden bzw. Fachsprecher von SPD, Bündnis90/ GRÜNE und FDP
+  sowie den Spitzenkandidaten der CDU für die Hamburgische Bürgerschaft gefragt.
+  Lest hier über einen spannenden Austausch.
 image: /uploads/header-hamburg-hafen-social-entrepreneurs.jpg
 date: 2019-12-09T07:30:44.531Z
 category: news
