@@ -9,7 +9,7 @@ cta_sticky:
   hexColor: '#ff007b'
 section_1:
   paragraph: >-
-    Unser Netzwerk zählt bereits über 350 Mitglieder: innovative
+    Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
     Sozialunternehmen, aufstrebende Social Start Ups, engagierte
     Sozialunternehmer*innen, sowie Förderpartner aus Wirtschaft und
     Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt

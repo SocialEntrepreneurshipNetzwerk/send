@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/brainweb_800x500_transparent.png
 email: 'jochen@brainweb.de '
-link: 'http://www.brainweb.de '
+link: 'https://www.brainweb.de '
 city: Köln
 postalCode: '50858'
 federalState: Nordrhein-Westfalen

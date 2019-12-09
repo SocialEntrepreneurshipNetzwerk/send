@@ -1,15 +1,19 @@
 import React from 'react';
+// UI
 import BackgroundFooter from '../svg/BackgroundFooter.js';
+import ButtonCTA from '../cta/ButtonCTA.js';
 import logo from '../../img/logo-negative.svg';
-import ButtonCTA from '../cta/ButtonCTA.js'
 import Facebook from '../svg/icons_logos/Facebook.js';
 import Twitter from '../svg/icons_logos/Twitter.js';
 import Youtube from '../svg/icons_logos/Youtube.js';
 import BMW from '../svg/icons_logos/BMW.js';
 import BVDS from '../svg/icons_logos/BVDS.js';
 import KFW from '../svg/icons_logos/KFW.js';
-import styles from './footer.module.css';
+import Schoepflin from '../svg/icons_logos/Schoepflin.js';
+import Samsung from '../svg/icons_logos/Samsung.js';
 import Link from 'gatsby-link';
+// STYLES
+import styles from './footer.module.css';
 
 
 const Footer = () => (
@@ -37,10 +41,22 @@ const Footer = () => (
     </div>
     <section>
       <p>Kooperationspartner und Premiumförderer</p>
-      <div>
-        <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
-        <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
-        <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
+      <div className={styles.partnerLogos}>
+        <span>
+          <a href="https://www.deutschestartups.org/" target="_blank"><BVDS/></a>
+        </span>
+        <span>
+          <a href="http://bmw-foundation.org/" target="_blank"><BMW/></a>
+        </span>
+        <span>
+          <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
+        </span>
+        <span>
+          <a href="https://www.kfw-stiftung.de" target="_blank"><Schoepflin/></a>
+        </span>
+        <span>
+          <a href="https://www.samsung.com/de/" target="_blank"><Samsung/></a>
+        </span>
       </div>
     </section>
   </footer>

@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-91-_li.jpg
 email: bettina.sarnes@educationinnovationartelier.de
-link: www.educationinnovationartelier.space
+link: 'https://digitale-helden.de/www.educationinnovationartelier.space'
 city: Stuttgart
 postalCode: 70376
 federalState: Baden-Württemberg

@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: 'Offene Arbeitstreffen '
+title: Offene Arbeitstreffen
 excerpt: >-
   Schon seit einiger Zeit bieten wir für Mitglieder, aber auch
   Interessent*innen, offene Arbeitstreffen im Impact Hub Berlin an. Hier
