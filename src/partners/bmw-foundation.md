@@ -12,7 +12,7 @@ description: >-
   den Mainstream zu bringen.“_
 
 
-  Markus Hipp
+  Markus Hipp - Vorstand
 link: 'https://bmw-foundation.org'
 ---
 
