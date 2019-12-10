@@ -1,6 +1,5 @@
 ---
 title: Downloads
-templateKey: downloads
 downloadMaterial:
   - buttonText: Pressemitteilung
     downloadHeadline: Soziale Innovationen durch "Nachrichtenlose Vermögenswerte" finanzieren
@@ -23,10 +22,17 @@ downloadMaterial:
       Sozialen Innovation.
     file: /uploads/sicberlin.pdf
     link: 'https://www.send-ev.de/2019-09-17_social-innovation-capital-berlin'
-  - buttonText: Jetzt downloaden
-    downloadHeadline: Veröffentlichung
-    downloadText: Hier können Sie etwas herunterladen
-    file: /uploads/Satzung SEND 29.11.2017-final.pdf
-    link: 'https://www.google.com'
+  - buttonText: Positionspapier
+    downloadHeadline: Digitale Lösungen für bürgerschaftliches Engagement
+    downloadText: >-
+      Ehrenamt gilt als eine wichtige Säule des gesellschaftlichen
+      Miteinanders, viele Organisationen könnten ohne freiwillige
+      Unterstützer\*innen nicht ihrer wichtigen Arbeit nachgehen. Die
+      Engagementlandschaft zukunftsorientiert zu gestalten und auch mutig neue
+      Wege zu gehen, sollte also ein großes Anliegen der Politik sein. Deshalb
+      haben wir mit verschiedenen Akteur\*innen ein Positionspapier mit unseren
+      Forderungen erarbeitet.
+    file: /uploads/positionspapier_engagement.pdf
+    link: ''
 ---
 
