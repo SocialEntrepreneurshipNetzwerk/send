@@ -46,7 +46,10 @@ export default class IndexPage extends React.Component {
           <h1>{tagline}</h1>
         </header>
         <main className={styles.main} >
-          <TriangleBoxContainer boxes={articles} blogpreview={true} article={true}/>
+          <section>
+            <h1><span>Aktuelles</span></h1>
+            <TriangleBoxContainer boxes={articles} blogpreview={true} article={true}/>
+          </section>
           <h1 className={styles.decorativeParagraph}>{paragraph}</h1>
           <section>
             <h1><span>{section_1.title}</span></h1>
