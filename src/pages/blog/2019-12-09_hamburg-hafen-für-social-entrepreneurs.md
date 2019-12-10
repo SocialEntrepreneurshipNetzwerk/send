@@ -9,7 +9,7 @@ excerpt: >-
   sowie den Spitzenkandidaten der CDU für die Hamburgische Bürgerschaft gefragt.
   Lest hier über einen spannenden Austausch.
 image: /uploads/header-hamburg-hafen-social-entrepreneurs.jpg
-date: 2019-12-09T07:30:44.531Z
+date: 2019-12-10T07:30:44.531Z
 category: news
 ---
 **Hamburg kann Hafen, Hamburg kann Medien, aber kann Hamburg auch soziale Innovation? Das war unsere Frage an die Fraktionsvorsitzenden bzw. Fachsprecher von SPD, Bündnis90/ GRÜNE und FDP sowie den Spitzenkandidaten der CDU für die Hamburgische Bürgerschaft.**
@@ -39,7 +39,7 @@ Fest steht: Will Hamburg im (inter)nationalen Vergleich aufholen, gibt es einige
 
 **Alle vertretenen Parteien** haben Social Entrepreneurship und die Förderung sozialer Innovationen **in ihre Wahlprogramme aufgenommen** (siehe unten). Die politischen Vertreter betonten im Betahaus, es brauche sinnvolle Strukturen und klare Schnittstellen, wie eine zentrale Stabsstelle, wo Fäden sowohl für Politik und Verwaltung als auch für Akteure aus dem Feld Social Entrepreneurship zusammenlaufen. Dirk Kienscherf betonte: „Wir brauchen Menschen mit der richtigen Mentalität, die Brücken bauen zur Verwaltung. Wir müssen Räume offenhalten, auch für Dinge, die nach einem Test nicht funktionieren.“ Auch Michael Kruse war dies wichtig: „Man darf nicht das Gefühl haben, man komme mit einer neuen Idee als Bittsteller zum Staat. Die Haltung muss die des Möglichmachens sein.“ Einig waren sich alle: Egal, was von städtischer Seite aus passiert – es muss in guter und enger Abstimmung mit der Praxis passieren. Als Vertreter*innen des SEND nehmen wir diese Einladung gern an!
 
-BILD
+![Arnd Boekhoff Moderation Betahaus Hamburg](/uploads/arnd-boekhoff_event-hamburg.jpg "Arnd Boekhoff Moderation Betahaus Hamburg")
 
 Eine Hausaufgabe haben wir auch mitgenommen, denn klar wurde: Die Sprache der Social Entrepreneurship-Szene ist nicht immer förderlich – zu Englisch, zu komplex, zu schwierig in der Abgrenzung. Als eine Aufgabe und ein Wunsch an die Social Entrepreneurship Szene wurde von den politischen Vertretern formuliert, gemeinsam die richtigen Worte zu finden, um das Potenzial von Social Entrepreneurship besser und breiter zu vermitteln und in gemeinsamem Handeln zu heben.
 
@@ -49,7 +49,7 @@ So könne man sich auf den Weg machen, in der nächsten Legislaturperiode eine s
 
 Die Diskussion hat auch verdeutlicht, das Social Entrepreneurship nicht homogen ist. Wichtig sei, so unterstrich Laura Haverkamp vom SEND, den ersten Blick auf Ziele und Wirkung einer Unternehmung zu lenken – und den zweiten auf Organisations- und Finanzierungsform sowie die unterschiedlichen Bedürfnisse, die daraus folgen. 
 
-BILD
+![](/uploads/laura-haverkamp_event-hamburg.jpg)
 
 Die Zielrichtung von Social Entrepreneurs ist es, mit neuen Ansätzen einen wirkungsvollen Beitrag für die Überwindung gesellschaftlicher Herausforderungen zu leisten – und das kann markt- aber auch sehr staatsnah passieren. Das kann in Form eines Social Start-Up sein, das innovative Produkte und Dienstleistungen anbietet – und zum Beispiel Perspektiven für nachhaltige Beschaffung öffnet. Gewinne werden hier, sofern vorhanden, reinvestiert in das Unternehmen (Social Business). Das kann aber auch eine gemeinnützig organisierte Unternehmung sein, die spenden- und fördermittel-finanziert einen neuen Weg gefunden hat, jugendliche Schulverweigerer zurück an das System Schule zu führen und so neue Perspektiven für Ausbildung und ein eigenständiges Leben zu schaffen. Und es gibt – auch das zeichnet die junge Social Entrepreneurship-Szene aus – viele Mischformen, in denen unterschiedliche Organisations- und Finanzierungsansätze die neuen Wege erst möglich machen.
 
