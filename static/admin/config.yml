@@ -4,7 +4,7 @@ backend:
   branch: review-11-sept-2019
   base_url: https://send-auth.herokuapp.com
 
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_folder: static/uploads
 public_folder: /uploads
