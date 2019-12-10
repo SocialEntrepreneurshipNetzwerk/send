@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/tofte.png
 email: post@tofte-eis.de
-link: www.tofte-eis.de
+link: 'https://www.tofte-eis.de'
 city: Hamburg
 postalCode: 21107
 federalState: Hamburg

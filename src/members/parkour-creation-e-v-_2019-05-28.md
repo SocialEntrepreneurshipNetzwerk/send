@@ -15,7 +15,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-133-_li.jpg
 email: joe.hofmann@diehalle.hamburg
-link: www.diehalle.hamburg
+link: 'https://www.diehalle.hamburg'
 city: '20457'
 postalCode: 20457
 federalState: Hamburg

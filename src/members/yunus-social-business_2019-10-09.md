@@ -12,7 +12,7 @@ impactArea:
 organization: true
 image: /uploads/yunus.png
 email: daniel.nowack@yunussb.com
-link: www.yunussb.com
+link: 'https://www.yunussb.com'
 city: Frankfurt am Main
 postalCode: 60329
 federalState: Hessen

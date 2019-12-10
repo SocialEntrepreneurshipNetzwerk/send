@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/ready.png
 email: info@readymade-furniture.de
-link: www.readymade-furniture.de
+link: 'https://www.readymade-furniture.de'
 city: Köln
 postalCode: '50670'
 federalState: Nordrhein-Westfalen

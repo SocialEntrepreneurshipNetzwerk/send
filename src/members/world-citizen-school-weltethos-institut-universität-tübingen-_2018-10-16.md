@@ -12,7 +12,7 @@ impactArea:
 organization: true
 image: /uploads/world-citizen-school.png
 email: team@worldcitizen.school
-link: www.worldcitizen.school
+link: 'https://www.worldcitizen.school'
 city: Tübingen
 postalCode: '72070'
 federalState: Baden-Württemberg

@@ -10,7 +10,7 @@ impactArea:
 organization: true
 image: /uploads/imp_logo_rgb-seb-mar.jpg
 email: svm@impact-collective.eu
-link: www.impact-collective.eu
+link: 'https://www.impact-collective.eu'
 city: Frankfurt
 postalCode: '60487'
 federalState: Hessen

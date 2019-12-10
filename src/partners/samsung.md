@@ -8,8 +8,8 @@ description: >-
   Social Entrepreneurship zusammen mit Politik und Verbänden ist der richtige
   Weg, um in Deutschland unternehmerischen Mut wiederzubeleben und genau diese
   kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner."_  
-  
+
   Steffen Ganders - Director Corporate Affairs
-link: www.samsung.com
+link: 'https://www.samsung.com'
 ---
 

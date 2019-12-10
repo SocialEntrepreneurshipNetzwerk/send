@@ -15,7 +15,7 @@ impactArea:
 organization: true
 image: /uploads/bildschirmfoto-2018-11-28-um-15.25.36.png
 email: info@quartiermeister.org
-link: www.quartiermeister.org
+link: 'https://www.quartiermeister.org'
 city: Berlin
 postalCode: '10999'
 federalState: Berlin

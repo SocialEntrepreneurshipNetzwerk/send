@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-127-_li.jpg
 email: schuermann@projektfabrik.org
-link: www.projektfabrik.org
+link: 'https://www.projektfabrik.org'
 city: Witten
 postalCode: 58452
 federalState: Nordrhein-Westfalen

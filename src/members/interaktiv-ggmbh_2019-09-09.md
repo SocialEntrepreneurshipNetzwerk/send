@@ -19,7 +19,7 @@ impactArea:
 organization: true
 image: /uploads/interaktiv.png
 email: gf@interaktiv-schule.de
-link: www.interaktiv-schule.de
+link: 'https://www.interaktiv-schule.de'
 city: Ratingen
 postalCode: 40885
 federalState: Nordrhein-Westfalen

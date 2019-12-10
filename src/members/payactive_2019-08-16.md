@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/payactive.png
 email: manuel.born@payactive.de
-link: www.payactive.de
+link: 'https://www.payactive.de'
 city: Köln
 postalCode: 50999
 federalState: Nordrhein-Westfalen

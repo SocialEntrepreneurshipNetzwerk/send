@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/master-granny.png
 email: d.bendlin@granny-vision.com
-link: www.granny-vision.com
+link: 'https://www.granny-vision.com'
 city: München
 postalCode: 81677
 federalState: Bayern

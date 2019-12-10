@@ -12,7 +12,7 @@ impactArea:
 organization: true
 image: /uploads/mobile-retter.png
 email: info@mobile-retter.de
-link: 'www.mobile-retter.de '
+link: 'https://www.mobile-retter.de '
 city: Köln
 postalCode: '50939'
 federalState: Nordrhein-Westfalen
