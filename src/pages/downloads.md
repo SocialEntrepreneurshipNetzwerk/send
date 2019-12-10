@@ -1,5 +1,6 @@
 ---
 title: Downloads
+templateKey: downloads
 downloadMaterial:
   - buttonText: Pressemitteilung
     downloadHeadline: Soziale Innovationen durch "Nachrichtenlose Vermögenswerte" finanzieren
