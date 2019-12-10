@@ -9,7 +9,7 @@ description: >-
   Zukunft der jungen und kommenden Generationen."_
 
 
-  Lukas Harlan
+  Lukas Harlan - Programmleitung
 link: www.schoepflin-stiftung.de
 ---
 
