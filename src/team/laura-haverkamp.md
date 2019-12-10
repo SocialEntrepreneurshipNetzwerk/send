@@ -2,7 +2,8 @@
 name: Laura Haverkamp
 image: /uploads/laura-haverkamp.jpg
 role: Regionalgruppe
-description: Hamburg
+description: ''
+federalState: Hamburg
 mail: hamburg@send-ev.de
 ---
 
