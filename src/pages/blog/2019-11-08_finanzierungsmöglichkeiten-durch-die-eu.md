@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Finanzierungsmöglichkeiten durch die EU
+title: Finanzierungsmöglichkeiten durch die Europäische Union
 excerpt: >-
   Ihr habt Euch immer schon mal gefragt, ob Euer Unternehmen, Eure Organisation
   nicht auch von der EU gefördert werden könnte? Oder wie Ihr als Intermediär
