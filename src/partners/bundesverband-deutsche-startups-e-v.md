@@ -7,7 +7,7 @@ description: >-
   Treiber für soziales Unternehmertum in Deutschland unverzichtbar."_
 
 
-  Christoph J. Stresing
+  Christoph J. Stresing - Geschäftsführer Politik
 link: 'https://deutschestartups.org'
 ---
 

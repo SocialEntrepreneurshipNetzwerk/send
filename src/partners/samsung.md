@@ -10,7 +10,7 @@ description: >-
   kreativen Macher zu unterstützen. SEND ist hierfür der richtige Partner."_
 
 
-  Steffen Ganders
+  Steffen Ganders - Director Corporate Affairs
 link: www.samsung.com
 ---
 

@@ -21,9 +21,8 @@ section_1:
   title: Gründungsgeschichte
 section_2:
   paragraph: >-
-    Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
-    die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
-    und arbeitet ehrenamtlich.
+    Der im Oktober 2019 neu gewählte Vorstand setzt sich aus sieben engagierten
+    Menschen zusammen, die für zwei Jahre im Amt sind und ehrenamtlich arbeiten.
   title: Vorstand
 section_3:
   profile_boxes:
