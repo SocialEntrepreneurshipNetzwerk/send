@@ -33,7 +33,7 @@ Eines wurde schnell klar: Alle Vertreter*innen sehen Handlungsbedarf und wollen 
 
 ## **Der Stand – so sieht’s heute aus!**
 
-Fest steht: Will Hamburg im (inter)nationalen Vergleich aufholen, gibt es einiges zu tun. Im Juni 2019 gab die UK-Organisation NESTA erstmals den [European Social Innovation Index](https://www.nesta.org.uk/blog/launching-european-digital-social-innovation-index/) heraus, ein **Ranking von 60 europäischen Städten** in Bezug auf die Rahmenbedingungen für soziale Innovationen und Social Entrepreneurs. **Hamburg liegt hier auf Platz 42**, deutlich hinter Berlin (17), München (25) und Stuttgart (41) ([zur Methodologie](https://media.nesta.org.uk/documents/European_Digital_Social_Innovation_Index_Construction_Methodology.pdf)). 
+Fest steht: Will Hamburg im (inter)nationalen Vergleich aufholen, gibt es einiges zu tun. Im Juni 2019 gab die UK-Organisation NESTA erstmals den [European Social Innovation Index](https://www.nesta.org.uk/blog/launching-european-digital-social-innovation-index/) heraus, ein Ranking von 60 europäischen Städten in Bezug auf die Rahmenbedingungen für soziale Innovationen und Social Entrepreneurs. Hamburg liegt hier auf Platz 42, deutlich hinter Berlin (17), München (25) und Stuttgart (41) ([zur Methodologie](https://media.nesta.org.uk/documents/European_Digital_Social_Innovation_Index_Construction_Methodology.pdf)). 
 
 ## **Der erste Schritt ist getan: Positionen in den Wahlprogrammen**
 
