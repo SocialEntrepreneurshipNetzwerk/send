@@ -27,12 +27,19 @@ downloadMaterial:
     downloadText: >-
       Ehrenamt gilt als eine wichtige Säule des gesellschaftlichen
       Miteinanders, viele Organisationen könnten ohne freiwillige
-      Unterstützer\*innen nicht ihrer wichtigen Arbeit nachgehen. Die
+      Unterstützer*innen nicht ihrer wichtigen Arbeit nachgehen. Die
       Engagementlandschaft zukunftsorientiert zu gestalten und auch mutig neue
       Wege zu gehen, sollte also ein großes Anliegen der Politik sein. Deshalb
-      haben wir mit verschiedenen Akteur\*innen ein Positionspapier mit unseren
+      haben wir mit verschiedenen Akteuren ein Positionspapier mit unseren
       Forderungen erarbeitet.
     file: /uploads/positionspapier_engagement.pdf
     link: ''
+  - buttonText: Positionspapier
+    downloadHeadline: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
+    downloadText: >-
+      Die Finanzierung ist immer noch eine der größten Herausforderungen des
+      Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
+      verbesserte Förder- und Finanzierungslandschaft erarbeitet.
+    file: /uploads/finanzierung_positionspapier.pdf
 ---
 
