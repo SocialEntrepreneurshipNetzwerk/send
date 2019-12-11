@@ -1,6 +1,5 @@
 import React from 'react';
 import PageHelmet from '../components/PageHelmet';
-import topImage from '../img/positionen_minified.jpg';
 // UI
 import TopImage from '../components/top-image/TopImage';
 import StickyCTA from '../components/cta/StickyCTA';
@@ -15,7 +14,7 @@ export default ({ data }) => {
   const sponsors = data.sponsors.edges.map( i => i.node.frontmatter );
   const sponsorOrganization = sponsors.filter( sponsor => sponsor.organization === true );
   const sponsorPrivate = sponsors.filter( sponsor => sponsor.organization === false );
-  const { cta_sticky, clip } = frontmatter;
+  const { cta_sticky, clip, image } = frontmatter;
   const section_1 = frontmatter.section_1;
   const section_2 = frontmatter.section_2;
   const section_3 = frontmatter.section_3;
@@ -23,7 +22,7 @@ export default ({ data }) => {
   return (
     <div>
       <PageHelmet frontmatter={frontmatter}/>
-      <TopImage imageSource={topImage} clip={clip}/>
+      <TopImage imageSource={image} clip={clip}/>
       {
         cta_sticky.showOnPage && <StickyCTA data={cta_sticky}/>
       }
@@ -53,6 +52,7 @@ export const PartnerPageQuery = graphql`
     page:
       markdownRemark(fields: { slug: { eq: "/partner" } }) {
         frontmatter {
+            image
             clip
             title
             cta_sticky {

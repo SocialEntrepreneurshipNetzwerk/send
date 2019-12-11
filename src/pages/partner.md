@@ -1,6 +1,7 @@
 ---
 templateKey: partner
 clip: clip_positionen
+image: /uploads/SEND_rg-berlin-60.jpg
 title: Partner
 cta_sticky:
   hexColor: '#ff007b'
