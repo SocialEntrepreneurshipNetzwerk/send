@@ -381,6 +381,7 @@ collections:
         label: "Downloads"
         name: "downloads"
         fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "downloads"}
           - {label: "Page Title", name: "title", widget: "string"}
           - {label: "Download Material", name: "downloadMaterial", widget: "list", required: false, fields: [
                 {label: "Download Headline", name: "downloadHeadline", widget: "string", required: false},
