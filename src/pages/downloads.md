@@ -1,6 +1,5 @@
 ---
 title: Downloads
-templateKey: downloads
 downloadMaterial:
   - buttonText: Pressemitteilung
     downloadHeadline: Soziale Innovationen durch "Nachrichtenlose Vermögenswerte" finanzieren
@@ -42,5 +41,17 @@ downloadMaterial:
       Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
       verbesserte Förder- und Finanzierungslandschaft erarbeitet.
     file: /uploads/finanzierung_positionspapier.pdf
+  - buttonText: Broschüre
+    downloadHeadline: Informationen und Kontakte zur Finanzierung von Social Entrepreneurs
+    downloadText: >-
+      Social Entrepreneurs sind eine sehr heterogene Zielgruppe. Oft bewegen sie
+      sich zwischen gemeinnützigen Organisationen und klassischen Unternehmen,
+      weshalb in vielen Fällen bestehende Finanzierungsinstrumente nicht
+      greifen. Um mehr Transparenz in die Finanzierungslandschaft zu bringen,
+      haben wir relevante Akteure in einer Broschüre gesammelt. Sie liefert
+      Sozialunternehmer*innen auf der Suche nach Finanzierung/Förderung erste
+      Informationen und Kontakte zu möglichen Finanzierungsprogrammen und
+      weiterer Beratung.
+    link: 'https://www.send-ev.de/uploads/finanzierungsbooklet.pdf'
 ---
 
