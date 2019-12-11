@@ -24,7 +24,7 @@ Gut 60 Vertreter*innen der Hamburger Social Entrepreneurship-Szene folgten unser
 
 * **Laura Haverkamp**, Ashoka Deutschland gGmbH und SEND e.V.
 * **Dirk Kienscherf**, Fraktionsvorsitzender der SPD in der Hamburgischen Bürgerschaft
-* **Michael Kruse**, wirtschaftspolit. Sprecher der FDP-Bürgerschaftsfraktion
+* **Michael Kruse**, Fraktionsvorsitzender der FDP in der Hamburgischen Bürgerschaft
 * **Dominik Lorenzen**, wirtschafts- und hafenpolit. Sprecher der GRÜNE-Bürgerschaftsfraktion 
 * **Rose Volz-Schmidt**, Gründerin und Geschäftsführerin wellcome gGmbH und ElternLeben.de
 * **Marcus Weinberg**, Hamburger und Altonaer Bundestagsabgeordneter und Spitzenkandidat der CDU für die Hamburgische Bürgerschaft
