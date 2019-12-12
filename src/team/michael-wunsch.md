@@ -3,7 +3,7 @@ name: Michael Wunsch
 image: /uploads/michael-wunsch.jpg
 role: Team
 description: |+
-  Wissenschaftliche Kooperationen
+  Leitung DSEM / Wissenschaftliche Kooperationen
 
 mail: ''
 ---
