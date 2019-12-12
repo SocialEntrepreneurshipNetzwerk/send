@@ -67,5 +67,9 @@ downloadMaterial:
       Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
       erkennen und fortlaufend zu unterstützen.
     link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
+  - buttonText: Test
+    downloadHeadline: Test
+    downloadText: Test
+    link: 'https://www.send-ev.de/'
 ---
 
