@@ -59,12 +59,12 @@ downloadMaterial:
       Wie sieht Social Entrepreneurship in Deutschland aus? Und vor welchen
       gemeinsamen Herausforderungen stehen Social Entrepreneurs? Diesen und
       weiteren Fragen gehen wir in unserer erstmals erscheinenden Studie nach.
-      Mit der Befragung schaffen wir eine Datengrundlage, die zeigt wo der
-      Sektor gerade steht und welche Unterstützung er benötigt. Der DSEM möchte
-      einen Beitrag zu mehr Transparenz leisten und Entscheidungsträger*innen
-      aus Politik, Wirtschaft oder Zivilgesellschaft ermutigen auf Basis der
-      erhobenen Daten das Potenzial des Sektors zu erkennen und fortlaufend zu
-      unterstützen.
+      Mit der Befragung von Sozialunternehmer\*innen schaffen wir eine
+      Datengrundlage, die zeigt wo der Sektor gerade steht und welche
+      Unterstützung er benötigt. Der DSEM möchte einen Beitrag zu mehr
+      Transparenz leisten und Entscheidungsträger\*innen aus Politik,
+      Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
+      erkennen und fortlaufend zu unterstützen.
     link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
 ---
 
