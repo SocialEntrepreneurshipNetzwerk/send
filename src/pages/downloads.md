@@ -54,7 +54,7 @@ downloadMaterial:
       Informationen und Kontakte zu möglichen Finanzierungsprogrammen und
       weiterer Beratung.
     link: 'https://www.send-ev.de/uploads/finanzierungsbooklet.pdf'
-  - buttonText: Deutscher Social Entrepreneurship Monitor 2018
+  - buttonText: DSEM 2018
     downloadHeadline: Deutscher Social Entrepreneurship Monitor 2018 (DSEM)
     downloadText: >-
       Wie sieht Social Entrepreneurship in Deutschland aus? Und vor welchen
@@ -67,9 +67,5 @@ downloadMaterial:
       Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
       erkennen und fortlaufend zu unterstützen.
     link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
-  - buttonText: Test
-    downloadHeadline: Test
-    downloadText: Test
-    link: 'https://www.send-ev.de/'
 ---
 
