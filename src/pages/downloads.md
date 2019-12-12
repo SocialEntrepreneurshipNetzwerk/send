@@ -13,16 +13,6 @@ downloadMaterial:
     file: /uploads/pressemitteilung_nachrichtenlose-assets.pdf
     link: ''
   - buttonText: Positionspapier
-    downloadHeadline: ' Social Innovation Capital Berlin'
-    downloadText: >-
-      In den letzten Jahren hat sich Berlin als eine der dynamischsten
-      Wirtschaftsregionen im Herzen Europas und führender Standort für
-      Gründer*innen aus der Kreativwirtschaft und der Technologiebranche
-      etabliert. Zugleich zeigt sich ein zunehmendes Interesse am Konzept der
-      Sozialen Innovation.
-    file: /uploads/sicberlin.pdf
-    link: 'https://www.send-ev.de/2019-09-17_social-innovation-capital-berlin'
-  - buttonText: Positionspapier
     downloadHeadline: Digitale Lösungen für bürgerschaftliches Engagement
     downloadText: >-
       Ehrenamt gilt als eine wichtige Säule des gesellschaftlichen
@@ -35,12 +25,15 @@ downloadMaterial:
     file: /uploads/positionspapier_engagement.pdf
     link: ''
   - buttonText: Positionspapier
-    downloadHeadline: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
+    downloadHeadline: ' Social Innovation Capital Berlin'
     downloadText: >-
-      Die Finanzierung ist immer noch eine der größten Herausforderungen des
-      Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
-      verbesserte Förder- und Finanzierungslandschaft erarbeitet.
-    file: /uploads/finanzierung_positionspapier.pdf
+      In den letzten Jahren hat sich Berlin als eine der dynamischsten
+      Wirtschaftsregionen im Herzen Europas und führender Standort für
+      Gründer*innen aus der Kreativwirtschaft und der Technologiebranche
+      etabliert. Zugleich zeigt sich ein zunehmendes Interesse am Konzept der
+      Sozialen Innovation.
+    file: /uploads/sicberlin.pdf
+    link: 'https://www.send-ev.de/2019-09-17_social-innovation-capital-berlin'
   - buttonText: Broschüre
     downloadHeadline: Informationen und Kontakte zur Finanzierung von Social Entrepreneurs
     downloadText: >-
@@ -53,6 +46,13 @@ downloadMaterial:
       Informationen und Kontakte zu möglichen Finanzierungsprogrammen und
       weiterer Beratung.
     link: 'https://www.send-ev.de/uploads/finanzierungsbooklet.pdf'
+  - buttonText: Positionspapier
+    downloadHeadline: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
+    downloadText: >-
+      Die Finanzierung ist immer noch eine der größten Herausforderungen des
+      Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
+      verbesserte Förder- und Finanzierungslandschaft erarbeitet.
+    file: /uploads/finanzierung_positionspapier.pdf
   - buttonText: Deutscher Social Entrepreneurship Monitor 2018
     downloadHeadline: Deutscher Social Entrepreneurship Monitor 2018 (DSEM)
     downloadText: >-
