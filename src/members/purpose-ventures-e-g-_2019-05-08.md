@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-117-_li.jpg
 email: hallo@purpose.ag
-link: www.purpose-economy.org
+link: 'https://www.purpose-economy.org'
 city: Hamburg
 postalCode: 20093
 federalState: Hamburg

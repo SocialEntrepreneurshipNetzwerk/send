@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-121-_li.jpg
 email: 'hallo@manaomea.com '
-link: www.manaomea.com
+link: 'https://www.manaomea.com'
 city: Olching
 postalCode: 82140
 federalState: Bayern

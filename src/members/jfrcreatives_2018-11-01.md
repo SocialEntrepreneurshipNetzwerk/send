@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/send-logo-jfrcreatives.png
 email: mail@jfrcreatives.com
-link: www.JFRcreatives.com
+link: 'https://www.JFRcreatives.com'
 city: Ziesar
 postalCode: '14793'
 federalState: Brandenburg

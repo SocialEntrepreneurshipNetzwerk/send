@@ -26,7 +26,7 @@ Mangelnde Finanzierungsinstrumente gehören zu einer der größten Herausforderu
 <blockquote class="flex">
 <p>"Wir haben erkannt, dass es zunehmend Unternehmen gibt, die eben nicht nur auf Gewinnmaximierung aus sind, sondern auch von anderen Dinge angetrieben werden. Denen möchten wir uns stärker widmen", sagte Herr Dr. Allerkamp der Berliner Morgenpost.
 </p>
-<img alt="Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin" src="/uploads/dr.-jürgen-allerkamp.png"/>
+<img alt="Dr. Jürgen Allerkamp (Vorstandsvorsitzende der Investitionsbank Berlin" src="/uploads/dr.-juergen-allerkamp.png"/>
 </blockquote>
 
 Außerdem verkündete Bürgermeisterin und Wirtschaftssenatorin Ramona Pop bereits letzte Woche ([Pressemitteilung](http://www.berlin.de/sen/web/presse/pressemitteilungen/2018/pressemitteilung.712870.php)), dass die Senatsverwaltung für Wirtschaft die IBB unterstützen werde, diesen wichtigen Schritt zu gehen.

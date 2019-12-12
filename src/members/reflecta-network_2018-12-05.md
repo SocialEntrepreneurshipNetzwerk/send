@@ -1,5 +1,5 @@
 ---
-title: Reflecta.Network
+title: Reflecta
 description: >-
   Das Reflecta.Network ist eine digitale Plattform für diejenigen, die Antworten
   auf die drängenden Fragen unserer Zeit suchen. Das Ziel ist es, die UN Global
@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/reflecta.png
 email: hello@reflecta.network
-link: ' www.reflecta.network'
+link: 'https:// www.reflecta.network'
 city: Mainz
 postalCode: '55118'
 federalState: Rheinland-Pfalz

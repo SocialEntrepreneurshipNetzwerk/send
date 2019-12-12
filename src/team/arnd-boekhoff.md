@@ -2,7 +2,8 @@
 name: Arnd Boekhoff
 image: /uploads/rg-hamburg-arnd-boekhoff.jpg
 role: Regionalgruppe
-description: Hamburg
+description: ''
 mail: hamburg@send-ev.de
+federalState: Hamburg
 ---
 

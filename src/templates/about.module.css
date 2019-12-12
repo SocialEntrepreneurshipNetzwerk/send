@@ -40,5 +40,11 @@
 .profile_container{
   display: flex;
   flex-wrap: wrap;
-  justify-content: start;
+  justify-content: left;
 }
+
+/*.profile_container > * {*/
+  /*flex: 0 0 33.3333%;*/
+  /*!*margin: 10px auto;*!*/
+/*}*/
+

@@ -15,7 +15,7 @@ impactArea:
 organization: true
 image: /uploads/bike.png
 email: hallo@bikebridge.org
-link: www.bikebridge.org
+link: 'https://www.bikebridge.org'
 city: Freiburg
 postalCode: '79115'
 federalState: Baden-Württemberg

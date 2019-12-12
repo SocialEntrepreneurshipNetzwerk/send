@@ -21,9 +21,8 @@ section_1:
   title: Gründungsgeschichte
 section_2:
   paragraph: >-
-    Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
-    die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
-    und arbeitet ehrenamtlich.
+    Der im Oktober 2019 neu gewählte Vorstand setzt sich aus sieben engagierten
+    Menschen zusammen, die für zwei Jahre im Amt sind und ehrenamtlich arbeiten.
   title: Vorstand
 section_3:
   profile_boxes:
@@ -41,6 +40,44 @@ section_3:
       role: Wissenschaftliche Kooperationen
   title: Team
 section_4:
+  column_1:
+    rows:
+      - row: >-
+          Bayern 
+
+
+          > Ansprechpartner*innen für die Regionalgruppe Bayern sind Andrea
+          Mörike und Raphael Brandmiller. Erreichen könnt Ihr die beiden unter
+          <mailto:bayern@send-ev.de>.
+      - row: >-
+          Berlin
+
+
+          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok.
+          Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
+      - row: >-
+          NRW
+
+
+          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und
+          Sebastian Grothaus. Erreichen könnt Ihr die beiden unter
+          <mailto:nrw@send-ev.de>.
+      - row: >-
+          Sachsen
+
+
+          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela
+          Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter
+          <mailto:sachsen@send-ev.de>.
+    title: Regionalgruppen
+  column_2:
+    rows:
+      - row: Bildung
+      - row: Finanzierung
+      - row: Genossenschaften
+      - row: Politik
+      - row: Rechtsform
+    title: Plattformen
   paragraph: >-
     SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
     unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und

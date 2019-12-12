@@ -18,7 +18,7 @@ impactArea:
 organization: true
 image: /uploads/chillchoc_logo.png
 email: lena@chillchoc.de
-link: www.chillchoc.de
+link: 'https://www.chillchoc.de'
 city: Stuttgart
 postalCode: 70569
 federalState: Baden-Württemberg

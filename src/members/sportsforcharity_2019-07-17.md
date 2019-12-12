@@ -7,7 +7,7 @@ impactArea:
 organization: true
 image: /uploads/sportsforcharity_logo.png
 email: roland@sportsforcharity.eu
-link: www.sportsforcharity.eu
+link: 'https://www.sportsforcharity.eu'
 city: Solingen
 postalCode: 42657
 federalState: Nordrhein-Westfalen

@@ -5,28 +5,17 @@ import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
 import topImage from '../img/SEND_01.02.18_Internet-273.jpg';
 import ColumnText from '../components/column-text/ColumnText';
-import BackgroundTurquoise2 from '../components/svg/BackgroundTurquoise2';
-import GermanMap from '../components/svg/GermanMap';
 import ProfileBox2 from '../components/profile-box/ProfileBox2';
 import styles from './about.module.css';
 
 
 export default ({ data }) => {
-  console.log( 'about data', data );
   const frontmatter = data.markdownRemark.frontmatter;
   const { cta_sticky, clip, section_1, section_2, section_3, section_4 } = frontmatter;
-  const teamAll = data.allMarkdownRemark.edges.map( i => i.node.frontmatter );
+  const teamAll = data.allMarkdownRemark.edges.map( i => i.node.frontmatter ).sort((a,b) => a.name > b.name ? 1 : -1 );
   const executive = teamAll.filter( member => member.role === 'Vorstand' );
-  const regionalGroups = teamAll.filter( member => member.role === 'Regionalgruppe' );
+  const regionalGroups = teamAll.filter( member => member.role === 'Regionalgruppe' ).sort((a,b) => a.federalState > b.federalState ? 1 : -1 );
   const team = teamAll.filter( member => member.role === 'Team' );
-  console.log( regionalGroups );
-  regionalGroups.sort( function( a, b ) {
-    if (a.federalState && b.federalState) {
-      return a.federalState.localeCompare(b.federalState);
-    } else {
-      return false
-    }
-  });
 
 
   return (

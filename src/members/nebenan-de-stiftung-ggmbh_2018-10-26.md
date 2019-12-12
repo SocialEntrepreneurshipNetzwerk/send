@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/nebenan.de-stiftung_logo_1600x1000px_web.jpg
 email: kontakt@nebenan-stiftung.de
-link: www.nebenan-stiftung.de
+link: 'https://www.nebenan-stiftung.de'
 city: Berlin
 postalCode: '10997'
 federalState: Berlin

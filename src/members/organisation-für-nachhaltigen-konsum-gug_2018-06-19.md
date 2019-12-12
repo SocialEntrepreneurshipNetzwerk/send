@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/organisation-für-nachhaltigen-konsum.png
 email: dl@ofnk.org
-link: ' https://www.ofnk.org'
+link: 'https:// https://www.ofnk.org'
 city: Berlin
 postalCode: '12047'
 federalState: Berlin

@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/pfotenpiloten_logo.png
 email: allianz@pfotenpiloten.org
-link: www.pfotenpiloten.org
+link: 'https://www.pfotenpiloten.org'
 city: Frankfurt am Main
 postalCode: 60487
 federalState: Hessen

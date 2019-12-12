@@ -18,7 +18,7 @@ impactArea:
 organization: true
 image: /uploads/oll-inklusiv.png
 email: neuigkeiten@oll-inklusiv.de
-link: www.oll-inklusiv.de
+link: 'https://www.oll-inklusiv.de'
 city: Hamburg
 postalCode: '20357'
 federalState: Hamburg

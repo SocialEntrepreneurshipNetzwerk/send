@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-99-_li.jpg
 email: bg@visionautik.de
-link: visionautik.de
+link: 'https://visionautik.de'
 city: Berlin Kreuzberg
 postalCode: 10997
 federalState: Berlin

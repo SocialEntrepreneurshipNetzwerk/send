@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-115-_li.jpg
 email: medori@german-angel.de
-link: www.german-angel.de
+link: 'https://www.german-angel.de'
 city: Niederkassel
 postalCode: 53862
 federalState: Nordrhein-Westfalen

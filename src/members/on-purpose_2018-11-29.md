@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/logo-on-purpose-square-red-frederic-simon.png
 email: 'Kontakt@onpurpose.org '
-link: www.onpurpose.org
+link: 'https://www.onpurpose.org'
 city: Berlin
 postalCode: '10999'
 federalState: Berlin

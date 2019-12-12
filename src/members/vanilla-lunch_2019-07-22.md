@@ -24,7 +24,7 @@ impactArea:
 organization: true
 image: /uploads/vanilla-lunch-logo.png
 email: felix.bonnert@vanilla-bean.com
-link: www.vanillalunch.com
+link: 'https://www.vanillalunch.com'
 city: Regensburg
 postalCode: 93053
 federalState: Bayern

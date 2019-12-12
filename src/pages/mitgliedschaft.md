@@ -2,7 +2,7 @@
 templateKey: membership
 clip: clip_positionen
 title: Mitgliedschaft
-image: /uploads/SEND_rg-berlin-60.jpg
+image: /uploads/website_header_mitglieder.jpg
 cta_link:
   label: Jetzt Mitglied werden
   link: >-
