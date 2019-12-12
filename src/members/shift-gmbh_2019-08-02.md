@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/shift.png
 email: cwaldeck@shiftphones.com
-link: www.shiftphones.com
+link: 'https://www.shiftphones.com'
 city: Wabern Falkenberg
 postalCode: 34590
 federalState: Hessen

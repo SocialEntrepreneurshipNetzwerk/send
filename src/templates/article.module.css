@@ -6,7 +6,6 @@
 
 .article p strong {
   display: inline-block;
-  padding-top: 20px;
 }
 
 .article div>p:last-child em {

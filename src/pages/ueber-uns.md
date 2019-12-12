@@ -20,17 +20,10 @@ section_1:
     eines schlagkräftigen Netzwerks starten.
   title: Gründungsgeschichte
 section_2:
-  image: /uploads/sam_2102.jpg
   paragraph: >-
-    Im Vorstand ist aktuell eine kleine Auswahl der vielen engagierten Menschen,
-    die SEND aus der Taufe erhoben haben. Der Vorstand ist für zwei Jahre im Amt
-    und arbeitet ehrenamtlich.
-
-
-    Markus Sauerhammer (1. Vorsitzender), Birgit Heilig (nicht auf dem Foto),
-    Norbert Kunz, Leon Reiner, Anna Roth-Bunting, Naomi Ryland, Matthias
-    Scheffelmeier
-  title: Gründungsvorstand
+    Der im Oktober 2019 neu gewählte Vorstand setzt sich aus sieben engagierten
+    Menschen zusammen, die für zwei Jahre im Amt sind und ehrenamtlich arbeiten.
+  title: Vorstand
 section_3:
   profile_boxes:
     - image: /uploads/katrin_elsemann.jpg
@@ -90,8 +83,13 @@ section_4:
     unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und
     Vernetzung organisieren wir uns über einen eigenen SLACK – Kanal und
     tauschen uns virtuell und real in Regional- und Fachgruppen aus. Folgende
-    Themen und Regionen haben sich bereits zusammengeschlossen oder sind im
-    Aufbau:
-  title: Wie wir arbeiten
+    Regionen haben sich bereits zusammengeschlossen:
+  title: Regionalgruppen
+cta_sticky:
+  hexColor: '#ff007b'
+  link: >-
+    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  showOnPage: true
+  text: Jetzt Mitglied werden!
 ---
 

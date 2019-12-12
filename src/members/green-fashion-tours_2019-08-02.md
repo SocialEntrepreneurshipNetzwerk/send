@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/greenfashiontours.png
 email: arianna@greenfashiontours.com
-link: www.greenfashiontours.com
+link: 'https://www.greenfashiontours.com'
 city: Berlin
 postalCode: 10119
 federalState: Berlin

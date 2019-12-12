@@ -4,12 +4,13 @@ import TopImage from '../components/top-image/TopImage.js';
 import PageHelmet from '../components/PageHelmet';
 import ButtonCTA from '../components/cta/ButtonCTA';
 import styles from './membership.module.css';
+import StickyCTA from '../components/cta/StickyCTA';
 
 
 export default ({ data }) => {
 
   const frontmatter = data.markdownRemark.frontmatter;
-  const { title, clip, image, cta_link, cta_download, section_1 } = frontmatter;
+  const { cta_sticky, title, clip, image, cta_link, cta_download, section_1 } = frontmatter;
   const content = data.markdownRemark.html;
 
   return (
@@ -17,6 +18,9 @@ export default ({ data }) => {
 
       <PageHelmet frontmatter={frontmatter}/>
       <TopImage imageSource={image} clip={clip}/>
+      {cta_sticky.showOnPage &&
+        <StickyCTA data={cta_sticky}/>        
+      }
       <main>
         <section className={styles.content}>
           <h1><span>{title}</span></h1>
@@ -69,6 +73,12 @@ export const simplesPageQuery = graphql`
             cta_download {
               label
               link
+            }
+            cta_sticky {
+              text
+              link
+              hexColor
+              showOnPage
             }
             section_1 {
               title

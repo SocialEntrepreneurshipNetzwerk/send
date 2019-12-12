@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/soulbottles-logo-1080x1080px-hex-web-patrick-boadu.png
 email: hello@soulbottles.com
-link: www.soulbottles.de
+link: 'https://www.soulbottles.de'
 city: Berlin
 postalCode: '12099'
 federalState: Berlin

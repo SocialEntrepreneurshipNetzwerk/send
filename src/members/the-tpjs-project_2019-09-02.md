@@ -15,7 +15,7 @@ impactArea:
 organization: true
 image: /uploads/tpjs.png
 email: contact@tpjs.net
-link: www.tpjs.net
+link: 'https://www.tpjs.net'
 city: Friedrichshafen
 postalCode: 88045
 federalState: Baden-Württemberg

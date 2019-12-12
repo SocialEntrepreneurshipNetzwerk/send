@@ -2,7 +2,7 @@
 title: Home
 tagline: gemeinsam. wirken.
 tagline_large: |-
-  **Social Entrepreneurship Netzwerk Deutschland e.V.** 
+  **Social Entrepreneurship Netzwerk Deutschland e.V.**
 
   Das Netzwerk für Social Entrepreneure und Social Startups in Deutschland.
 paragraph: >-
@@ -31,7 +31,7 @@ section_1:
     Sektor und geben ihm eine Stimme!
 section_2:
   cta:
-    label: Jetzt mitmachen!
+    label: Jetzt Mitglied werden
     link: >-
       https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
   subtitle: Netzwerk
@@ -96,5 +96,10 @@ section_2:
       image: /uploads/murat-vural.jpg
       name: Murat Vural
       project: Chancenwerk e.V.
+cta_sticky:
+  hexColor: '#ff007b'
+  link: 'https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1'
+  showOnPage: false
+  text: 'DSEM 2019: Gib dem Sektor eine Stimme und mach mit!'
 ---
 

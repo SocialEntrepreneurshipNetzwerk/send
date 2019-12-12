@@ -26,7 +26,7 @@
 }
 
 .box2_wrapper {
-  width: 25%;
+  width: 33%;
 }
 @media (max-width: 1500px){
   .box2_wrapper{
@@ -45,8 +45,10 @@
 }
 
 .box2 {
-  width:170px;
-  margin: 0 auto;
+  min-width:170px;
+  max-width: 600px;
+  margin: 0px auto;
+  text-align: center;
 }
 .box2 p:first-child {
   display: block;
@@ -108,6 +110,10 @@
   background-size: cover;
   clip-path: url(#clip_profile2);
   z-index:9;
+}
+
+.mail_profile2{
+  color: #00027f;
 }
 
 /* Internet Explorer 10+, Microsoft Edge Browser HACK */

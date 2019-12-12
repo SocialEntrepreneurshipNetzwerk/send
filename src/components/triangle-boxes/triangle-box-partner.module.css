@@ -1,0 +1,90 @@
+@import "../../layouts/variables.css";
+
+
+.triangle_box_partner {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 45%;
+  margin-bottom: 150px;
+  margin-left: 0;
+  margin-right: 5%;
+  text-align: left;
+}
+
+.triangle_box_partner:nth-child(2n){
+  margin-left: 5%;
+  margin-right: 0;
+}
+
+.triangle_box_partner svg:last-of-type {
+  position:absolute;
+  bottom: -14px;
+  right: -14px;
+}
+
+.partner_image {
+  height: 100px;
+  flex: 0 0 350px;
+  background-position: center;
+  background-size: cover;
+}
+@media (max-width: break-boxes) {
+  .partner_image{
+    flex: 0 0 300px;
+  }
+}
+@media (max-width: break-main-padding) {
+    .triangle_box_partner {
+        width: 100%;
+    }
+    .triangle_box_partner:nth-child(1n){
+      margin-left: 0;
+      margin-right:0;
+    }
+  .partner_image{
+    flex: 1 0 350px;
+    padding-top: 66%;
+  }
+}
+
+.partner_preview_content {
+  position: relative;
+  flex: 1;
+  padding: 20px 30px;
+}
+@media (max-width: break-main-padding) {
+  .partner_preview_content{
+    padding: 20px 0;
+  }
+}
+
+.triangle_box_partner p {
+  padding: 5px 0 20px 0;
+}
+
+.triangle_box_partner a {
+  color: deep-blue;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.triangle_box_partner a span {
+  display: inline-block;
+  line-height: 2;
+  border-bottom: 3px solid deep-see-green;
+}
+
+.triangle_box_partner a h1  {
+  font-size: 28px;
+  line-height: 1.14;
+  padding-top: 20px;
+  letter-spacing: normal;
+  text-transform: none;
+}
+.triangle_box_partner p {
+    font-size: 18px;
+}

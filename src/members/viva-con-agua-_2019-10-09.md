@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/viva-con-agua.png
 email: Stiftung@vivaconagua.org
-link: www.vivaconagua.org
+link: 'https://www.vivaconagua.org'
 city: Hamburg
 postalCode: 20357
 federalState: Hamburg

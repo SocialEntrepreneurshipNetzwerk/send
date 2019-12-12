@@ -31,11 +31,11 @@ Gut 60 Vertreter*innen der Hamburger Social Entrepreneurship-Szene folgten unser
 
 Eines wurde schnell klar: Alle Vertreter*innen sehen Handlungsbedarf und wollen mehr Raum und Förderung für Innovationen schaffen, die helfen gesellschaftliche Probleme zu überwinden – und mit ihnen die Menschen, die sie entwickeln und vorantreiben. Nur wie? Einige Ansatzpunkte haben wir konkret diskutieren können. 
 
-## **Der Stand – so sieht’s heute aus!**
+## Der Stand – so sieht’s heute aus!
 
 Fest steht: Will Hamburg im (inter)nationalen Vergleich aufholen, gibt es einiges zu tun. Im Juni 2019 gab die UK-Organisation NESTA erstmals den [European Social Innovation Index](https://www.nesta.org.uk/blog/launching-european-digital-social-innovation-index/) heraus, ein **Ranking von 60 europäischen Städten** in Bezug auf die Rahmenbedingungen für soziale Innovationen und Social Entrepreneurs. **Hamburg liegt hier auf Platz 42**, deutlich hinter Berlin (17), München (25) und Stuttgart (41) ([zur Methodologie](https://media.nesta.org.uk/documents/European_Digital_Social_Innovation_Index_Construction_Methodology.pdf)). 
 
-## **Der erste Schritt ist getan: Positionen in den Wahlprogrammen**
+## Der erste Schritt ist getan: Positionen in den Wahlprogrammen
 
 **Alle vertretenen Parteien** haben Social Entrepreneurship und die Förderung sozialer Innovationen **in ihre Wahlprogramme aufgenommen** (siehe unten). Die politischen Vertreter betonten im Betahaus, es brauche sinnvolle Strukturen und klare Schnittstellen, wie eine zentrale Stabsstelle, wo Fäden sowohl für Politik und Verwaltung als auch für Akteure aus dem Feld Social Entrepreneurship zusammenlaufen. Dirk Kienscherf betonte: „Wir brauchen Menschen mit der richtigen Mentalität, die Brücken bauen zur Verwaltung. Wir müssen Räume offenhalten, auch für Dinge, die nach einem Test nicht funktionieren.“ Auch Michael Kruse war dies wichtig: „Man darf nicht das Gefühl haben, man komme mit einer neuen Idee als Bittsteller zum Staat. Die Haltung muss die des Möglichmachens sein.“ Einig waren sich alle: Egal, was von städtischer Seite aus passiert – es muss in guter und enger Abstimmung mit der Praxis passieren. Als Vertreter*innen des SEND nehmen wir diese Einladung gern an!
 
@@ -45,7 +45,7 @@ Eine Hausaufgabe haben wir auch mitgenommen, denn klar wurde: Die Sprache der So
 
 So könne man sich auf den Weg machen, in der nächsten Legislaturperiode eine soziale Innovationsstrategie für Hamburg auszuarbeiten, wie es einige Parteien fordern. Mit Akteuren aus der Szene kann auf den Weg gebracht werden, welche Formen und Formate der Vernetzung es braucht, welche Förderung und Begleitung, und wie eine gestärkte Schnittstelle zur Wissenschaft (Ausbildung und Transfer) aussehen kann. 
 
-## **Was Social Entrepreneurship umfasst**
+## Was Social Entrepreneurship umfasst
 
 Die Diskussion hat auch verdeutlicht, das Social Entrepreneurship nicht homogen ist. Wichtig sei, so unterstrich Laura Haverkamp vom SEND, den ersten Blick auf Ziele und Wirkung einer Unternehmung zu lenken – und den zweiten auf Organisations- und Finanzierungsform sowie die unterschiedlichen Bedürfnisse, die daraus folgen. 
 
@@ -59,7 +59,7 @@ Die Bedürfnisse von Social Entrepreneurs sind vor diesem Hintergrund sehr diver
 
 Es war ein spannender wie konstruktiver Abend! Wir von der SEND Regionalgruppe Hamburg danken allen Mitdiskutant*innen sehr und freuen uns schon auf die Koalitionsverhandlungen. Auf dass 2020 und die folgenden Jahre starke werden für soziale Innovationen und die Pioniere dahinter.
 
-## **Social Entrepeneurship und soziale Innovation in den Programmen zur Bürgerschaftswahl 2020**
+## Social Entrepeneurship und soziale Innovation in den Programmen zur Bürgerschaftswahl 2020
 
 **SPD:**
 

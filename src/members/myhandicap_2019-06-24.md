@@ -8,7 +8,7 @@ impactArea:
 organization: true
 image: /uploads/myhandicap-logo.png
 email: kontakt@myhandicap.de
-link: www.myhandicap.de
+link: 'https://www.myhandicap.de'
 city: München
 postalCode: 81829
 federalState: Bayern

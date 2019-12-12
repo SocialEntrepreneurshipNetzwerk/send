@@ -4,15 +4,16 @@ import TriangleBottom from '../svg/TriangleBottom.js';
 import styles from './triangle-box-article.module.css';
 import ReactMarkdown from 'react-markdown';
 import Link from 'gatsby-link';
+import classNames from 'classnames';
 
 const TriangleBoxArticle = ( props ) => {
 
   return (
-    <article className = {styles.triangle_box_article}>
-      <Link to={props.box.slug} style={{ backgroundImage: `url(${props.box.image})` }} className={styles.article_image}>
+    <article className = {classNames({[styles.triangle_box_article]: !props.blogpreview, [styles.triangle_box_article_blogpreview]: props.blogpreview})}>
+      <Link to={props.box.slug} style={{ backgroundImage: `url(${props.box.image})` }} className={classNames({[styles.article_image]: !props.blogpreview, [styles.article_image_blogpreview]: props.blogpreview})}>
         <Triangle/>
       </Link>
-      <div className={styles.article_preview_content}>
+      <div className={classNames({[styles.article_preview_content]: !props.blogpreview, [styles.article_preview_content_blogpreview]: props.blogpreview})}>
         <Link to={props.box.slug}>
           <h1>{props.box.title}</h1>
         </Link>

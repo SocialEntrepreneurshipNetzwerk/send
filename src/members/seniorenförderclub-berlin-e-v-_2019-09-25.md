@@ -26,7 +26,7 @@ impactArea:
 organization: true
 image: /uploads/senioren-ev.png
 email: uwe.grof@seniorenfoerderclub-berlin.de
-link: www.seniorenfoerderclub-berlin.de
+link: 'https://www.seniorenfoerderclub-berlin.de'
 city: Berlin
 postalCode: 10551
 federalState: Berlin

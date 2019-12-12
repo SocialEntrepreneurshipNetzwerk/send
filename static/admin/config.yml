@@ -4,12 +4,63 @@ backend:
   branch: master
   base_url: https://send-auth.herokuapp.com
 
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_folder: static/uploads
 public_folder: /uploads
 
 collections:
+  - name: "team"
+    label: "Team"
+    identifier_field: "name"
+    folder: "src/team"
+    create: true
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Rolle", name: "role", widget: "select", options: [
+        "Regionalgruppe",
+        "Team",
+        "Vorstand"
+      ]}
+      - {label: "Kurzbeschreibung", name: "description", widget: "text", required: false}
+      - {label: "Email", name: "mail", widget: "string", required: false}
+      - {label: "Bundesland", name: "federalState", widget: "select", required: false, options: [
+          "Baden-Württemberg",
+          "Bayern","Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Hamburg",
+          "Hessen",
+          "Mecklenburg-Vorpommern",
+          "Niedersachsen",
+          "Nordrhein-Westfalen",
+          "Rheinland-Pfalz",
+          "Saarland",
+          "Sachsen",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein",
+          "Thüringen"
+      ]}
+  - name: "sponsors"
+    label: "Förderer"
+    folder: "src/sponsors"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Homepage", name: "homepage", widget: "string", required: false}
+      - {label: "Email", name: "mail", widget: "string", required: false}
+      - {label: "Organisation", name: "organization", widget: "boolean", default: true}
+  - name: "partner"
+    label: "Partner"
+    folder: "src/partners"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "Logo", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Homepage", name: "link", widget: "string"}
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -106,6 +157,12 @@ collections:
                   {label: "Description", name: "description", widget: "string"}
               ]}
             ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
       - file: "src/pages/netzwerk.md"
         label: "Netzwerk"
         name: "netzwerk"
@@ -125,6 +182,12 @@ collections:
                 {label: "Link", name: "link", widget: "string"}
               ]}
             ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+                {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+                {label: "Link", name: "link", widget: "string"},
+                {label: "HexColor", name: "hexColor", widget: "string"},
+                {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+              ]}
       - file: "src/pages/ueber-uns.md"
         label: "Über uns"
         name: "ueber-uns"
@@ -138,7 +201,6 @@ collections:
             ]}
           - {label: "Section 2", name: "section_2", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
-              {label: "Image", name: "image", widget: image},
               {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
           - {label: "Section 3", name: "section_3", widget: "object", fields: [
@@ -152,19 +214,13 @@ collections:
             ]}
           - {label: "Section 4", name: "section_4", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
-              {label: "Paragraph", name: "paragraph", widget: "markdown"},
-              {label: "Regionalgruppen", name: "column_1", widget: "object", fields: [
-                {label: "Title", name: "title", widget: "string"},
-                {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "markdown"},
-                ]}
-              ]},
-              {label: "Fachgruppen", name: "column_2", widget: "object", fields: [
-                {label: "Title", name: "title", widget: "string"},
-                {label: "Regionalgruppenliste", name: "rows", widget: "list", fields:[
-                  {label: "Group", name: "row", widget: "markdown"},
-                ]}
-              ]}
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
             ]}
       - file: "src/pages/positionen.md"
         label: "Positionen"
@@ -187,6 +243,12 @@ collections:
                 {label: "Illustration", name: "icon", widget: "hidden"},
                 {label: "Description", name: "description", widget: "markdown"}
               ]}
+            ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
             ]}
       - file: "src/pages/mitgliedschaft.md"
         label: Mitgliedschaft
@@ -216,6 +278,12 @@ collections:
               ]}
             ]}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
       - file: "src/pages/blog.md"
         label: "Blog"
         name: "blog"
@@ -224,6 +292,37 @@ collections:
           - {label: "Meta-Pagetitle for google", name: "title", widget: "string"}
           - {label: "Section 1", name: "section_1", widget: "object", fields: [
               {label: "Title", name: "title", widget: "string"},
+            ]}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
+      - file: "src/pages/partner.md"
+        label: "Partner"
+        name: "partner"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Image Mask", name: "clip", widget: "hidden"}
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Sticky CTA", name: "cta_sticky", widget: "object", fields: [
+              {label: "Text", name: "text", widget: "string", pattern: ['^.{0,51}$', "Must not be longer than 51 characters!"]},
+              {label: "Link", name: "link", widget: "string"},
+              {label: "HexColor", name: "hexColor", widget: "string"},
+              {lable: "Show on page", name: "showOnPage", widget: "boolean"}
+            ]}
+          - {label: "Section 1", name: "section_1", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 2", name: "section_2", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
+            ]}
+          - {label: "Section 3", name: "section_3", widget: "object", fields: [
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Paragraph", name: "paragraph", widget: "markdown"}
             ]}
       - file: "src/pages/konferenz.md"
         label: "Konferenz 16.-17. März 2019"
@@ -278,3 +377,16 @@ collections:
           - {label: "Page Title ", name: "title", widget: "string"}
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/downloads.md"
+        label: "Downloads"
+        name: "downloads"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "downloads"}
+          - {label: "Page Title", name: "title", widget: "string"}
+          - {label: "Download Material", name: "downloadMaterial", widget: "list", required: false, fields: [
+                {label: "Download Headline", name: "downloadHeadline", widget: "string", required: false},
+                {label: "Download Text", name: "downloadText", widget: "markdown", required: false},
+                {label: "Button Text", name: "buttonText", widget: "string", required: false},
+                {label: "File", name: "file", widget: "file", required: false},
+                {label: "Link", name: "link", widget: "string", required: false},
+            ]}

@@ -22,13 +22,8 @@
 }
 
 .sticky_cta_polygon {
-  fill: active;
+  /* fill: active; */
   transition: all 0.3s;
-}
-
-.sticky_cta_polygon:hover {
-  fill: dark-active;
-    transition: all 0.3s;
 }
 
 .sticky_cta_text_container {

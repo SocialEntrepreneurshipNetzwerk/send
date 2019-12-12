@@ -82,6 +82,11 @@ class TopNav extends Component {
                   Blog
               </Link>
             </li>
+            <li>
+              <Link to="/partner" activeStyle={activeStyle}>
+                  Partner & Förderer
+              </Link>
+            </li>
           </ul>
           <div className={styles.toggle} onClick={this.mobileNavToggle}>
             <div className={this.state.openIconStyle}>

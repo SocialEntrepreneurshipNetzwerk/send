@@ -2,6 +2,7 @@ import React from 'react';
 import Triangle from '../svg/Triangle.js';
 import TriangleBottom from '../svg/TriangleBottom.js';
 import styles from './triangle-boxes.module.css';
+import ReactMarkdown from 'react-markdown';
 
 const TriangleBoxLarge = ( props ) => {
 
@@ -13,7 +14,8 @@ const TriangleBoxLarge = ( props ) => {
           <Triangle/>
         </div>
         <h1>{props.box.title}</h1>
-        <p>{props.box.description}</p>
+        <ReactMarkdown source={props.box.description} />
+
         <br/>
         <div>
           {props.box.email && <a href={`mailto:${props.box.email}`}>{props.box.email}</a>}

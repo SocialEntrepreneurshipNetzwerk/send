@@ -15,7 +15,7 @@ impactArea:
 organization: true
 image: /uploads/screenshot-34-.png
 email: contact@matcharity.org
-link: www.matcharity.org
+link: 'https://www.matcharity.org'
 city: Frankfurt am Main
 postalCode: '60485'
 federalState: Hessen

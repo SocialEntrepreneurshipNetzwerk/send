@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/besser-zuhause.png
 email: leif.lewinski@besserzuhause.com
-link: www.besserzuhause.com
+link: 'https://www.besserzuhause.com'
 city: Hamburg
 postalCode: 20095
 federalState: Hamburg

@@ -12,7 +12,7 @@ impactArea:
 organization: true
 image: /uploads/kulturzeitlos.png
 email: metz@kulturzeitlos.org
-link: www.kulturzeitlos.org
+link: 'https://www.kulturzeitlos.org'
 city: Berlin
 postalCode: 14055
 federalState: Berlin

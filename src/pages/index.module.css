@@ -2,12 +2,17 @@
 
 .header {
   position: relative;
-  top: -360px;
+  top: -480px;
   margin: 0 210px;
 }
-@media (max-width: break-mobile) , (min-aspect-ratio: 22/10){
+@media  (orientation: portrait){
   .header{
-    top: -300px;
+    top: -480px;
+  }
+}
+@media (max-width: break-mobile) , (min-aspect-ratio: 11/5){
+  .header{
+    top: -420px;
   }
 }
 @media (max-width: break-main-padding) {
@@ -51,6 +56,10 @@
 
 .main {
   margin-top: -240px;
+}
+
+.decorativeParagraph {
+  margin: 80px auto;
 }
 
 .main section:nth-of-type(2) h1 {
