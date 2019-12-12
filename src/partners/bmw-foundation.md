@@ -9,8 +9,11 @@ description: >-
   es jedoch noch mehr Verankerung in der Politik und Zusammenarbeit mit anderen
   zentralen Akteuren. SEND nimmt sich dieser Herausforderung an, baut das
   Ökosystem in Deutschland weiter aus und hilft damit diesen wichtigen Ansatz in
-  den Mainstream zu bringen.“_  
-  
+  den Mainstream zu bringen.“_
+
+
+  \
+
   Markus Hipp - Vorstand
 link: 'https://bmw-foundation.org'
 ---
