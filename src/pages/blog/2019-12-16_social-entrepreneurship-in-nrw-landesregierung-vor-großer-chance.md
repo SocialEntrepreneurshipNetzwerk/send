@@ -43,6 +43,4 @@ Melusine Reimers & Daniel Bartel
 
 Soziale Unternehmerin und zweiter Landessprecher SEND e.V. in NRW
 
-
-
-_Hier findet Ihr unsere Analyse der Antworten der Landesregierung_
+__[_Hier_](https://www.send-ev.de/uploads/unsere-analyse-der-antworten-der-landesregierung.pdf) _findet Ihr unsere Analyse der Antworten der Landesregierung_
