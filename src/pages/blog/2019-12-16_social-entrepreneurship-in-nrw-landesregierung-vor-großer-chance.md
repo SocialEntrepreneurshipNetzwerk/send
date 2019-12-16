@@ -7,7 +7,7 @@ excerpt: >-
   Herausforderungen anzugehen und die Art des Wirtschaftens auf eine neue Ebene
   zu bringen. In NRW ist noch viel Potenzial zu heben, wie eine Kleine Anfrage
   an die Landesregierung zeigt.
-image: /uploads/header-nrw2.jpg
+image: /uploads/header-nrw.jpg
 date: 2019-12-16T09:10:25.750Z
 category: news
 ---
