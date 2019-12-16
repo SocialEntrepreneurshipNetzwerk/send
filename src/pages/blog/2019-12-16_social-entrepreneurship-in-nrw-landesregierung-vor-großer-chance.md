@@ -13,7 +13,7 @@ category: news
 ---
 **Soziales Unternehmertum ist weltweit auf dem Vormarsch, um gesellschaftliche Herausforderungen anzugehen und die Art des Wirtschaftens auf eine neue Ebene zu bringen. In NRW ist noch viel Potenzial zu heben, wie eine Kleine Anfrage an die Landesregierung zeigt.** 
 
-## 
+
 
 ## Nachholbedarf für Social Entrepreneurship in NRW!
 
