@@ -13,8 +13,6 @@ category: news
 ---
 **Soziales Unternehmertum ist weltweit auf dem Vormarsch, um gesellschaftliche Herausforderungen anzugehen und die Art des Wirtschaftens auf eine neue Ebene zu bringen. In NRW ist noch viel Potenzial zu heben, wie eine Kleine Anfrage an die Landesregierung zeigt.** 
 
-
-
 ## Nachholbedarf für Social Entrepreneurship in NRW!
 
 Bereits um das Jahr 2000 hat die Bundesregierung das Thema Social Entrepreneurship erkannt, war allerdings bei der praktischen Unterstützung bislang nicht sonderlich aktiv, wie das kürzliche Update der Studie “The best Country to be a Social Entrepreneur” deutlich zeigt. Eine Reihe gesellschaftlicher Herausforderungen haben seit dem an Dynamik gewonnen: Klimawandel, demografischer Wandel und der digitale Strukturwandel sind nur drei Beispiele. Social Entrepreneurship setzt sich hier global immer mehr als Lösungsinstrument durch. Dies hat auch die Bundesregierung, fast zwei Jahrzehnte später, im aktuellen Koalitionsvertrag erstmalig [bestätigt](https://www.send-ev.de/2019-02-11_statement-zur-antwort-der-bundesregierung-auf-die-kleine-anfrage-„social-entrepreneurship“-von-der-bundestagsfraktion-bündnis-90-die-grünen/): _„Social Entrepreneurship spielt bei der Lösung aktueller gesellschaftlicher und sozialer Herausforderungen eine zunehmend wichtige Rolle. Social Entrepreneurship wollen wir noch stärker als bisher fördern und unterstützen.“_
@@ -37,7 +35,7 @@ Dass NRW für Social Startups eine Vorreiterrolle spielen kann, wird auch dadurc
 
 Zusammenfassend fordern wir für NRW eine soziale Innovationsstrategie und dessen Koordination, die Öffnung bestehender Finanzierungs- und Förderprogramme, die Unterstützung zielgruppenspezifischer Programme sowie soziale Innovations- und Gründerzentren, die Experimentierräume für ein neues Wirtschaften zulassen. Mehr dazu mit Praxis-Beispielen in diesem PDF: [“Unsere Analyse der Antworten der Landesregierung”.](https://www.send-ev.de/uploads/unsere-analyse-der-antworten-der-landesregierung.pdf)
 
-Die SEND-Community sowie NRWalley stehen für den erfolgreichen Wandel mir Tat und Rat zur Verfügung! 
+Die SEND-Community sowie NRWalley stehen für den erfolgreichen Wandel mit Tat und Rat zur Verfügung! 
 
 Melusine Reimers & Daniel Bartel 
 
