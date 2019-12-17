@@ -67,5 +67,13 @@ downloadMaterial:
       Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
       erkennen und fortlaufend zu unterstützen.
     link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
+  - buttonText: Definition Social Entrepreneurship
+    downloadHeadline: Definition Social Entrepreneurship
+    downloadText: >-
+      Wir haben festgestellt, dass in vielen Diskussionen über den Sektor eine
+      Uneinigkeit darüber herrscht, was Social Entrepreneurship eigentlich ist.
+      Deshalb haben wir eine Definition erarbeitet, die die Entstehung und
+      Bedeutung von Social Entrepreneurship beschreibt.
+    link: 'https://www.send-ev.de/uploads/definition_socialentrepreneurship.pdf'
 ---
 
