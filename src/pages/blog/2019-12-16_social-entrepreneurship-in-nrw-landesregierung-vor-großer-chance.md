@@ -35,7 +35,7 @@ Dass NRW für Social Startups eine Vorreiterrolle spielen kann, wird auch dadurc
 
 Zusammenfassend fordern wir für NRW eine soziale Innovationsstrategie und dessen Koordination, die Öffnung bestehender Finanzierungs- und Förderprogramme, die Unterstützung zielgruppenspezifischer Programme sowie soziale Innovations- und Gründerzentren, die Experimentierräume für ein neues Wirtschaften zulassen. 
 
-**Mehr dazu mit Praxis-Beispielen in diesem PDF:** [**“Unsere Analyse der Antworten der Landesregierung”.**](https://www.send-ev.de/uploads/unsere-analyse-der-antworten-der-landesregierung.pdf)****
+**Mehr dazu mit Praxis-Beispielen in diesem PDF:** [“Unsere Analyse der Antworten der Landesregierung”.](https://www.send-ev.de/uploads/unsere-analyse-der-antworten-der-landesregierung.pdf)
 
 Die SEND-Community sowie NRWalley stehen für den erfolgreichen Wandel mit Tat und Rat zur Verfügung! 
 
