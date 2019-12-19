@@ -7,7 +7,7 @@ excerpt: >-
   weiterziehen lassen. In knapp zwei Jahren hat sie ein starkes, tolles SEND
   Netzwerk mit aufgebaut. Lest hier einen kleinen Rückblick und ihre
   Abschiedszeilen.
-image: /uploads/header-katharina.jpg
+image: /uploads/header-katharina2.jpg
 date: 2019-12-19T11:49:51.684Z
 category: news
 ---
