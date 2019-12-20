@@ -1,12 +1,13 @@
 ---
 templateKey: article
 clip: clip_article
-title: Ein Weihnachtsgeschenk für die Gesellschaft
+title: >-
+  Gemeinsamer Koalitionsantrag ist auf dem Weg: Ein Weihnachtsgeschenk für die
+  Gesellschaft
 excerpt: >-
   Im Koalitionsvertrag 2018 wurde erstmals Social Entrepreneurship verankert.
   Die Regierungsfraktionen wollen Social Entrepreneurship voranbringen und haben
-  zur Umsetzung nun eine parlamentarische Initiative eingebracht. Ein
-  gemeinsamer Koalitionsantrag ist auf dem Weg.
+  zur Umsetzung nun eine parlamentarische Initiative eingebracht.
 image: /uploads/pm-soziale-innovationen.jpg
 date: 2019-12-20T13:21:14.376Z
 category: news
@@ -27,11 +28,9 @@ Deswegen soll es ein koordinierendes Ressort auf Bundesebene geben und die Mögl
 
 Es bleibt spannend, welche [Empfehlungen des Social Entrepreneurship Sektors](https://www.send-ev.de/positionen/), der gemeinsamen Positionen mit [Wohlfahrt](https://www.send-ev.de/2019-01-14_verbände-fordern-innovationen-müssen-der-gesellschaft-als-ganzes-zu-gute-kommen) oder mit [Finanzierungspartnern](https://www.send-ev.de/uploads/finanzierung_positionspapier.pdf)  im Detail im Antrag aufgegriffen werden, der noch in finaler Bearbeitung ist. 
 
-> Markus Sauerhammer: “International liegt Deutschland bei der Förderung von innovativen Lösungen für gesellschaftliche Herausforderungen zurück. Der Antrag ist ein Baustein für einen Transfer unserer Sozialen Marktwirtschaft in die heutige Zeit und knüpft damit an unsere Tradition bei Sozialen Innovationen an.” 
+Der deutsche Social Entrepreneurship Sektor begrüßt die Initiative der Regierungsfraktionen. Denn es geht um mehr als einen Wirtschaftszweig. Neben bestehenden Problemen, werden uns in den nächsten Jahren Klimawandel, demografischer Wandel und digitale Transformation noch mehr herausfordern. Der Antrag der Regierungsfraktionen kann zur Basis einer besseren Entwicklung und Verbreitung zukunftsorientierter Lösungen werden. Dazu Markus Sauerhammer, 1. Vorstand von SEND: 
 
-Der deutsche Social Entrepreneurship Sektor begrüßt die Initiative der Regierungsfraktionen. Denn es geht um mehr als einen Wirtschaftszweig.
-
-> Katrin Elsemann: “Neben bestehenden Problemen, werden uns in den nächsten Jahren Klimawandel, demografischer Wandel und digitale Transformation noch mehr herausfordern. Der Antrag der Regierungsfraktionen kann zur Basis einer besseren Entwicklung und Verbreitung zukunftsorientierter Lösungen werden.”
+> _“International liegt Deutschland bei der Förderung von innovativen Lösungen für gesellschaftliche Herausforderungen zurück. Der Antrag ist ein Baustein für einen Transfer unserer Sozialen Marktwirtschaft in die heutige Zeit und knüpft damit an unsere Tradition bei Sozialen Innovationen an.”_
 
 Wir sind gespannt auf die konkrete Ausgestaltung und freuen uns bereits heute auf die Umsetzung beschlossener Maßnahmen.  Ein großer Dank geht an die zuständigen Bundestagsabgeordneten Sabine Poschmann (SPD-Fraktion) und Dr. Andreas Lenz (CDU/CSU-Fraktion) sowie alle am Prozess beteiligten Akteure! 
 
