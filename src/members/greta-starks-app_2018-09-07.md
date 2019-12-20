@@ -12,7 +12,7 @@ impactArea:
 organization: true
 image: /uploads/greta-logo-rgb-icon-greta.png
 email: info@gretaundstarks.de
-link: 'http://www.gretaundstarks.de/greta/'
+link: 'https://www.gretaundstarks.de/greta/'
 city: Berlin
 postalCode: '10247'
 federalState: Berlin
