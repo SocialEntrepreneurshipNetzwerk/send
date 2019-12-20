@@ -13,7 +13,7 @@ impactArea:
 organization: true
 image: /uploads/reflecta.png
 email: hello@reflecta.network
-link: 'https:// www.reflecta.network'
+link: 'https://www.reflecta.network'
 city: Mainz
 postalCode: '55118'
 federalState: Rheinland-Pfalz
