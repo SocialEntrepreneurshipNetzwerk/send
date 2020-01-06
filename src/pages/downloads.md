@@ -75,5 +75,18 @@ downloadMaterial:
       Forderungen erarbeitet.
     file: /uploads/positionspapier_engagement.pdf
     link: ''
+  - buttonText: Positionspapier
+    downloadHeadline: >-
+      Breite Allianz: Verbände fordern bessere Rahmenbedingungen für soziale
+      Innovationen in Deutschland
+    downloadText: >-
+      Gemeinsam mit fünf großen Wohlfahrtsverbänden (AWO, Caritas, Diakonie, DRK
+      und ZWST), haben wir und der Bundesverband Deutsche Startups beschlossen,
+      zukünftig stärker zusammen an innovativen Lösungen für gesellschaftliche
+      Herausforderungen zu arbeiten. In einem gemeinsamen Positionspapier
+      beleuchten wir die Potentiale der neuen Allianz und fordern von der
+      Politik bessere Rahmenbedingungen für soziale Innovationen ein.
+    link: >-
+      https://www.diakonie.de/fileadmin/user_upload/Diakonie/PDFs/Stellungnahmen_PDF/2019-01-07_finaler_Stand_Positionspapier_Wohlfahrt_Startup_korrigiert7.pdf
 ---
 
