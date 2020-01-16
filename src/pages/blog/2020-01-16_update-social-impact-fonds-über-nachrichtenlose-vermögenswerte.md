@@ -13,7 +13,7 @@ category: news
 ---
 Klimawandel, digitale Transformation, demografischer Wandel, soziale Spaltung - unsere Gesellschaft steht vor großen Herausforderungen.
 
-Durch den Aufbau eines Social Impact Fonds über “nachrichtenlose Vermögenswerte” könnten für viele dieser Herausforderungen innovative Lösungen auf den Weg gebracht werden. [Durch unseren Vorschlag](https://www.send-ev.de/2019-10-02_aufbau-eines-social-impact-fonds-über-nachrichtenlose-vermögenswerte) könnten diese, ohne Belastung der Steuerzahler*innen oder einen Eingriff in das Eigentum der Kunden der Finanzdienstleister, realisiert werden.
+Durch den Aufbau eines Social Impact Fonds über “nachrichtenlose Vermögenswerte” könnten für viele dieser Herausforderungen innovative Lösungen auf den Weg gebracht werden. [Durch unseren Vorschlag](https://www.send-ev.de/2019-10-02_aufbau-eines-social-impact-fonds-über-nachrichtenlose-vermögenswerte) könnten diese realisiert werden, ohne Belastung der Steuerzahler*innen oder einen Eingriff in das Eigentum der Kunden der Finanzdienstleister.
 
 Es geht hierbei um Vermögenswerte, bei denen Finanzdienstleister den Kontakt zu den jeweiligen Kund*innen verloren haben. Anfang Oktober haben wir hierzu [einen Bericht](https://www.send-ev.de/uploads/sif.pdf) veröffentlicht .
 
@@ -30,8 +30,6 @@ In unserem Video-Update erklären wir euch, was nachrichtenlose Vermögenswerte 
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bw4pqMMBXsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-
-
 
 Auch in der Presse wurde bereits viel und durchgängig positiv über unseren Vorschlag für den Aufbau eine Social Impact Fonds über nachrichtenlose Vermögenswerte berichtet!
 
