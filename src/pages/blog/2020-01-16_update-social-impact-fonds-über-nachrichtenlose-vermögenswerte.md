@@ -27,7 +27,7 @@ Unser Vorschlag wurde bereits im [Impulspapier für Soziale Innovationen](https:
 
 In unserem Video-Update erklären wir euch, was nachrichtenlose Vermögenswerte sind, von wieviel Geld wir sprechen und wie man diese Gelder verwenden könnte.
 
-<iframe width="560" height="315" src="<https://www.youtube.com/embed/Bw4pqMMBXsA>" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bw4pqMMBXsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Auch in der Presse wurde bereits viel und durchgängig positiv über unseren Vorschlag für den Aufbau eine Social Impact Fonds über nachrichtenlose Vermögenswerte berichtet!
 
