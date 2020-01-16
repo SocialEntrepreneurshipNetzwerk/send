@@ -17,7 +17,7 @@ Durch den Aufbau eines Social Impact Fonds über “nachrichtenlose Vermögenswe
 
 Es geht hierbei um Vermögenswerte, bei denen Finanzdienstleister den Kontakt zu den jeweiligen Kund*innen verloren haben. Anfang Oktober haben wir hierzu [einen Bericht](https://www.send-ev.de/uploads/sif.pdf) veröffentlicht .
 
-### Doch was ist seit der Veröffentlichung im Oktober passiert?
+## Doch was ist seit der Veröffentlichung im Oktober passiert?
 
 Unser Vorschlag wurde bereits im [Impulspapier für Soziale Innovationen](https://www.hightech-forum.de/wp-content/uploads/2019/12/Hightech-Forum_Impulspapier_Soziale_Innovationen.pdf) des Hightech-Forums als mögliche Finanzierungsquelle für Soziale Innovationen aufgenommen und in einer[ Pressemeldung der Regierungsfraktionen](https://www.sabine-poschmann.de/mstream.ashx?g=111327&a=1&s=&r=-1&id=147247&lp=637124423791870000&fbclid=IwAR2Uppo7lTo-NewzgfE-VZTsaNlsbSOAPMPyW14Uo_2w41g_oE9_2uqEMhw) zum anstehenden Koalitionsantrag für eine stärkere Förderung von Sozialem Unternehmertum aufgegriffen.
 
