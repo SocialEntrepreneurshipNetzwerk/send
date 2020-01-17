@@ -7,7 +7,7 @@ const ProfileBox = ( props ) => (
   <div className={styles.box}>
     <div className={styles.flex_wrapper}>
       <div className={styles.flex_top}>
-        <span className={styles.clip_profile} style={{ backgroundImage: `url(${props.content.image})` }}>
+        <span className={styles.clip_profile} style={{ backgroundImage: `url(${encodeURI(props.content.image)})` }}>
           <ClipProfile/>
         </span>
         <p>{props.content.description}</p>

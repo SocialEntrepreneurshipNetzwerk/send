@@ -10,7 +10,7 @@ const TriangleBoxArticle = ( props ) => {
 
   return (
     <article className = {classNames({[styles.triangle_box_article]: !props.blogpreview, [styles.triangle_box_article_blogpreview]: props.blogpreview})}>
-      <Link to={props.box.slug} style={{ backgroundImage: `url(${props.box.image})` }} className={classNames({[styles.article_image]: !props.blogpreview, [styles.article_image_blogpreview]: props.blogpreview})}>
+      <Link to={props.box.slug} style={{ backgroundImage: `url(${encodeURI(props.box.image)})` }} className={classNames({[styles.article_image]: !props.blogpreview, [styles.article_image_blogpreview]: props.blogpreview})}>
         <Triangle/>
       </Link>
       <div className={classNames({[styles.article_preview_content]: !props.blogpreview, [styles.article_preview_content_blogpreview]: props.blogpreview})}>

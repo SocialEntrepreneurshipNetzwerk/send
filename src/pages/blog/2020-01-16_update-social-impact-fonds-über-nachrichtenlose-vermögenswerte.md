@@ -7,7 +7,7 @@ excerpt: >-
   "nachrichtenlose Vermögenswerte" zum Aufbau eines Social Impact Fonds genutzt
   werden könnten. Lest in diesem Beitrag was seitdem passiert ist und schaut
   Euch unser neues Video mit weiteren Hintergrundinformation an.
-image: /uploads/header-titelbild-blog.jpg
+image: /uploads/Nachrichtenlose Assets Update.jpg
 date: 2020-01-16T12:23:46.492Z
 category: news
 ---

@@ -5,7 +5,7 @@ import styles from './profile-box.module.css';
 const ProfileBox2 = ( props ) => (
   <div className={styles.box2_wrapper}>
     <div className={styles.box2}>
-      <p className={styles.clip_profile2} style={{ backgroundImage: `url(${props.content.image})` }}>
+      <p className={styles.clip_profile2} style={{ backgroundImage: `url(${encodeURI(props.content.image)})` }}>
         <ClipProfile2/>
       </p>
       {props.content.name &&
