@@ -9,7 +9,7 @@ const TriangleBoxSponsor = ( props ) => {
 
   return (
     <article className = {styles.triangle_box_sponsor}>
-      <span style={{ backgroundImage: `url(${props.box.image})` }} className={styles.sponsor_image}>
+      <span style={{ backgroundImage: `url(${encodeURI(props.box.image)})` }} className={styles.sponsor_image}>
         <Triangle/>
       </span>
       <div className={styles.sponsor_preview_content}>
