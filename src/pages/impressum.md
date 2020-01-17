@@ -25,8 +25,8 @@ section_2:
   title: Beitragsordnung
 section_3:
   content: >-
-    Markus Sauerhammer (Vorsitzender), Birgit Heilig, Norbert Kunz, Leon Reiner,
-    Anna Roth-Bunting, Naomi Ryland, Matthias Scheffelmeier
+    Markus Sauerhammer (Vorsitzender), Birgit Heilig, Sally Ollech, Sabrina
+    Konzok, Philipp von der Wippel, Julia Post, Laura Haverkamp
   title: Vorstand
 section_4:
   content: N3XTCODER | info@n3xtcoder.org | n3xtcoder.org
