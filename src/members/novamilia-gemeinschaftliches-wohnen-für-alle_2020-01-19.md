@@ -6,7 +6,6 @@ description: >
   mietbasiertes Cohousing und Mehrgenerationenwohnen breiten
   Bevölkerungsschichten zugänglich zu machen. 
 
-
   In diesem Rahmen verfolgen wir ideelle Ziele wie soziale Inklusion und
   ökologische Nachhaltigkeit und sind der Überzeugung, dass gemeinschaftliches
   Wohnen die Antworten auf viele drängende Fragestellungen der Gegenwart und
