@@ -2,32 +2,34 @@
 templateKey: positionen
 clip: clip_positionen
 title: Positionen
-cta_sticky:
-  text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
-  showOnPage: true
-  hexColor: '#ff007b'
 section_1:
   paragraph: >-
+    _Das primäre Ziel von Social Entrepreneurship ist die Lösung
+    gesellschaftlicher Herausforderungen. Dies wird durch kontinuierliche
+    Nutzung unternehmerischer Mittel erreicht und resultiert in neuen und
+    innovativen Lösungen. Durch steuernde und kontrollierende Mechanismen wird
+    sichergestellt, dass die gesellschaftlichen Ziele intern und extern gelebt
+    werden. (Definition, SEND 2019)_
+
+
     Wir stehen vor einer Vielzahl gesellschaftlicher Herausforderungen.
-    Klimawandel, Kinder- und Altersarmut, Reformstau im Bildungssystem,
-    Integration geflüchteter Menschen oder demografischer Wandel sind nur einige
-    Beispiele. Statt diesen Herausforderungen nachhaltig an deren Kernursache zu
-    begegnen, wird oft den Symptomen mit Werkzeugen aus dem vergangen
-    Jahrhundert begegnet. So werden Potenziale verschenkt und selten
+    Klimawandel, Kinder- und Altersarmut, Digitalisierung, Reformstau im
+    Bildungssystem, Integration geflüchteter Menschen oder demografischer Wandel
+    sind nur einige Beispiele. Statt diesen Herausforderungen nachhaltig an
+    deren Kernursache zu begegnen, wird oft den Symptomen mit Werkzeugen aus dem
+    vergangen Jahrhundert begegnet. So werden Potenziale verschenkt und selten
     grundlegende gesellschaftliche Verbesserungen herbeigeführt. Bei all den
     gesellschaftlichen Herausforderungen unserer Zeit muss hier ein anderer
-    Anspruch bestehen. Eins wird deutlich. **Wir benötigen ein Umdenken!**
-    Social Entrepreneure (Sozialunternehmer\*innen) bringen genau diesen
-    Anspruch mit und gehen unsere gesellschaftlichen Herausforderungen mit
-    innovativen und zukunftsgerichteten Lösungen ganzheitlich an. In Deutschland
-    gibt es bereits eine Vielzahl an Sozialunternehmer\*innen der neuen
-    Generation. Sie nutzen unternehmerische und zeitgemäße Instrumente und
-    stellen dabei die gesellschaftliche vor die finanzielle Rendite.
+    Anspruch bestehen. **Wir benötigen ein Umdenken!** Social Entrepreneure
+    (Sozialunternehmer*innen) bringen genau diesen Anspruch mit und gehen unsere
+    gesellschaftlichen Herausforderungen mit innovativen und zukunftsgerichteten
+    Lösungen ganzheitlich an. Sie nutzen unternehmerische und zeitgemäße
+    Instrumente und stellen dabei die soziale vor die finanzielle Rendite.
 
 
-    Beispiele für erfolgreiche Social Entrepreneure findet Ihr unter [unseren
-    Mitgliedern](/netzwerk).
+    Im Jahr 2019 haben wir in einem partizipativen Prozess eine [Definition für
+    Social Entrepreneurship
+    ](https://www.send-ev.de/uploads/definition_socialentrepreneurship.pdf)vorgelegt.
   title: Social Entrepreneurship
 section_2:
   boxes:
@@ -72,5 +74,11 @@ section_2:
     label: Hier Positionspapier herunterladen
     link: /uploads/2017_10_31_positionspapier_bund.pdf
   title: Positionen
+cta_sticky:
+  hexColor: '#ff007b'
+  link: >-
+    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  showOnPage: true
+  text: Jetzt Mitglied werden!
 ---
 

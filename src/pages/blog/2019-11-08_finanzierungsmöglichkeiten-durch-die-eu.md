@@ -34,9 +34,9 @@ Die [Next Generation Internet](https://www.ngi.eu/about/) (NGI) Initiative gehö
 
 Aktuell gibt es im Rahmen der NGI drei relevante offene Ausschreibungen:
 
-1. [Next Generation Search and Discovery](https://nlnet.nl/discovery/) _(NGI Zero Discovery):_ In diesem Förderstrang geht es um die Gestaltung von sozialen und transparenten Suchoptionen im Internet durch open-source Technologien. Deadline der aktuellen Ausschreibung ist bereits der 01.12.2019 und es geht um Förderungen zwischen 5.000€ und 50.000€.
-2. [Privacy & Trust Enhancing Technologies](https://nlnet.nl/PET/) (_NGI Zero PET):_ Deadline des aktuellen Calls ist ebenfalls bereits der 01.12.2019 und es geht wiederum um Förderungen zwischen 5.000€ und 50.000€.
-3. [Decentralised Technologies](https://www.ngi.eu/news/2019/11/05/ledger-funding-for-decentralised-human-centric-tech-solutions/) _(LEDGER):_ Durch diese Blockchain Initiative bekommt Ihr ein Mentoring, Trainings und bis zu 200.000€ Förderung, um ein Minimum Viable Product (MVP) zu erstellen, das privacy-by-design, Offenheit und data governance als Grundwerte beinhaltet. Im Fokus stehen diese fünf Themen: Health, Finance, Collaborative Economy, Public Services, and Energy. Deadline ist der 31.01.2020.
+1. [Next Generation Search and Discovery](https://nlnet.nl/discovery/) *(NGI Zero Discovery):* In diesem Förderstrang geht es um die Gestaltung von sozialen und transparenten Suchoptionen im Internet durch open-source Technologien. Deadline der aktuellen Ausschreibung ist bereits der 01.12.2019 und es geht um Förderungen zwischen 5.000€ und 50.000€.
+2. [Privacy & Trust Enhancing Technologies](https://nlnet.nl/PET/) (*NGI Zero PET):* Deadline des aktuellen Calls ist ebenfalls bereits der 01.12.2019 und es geht wiederum um Förderungen zwischen 5.000€ und 50.000€.
+3. [Decentralised Technologies](https://www.ngi.eu/news/2019/11/05/ledger-funding-for-decentralised-human-centric-tech-solutions/) *(LEDGER):* Durch diese Blockchain Initiative bekommt Ihr ein Mentoring, Trainings und bis zu 200.000€ Förderung, um ein Minimum Viable Product (MVP) zu erstellen, das privacy-by-design, Offenheit und data governance als Grundwerte beinhaltet. Im Fokus stehen diese fünf Themen: Health, Finance, Collaborative Economy, Public Services, and Energy. Deadline ist der 31.01.2020.
 
 \---
 
@@ -56,6 +56,10 @@ Die meisten Menschen verbinden Erasmus immer mit Studierenden, doch auch als KMU
 
 \---
 
+Das [INTERREG V A-Programm Deutschland - Niederlande](https://www.interregeurope.eu/brese/) fördert seit 25 Jahren Wachstum von Wirtschaft und Innovationen an der niederländisch-deutschen Grenze. Bis 2023 fördert es insbesondere auch Sozialunternehmen und den Austausch über die Grenze hinweg. Es geht vor allem darum voneinander zu lernen und best-practices auszutauschen. Projektanträge können jederzeit von öffentlichen und privaten Personen, Organisationen und Unternehmen gestellt werden. Gefördert werden ausschließlich Projekte, bei denen deutsche und niederländische Partner miteinander kooperieren. Die Finanzierung eines Projektes setzt sich immer aus einem Eigenbeitrag der Partner, EU-Fördermitteln (i.d.R. bis zu 50%) und oft auch aus nationalen und regionalen Fördermitteln (z.B. von Ministerien und Provinzen) zusammen. [Hier](https://www.euregio.org/page/17/interreg-v-deutschland-nederland/) erfahrt Ihr mehr zu dem Programm. 
+
+\---
+
 Die folgenden vier Programme richten sich an Intermediäre (wie Banken, Investor*innen, Fonds, Incubators, Accelerators), die Sozialunternehmen fördern möchten:
 
 1. [EaSI Guarantee Instrument](https://www.eif.org/what_we_do/microfinance/easi/easi-guarantee-instrument/index.htm): Im Rahmen des Employment and Social Innovation (EaSI) Programms wird explizit Social Entrepreneurship gefördert. Die Intermediäre können so Kredite zwischen 25.000 und 500.000€ vergeben. Bisher gibt es aber leider keine einzige deutsche Institution, die Gelder vergibt, während unsere europäischen Nachbar*innen bereits zahlreich vertreten sind. Eine Liste der aktuellen (Stand 30.09.19) Institutionen findet Ihr [hier](https://www.eif.org/what_we_do/microfinance/easi/easi-signatures.pdf). Seid Ihr ein Intermediär und möchtet in Deutschland ein Pionier dafür sein? Bewerbt Euch! Bis zum 30.09.2023 ist noch viel Zeit!
@@ -69,4 +73,4 @@ Wenn von Euch jemand Erfahrungen mit EU-Programmen hat, die in dieser Auflistung
 
 Meldet Euch einfach bei uns unter info@send-ev.de.
 
-_Foto von Olia Nayda on Unsplash_
+*Foto von Olia Nayda on Unsplash*

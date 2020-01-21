@@ -10,7 +10,7 @@ const TopImage = ( props ) => {
   const imageStyle = props.isHome ? styles.background_image_home : styles.background_image;
   return (
     <div className={imageStyle} style={{
-      backgroundImage: `url(${props.imageSource})`,
+      backgroundImage: `url(${encodeURI(props.imageSource)})`,
       clipPath: `url(#${props.clip})`,
       WebkitClipPath: `url(#${props.clip})`
     }}>

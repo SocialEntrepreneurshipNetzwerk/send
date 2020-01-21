@@ -2,7 +2,7 @@
 name: Katharina Scharpe
 image: /uploads/katharina-scharpe.jpg
 role: Team
-description: Wissenschaftliche Kooperation
+description: Referentin Wissenschaftliche Kooperation
 mail: ''
 ---
 

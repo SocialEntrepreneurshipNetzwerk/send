@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/cancer.png
 email: j.reimers@careforcancer.de
-link: 'https:/www.careforcancer.de'
+link: 'http://www.careforcancer.de/'
 city: Hamburg
 postalCode: 22767
 federalState: Hamburg

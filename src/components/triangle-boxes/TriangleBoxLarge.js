@@ -10,7 +10,7 @@ const TriangleBoxLarge = ( props ) => {
 
     <div className={styles.box_large}>
       <div>
-        <div style={{ backgroundImage: `url(${props.box.image})` }} className={styles.box_large_image}>
+        <div style={{ backgroundImage: `url(${encodeURI(props.box.image)})` }} className={styles.box_large_image}>
           <Triangle/>
         </div>
         <h1>{props.box.title}</h1>

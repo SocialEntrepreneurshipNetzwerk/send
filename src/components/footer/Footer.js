@@ -52,7 +52,7 @@ const Footer = () => (
           <a href="https://www.kfw-stiftung.de" target="_blank"><KFW/></a>
         </span>
         <span>
-          <a href="https://www.kfw-stiftung.de" target="_blank"><Schoepflin/></a>
+          <a href="https://www.schoepflin-stiftung.de" target="_blank"><Schoepflin/></a>
         </span>
         <span>
           <a href="https://www.samsung.com/de/" target="_blank"><Samsung/></a>

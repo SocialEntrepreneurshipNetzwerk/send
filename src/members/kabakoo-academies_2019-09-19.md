@@ -5,7 +5,6 @@ description: >-
   Leapfrogging-Kompetenzen. Wir bilden agile Fachkräfte für die
   Kleinserienfertigung aus.
 
-
   Dank unseres innovativen Curriculums erwerben die Lernenden in zwei Jahren
   fortgeschrittene Leapfrogging-Kompetenzen. Sie erlernen die Grundlagen der
   digitalen Fertigung und spezialisieren sich auf Technologien für die

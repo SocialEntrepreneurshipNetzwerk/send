@@ -1,7 +1,7 @@
 ---
 title: Plasticfreeworld
 description: >
-  "Plasticfreeworld ist eine Wachstums-Plattform zur Lösung des globalen
+  Plasticfreeworld ist eine Wachstums-Plattform zur Lösung des globalen
   Plastikproblems.
 
   Das Netzwerk von Plasticfreeworld soll sowohl B2B als auch B2C umfassen. • Der
@@ -9,7 +9,7 @@ description: >
   herkömmlichen Plastiken finden. • Gewerbekunden werden Hersteller von
   plastikfreien Waren und Produkten finden. • Wir sehen uns als Projekt- und
   Informations-Plattform, auf der sich Menschen auf der ganzen Welt vernetzen
-  können."
+  können.
 impactArea:
   - Bildung
   - Umwelt– & Klimaschutz

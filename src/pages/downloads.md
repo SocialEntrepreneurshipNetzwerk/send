@@ -2,6 +2,46 @@
 templateKey: downloads
 title: Downloads
 downloadMaterial:
+  - buttonText: Definition Social Entrepreneurship
+    downloadHeadline: Definition Social Entrepreneurship
+    downloadText: >-
+      Wir haben festgestellt, dass in vielen Diskussionen über den Sektor eine
+      Uneinigkeit darüber herrscht, was Social Entrepreneurship eigentlich ist.
+      Deshalb haben wir eine Definition erarbeitet, die die Entstehung und
+      Bedeutung von Social Entrepreneurship beschreibt.
+    link: 'https://www.send-ev.de/uploads/definition_socialentrepreneurship.pdf'
+  - buttonText: DSEM 2018
+    downloadHeadline: Deutscher Social Entrepreneurship Monitor 2018 (DSEM)
+    downloadText: >-
+      Wie sieht Social Entrepreneurship in Deutschland aus? Und vor welchen
+      gemeinsamen Herausforderungen stehen Social Entrepreneurs? Diesen und
+      weiteren Fragen gehen wir in unserer erstmals erscheinenden Studie nach.
+      Mit der Befragung von Sozialunternehmer\*innen schaffen wir eine
+      Datengrundlage, die zeigt wo der Sektor gerade steht und welche
+      Unterstützung er benötigt. Der DSEM möchte einen Beitrag zu mehr
+      Transparenz leisten und Entscheidungsträger\*innen aus Politik,
+      Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
+      erkennen und fortlaufend zu unterstützen.
+    link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
+  - buttonText: Positionspapier
+    downloadHeadline: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
+    downloadText: >-
+      Die Finanzierung ist immer noch eine der größten Herausforderungen des
+      Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
+      verbesserte Förder- und Finanzierungslandschaft erarbeitet.
+    file: /uploads/finanzierung_positionspapier.pdf
+  - buttonText: Broschüre
+    downloadHeadline: Informationen und Kontakte zur Finanzierung von Social Entrepreneurs
+    downloadText: >-
+      Social Entrepreneurs sind eine sehr heterogene Zielgruppe. Oft bewegen sie
+      sich zwischen gemeinnützigen Organisationen und klassischen Unternehmen,
+      weshalb in vielen Fällen bestehende Finanzierungsinstrumente nicht
+      greifen. Um mehr Transparenz in die Finanzierungslandschaft zu bringen,
+      haben wir relevante Akteure in einer Broschüre gesammelt. Sie liefert
+      Sozialunternehmer*innen auf der Suche nach Finanzierung/Förderung erste
+      Informationen und Kontakte zu möglichen Finanzierungsprogrammen und
+      weiterer Beratung.
+    link: 'https://www.send-ev.de/uploads/finanzierungsbooklet.pdf'
   - buttonText: Pressemitteilung
     downloadHeadline: Soziale Innovationen durch "Nachrichtenlose Vermögenswerte" finanzieren
     downloadText: >-
@@ -36,36 +76,17 @@ downloadMaterial:
     file: /uploads/positionspapier_engagement.pdf
     link: ''
   - buttonText: Positionspapier
-    downloadHeadline: Finanzierungslandschaft in Deutschland für Social Entrepreneurs
+    downloadHeadline: >-
+      Breite Allianz: Verbände fordern bessere Rahmenbedingungen für soziale
+      Innovationen in Deutschland
     downloadText: >-
-      Die Finanzierung ist immer noch eine der größten Herausforderungen des
-      Sektors. Deshalb haben wir mit verschiedenen Akteuren Lösungen für eine
-      verbesserte Förder- und Finanzierungslandschaft erarbeitet.
-    file: /uploads/finanzierung_positionspapier.pdf
-  - buttonText: Broschüre
-    downloadHeadline: Informationen und Kontakte zur Finanzierung von Social Entrepreneurs
-    downloadText: >-
-      Social Entrepreneurs sind eine sehr heterogene Zielgruppe. Oft bewegen sie
-      sich zwischen gemeinnützigen Organisationen und klassischen Unternehmen,
-      weshalb in vielen Fällen bestehende Finanzierungsinstrumente nicht
-      greifen. Um mehr Transparenz in die Finanzierungslandschaft zu bringen,
-      haben wir relevante Akteure in einer Broschüre gesammelt. Sie liefert
-      Sozialunternehmer*innen auf der Suche nach Finanzierung/Förderung erste
-      Informationen und Kontakte zu möglichen Finanzierungsprogrammen und
-      weiterer Beratung.
-    link: 'https://www.send-ev.de/uploads/finanzierungsbooklet.pdf'
-  - buttonText: DSEM 2018
-    downloadHeadline: Deutscher Social Entrepreneurship Monitor 2018 (DSEM)
-    downloadText: >-
-      Wie sieht Social Entrepreneurship in Deutschland aus? Und vor welchen
-      gemeinsamen Herausforderungen stehen Social Entrepreneurs? Diesen und
-      weiteren Fragen gehen wir in unserer erstmals erscheinenden Studie nach.
-      Mit der Befragung von Sozialunternehmer\*innen schaffen wir eine
-      Datengrundlage, die zeigt wo der Sektor gerade steht und welche
-      Unterstützung er benötigt. Der DSEM möchte einen Beitrag zu mehr
-      Transparenz leisten und Entscheidungsträger\*innen aus Politik,
-      Wirtschaft oder Zivilgesellschaft ermutigen das Potenzial des Sektors zu
-      erkennen und fortlaufend zu unterstützen.
-    link: 'https://www.send-ev.de/uploads/dsem-2018_web.pdf'
+      Gemeinsam mit fünf großen Wohlfahrtsverbänden (AWO, Caritas, Diakonie, DRK
+      und ZWST), haben wir und der Bundesverband Deutsche Startups beschlossen,
+      zukünftig stärker zusammen an innovativen Lösungen für gesellschaftliche
+      Herausforderungen zu arbeiten. In einem gemeinsamen Positionspapier
+      beleuchten wir die Potentiale der neuen Allianz und fordern von der
+      Politik bessere Rahmenbedingungen für soziale Innovationen ein.
+    link: >-
+      https://www.diakonie.de/fileadmin/user_upload/Diakonie/PDFs/Stellungnahmen_PDF/2019-01-07_finaler_Stand_Positionspapier_Wohlfahrt_Startup_korrigiert7.pdf
 ---
 

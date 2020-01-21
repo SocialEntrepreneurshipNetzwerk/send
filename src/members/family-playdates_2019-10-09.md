@@ -9,7 +9,6 @@ description: >
   bringen können. Das Ziel ist, kulturelle Distanzen zu überwinden und so das
   Miteinander zu stärken.
 
-
   Im April 2018 wurde Family Playdates als Verein gegründet. Für ihre Arbeit
   wurde die Organisation im Rahmen des startsocial-Wettbewerbs als
   Bundesfinalist von Bundeskanzlerin Angela Merkel geehrt.

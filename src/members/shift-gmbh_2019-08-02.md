@@ -1,7 +1,7 @@
 ---
 title: SHIFT GmbH
 description: >-
-  "So viel Gutes zu tun wie wir können und auf dem Weg dahin sowenig Schaden wie
+  So viel Gutes zu tun wie wir können und auf dem Weg dahin sowenig Schaden wie
   möglich anzurichten" ist das Herz von SHIFT. Seit 2014 produzieren die beiden
   Bruder Carsten und Samuel Waldeck modulare Smartphones, die in einer
   SHIFT-eigenen Technologie-Manufaktur unter fairen Bedingungen gefertigt
