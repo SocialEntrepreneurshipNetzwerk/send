@@ -15,7 +15,7 @@ impactArea:
   - Umwelt– & Klimaschutz
 organization: true
 image: /uploads/nova.PNG
-email: michael.brigant@novamilia.org
+email: info@novamilia.org
 link: 'https://www.novamilia.org'
 city: Hannover
 postalCode: 30167
