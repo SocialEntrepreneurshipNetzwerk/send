@@ -1,9 +1,9 @@
 ---
 title: Good Profits GmbH
 description: >-
-  Good Profits investiert in Unternehmen, die die Welt verbessern - vom Social
-  Startup zum nachhaltigen Großunternehmen. Um dies zu realisieren, bieten wir
-  einfache und faire Geldanlagen an.
+  Good Profits ist eine Vertriebsagentur für gewinnorientierte
+  Sozialunternehmen. Wir unterstützen beim Vertrieb von sozialen
+  Dienstleistungen und Produkten. Denn wer nichts verkauft, bewirkt auch nichts.
 impactArea:
   - Dienstleistungen für Sozialunternehmen
   - Entrepreneurshipförderung
