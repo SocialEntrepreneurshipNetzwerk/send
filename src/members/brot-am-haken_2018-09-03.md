@@ -16,7 +16,7 @@ impactArea:
   - Armut
   - Demokratie & Engagement von Bürger*innen
 organization: true
-image: /uploads/hey.PNG
+image: /uploads/hey_neu.PNG
 email: michael@hey.one
 link: 'https://www.hey.one'
 city: München
