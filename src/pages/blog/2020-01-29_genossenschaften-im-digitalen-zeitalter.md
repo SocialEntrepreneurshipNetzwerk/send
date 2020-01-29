@@ -53,3 +53,7 @@ Darüber hinaus stehen öffentliche Finanzierungsinstrumente genossenschaftliche
 \- [Manemo eG](https://www.manemo.de) / [Chancen eG](https://chancen-eg.de) (Bildung)
 
 \- [TRNSFRM eG](https://www.trnsfrm.org) (sozial-ökologisches Bauen)
+
+
+
+Titelbild: Danke an John Snobrich @unsplash
