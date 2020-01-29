@@ -44,7 +44,7 @@ Darüber hinaus stehen öffentliche Finanzierungsinstrumente genossenschaftliche
 
 \- [WirGarten eG](https://lueneburg.wirgarten.com/) / [Permagold eG](https://perma.gold/) (Landwirtschaft)
 
-\- [WeChange eG](https://wechange.de) / [trustchain eG - Reflecta.Network](https://www.reflecta.network) (digitales Netzwerk)
+\- [WeChange eG](https://wechange.de) (digitales Netzwerk)
 
 \- [Fairmondo eG](https://www.fairmondo.de) (Platform Coop)
 
