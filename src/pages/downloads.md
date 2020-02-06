@@ -88,5 +88,12 @@ downloadMaterial:
       Politik bessere Rahmenbedingungen für soziale Innovationen ein.
     link: >-
       https://www.diakonie.de/fileadmin/user_upload/Diakonie/PDFs/Stellungnahmen_PDF/2019-01-07_finaler_Stand_Positionspapier_Wohlfahrt_Startup_korrigiert7.pdf
+  - buttonText: White Paper
+    downloadHeadline: Social Entrepreneurship regional stärken
+    downloadText: >-
+      Regionale Gründerökosysteme spielen eine ausschlaggebende Rolle, wenn es
+      um die Entwicklung von Social Startups geht. Dafür hat SEND eine Broschüre
+      mit konkreten Handlungsempfehlungen veröffentlicht.
+    link: 'https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view'
 ---
 
