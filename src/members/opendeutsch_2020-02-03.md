@@ -12,7 +12,7 @@ impactArea:
   - Bildung
   - Integration
 organization: true
-image: /uploads/OpenDeutsch.JPG
+image: /uploads/OpenDeutsch_final.JPG
 email: aktasolga1@gmail.com
 link: 'https://open-deutsch.de/'
 city: 'Berlin, Deutschland'
