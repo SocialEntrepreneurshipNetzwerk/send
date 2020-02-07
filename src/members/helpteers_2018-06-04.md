@@ -1,5 +1,5 @@
 ---
-title: helpteers
+title: helpteers UG (haftungsbeschränkt)
 description: >-
   Das Ziel von helpteers ist, mit Crowdmoving gemeinsam die Welt zu bewegen. Wir
   vermitteln Organisationen das Wissen und bieten den Service, um Menschen über
