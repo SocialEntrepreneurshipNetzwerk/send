@@ -1,6 +1,6 @@
 ---
 title: KfW Stiftung
-image: /uploads/KfWStiftung.jpg
+image: /uploads/KfWStiftung_Zitat.jpg
 description: >-
   "Wir sehen großes Potenzial im Social Entrepreneurship Sektor in Deutschland
   und unterstützen diesen aktiv seit vielen Jahren. Wir legen dabei besonderen
