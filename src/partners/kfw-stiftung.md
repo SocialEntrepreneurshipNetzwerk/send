@@ -8,7 +8,7 @@ description: >-
   unterstützen daher gerne als Förderpartnerin die Arbeit des SEND e.V., der
   sich als Fürsprecher und Brückenbauer mit viel Engagement für die richtigen
   Weichenstellungen einsetzt. Dies ist ein wichtiger Schritt, um die passenden
-  Rahmenbedingungen zu schaffen, in denen Sozialunternehmer*innen mit
+  Rahmenbedingungen zu schaffen, in denen Sozialunternehmerinnen mit
   ökonomischen Mitteln Lösungen für gesellschaftliche Herausforderungen
   entwickeln können."*
 
