@@ -10,6 +10,11 @@ downloadMaterial:
       den Sektor ermöglichen und insbesondere die Potentiale und
       Herausforderungen von Social Entrepreneurship aufdecken.
     link: 'http://bit.ly/DSEM2019'
+  - downloadHeadline: Pressepaket zum DSEM 2019
+    downloadText: >-
+      Hier findet Ihr alle Informationen zu SEND und den Deutschen Social
+      Entrepreneurship Monitor 2019
+    link: 'http://bit.ly/DSEMPress'
   - buttonText: Definition Social Entrepreneurship
     downloadHeadline: Definition Social Entrepreneurship
     downloadText: >-
