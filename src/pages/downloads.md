@@ -95,5 +95,13 @@ downloadMaterial:
       um die Entwicklung von Social Startups geht. Dafür hat SEND eine Broschüre
       mit konkreten Handlungsempfehlungen veröffentlicht.
     link: 'https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view'
+  - buttonText: Zur Studie
+    downloadHeadline: 2.Deutscher Social Entrepreneurship Monitor
+    downloadText: >-
+      Mit dem Deutschen Social Entrepreneurship Monitor möchten wir Euch, der
+      Politik, der Wirtschaft und der Zivilgesellschaft einen tieferen Blick in
+      den Sektor ermöglichen und insbesondere die Potentiale und
+      Herausforderungen von Social Entrepreneurship aufdecken.
+    link: 'http://bit.ly/DSEM2019'
 ---
 
