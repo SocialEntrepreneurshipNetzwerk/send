@@ -12,7 +12,7 @@ impactArea:
   - Entrepreneurshipförderung
 organization: true
 image: /uploads/infinity-deutschland_logo-ii.png
-email: jakob.wolski@infinity-deutschland.de
+email: duc.nguyen@infinity-deutschland.de
 link: 'https://infinity-mannheim.de/'
 city: Mannheim
 postalCode: '68159'
