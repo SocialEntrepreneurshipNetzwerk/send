@@ -4,12 +4,10 @@ description: >-
   #VOLTASTICS - Mehr Sichtbarkeit und Anerkennung für ehrenamtliches und
   freiwilliges Engagement in Deutschland.
 
-
   Über 30 Millionen freiwillig Engagierte leisten einen wertvollen Beitrag für
   unsere Gesellschaft. Wir begeistern Freiwillige Organisationen Unternehmen und
   Städte sich digital zu vernetzen um freiwilliges Engagement sichtbarer zu
   machen und gegenseitige Unterstützung besser zu organisieren.
-
 
   Wir vernetzen die Player des ehrenamtlichen und freiwilligen Engagements in
   Deutschland. Freiwillig Engagierte bei #VOLTASTICS erfassen Ihre Aktivitäten.
