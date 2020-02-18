@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/kzw-juli-maier.png
 email: info@glutenreduziert.de
-link: 'http://kornzeptwerk.de/'
+link: 'http://www.kornwerk.com/'
 city: Berlin
 postalCode: '14195'
 federalState: Berlin
