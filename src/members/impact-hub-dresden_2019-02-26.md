@@ -1,5 +1,5 @@
 ---
-title: Impact HUB Dresden
+title: Impact Hub Dresden
 description: >-
   Das internationale Gründerzentrum Impact Hub Dresden versteht sich als
   Ideenlabor zur Verknüpfung von Startups, Mittelstand und Forschung. Mit den
