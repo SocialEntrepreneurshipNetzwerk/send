@@ -13,8 +13,6 @@ image: /uploads/Blog_Header_DSEM2019_Infrastruktur.jpg
 date: 2020-02-19T08:58:06.212Z
 category: news
 ---
-# Fortschritt ist nicht nur Technik – warum wir mehr Gründungszentren für Soziale Innovation brauchen
-
 *Gründung und Startups vertragen sich gut mit Innovation. Leider wird letztere in Deutschland oft noch unter rein technologischem Blickwinkel betrachtet. Social Startups haben es mit ihren Ansätzen ungleich schwerer, als „innovativ“ wahrgenommen und unterstützt zu werden.*
 
 In Deutschland gibt es 70 Industrie- und Handelskammern und über 160 Gründungs- und Innovationszentren, die sich der Förderung von innovativen Gründungen und einem verbesserten Transfer von Erkenntnissen aus Wissenschaft und Forschung verschrieben haben. Diese Institutionen leisten auf dem Gebiet der Förderung von technisch-innovativen Unternehmen einen wertvollen Beitrag. Bei der Förderung von Social Startups, also Gründungen, die sich die Lösung einer gesellschaftlichen Herausforderung zum Ziel gesetzt haben, ist hingegen noch viel Luft nach oben. So berichten immer wieder Gründer*innen, dass sie bei der Anfrage nach Unterstützung und Beratung z.B. bei einer IHK oder anderen Gründungsberatung abgelehnt wurden, weil sie ja „was Soziales machen“ oder die Frage nach der richtigen Aufstellung des Wirkungsmodells auf Ratlosigkeit stieß. Denn noch immer gehen in vielen Köpfen und Strukturen soziale Tätigkeit und wirtschaftlicher Betrieb nicht zusammen.
