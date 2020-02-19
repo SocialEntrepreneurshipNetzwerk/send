@@ -33,6 +33,6 @@ Kein Wunder, dass auch im zweiten DSEM die Politik für ihre Unterstützung nur 
 
 Wir wollen gemeinsam mit der Politik und anderen Akteuren aus dem Sektor auf eine Soziale Innovationsstrategie für Deutschland hinarbeiten, die Gründer*innen mit gesellschaftlichem Anspruch die bestmögliche Unterstützung bieten kann. Dann klappt’s auch mit den Noten!
 
-![](/uploads/Gastbeitrag Birgt Heilig.jpg)
+![](/uploads/Blog_BildA_BirgitHeilig_lang.jpg)
 
 Autorin: Birgit Heilig ist Gründungsmitglied und seit 2017 im Vorstand von SEND. Seit 2018 ist sie Co-Standortleiterin des Social Impact Lab Frankfurt und arbeitet nebenbei als Lehrbeauftragte an verschiedenen Hochschulen.
