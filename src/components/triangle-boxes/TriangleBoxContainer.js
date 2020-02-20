@@ -3,6 +3,7 @@ import TriangleBoxSmall from './TriangleBoxSmall';
 import TriangleBoxLarge from './TriangleBoxLarge';
 import TriangleBoxArticle from './TriangleBoxArticle';
 import TriangleBoxSponsor from './TriangleBoxSponsor';
+import TriangleBoxEvent from './TriangleBoxEvent';
 import styles from './triangle-boxes.module.css';
 
 const TriangleBoxContainer = ( props ) => {
@@ -17,17 +18,23 @@ const TriangleBoxContainer = ( props ) => {
         return <TriangleBoxSponsor box={box} sponsor={props.sponsor} key={index} />;
       })
     ) : (
-      props.boxes.map(( box, index ) => {
-        if ( props.size === 'small' ) {
-          return <TriangleBoxSmall box={box} key={index}/>;
-        } else if ( props.size === 'large' ) {
-          return <TriangleBoxLarge box={box} key={index} />;
-        } else {
-          null;
-        }
-      })
-    )
-  );
+        props.event ? (
+          props.boxes.map(( box, index ) => {
+            return <TriangleBoxEvent box={box} key={index}/>;
+          })
+        ) : (
+          props.boxes.map(( box, index ) => {
+            if ( props.size === 'small' ) {
+              return <TriangleBoxSmall box={box} key={index}/>;
+            } else if ( props.size === 'large' ) {
+              return <TriangleBoxLarge box={box} key={index}/>;
+            } else {
+              null;
+            }
+          })
+        )
+      )
+    );
 
 
   return (
