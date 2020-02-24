@@ -44,10 +44,10 @@ Natürlich gibt es Rahmenbedingungen, die uns auf diesem Weg helfen. Und egal, o
 
 Hier ist jede*r Social Entrepreneur gefragt und alle, die mit ihnen arbeiten, sie fördern und begleiten. Politik und Verwaltung können förderliche Rahmenbedingungen ermöglichen, damit wir miteinander schnell Wege finden, die Erfolgsformeln positiven gesellschaftlichen Wandels so verständlich zu machen wie einen Geschäftsklimaindex.
 
-Ihr möchtet euch gleich dem Thema Wirksamkeit widmen? Hier drei Empfehlungen:
+Ihr möchtet Euch gleich dem Thema Wirksamkeit widmen? Hier drei Empfehlungen:
 
 1. Nutzt den [Social Reporting Standard](https://www.social-reporting-standard.de) für Berichterstattung nach außen und Steuerung nach innen für eure Organisation
-2. Lest euch ein zum Thema Wirkung im [Kursbuch von phineo](https://www.phineo.org/kursbuch-wirkung).
+2. Lest Euch ein zum Thema Wirkung im [Kursbuch von phineo](https://www.phineo.org/kursbuch-wirkung).
 3. Interesse an systemischer Wirkung? Dann sind die Arbeitsblätter und Anleitungen unter [www.changemaking.net ](https://www.changemaking.net)das Richtige.
 
 Viel Spaß!
