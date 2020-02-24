@@ -39,12 +39,18 @@ Diese Herausforderung gibt uns Social Entrepreneurs und denen, die sie begleiten
 Natürlich gibt es Rahmenbedingungen, die uns auf diesem Weg helfen. Und egal, ob man in Richtung Impact Investing Szene oder in Richtung Social Entrepreneurs schaut, kommen sie immer wieder auf den Plan.
 
 1. (Aus)Bildung: In Gründer*innenberatung und -begleitung brauchen wir qualifiziertes Personal, das bei der Erarbeitung von Wirkungsmodellen unterstützt. Bestehende Strukturen müssen weiterentwickelt werden, um einer Ausrichtung auf gesellschaftliche Wirkung gerecht zu werden.
-
 2. Förderung von Evaluation und Wirkungsforschung: Als Startup oder kleine Initiative die Ebene Wirkungsmessung gleich mit zu bearbeiten, ist eine operative Herausforderung. Helfen würden hier bessere Zugänge zu begleitender Evaluation und Forschung, z.B. durch einen Fond für Wirkungsforschung und Begleitung, der für Social Entrepreneurs leicht zugänglich ist.
-
 3. Förderung und Finanzierung anders angehen: Ist Wirkung unser Ziel, starten wir mit Annahmen über die Welt, die wir oft in vielen Schleifen von Ausprobieren und Lernen verfeinern. Entlang dieser Lernkurve passen sich - im Idealfall - auch Strategie und Aktivitäten an. Förderung und Finanzierung lassen für diese Kursanpassungen heute aber oft noch keinen Raum. Das müssen wir ändern, wollen wir Wirkung konsequent in den Vordergrund stellen. [Anregungen für Förderer und Finanzierer](https://www.ashoka.org/de-de/story/embracing-complexity-towards-shared-understanding-funding-systems-change) hat Ashoka gemeinsam u.a. mit der Skoll und der Schwab Foundation gerade herausgebracht.
 
 Hier ist jede*r Social Entrepreneur gefragt und alle, die mit ihnen arbeiten, sie fördern und begleiten. Politik und Verwaltung können förderliche Rahmenbedingungen ermöglichen, damit wir miteinander schnell Wege finden, die Erfolgsformeln positiven gesellschaftlichen Wandels so verständlich zu machen wie einen Geschäftsklimaindex.
+
+Ihr möchtet euch gleich dem Thema Wirksamkeit widmen? Hier drei Empfehlungen:
+
+1. Nutzt den [Social Reporting Standard](https://www.social-reporting-standard.de) für Berichterstattung nach außen und Steuerung nach innen für eure Organisation
+2. Lest euch ein zum Thema Wirkung im [Kursbuch von phineo](https://www.phineo.org/kursbuch-wirkung).
+3. Interesse an systemischer Wirkung? Dann sind die Arbeitsblätter und Anleitungen unter [www.changemaking.net ](https://www.changemaking.net)das Richtige.
+
+Viel Spaß!
 
 ![](/uploads/Blog_BildA_LauraHaverkamp.jpg)
 
