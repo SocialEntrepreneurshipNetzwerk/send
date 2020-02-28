@@ -1,8 +1,8 @@
 ---
-name: Linda Vogt
-image: /uploads/linda-vogt.jpg
+name: Fabienne Milke
+image: /uploads/fabienne_milke.jpg
 role: Team
-description: Werkstudentin
+description: Praktikantin
 mail: ''
 ---
 
