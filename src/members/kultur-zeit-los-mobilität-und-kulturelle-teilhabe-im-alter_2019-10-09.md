@@ -8,7 +8,7 @@ description: >
   kümmert sich um die Gäste. Ein günstiges Service-Paket: Transport, Ticket und
   Begleitung.
 impactArea:
-  - Sonstige
+  - Demographischer Wandel
 organization: true
 image: /uploads/kulturzeitlos.png
 email: metz@kulturzeitlos.org
