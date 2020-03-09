@@ -11,13 +11,11 @@ image: /uploads/header_neues_wisschenschaft.jpg
 date: 2020-03-05T12:38:21.509Z
 category: news
 ---
-##### *Für einen besseren Wissenstransfer aus Universitäten und Hochschulen in die Praxis bieten wir Wissenschaftler*innen die Möglichkeit Ihre Erkenntnisse über einen Gastbeitrag in unserem Blog vorzustellen. Die darin enthaltenen Standpunkte sind nicht zwingend die Meinung von SEND und sollen zur Inspiration und weiteren Entwicklung des Sektors beitragen.*
+##### Für einen besseren Wissenstransfer aus Universitäten und Hochschulen in die Praxis bieten wir Wissenschaftlerinnen die Möglichkeit Ihre Erkenntnisse über einen Gastbeitrag in unserem Blog vorzustellen. Die darin enthaltenen Standpunkte sind nicht zwingend die Meinung von SEND und sollen zur Inspiration und weiteren Entwicklung des Sektors beitragen.
 
 Dieser Beitrag wurde von Arian Ajiri geschrieben. Er hat in Bayreuth studiert, gründete danach im Rahmen von Enactus e.V. selbst ein Unternehmen und macht zur Zeit ein Praktikum bei Social-Bee. Wir haben ihm 3 Fragen zu seiner Bachelorarbeit gestellt, die er geschrieben hat zum Thema: "Die Institutionalisierung des Social Entrepreneurships in Deutschland: Eine Analyse anhand W. R. Scotts Drei-Säulen-Modell".
 
 Viel Spaß beim Lesen!
-
-
 
 ## Was hast Du untersucht?
 
@@ -40,8 +38,6 @@ In Deutschland befindet sich der Social Entrepreneurship-Sektor in einer frühen
 Im Allgemeinen handeln die drei Sektoren der Organisationsgesellschaft – also der Staat, die Erwerbswirtschaft und der Nonprofit-Sektor – nach ihren jeweils eigenen Prinzipen und Normen. Das Social Entrepreneurship als Querschnittsthema und Hybridform hat Schwierigkeiten, sich in diesem Normengeflecht zu positionieren. Förderungen und Kooperationen werden dadurch erschwert. Das große Problem ist letztlich, dass bei der Entwicklung sozialer Innovationen nicht hinreichend vernetzt gedacht und gehandelt wird, sodass Social Entrepreneurship zu kurz kommt.
 
 Dennoch hat Social Entrepreneurship als Lösungsinstrument für gesellschaftliche Herausforderungen großes Potential. Dies wird zunehmend von der Politik und weiteren Akteuren der Organisationsgesellschaft erkannt. Zugleich wird in der Gesellschaft, insbesondere bei der jüngeren Generation, ein Handlungsbedarf angesichts aktueller und zukünftiger Probleme gesehen. Aufgrund der geringen Bekanntheit des Konzeptes wird dieses Potential jedoch noch nicht hinreichend ausgeschöpft. Hier leisten die Intermediäre einen wichtigen Beitrag, um Social Entrepreneurship ins Blickfeld der Öffentlichkeit zu rücken.
-
-
 
 ## Wo siehst du Handlungsbedarf bei der Politik?
 
