@@ -13,7 +13,7 @@ category: news
 ---
 ##### Für einen besseren Wissenstransfer aus Universitäten und Hochschulen in die Praxis bieten wir Wissenschaftlerinnen die Möglichkeit Ihre Erkenntnisse über einen Gastbeitrag in unserem Blog vorzustellen. Die darin enthaltenen Standpunkte sind nicht zwingend die Meinung von SEND und sollen zur Inspiration und weiteren Entwicklung des Sektors beitragen.
 
-Dieser Beitrag wurde von Arian Ajiri geschrieben. Er hat in Bayreuth studiert, gründete danach im Rahmen von Enactus e.V. selbst ein Unternehmen und macht zur Zeit ein Praktikum bei Social-Bee. Wir haben ihm 3 Fragen zu seiner Bachelorarbeit gestellt, die er geschrieben hat zum Thema: "Die Institutionalisierung des Social Entrepreneurships in Deutschland: Eine Analyse anhand W. R. Scotts Drei-Säulen-Modell".
+Dieser Beitrag wurde von Arian Ajiri geschrieben. Er hat in Bayreuth studiert, war währenddessen im Rahmen von Enactus Bayreuth e. V. selbst an der Konzipierung eines Sozialunternehmen beteiligt und macht zur Zeit ein Praktikum bei unserem Mitglied Social-Bee. Wir haben ihm 3 Fragen zu seiner Bachelorarbeit gestellt, die er geschrieben hat zum Thema: "Die Institutionalisierung des Social Entrepreneurships in Deutschland: Eine Analyse anhand W. R. Scotts Drei-Säulen-Modell".
 
 Viel Spaß beim Lesen!
 
