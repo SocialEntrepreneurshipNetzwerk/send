@@ -8,7 +8,7 @@ excerpt: >-
   solidarischen Miteinander und einer verlangsamten Ausbreitung des Virus
   beitragen? Wir zeigen Euch zahlreiche Lösungen aus der Social Entrepreneurship
   Community.
-image: /uploads/blog_header_corona1.jpg
+image: /uploads/blog_header_gemeinsamwirken1.jpg
 date: 2020-03-16T21:09:33.758Z
 category: news
 ---
