@@ -24,6 +24,8 @@ Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von Covid-19.
 8. Danke sagen
 9. \#StayHome - Freizeitbeschäftigungen
 
+
+
 ##### Um schnell passende Lösungen zu finden müssen wir ausprobieren, machen und gemeinsam Ideen weiterspinnen. Auch diesen Blogbeitrag werden wir weiter aktualisieren. Ihr arbeitet selbst an einem Projekt, das wir hier aufnehmen sollen oder kennt weitere Lösungsansätze? Dann füllt doch bitte unsere KURZE [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxURVdIUUk0SlFMVVg4NEhSNzBYRk9LRFVPSy4u) aus!
 
 ## 1. Nachbarschaftshilfe
