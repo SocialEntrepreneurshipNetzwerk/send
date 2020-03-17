@@ -58,6 +58,7 @@ Bildung ohne Klassenzimmer, Tafel und Overheadprojektor - digitale Online Lernpl
 
 * [Goldene Home-Office Regeln](https://www.tbd.community/de/a/regeln-fuer-arbeiten-im-homeoffice-corona) - Die tbd* Community teilt ihre Erfahrungen sowie Tipps und Tricks mit Euch.
 * [WeChange.de](https://wechange.de/) - Nutzt die Open-Source-Plattform WeChange als Tool für Eure Online Zusammenarbeit von Teams. Am Beispiel von FridaysForFuture wird [hier](https://wechange.de/cms/2019/12/16/stell-dir-vor-du-bist-greta/) toll erklärt, wie die Plattform funktioniert.
+* E-Collaboration-Tools, wie Slack, Asana, Zoom, etc. bekommen Non-Profits auf [Stifter-helfen](https://www.stifter-helfen.de) zur Verfügung gestellt
 
 ## 4. Online Meeting & Event Tools
 
@@ -137,4 +138,4 @@ Falls Ihr noch Inspirationen braucht, wie Ihr neu gewonnene Zeit zum Lernen, Ref
 
 [Open Transfer Webinar-Reihe](https://opentransfer.de/webinar-reihe-future-skills-neue-tools-methoden-und-formate/) - Future Skills – Neue Tools, Methoden und Formate
 
-So viel Inspiration - doch Eure Lösung fehlt? Füllt kurz unsere [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxURVdIUUk0SlFMVVg4NEhSNzBYRk9LRFVPSy4u) aus, so dass auch andere hier im Blog davon erfahren!
+##### So viel Inspiration - doch Eure Lösung fehlt? Füllt kurz unsere [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxURVdIUUk0SlFMVVg4NEhSNzBYRk9LRFVPSy4u) aus, so dass auch andere hier im Blog davon erfahren!
