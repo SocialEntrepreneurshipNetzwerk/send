@@ -7,7 +7,7 @@ excerpt: >-
   Organisationen vor - teilweise existentielle - Herausforderungen. Hier
   berichten wir darüber, sammeln Unterstützungsangebote und zeigen wie Social
   Entrepreneurs in der Krise gestärkt werden können.
-image: /uploads/blog_header_gemeinsamwirken1.jpg
+image: /uploads/blog_header_gemeinsamwirken2.jpg
 date: 2020-03-17T10:42:38.122Z
 category: news
 ---
