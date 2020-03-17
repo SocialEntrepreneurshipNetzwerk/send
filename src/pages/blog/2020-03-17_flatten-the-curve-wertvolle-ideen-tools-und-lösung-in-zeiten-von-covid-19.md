@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: 'Flatten the Curve - Wertvolle Ideen, Tools und Lösung in Zeiten von Covid-19'
+title: 'Flatten the Curve - Wertvolle Ideen, Tools und Lösungen in Zeiten von Covid-19'
 excerpt: >-
   Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von
   Covid-19. Wie können wir in dieser herausfordernden Situation zu einem
@@ -20,7 +20,7 @@ Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von Covid-19.
 4. Online Meeting & Event Tools
 5. Digitale Lösungen
 6. Unterstützung von Unternehmen
-7. Menthal Health & Einsamkeit
+7. Mental Health & Einsamkeit
 8. Danke sagen
 9. \#StayHome - Freizeitbeschäftigungen
 
