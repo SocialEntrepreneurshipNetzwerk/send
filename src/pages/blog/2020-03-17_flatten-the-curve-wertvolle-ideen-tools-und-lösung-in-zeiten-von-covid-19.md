@@ -15,22 +15,14 @@ category: news
 Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von Covid-19. Wie können wir in dieser herausfordernden Situation zu einem solidarischen Miteinander und einer verlangsamten Ausbreitung des Virus beitragen? Wir haben die Social Entrepreneurship Community in Deutschland nach Lösungen gefragt – und sind begeistert von den zahlreichen, kreativen und unglaublich wertvollen Ideen, die innerhalb kürzester Zeit entwickelt wurden und werden zu folgenden Themen:
 
 1. Nachbarschaftshilfe
-
 2. Online-Education
-
 3. Home Office
-
 4. Online Meeting & Event Tools
-
 5. Digitale Lösungen
-
 6. Unterstützung von Unternehmen
-
 7. Menthal Health & Einsamkeit
-
 8. Danke sagen
-
-9. #StayHome - Freizeitbeschäftigungen
+9. \#StayHome - Freizeitbeschäftigungen
 
 ##### Um schnell passende Lösungen zu finden müssen wir ausprobieren, machen und gemeinsam Ideen weiterspinnen. Auch diesen Blogbeitrag werden wir weiter aktualisieren. Ihr arbeitet selbst an einem Projekt, das wir hier aufnehmen sollen oder kennt weitere Lösungsansätze? Dann füllt doch bitte unsere KURZE [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxURVdIUUk0SlFMVVg4NEhSNzBYRk9LRFVPSy4u) aus!
 
@@ -104,7 +96,7 @@ Betterplace Lab - Haltet die Augen auf für [Tipps vom Betterplace Lab](https://
 
 ## 6. Unterstützung für Unternehmen
 
-Kleine Organisationen und Läden, Selbstständige sowie Sozialunternehmen sind durch unerwartete Einnahmeausfälle oft besonders betroffen. In einem weiteren Blogbeitrag stellen wir Euch verschiedene Unterstützungsprogramme vor und laden Euch ein, uns Eure Herausforderungen mitzuteilen (Umfrage im Blogartikel)
+Kleine Organisationen und Läden, Selbstständige sowie Sozialunternehmen sind durch unerwartete Einnahmeausfälle oft besonders betroffen. In einem [weiteren Blogbeitrag](https://www.send-ev.de/2020-03-17_unterst%C3%BCtzungsangebote-f%C3%BCr-social-entrepreneurs-in-zeiten-von-covid-19/) stellen wir Euch verschiedene Unterstützungsprogramme vor und laden Euch ein, uns Eure Herausforderungen mitzuteilen (Umfrage im Blogartikel)
 
 Aber auch im Alltag könnt Ihr einen Beitrag leisten, z.B. durch Crowdfunding oder dem Teilen von Erfahrungen.
 
@@ -165,7 +157,5 @@ Falls Ihr noch Inspirationen braucht, wie Ihr neu gewonnene Zeit zum Lernen, Ref
 [Pioneers of Change Summit](https://pioneersofchange.org/) - Mit zahlreichen online Vorträgen & Workshops vom 18. - 30. März
 
 [Open Transfer Webinar-Reihe](https://opentransfer.de/webinar-reihe-future-skills-neue-tools-methoden-und-formate/) - Future Skills – Neue Tools, Methoden und Formate
-
-
 
 So viel Inspiration - doch Eure Lösung fehlt? Füllt kurz unsere [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxURVdIUUk0SlFMVVg4NEhSNzBYRk9LRFVPSy4u) aus, so dass auch andere hier im Blog davon erfahren!
