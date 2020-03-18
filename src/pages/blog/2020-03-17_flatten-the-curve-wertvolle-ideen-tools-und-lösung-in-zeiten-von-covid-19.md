@@ -41,6 +41,11 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Reflecta Network](http://www.reflecta.network/) - Die Online-Plattform testet gerade neue Funktionen, um Menschen bedarfsgerecht matchen zu können und die Herausforderungen schneller zu lösen. Wer mitmachen möchte, kann sich an[ hello@reflecta.network](mailto:hello@reflecta.network)wenden.
 * [Eigenleben](https://eigenleben.jetzt/nachbarn-helfen/?fbclid=IwAR2YShUn_67699slZHmCJ6HfpXPMBSfwNloYqWg810erizjML4f7N5PdcsI) – Hier findet Ihr Vorlagen, um auch Menschen aus der analogen Welt zu erreichen.
 * [Coinsence](https://coinsence.org/) - Communities können eigene Währungen einführen, Engagement sichtbar machen und Ressourcen mobilisieren.
+* [Coronaport](https://www.coronaport.net) - Bieten bundesweit erweiterte Nachbarschaftshilfe mit der Möglichkeit Hilfe zu suchen und anzubieten
+* [Wir helfen](https://wirhelfen.eu) - Die Plattform[](https://wirhelfen.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") sammelt Hilfsangebote auf einer [interaktiven Karte](https://wirhelfen.eu/suche "Die externe Seite im neuen Tab/Fenster öffnen") und bietet Unterstützung beim „Einkaufen gehen“, „Kinderbetreuung“ oder „Dinge teilen“.
+* [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
+
+
 
 ## 2. Online-Education
 
@@ -59,6 +64,7 @@ Bildung ohne Klassenzimmer, Tafel und Overheadprojektor - digitale Online Lernpl
 * [Goldene Home-Office Regeln](https://www.tbd.community/de/a/regeln-fuer-arbeiten-im-homeoffice-corona) - Die tbd* Community teilt ihre Erfahrungen sowie Tipps und Tricks mit Euch.
 * [WeChange.de](https://wechange.de/) - Nutzt die Open-Source-Plattform WeChange als Tool für Eure Online Zusammenarbeit von Teams. Am Beispiel von FridaysForFuture wird [hier](https://wechange.de/cms/2019/12/16/stell-dir-vor-du-bist-greta/) toll erklärt, wie die Plattform funktioniert.
 * E-Collaboration-Tools, wie Slack, Asana, Zoom, etc. bekommen Non-Profits auf [Stifter-helfen](https://www.stifter-helfen.de) zur Verfügung gestellt
+* [Sozial-PR](https://www.sozial-pr.net/digitale-unterstuetzung/) - Bieten Euch digitale Unterstützung bei der Kommunikation, Beratung bei der Wahl digitaler Werkzeuge, Digitales Training und Support und Beratung zu remote Arbeit und Home-Office
 
 ## 4. Online Meeting & Event Tools
 
