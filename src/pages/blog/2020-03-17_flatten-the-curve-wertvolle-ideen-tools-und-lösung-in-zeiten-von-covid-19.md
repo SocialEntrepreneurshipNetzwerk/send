@@ -46,6 +46,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
 * [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt.
 * [Emmas.app](https://www.emmas.app) - Regionaler Online-Marktplatz für Lebensmittel. Händler können aktuell kostenfrei ihr Sortiment digitalisieren lassen. Der Einkauf für die Kund*innen ist kontaktlos und kann auch von den Nachbarn abgeholt werden.
+* [HelloBetter](https://www.hellobetter.de) - Wie mit Panik und Ängsten rund um die Corona-Krise umgehen? HelloBetter bietet psychologische Erstbetreuung in Form von Blogartikeln, Videos, Hotline und Online-Sprechstunde auf Facebook.
 
 
 
@@ -59,6 +60,7 @@ Bildung ohne Klassenzimmer, Tafel und Overheadprojektor - digitale Online Lernpl
 * [Sofa-Tutor](https://www.sofatutor.com/) - Die Lernplattform bietet Schulen bis Ende März kostenlos ihre Nutzung an, um Lernen weiterhin zu ermöglichen.
 * [Bettermarks](https://de.bettermarks.com/corona-update?fbclid=IwAR12DNeNsSTbyO6htwdlQd3qpcdjw3-QdwfIS5Cl_8p4Aw4RoICquAY4H44) – Auch die auf Mathematik spezialisierte Plattform bietet ihren Dienst bis Ende des Schuljahrs kostenfrei an, um Schulen zu unterstützen.
 * [EasyPeasy](https://www.easypeasyapp.com) - App mit spielerischen Aktivitäten die Kindern helfen, Fähigkeiten für Schule und Leben zu entwickeln.
+* [Digitale Helden](https://digitale-helden.de) - Bieten angepasste Konzepte zur Medienbildung für "die Schule zu Hause" und Webinare zu "Corona und FakeNews" für Lehrer, Eltern und Schülere an.
 
 ## 3. Home-Office
 
