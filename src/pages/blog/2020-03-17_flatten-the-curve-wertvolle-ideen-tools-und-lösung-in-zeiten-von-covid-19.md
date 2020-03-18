@@ -45,6 +45,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Wir helfen](https://wirhelfen.eu) - Die Plattform[](https://wirhelfen.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") sammelt Hilfsangebote auf einer [interaktiven Karte](https://wirhelfen.eu/suche "Die externe Seite im neuen Tab/Fenster öffnen") und bietet Unterstützung beim „Einkaufen gehen“, „Kinderbetreuung“ oder „Dinge teilen“.
 * [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
 * [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt.
+* [Emmas.app](https://www.emmas.app) - Regionaler Online-Marktplatz für Lebensmittel. Händler können aktuell kostenfrei ihr Sortiment digitalisieren lassen. Der Einkauf für die Kund*innen ist kontaktlos und kann auch von den Nachbarn abgeholt werden.
 
 
 
