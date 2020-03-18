@@ -57,6 +57,7 @@ Bildung ohne Klassenzimmer, Tafel und Overheadprojektor - digitale Online Lernpl
 * [Simple Club](https://support.simpleclub.com/de/articles/3793519-schulschliessung-wegen-corona-virus) - Die Lernplattform stellt ein kostenloses Hilfspaket zur Verfügung, um Lernmaterial trotz Schulschließungen zugänglich zu machen.
 * [Sofa-Tutor](https://www.sofatutor.com/) - Die Lernplattform bietet Schulen bis Ende März kostenlos ihre Nutzung an, um Lernen weiterhin zu ermöglichen.
 * [Bettermarks](https://de.bettermarks.com/corona-update?fbclid=IwAR12DNeNsSTbyO6htwdlQd3qpcdjw3-QdwfIS5Cl_8p4Aw4RoICquAY4H44) – Auch die auf Mathematik spezialisierte Plattform bietet ihren Dienst bis Ende des Schuljahrs kostenfrei an, um Schulen zu unterstützen.
+* [EasyPeasy](https://www.easypeasyapp.com) - App mit spielerischen Aktivitäten die Kindern helfen, Fähigkeiten für Schule und Leben zu entwickeln.
 
 ## 3. Home-Office
 
@@ -112,6 +113,8 @@ Falls Ihr noch Inspirationen braucht, wie Ihr neu gewonnene Zeit zum Lernen, Ref
 [Digitaler Konzertsaal der Berliner Philharmoniker*innen](https://www.digitalconcerthall.com/en/home?a=bph_webseite&c=true)
 
 [Arte Concert](https://www.arte.tv/de/arte-concert/)
+
+[UnitedWeStream](https://www.unitedwestream.berlin) - Streamingplattform zum Weiterbestehen / Erhalt der Berliner Clubkultur 
 
 **Podcasts:**
 
