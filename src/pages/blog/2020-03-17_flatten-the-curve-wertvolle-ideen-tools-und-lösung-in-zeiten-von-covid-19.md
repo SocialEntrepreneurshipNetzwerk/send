@@ -96,6 +96,7 @@ Aber auch im Alltag könnt Ihr einen Beitrag leisten, z.B. durch Crowdfunding od
 * [Soforthilfe durch Crowdfunding](https://www.startnext.com/pages/hilfsfonds/campaign/corona-covid-19-shutdown-spenden-amp-crowdfunding-323?utm_content=buffer7d150&utm_medium=startnextposts&utm_source=startnextsocial&utm_campaign=startnextbuffer&fbclid=IwAR0cWuI2CA8D7lIumLWG4_dNg0NNwCy57HAzYQ54BKpRWNnWz2eHlBM_d9Y) - Startnext bietet über einen Hilfsfonds Soforthilfe für Corona-Ausfälle bei Gründer*innen und Kreativen. Um schnell handeln zu können, wurden einige Arbeitsschritte abgebaut und die Transaktionsgebühr fällt weg - damit 100% der Fundingsumme ankommt.
 * [](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en)An alle: Durch den Erwerb von Gutscheinen könnt Ihr Euren Lieblingsladen an der Ecke und Euer Stammcafé unterstützen. Und Euch dann später beim Einlösen freuen! Außerdem helft Ihr mit Verzicht von Rückerstattungen bei abgesagten Veranstaltungen. Stattdessen gilt das Motto: „Meine Karte für meine Bühne“
 * [Betterplace.org](https://www.betterplace.org/de/discover-projects?categoryId=55) - Hier habt Ihr direkt die Möglichkeit durch Spenden direkt Nothilfe zu leisten.
+* [GoodJobs](https://goodjobs.eu/de/articles/arbeiten-in-der-corona-krise-das-koennen-wir-jetzt-tun) - Unterstützen Krankenhäuser, Notdienste, Pflegedienste & Supermärkte dabei Personal zu finden. Stellenausschreibungen sind bis 17.04. kostenlos sofern sie die GoodJobs Kriterien erfüllen⠀
 
 ## 7. Mental Health & Einsamkeit
 
