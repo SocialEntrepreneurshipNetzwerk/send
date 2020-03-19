@@ -47,6 +47,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt.
 * [Emmas.app](https://www.emmas.app) - Regionaler Online-Marktplatz für Lebensmittel. Händler können aktuell kostenfrei ihr Sortiment digitalisieren lassen. Der Einkauf für die Kund*innen ist kontaktlos und kann auch von den Nachbarn abgeholt werden.
 * [HelloBetter](https://www.hellobetter.de/corona-krise/) - Wie mit Panik und Ängsten rund um die Corona-Krise umgehen? HelloBetter bietet psychologische Erstbetreuung in Form von Blogartikeln, Videos, Hotline und Online-Sprechstunde auf Facebook.
+* [Nachbarschaftshilfe NRW](https://www.nachbarschaftshilfe.nrw) - Freie Bürgerplattform zur gemeinsamen Bewältigung von COVID-19
 
 
 
