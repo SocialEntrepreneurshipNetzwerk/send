@@ -46,7 +46,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
 * [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt.
 * [Emmas.app](https://www.emmas.app) - Regionaler Online-Marktplatz für Lebensmittel. Händler können aktuell kostenfrei ihr Sortiment digitalisieren lassen. Der Einkauf für die Kund*innen ist kontaktlos und kann auch von den Nachbarn abgeholt werden.
-* [HelloBetter](https://www.hellobetter.de) - Wie mit Panik und Ängsten rund um die Corona-Krise umgehen? HelloBetter bietet psychologische Erstbetreuung in Form von Blogartikeln, Videos, Hotline und Online-Sprechstunde auf Facebook.
+* [HelloBetter](https://www.hellobetter.de/corona-krise/) - Wie mit Panik und Ängsten rund um die Corona-Krise umgehen? HelloBetter bietet psychologische Erstbetreuung in Form von Blogartikeln, Videos, Hotline und Online-Sprechstunde auf Facebook.
 
 
 
