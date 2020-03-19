@@ -2,6 +2,17 @@
 templateKey: downloads
 title: Downloads
 downloadMaterial:
+  - downloadHeadline: "#WirVSVirus und bestehende Lösungen im Umgang mit der Corona-Krise\P"
+    downloadText: >-
+      Durch die Auswirkungen des Corona-Virus ändern sich unsere Lebens- und
+      Arbeitsumstände rasant und stellt Unternehmen und Gesellschaft vor große
+      Herausforderungen. Für Sozialunternehmer*innen ist das Lösen von
+      gesellschaftlichen Herausforderungen DIE Motivation zu gründen. Die
+      aktuelle Situation zeigt, wie wichtig diese Initiativen sind, wie schnell
+      und innovativ sie ihre Angebote anpassen oder ganz neue Formate entwickeln
+      können.
+    link: 'https://www.send-ev.de/uploads/pm_wirvsvirus_upload.pdf'
+    buttonText: Pressemitteilung
   - buttonText: Zur Studie
     downloadHeadline: 2. Deutscher Social Entrepreneurship Monitor
     downloadText: >-
@@ -109,16 +120,5 @@ downloadMaterial:
       um die Entwicklung von Social Startups geht. Dafür hat SEND eine Broschüre
       mit konkreten Handlungsempfehlungen veröffentlicht.
     link: 'https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view'
-  - downloadHeadline: "#WirVSVirus und bestehende Lösungen im Umgang mit der Corona-Krise\P"
-    downloadText: >-
-      Durch die Auswirkungen des Corona-Virus ändern sich unsere Lebens- und
-      Arbeitsumstände rasant und stellt Unternehmen und Gesellschaft vor große
-      Herausforderungen. Für Sozialunternehmer*innen ist das Lösen von
-      gesellschaftlichen Herausforderungen DIE Motivation zu gründen. Die
-      aktuelle Situation zeigt, wie wichtig diese Initiativen sind, wie schnell
-      und innovativ sie ihre Angebote anpassen oder ganz neue Formate entwickeln
-      können.
-    link: 'https://www.send-ev.de/uploads/pm_wirvsvirus_upload.pdf'
-    buttonText: Pressemitteilung
 ---
 
