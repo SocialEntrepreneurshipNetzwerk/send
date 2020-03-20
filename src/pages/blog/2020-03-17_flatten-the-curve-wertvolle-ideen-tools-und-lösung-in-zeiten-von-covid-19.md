@@ -34,7 +34,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Quarantäne Helden](https://www.quarantaenehelden.org/?fbclid=IwAR0MJz34Aj6UoilGWepI78ldmPOdC_Vfww58538-N0EpOCIEmKK11krX_NM#/) – Auch diese Online-Plattform vernetzt, sodass Menschen in Quarantäne um Unterstützung bitten und andere Menschen ihre Hilfe anbieten können.
 * [Wir gegen Corona](https://www.wirgegencorona.com/?fbclid=IwAR3UTCWgO2kl9foBqzecw_DOeJS1zeeGsdGz-waco4zlq0WnfrggV0C4b6A) – Der Name ist Programm. Eine weitere Plattform, auf der Ihr Euch vernetzen und Menschen helfen könnt.
 * [Solidarische Nachbarschaftshilfe](https://listling.org/lists/pwfjfkpjmesjjinm/solidarische-nachbarschaftshilfe#items-xdcxyzqmkttyitfg) – Eine Übersicht von verschiedenen Telegramm-Gruppen zum Vernetzen und gegenseitigen Helfen in Eurer Stadt, in Eurem Kiez.
-* [Online-Seminar von Dein Nachbar](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FVereinDeinNachbar%2Fposts%2F1090522671281659) - In diesem Online-Seminar erfahrt Ihr am 17.03. um 16 Uhr alles über die richtige Versorgung von hilfebedürftigen Senioren in Zeiten von Corona.
+* [Dein Nachbar](https://www.deinnachbar.de) - Das Unterstützungsnetzwerk für hilfebedürftige Senioren und deren pflegende Angehörigen hat ein Aufklärungsvideo und weitere Infos zum Thema "Versorgung von hilfsbedürftigen Senioren" erstellt.
 * [Youvo.org](https://www.youvo.org/) - Die Online-Plattform für Kreative vermittelt verschiedene Möglichkeiten der digitalen Unterstützung für soziale Organisationen.
 * [Vostel.de](https://vostel.de/de/) - Auch über vostel.de könnt Ihr die passende Organisation für Euer online-Volunteering zu Zeiten von Covid-19 finden.
 * [Oll Inklusiv](https://www.oll-inklusiv.de/) – Die Hamburger Initiative unterstützt Senioren und Senioritas in Hamburg beim Einkaufen oder ein Telefonat gegen die Einsamkeit.
@@ -48,8 +48,6 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Emmas.app](https://www.emmas.app) - Regionaler Online-Marktplatz für Lebensmittel. Händler können aktuell kostenfrei ihr Sortiment digitalisieren lassen. Der Einkauf für die Kund*innen ist kontaktlos und kann auch von den Nachbarn abgeholt werden.
 * [HelloBetter](https://www.hellobetter.de/corona-krise/) - Wie mit Panik und Ängsten rund um die Corona-Krise umgehen? HelloBetter bietet psychologische Erstbetreuung in Form von Blogartikeln, Videos, Hotline und Online-Sprechstunde auf Facebook.
 * [Nachbarschaftshilfe NRW](https://www.nachbarschaftshilfe.nrw) - Freie Bürgerplattform zur gemeinsamen Bewältigung von COVID-19
-
-
 
 ## 2. Online-Education
 
