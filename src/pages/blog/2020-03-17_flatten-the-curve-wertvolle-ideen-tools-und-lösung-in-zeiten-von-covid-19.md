@@ -23,8 +23,6 @@ Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von Covid-19.
 7. Einkaufen
 8. \#StayHome
 
-
-
 ## 1. Nachbarschaftshilfe / Engagement
 
 Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser Artikel](https://medium.com/@benmaier/humanity-in-times-of-covid-19-how-to-help-each-other-properly-848475dee7a5) verdeutlicht, worauf es beim Helfen ankommt: Unterstützt in Eurem lokalen Umfeld, konzentriert Euch am besten auf wenige Personen und helft ihnen konsistent. Viele Akteure im Bereich der Engagement-Vermittlung haben schnell reagiert und bieten Unterstützung für Helfende und Hilfe-Suchende:
@@ -89,11 +87,9 @@ Durch die Corona-Krise kommen viele Unternehmen, Organisationen oder Initiativen
 
 Kleine Organisationen und Läden, Selbstständige sowie Sozialunternehmen sind durch unerwartete Einnahmeausfälle oft besonders betroffen. **In einem [weiteren Blogbeitrag](https://www.send-ev.de/2020-03-17_unterst%C3%BCtzungsangebote-f%C3%BCr-social-entrepreneurs-in-zeiten-von-covid-19/) stellen wir Euch verschiedene Unterstützungsprogramme für SocEnts ausführlicher vor**
 
-* [GoodJobs](https://goodjobs.eu/de/articles/arbeiten-in-der-corona-krise-das-koennen-wir-jetzt-tun) - GoodJobs unterstützen Krankenhäuser, Notdienste, Pflegedienste & Supermärkte dabei Personal zu finden. Stellenausschreibungen sind bis 17.04. kostenlos sofern sie die GoodJobs Kriterien erfüllen. 
-* [ConquerCorona](bit.ly/corona-reader) - Reader für Kreative, Gründer*innen, kleine Unternehmen und Selbständige, die von der Corona-Pandemie betroffen sind (RheinMain und Hessen).
+* [GoodJobs](https://goodjobs.eu/de/articles/arbeiten-in-der-corona-krise-das-koennen-wir-jetzt-tun) - GoodJobs unterstützen Krankenhäuser, Notdienste, Pflegedienste & Supermärkte dabei Personal zu finden. Stellenausschreibungen sind bis 17.04. kostenlos sofern sie die GoodJobs Kriterien erfüllen.
 * [Soforthilfe durch Crowdfunding](https://www.startnext.com/pages/hilfsfonds/campaign/corona-covid-19-shutdown-spenden-amp-crowdfunding-323?utm_content=buffer7d150&utm_medium=startnextposts&utm_source=startnextsocial&utm_campaign=startnextbuffer&fbclid=IwAR0cWuI2CA8D7lIumLWG4_dNg0NNwCy57HAzYQ54BKpRWNnWz2eHlBM_d9Y) - Startnext bietet über einen Hilfsfonds Soforthilfe für Corona-Ausfälle bei Gründer*innen und Kreativen. Um schnell handeln zu können, wurden einige Arbeitsschritte abgebaut und die Transaktionsgebühr fällt weg - damit 100% der Fundingsumme ankommt.
-* [Kritische Arbeit](https://kritische-arbeit.de) - Die Platform ermittelt akuten Arbeitskräfte-Bedarf von Unternehmen, Institutionen und Selbständigen und verknüpft sie mit Freiwilligen, die in der Lage sind auszuhelfen.
-* [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/) - In diesem Online-Handbuch findet Ihr eine Sammlung an Ressourcen für Technologielösungen verschiedener Herausforderungen zu Zeiten von Corona.
+* [Kritische Arbeit](https://kritische-arbeit.de) - Die Platform ermittelt akuten Arbeitskräfte-Bedarf von Unternehmen, Institutionen und Selbständigen und verknüpft sie mit Freiwilligen, die in der Lage sind auszuhelfen
 
 ## 6. Mental Health / Einsamkeit
 
@@ -120,6 +116,5 @@ Falls Ihr noch Inspirationen braucht, wie Ihr neu gewonnene Zeit zum Lernen, Ref
 
 * [Einhorn](https://einhorn.my/19-dinge-gegen-langeweile-die-man-jetzt-zu-hause-machen-kann/) - Tipps gegen Langeweile
 * [Rock Your Life](https://rockyourlife.de/podcast/) – Dein Podcast zur Potentialentfaltung
-* [Starting a Revolution](https://starting-a-revolution.com/) - Das Buch von Naomi Ryland und Lisa Jaspers
-* [Trink-Genosse](https://trink-genosse.de/virtuelle-bar/) - Eine virtuelle Bar aus mehreren Videochaträumen. Was dort passiert, hängt von den Menschen ab, die sich im Raum befinden. Ab und an gibt es Veranstaltungen. Prost!
+* [Starting a Revolution](https://starting-a-revolution.com/) - Das Buch von Naomi Ryland und Lisa Jasper
 * [Acumen Academy](https://acumenacademy.org/learn/) - Viele Kurse rund um Social Change & Systems Practice
