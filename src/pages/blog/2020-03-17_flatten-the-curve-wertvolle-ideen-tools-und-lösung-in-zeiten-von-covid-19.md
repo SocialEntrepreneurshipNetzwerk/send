@@ -64,6 +64,7 @@ Bildung ohne Klassenzimmer, Workshops in Zeiten von Veranstaltungsverboten - dig
 
 * [Don't cancel - go digital!](https://dontcancelgodigital.heysummit.com/#) - Ein kostenloser und digitaler Summit für vom Coronavirus betroffene Selbstständige, Freelancer*innen, Kreative & Kulturschaffende, die ihr Angebot digitalisieren möchten.
 * [Kiron Open Higher Education](https://kiron.ngo/en/) – [Hier](https://teach.kiron.ngo/) finden Lehrende wertvolle Tipps zum Online-Teaching.
+* [yooweedoo](https://www.yooweedoo.org/de/kurse) - Die freien, für jede*n zugänglichen Kurse helfen Euch eigene Ideen zur Lösung einer Herausforderung in die Tat umzusetzen. Der Fokus liegt bei allem was die Themen des Social Entrepreneurships betreffen. 
 * [Serlo Education](https://de.serlo.org/) - Die kostenfreie Lernplattform bietet einfache Erklärungen, Kurse, Lernvideos und tausende Übungsaufgaben mit Musterlösungen zum selbstständigen Lernen im eigenen Tempo.
 * [Digitale Helden](https://digitale-helden.de) - Bieten angepasste Konzepte zur Medienbildung für "die Schule zu Hause" und Webinare zu "Corona und FakeNews" für Lehrer, Eltern und Schülere an.
 * [Hacker School ](https://hacker-school.de)- Online-Kurse in denen Kinder- und Jugendliche die Grundlagen des Programmierens kennenlernen und direkt ein erstes kleines Spiel programmieren können. Let´s code!
