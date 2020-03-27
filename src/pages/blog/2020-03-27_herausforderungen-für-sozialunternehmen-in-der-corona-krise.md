@@ -25,7 +25,7 @@ Dabei gehören die Absagen von Veranstaltungen, die geschlossenen Bildungseinric
 
 Deswegen ist auch der Bedarf nach finanzieller Unterstützung sehr groß. Laut unserer Umfrage werden Liquidität in Form von Darlehen, Zuschüssen oder unbürokratischen Fördermaßnahmen dringend gebraucht, um Sozialunternehmen durch die Krise zu bringen.
 
-![](/uploads/grafik4.jpg)
+![](/uploads/grafik6_wuensche_corona.jpg)
 
 ## Wen schützt der Schutzschirm?
 
