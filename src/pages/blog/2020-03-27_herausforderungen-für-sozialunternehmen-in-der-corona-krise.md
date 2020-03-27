@@ -15,7 +15,7 @@ Seit knapp zwei Wochen herrscht Ausnahmezustand in unserer Gesellschaft. Die Fol
 
 Doch auch die Schwierigkeiten in der Krise werden mehr als deutlich. Die Ergebnisse zu unserer Umfrage zu den Herausforderungen in Zusammenhang mit Corona zeigen klar: **Viele Social Entrepreneurs sind von den Auswirkungen der Corona-Krise in ihrer Existenz bedroht**, da sie ihre Kund*innen nicht erreichen, Projekte nicht umgesetzt werden können, Aufträge und Umsätze wegbrechen!
 
-![](/uploads/grafik1.jpg)
+![](/uploads/grafik1_corona.jpg)
 
 Dabei gehören die Absagen von Veranstaltungen, die geschlossenen Bildungseinrichtungen und die sinkende Kaufkraft von Kunden (B2B / Öffentliche Hand / Endkunden) zu den größten Herausforderungen.
 
