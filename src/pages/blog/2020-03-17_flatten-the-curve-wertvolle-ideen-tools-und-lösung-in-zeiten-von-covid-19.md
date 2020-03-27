@@ -54,7 +54,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Sozial-PR](https://www.sozial-pr.net/digitale-unterstuetzung/) - Bieten Euch digitale Unterstützung bei der Kommunikation, Beratung bei der Wahl digitaler Werkzeuge, Digitales Training und Support und Beratung zu remote Arbeit und Home-Office
 * [HeySummit](https://heysummit.com/solutions/coronavirus/) - Die Plattform unterstützt Euch dabei, geplante Veranstaltungen einfach im virtuellen Raum stattfinden zu lassen.
 * [Changemakerxchange](https://changemakerxchange.com) - Ashoka’s Changemakerxchange-Plattform arbeitet aktuell an einem Toolkit zum Thema virtuelle Konferenzen, Hosting und Facilitation. (noch work in progress)
-* [betterplace lab](https://www.betterplace-lab.org) - Spannender [Artikel](<* https://www.betterplace-lab.org/was-bedeutet-corona-für-new-work>) zum Thema: Was bedeutet Corona für New Work 
+* [betterplace lab](https://www.betterplace-lab.org) - Spannender [Artikel ](https://www.betterplace-lab.org/was-bedeutet-corona-f%C3%BCr-new-work)zum Thema: Was bedeutet Corona für New Work 
 
   Weitere spannende Angebote findet Ihr [hier](https://send17-my.sharepoint.com/:x:/g/personal/admin_onedrive_send-ev_de/EY97nUh6wTpFtfA_cUdBI6wBd0zDQ_HHpSFAxWEReXu3TA?e=UfoZHV).
 
