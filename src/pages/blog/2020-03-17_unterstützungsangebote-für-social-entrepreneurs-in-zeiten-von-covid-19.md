@@ -17,8 +17,6 @@ Die Lernkurve dieser Tage und Wochen ist gewaltig und die ganz praktischen Herau
 * Personalengpässe, da zwischen Kinderbetreuung, Home Office und eventuell sogar Quarantäne nur bedingt gearbeitet werden kann
 * Neue Kooperationen oder Förderpartnerschaften werden erschwert, da die persönlichen Treffen unterbunden sind.
 
-##### Was sind Eure konkreten Herausforderungen? Bitte füllt diese KURZE [Umfrage](https://forms.office.com/Pages/ResponsePage.aspx?id=jDmFkp2B802o4v4E8BPjF_MvIuU5uFZClNVK2gXYtWxUMkkwTThNNlg3RFBRNzYxUldMMDdVVlFTVy4u) aus! Das hilft uns, Eure Bedarfe besser zu verstehen und uns für ihre Deckung einsetzen zu können.
-
 
 
 An vielen Stellen gibt es bezüglich der Bedürftigkeit in der aktuellen Lage Parallelen zwischen Social Entrepreneurs und klassischen Unternehmen, sowie Künstler*innen oder Selbstständigen oder Akteuren der (gemeinnützig anerkannten) organisierten Zivilgesellschaft. Das heißt: die Hilfspakete, die momentan im Stundentakt von verschiedenen Ministerien auf Bundes- und Landesebene sowie von weiteren Akteuren angekündigt und weiter geschärft werden, werden von ganz unterschiedlichen Wirtschaftsakteuren benötigt, unter anderem eben auch Sozialunternehmen oder die organisierte Zivilgesellschaft.
