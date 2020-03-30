@@ -14,7 +14,7 @@ description: >-
 impactArea:
   - Bildung
 organization: true
-image: /uploads/interact-english.jpg
+image: /uploads/interact-english-logo-2017-magenta-justin-beard.png
 email: info@interactenglish.de
 link: 'https://interactenglish.de/'
 city: Berlin
