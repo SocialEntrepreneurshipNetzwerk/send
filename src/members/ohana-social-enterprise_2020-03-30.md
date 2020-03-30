@@ -8,7 +8,7 @@ impactArea:
   - Armut
   - Umwelt– & Klimaschutz
 organization: true
-image: /uploads/ohana.jpg
+image: /uploads/5e49122a-8c45-49e9-9d77-a3e20e834412-manuel-kreitmeir.png
 email: info@yourohana.de
 link: 'https://yourohana.de/'
 city: Ettlingen
