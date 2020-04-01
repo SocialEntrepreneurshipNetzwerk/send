@@ -17,7 +17,7 @@ Die Lernkurve dieser Tage und Wochen ist gewaltig und die ganz praktischen Herau
 * Personalengpässe, da zwischen Kinderbetreuung, Home Office und eventuell sogar Quarantäne nur bedingt gearbeitet werden kann
 * Neue Kooperationen oder Förderpartnerschaften werden erschwert, da die persönlichen Treffen unterbunden sind.
 
-
+Wir haben Euch [hier eine Sammlung](https://send17-my.sharepoint.com/:w:/g/personal/admin_onedrive_send-ev_de/Ed7-3-ecVlVPu5sh82fYMt0Bo5TLv138Hg8CSx4oj8gzIQ?e=qxejeW) zu Hilfsangeboten, Stellungnahmen und weiteren Tipps zusammengestellt , die für Social Entrepreneurs relevant sind. Wir aktualisieren dieses kontinuierlich. Schickt uns Eure Tipps/Erfahrungen gern via Slack (als SEND-Mitglied) #corona oder auch direkt an Katrin ([katrin.elsemann@send-ev.de](mailto:katrin.elsemann@send-ev.de))
 
 An vielen Stellen gibt es bezüglich der Bedürftigkeit in der aktuellen Lage Parallelen zwischen Social Entrepreneurs und klassischen Unternehmen, sowie Künstler*innen oder Selbstständigen oder Akteuren der (gemeinnützig anerkannten) organisierten Zivilgesellschaft. Das heißt: die Hilfspakete, die momentan im Stundentakt von verschiedenen Ministerien auf Bundes- und Landesebene sowie von weiteren Akteuren angekündigt und weiter geschärft werden, werden von ganz unterschiedlichen Wirtschaftsakteuren benötigt, unter anderem eben auch Sozialunternehmen oder die organisierte Zivilgesellschaft.
 
@@ -41,7 +41,7 @@ Gefordert sind:
 * die unkomplizierte Verlängerung von Projektlaufzeiten und Aufstockung der dann steigenden Personalkosten
 * Kernfinanzierung für zivilgesellschaftliche Initiativen, um neben zeitlich befristeten Projektförderungen eine nachhaltige Infrastruktur aufbauen zu können
 
-Des weiteren haben wir Euch [hier eine Sammlung](https://send17-my.sharepoint.com/:w:/g/personal/admin_onedrive_send-ev_de/Ed7-3-ecVlVPu5sh82fYMt0Bo5TLv138Hg8CSx4oj8gzIQ?e=qxejeW) zu Hilfsangeboten, Stellungnahmen und weiteren Tipps zusammengestellt , die für Social Entrepreneurs relevant sind. Wir aktualisieren dieses kontinuierlich. Schickt uns Eure Tipps/Erfahrungen gern via Slack (als SEND-Mitglied) #corona oder auch direkt an Katrin ([katrin.elsemann@send-ev.de](mailto:katrin.elsemann@send-ev.de))
+
 
 Darüber hinaus gilt: In dieser Krise stehen wir zusammen - #GemeinsamWirken gilt vielleicht mehr denn je. Und bei aller Verunsicherung sind wir hoffnungsvoll: Schon in den vergangenen Tagen waren wir überwältigt von der Kreativität und Proaktivität von so vielen, die mit ihren Angeboten und Ideen beitragen, dass wir diese Zeit so gut wie möglich überstehen. Lösungsbeispiele in der Krise haben wir in [diesem Blogbeitrag](https://www.send-ev.de/2020-03-17_flatten-the-curve-wertvolle-ideen-tools-und-lösung-in-zeiten-von-covid-19) zusammengestellt.
 
