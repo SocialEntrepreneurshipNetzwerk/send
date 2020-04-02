@@ -68,6 +68,7 @@ Bildung ohne Klassenzimmer, Workshops in Zeiten von Veranstaltungsverboten - dig
 * [Serlo Education](https://de.serlo.org/) - Die kostenfreie Lernplattform bietet einfache Erklärungen, Kurse, Lernvideos und tausende Übungsaufgaben mit Musterlösungen zum selbstständigen Lernen im eigenen Tempo.
 * [Digitale Helden](https://digitale-helden.de) - Bieten angepasste Konzepte zur Medienbildung für "die Schule zu Hause" und Webinare zu "Corona und FakeNews" für Lehrer, Eltern und Schülere an.
 * [Hacker School ](https://hacker-school.de)- Online-Kurse in denen Kinder- und Jugendliche die Grundlagen des Programmierens kennenlernen und direkt ein erstes kleines Spiel programmieren können. Let´s code!
+* [Home-Schooling](https://homeschooling-corona.com) - Umfangreiche Informationen um den Homeschooling-Alltag besser zu bewältigen. Auf dieser Website werden Programme, Tools und Tipps für zu Hause vorgestellt.
 * [Bettermarks](https://de.bettermarks.com/corona-update?fbclid=IwAR12DNeNsSTbyO6htwdlQd3qpcdjw3-QdwfIS5Cl_8p4Aw4RoICquAY4H44) – Auch die auf Mathematik spezialisierte Plattform bietet ihren Dienst bis Ende des Schuljahrs kostenfrei an, um Schulen zu unterstützen
 
   Weitere interessante Angebote findet Ihr [hier](https://send17-my.sharepoint.com/:x:/g/personal/admin_onedrive_send-ev_de/EYDVOz-AnJlGsf_eZt7sLiYBGFBQImAIlAhfEWUYx--Kuw?e=N89dyW).
