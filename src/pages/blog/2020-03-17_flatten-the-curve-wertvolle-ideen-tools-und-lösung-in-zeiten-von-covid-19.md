@@ -83,6 +83,7 @@ Durch die Corona-Krise kommen viele Unternehmen, Organisationen oder Initiativen
 * [Vostel.de](https://vostel.de/blog/2020/03/18/supportduringcorona-wege-wie-du-auch-von-zuhause-aus-gutes-tun-kannst/) - Blogpost zu konkreten Initiativen, die dringend finanzielle Unterstützung oder Sachspenden brauchen und weitere Infos zu Unterstützungs- und Engagementmöglichkeiten
 * [Helfen.Berlin](https://helfen.berlin) - Rettet Eure Lieblingsorte - Gutscheinshop für Berliner Läden.
 * [We kick Corona](<https://www.wekickcorona.com/ >) - Fußball-Profis eröffnen eine Spendenplattform für gemeinnützige Organisationen: Spenden anfragen und/oder selbst spenden.
+* [Spendenturbo](https://www.spendenturbo.org) - Die Spendenplattform unterstützt gemeinnützige Vereinen durch Privatspender & Unternehmen. Jede private Spende wird durch eine Unternehmensspende verdoppelt.
 * Weitere Angebote wie Ihr unterstützen könnt findet Ihr [hier](https://send17-my.sharepoint.com/:x:/g/personal/admin_onedrive_send-ev_de/EcKJLy05P25MuBvoLT9-9OYBnyEwojgVmY4MjqdkDvzupg?e=tVMLaR).
 
 ## 5. Infos / Hilfe für Unternehmen
