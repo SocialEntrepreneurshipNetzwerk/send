@@ -40,7 +40,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
 * [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt
 * [helpteers.net](http://helpteers.net/) – helpteers erstellt individuelle Ehrenamt-Plattformen für soziale Organisation und Städte um Ehrenamtliche Unterstützung zu koordinieren. Die kostenfreie Basisversion findet Ihr unter [crowdmoving.org](http://crowdmoving.org/).
-* [Eigenleben](https://eigenleben.jetzt/nachbarn-helfen/?fbclid=IwAR2YShUn_67699slZHmCJ6HfpXPMBSfwNloYqWg810erizjML4f7N5PdcsI) – Hier findet Ihr Vorlagen, um auch Menschen aus der analogen Welt zu erreichen.
+* [Eigenleben](https://eigenleben.jetzt/nachbarn-helfen/?fbclid=IwAR2YShUn_67699slZHmCJ6HfpXPMBSfwNloYqWg810erizjML4f7N5PdcsI) – Das Online-Magazin mit Beiträgen von und über junge Leute von gestern, bringt die Generationen zusammen. Aktuell, statt durch Veranstaltungen oder Workshops, im virtuellen ”eigenleben.Club« einem geschützten Raum im vereinseigenen Intranet.
 
   Weitere spannende Angebote findet Ihr [hier.](https://send17-my.sharepoint.com/:x:/g/personal/admin_onedrive_send-ev_de/EWGpqCIH9cJOpH07BYGiXtgBCzHp-MUwiyP1LTT9c8c7sg?e=vvtsfY)
 
