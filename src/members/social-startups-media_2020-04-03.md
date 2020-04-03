@@ -29,6 +29,6 @@ image: /uploads/social-startups-magazin.png
 email: info@social-startups.de
 link: 'https://www.social-startups.de/'
 city: Butzbach
-postalCode: 35508
+postalCode: 35510
 federalState: Hessen
 ---
