@@ -1,11 +1,15 @@
 FROM node:10 AS base
 
+ARG NODE_ENV=production
+ENV NODE_ENV=${NODE_ENV}
+
 FROM base AS builder
 WORKDIR /build
 
 COPY package*.json /build/
-RUN set -ex; npm ci && npm run build
+RUN set -ex; npm ci
 COPY . .
+RUN npm run build
 
 
 FROM base AS server
