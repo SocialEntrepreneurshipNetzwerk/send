@@ -21,6 +21,7 @@ RUN cd server && npm ci
 
 COPY --from=builder /build/public/ ${APP_ROOT}/public
 COPY --from=builder /build/server/ ${APP_ROOT}/server
+COPY --from=builder /src/ ${APP_ROOT}/server/src
 
 WORKDIR ${APP_ROOT}/server
 
