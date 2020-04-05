@@ -15,10 +15,11 @@ ENV APP_ROOT=${APP_ROOT}
 
 WORKDIR ${APP_ROOT}/
 
-COPY --from=builder /build/server/package*.json ${APP_ROOT}/server/
+COPY --from=builder /build/server/package.json ${APP_ROOT}/server/
+COPY --from=builder /build/server/package-lock.json ${APP_ROOT}/server/
 RUN cd server && npm ci
 
-COPY --from=builder /build/build/ ${APP_ROOT}/build
+COPY --from=builder /build/public/ ${APP_ROOT}/public
 COPY --from=builder /build/server/ ${APP_ROOT}/server
 
 WORKDIR ${APP_ROOT}/server
