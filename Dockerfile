@@ -1,23 +1,25 @@
 FROM node:10 AS base
 
 FROM base AS builder
-WORKDIR /app
+WORKDIR /build
 
-COPY package*.json /app/
-RUN set -ex ; npm ci && npm run build
-COPY . /app
-FROM base AS servrer
+COPY package*.json /build/
+RUN set -ex; npm ci && npm run build
+COPY . .
+
+
+FROM base AS server
 
 ARG APP_ROOT=/app
 ENV APP_ROOT=${APP_ROOT}
 
-WORKDIR ${APP_ROOT}
+WORKDIR ${APP_ROOT}/
 
-COPY ./server/package*.json ${APP_ROOT}/
-RUN npm ci
+COPY --from=builder /build/server/package*.json ${APP_ROOT}/server/
+RUN cd server && npm ci
 
-COPY --from=builder /app/build/ ${APP_ROOT}/build
-COPY --from=builder /app/server/ ${APP_ROOT}/server
+COPY --from=builder /build/build/ ${APP_ROOT}/build
+COPY --from=builder /build/server/ ${APP_ROOT}/server
 
 WORKDIR ${APP_ROOT}/server
 
