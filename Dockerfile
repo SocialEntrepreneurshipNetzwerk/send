@@ -13,7 +13,7 @@ ENV APP_ROOT=${APP_ROOT}
 
 WORKDIR ${APP_ROOT}
 
-COPY --from=builder /app/server/package*.json ${APP_ROOT}/
+COPY ./server/package*.json ${APP_ROOT}/
 RUN npm ci
 
 COPY --from=builder /app/build/ ${APP_ROOT}/build
