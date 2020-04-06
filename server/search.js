@@ -1,4 +1,4 @@
-const uuid = require( 'uuid' );
+const { v4: uuid } = require( 'uuid' );
 const fs = require( 'fs' );
 const matter = require( 'gray-matter' );
 const elasticlunr = require( 'elasticlunr' );
