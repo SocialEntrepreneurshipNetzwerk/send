@@ -1,13 +1,6 @@
 ---
 title: ReDI School of Digital Integration
 description: >-
-  ReDI School: Mit digitaler Bildung zu mehr Integration
-
-
-  „Wir lehren digitale Fähigkeiten, um Barrieren abzubauen und die Experten von
-  morgen zu vernetzen.“ Anne Kjaer Riechert, CEO & Co-Founder ReDI School 
-
-
   ReDI School of Digital Integration ist eine gemeinnützige Technologie-Schule
   mit Sitz in Berlin, München, Duisburg und Kopenhagen. Gegründet 2016 mit dem
   Ziel, Geflüchteten die Integration in die Gesellschaft und den Arbeitsmarkt zu
