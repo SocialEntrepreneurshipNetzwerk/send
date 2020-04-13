@@ -2,10 +2,8 @@
 title: nestwärme e.V. Deutschland
 description: >-
   Wir glauben, dass jedes Kind und seine Familie einen Platz in der Gesellschaft
-  haben,  in der Unterschiede ganz normal sind.
-
-  Dieses formulierte WHY ? oder Warum?  spornt uns jeden Tag an, unser
-  sozialunternehmerisches Handeln zu erweitern, zu stärken, zu erneuern,
+  haben, in der Unterschiede ganz normal sind. Dies spornt uns jeden Tag an,
+  unser sozialunternehmerisches Handeln zu erweitern, zu stärken, zu erneuern,
   anzupassen, zu hinterfragen, zu evaluieren um zu optimieren und dafür zu
   begeistern. Denn wir gestalten nicht alleine sondern seit 20 Jahren mit einem
   für nestwärme charakteristischen Netzwerk aus Mitarbeitern, Ehrenamtlichen,
