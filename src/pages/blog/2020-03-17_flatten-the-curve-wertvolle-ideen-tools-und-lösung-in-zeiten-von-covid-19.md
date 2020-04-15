@@ -50,6 +50,7 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 
 * [tbd*](https://www.tbd.community/de) - Die tbd* Community teilt ihre [Goldene Home-Office Regeln](https://www.tbd.community/de/a/regeln-fuer-arbeiten-im-homeoffice-corona) mit Euch.
 * [WeChange.de](https://wechange.de/) - Nutzt die Open-Source-Plattform WeChange als Tool für Eure Online Zusammenarbeit von Teams. Am Beispiel von FridaysForFuture wird [hier](https://wechange.de/cms/2019/12/16/stell-dir-vor-du-bist-greta/) toll erklärt, wie die Plattform funktioniert.
+* [GDEXA](https://www.gdexa.com) - Die Global Digital Excellence Association bietet ein global angelegtes, kostenfreies Mentorship für Schüler, Studenten und junge Berufseinsteiger zum Thema digitale Bildung. Aktuell besonders Hilfestellungen für Schulen und öffentlichen Einrichtungen.
 * [Stifter-helfen](https://www.stifter-helfen.de) - Hier bekommen Non-Profits E-Collaboration-Tools, wie Slack, Asana, Zoom [](https://www.stifter-helfen.de)zur Verfügung gestellt
 * [Sozial-PR](https://www.sozial-pr.net/digitale-unterstuetzung/) - Bieten Euch digitale Unterstützung bei der Kommunikation, Beratung bei der Wahl digitaler Werkzeuge, Digitales Training und Support und Beratung zu remote Arbeit und Home-Office
 * [HeySummit](https://heysummit.com/solutions/coronavirus/) - Die Plattform unterstützt Euch dabei, geplante Veranstaltungen einfach im virtuellen Raum stattfinden zu lassen.
