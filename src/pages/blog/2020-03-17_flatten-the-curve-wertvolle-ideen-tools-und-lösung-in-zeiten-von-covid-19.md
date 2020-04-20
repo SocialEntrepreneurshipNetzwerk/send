@@ -1,9 +1,8 @@
 ---
 templateKey: article
 clip: clip_article
-title: 'Flatten the Curve - Wertvolle Ideen, Tools und Lösungen in Zeiten von Covid-19'
-excerpt: >-
-  Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von
+title: Flatten the Curve - Wertvolle Ideen, Tools und Lösungen in Zeiten von Covid-19
+excerpt: Unser Motto "Gemeinsam Wirken" gilt natürlich umso mehr in Zeiten von
   Covid-19. Wie können wir in dieser herausfordernden Situation zu einem
   solidarischen Miteinander und einer verlangsamten Ausbreitung des Virus
   beitragen? Wir zeigen Euch zahlreiche Lösungen aus der Social Entrepreneurship
@@ -31,14 +30,14 @@ Wie passen Social Distancing und ein solidarisches Miteinander zusammen? [Dieser
 * [Quarantäne Helden](https://www.quarantaenehelden.org/?fbclid=IwAR0MJz34Aj6UoilGWepI78ldmPOdC_Vfww58538-N0EpOCIEmKK11krX_NM#/) – Auch diese Online-Plattform vernetzt, sodass Menschen in Quarantäne um Unterstützung bitten und andere Menschen ihre Hilfe anbieten können.
 * [Wir gegen Corona](https://www.wirgegencorona.com/?fbclid=IwAR3UTCWgO2kl9foBqzecw_DOeJS1zeeGsdGz-waco4zlq0WnfrggV0C4b6A) – Der Name ist Programm. Eine weitere Plattform, auf der Ihr Euch vernetzen und Menschen helfen könnt
 * [Dein Nachbar](https://www.deinnachbar.de) - Das Unterstützungsnetzwerk für hilfebedürftige Senioren und deren pflegende Angehörigen hat ein Aufklärungsvideo und weitere Infos zum Thema "Versorgung von hilfsbedürftigen Senioren" erstellt.
-* [Youvo.org](https://www.youvo.org/) - Die Online-Plattform für Kreative vermittelt verschiedene Möglichkeiten der digitalen Unterstützung für soziale Organisationen
+* [Youvo.org](https://www.youvo.org/) - Die Online-Plattform für Kreative vermittelt verschiedene Möglichkeiten der digitalen Unterstützung für soziale Organisationen.
 * [Oll Inklusiv](https://www.oll-inklusiv.de/) – Die Hamburger Initiative unterstützt Senioren und Senioritas in Hamburg beim Einkaufen oder ein Telefonat gegen die Einsamkeit.
-* [Reflecta Network](http://www.reflecta.network/) - Die Online-Plattform testet gerade neue Funktionen, um Menschen bedarfsgerecht matchen zu können und die Herausforderungen schneller zu lösen. Wer mitmachen möchte, kann sich an[ hello@reflecta.network](mailto:hello@reflecta.network) wenden
+* [Reflecta Network](http://www.reflecta.network/) - Die Online-Plattform testet gerade neue Funktionen, um Menschen bedarfsgerecht matchen zu können und die Herausforderungen schneller zu lösen. Wer mitmachen möchte, kann sich an[ hello@reflecta.network](mailto:hello@reflecta.network) wenden.
 * [Coinsence](https://coinsence.org/) - Communities können eigene Währungen einführen, Engagement sichtbar machen und Ressourcen mobilisieren.
-* [Coronaport](https://www.coronaport.net) - Bieten bundesweit erweiterte Nachbarschaftshilfe mit der Möglichkeit Hilfe zu suchen und anzubieten
+* [Coronaport](https://www.coronaport.net) - Bieten bundesweit erweiterte Nachbarschaftshilfe mit der Möglichkeit Hilfe zu suchen und anzubieten.
 * [Wir helfen](https://wirhelfen.eu) - Die Plattform[](https://wirhelfen.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") sammelt Hilfsangebote auf einer [interaktiven Karte](https://wirhelfen.eu/suche "Die externe Seite im neuen Tab/Fenster öffnen") und bietet Unterstützung beim „Einkaufen gehen“, „Kinderbetreuung“ oder „Dinge teilen“.
 * [Helpunity](https://helpunity.eu/ "Die externe Seite im neuen Tab/Fenster öffnen") - Ist eine Plattform, die über Projekte informiert, und eine App, die über einen Feed Hilfsangebote und Gesuche koordiniert. Die App steht in den Startlöchern und richtet sich auch an Unternehmen mit Personalengpässen.
-* [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt
+* [Helping Hands](https://helping-hands.io/de) - Vermittlungsbörse die Hilfeanfragen und freiwillige Helfer in der Umgebung zusammen bringt.
 * [helpteers.net](http://helpteers.net/) – helpteers erstellt individuelle Ehrenamt-Plattformen für soziale Organisation und Städte um Ehrenamtliche Unterstützung zu koordinieren. Die kostenfreie Basisversion findet Ihr unter [crowdmoving.org](http://crowdmoving.org/).
 * [Eigenleben](https://eigenleben.jetzt/nachbarn-helfen/?fbclid=IwAR2YShUn_67699slZHmCJ6HfpXPMBSfwNloYqWg810erizjML4f7N5PdcsI) – Das Online-Magazin mit Beiträgen von und über junge Leute von gestern, bringt die Generationen zusammen. Aktuell, statt durch Veranstaltungen oder Workshops, im virtuellen ”eigenleben.Club« einem geschützten Raum im vereinseigenen Intranet.
 
