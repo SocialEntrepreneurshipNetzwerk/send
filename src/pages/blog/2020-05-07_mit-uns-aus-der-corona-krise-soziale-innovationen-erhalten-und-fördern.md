@@ -23,7 +23,7 @@ Durch die Krise fällt die wichtigste Finanzierungsquelle von vielen Social Entr
 
 ![](/uploads/umfrage_diagramm.jpg)
 
-Die Ergebnisse verdeutlichen ein Problem, dass schon vor der Krise eine Herausforderung für Sozialunternehmen darstellte - es fehlt an zielgruppenrelevanten Förderinstrumenten für Sozialunternehmen.
+Die Ergebnisse verdeutlichen ein Problem, dass schon vor der Krise eine Herausforderung für Sozialunternehmen darstellte – es fehlt an zielgruppenrelevanten Förderinstrumenten für Sozialunternehmen.
 
 Wir haben Sozialunternehmen gefragt, ob und welche öffentlichen Finanzierungsprogramme sie nutzen konnten. Die Aussagen sind frappierend:
 
