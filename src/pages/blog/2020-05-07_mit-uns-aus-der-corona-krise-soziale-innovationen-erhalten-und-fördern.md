@@ -1,7 +1,7 @@
 ---
 templateKey: article
 clip: clip_article
-title: Mit uns aus der Corona-Krise - Soziale Innovationen erhalten und fördern
+title: Mit uns aus der Corona-Krise – Soziale Innovationen erhalten und fördern
 excerpt: Welche Auswirkung hat die Corona-Krise auf Sozialunternehmen? Mit einer
   zweiten Umfrage haben wir noch einmal nachgefragt, um einen detailierten
   Einblick in die aktuellen Herausforderungen zu bekommen und uns näher mit den
