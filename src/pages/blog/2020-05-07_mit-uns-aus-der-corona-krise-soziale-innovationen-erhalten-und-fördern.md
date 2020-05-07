@@ -55,4 +55,4 @@ Denn gerade jetzt kommt es auf unseren sozialen „Erfinder*innengeist“ an. Wi
 
 Du siehst an den Ergebnissen, dass Du nicht allein mit den Herausforderungen bist? Du möchtest an einer Lösung mitarbeiten? Dann trete mit Deinem zuständigen Bundestagsabgeordneten in Kontakt und bitte ihn um ein klärendes Gespräch zu Deiner Situation!
 
-Hier geht es zu unserer heutigen Pressemitteilung und hier findet Ihr mehr Ergebnisse aus der Studie.
+Hier geht es zu unserer [Pressemitteilung](https://www.send-ev.de/uploads/pm_umfrage.pdf) und hier findet Ihr mehr Ergebnisse aus der Studie.
