@@ -39,7 +39,7 @@ Insbesondere die Fördermittelvergabe der KfW geht bisher fast komplett an Sozia
 
 Dabei stellt die Corona Pandemie uns alle vor große Herausforderungen: Soziale Ungerechtigkeiten werden noch sichtbarer und es wird deutlich, wie systemrelevant die Arbeit von Organisationen mit einer Fokussierung auf gesellschaftliche Mehrwerte sind.
 
-Und es gibt auch Positives: die Umfrage zeigt, dass die soziale Wirkung der Social Entrepreneurs bei 23% unverändert bleibt und bei 35% sich sogar vergrößert!
+Und es gibt auch Positives: die Umfrage zeigt, dass die soziale Wirkung der Social Entrepreneurs bei 23% unverändert bleibt und bei 35% sich sogar vergrößert.
 
 ![](/uploads/wirkungsgrafik.jpg)
 
@@ -55,4 +55,4 @@ Denn gerade jetzt kommt es auf unseren sozialen „Erfinder*innengeist“ an. Wi
 
 Du siehst an den Ergebnissen, dass Du nicht allein mit den Herausforderungen bist? Du möchtest an einer Lösung mitarbeiten? Dann trete mit Deinem zuständigen Bundestagsabgeordneten in Kontakt und bitte ihn um ein klärendes Gespräch zu Deiner Situation!
 
-[Hier](https://www.send-ev.de/uploads/pm_umfrage.pdf) geht es zu unserer heutigen Pressemitteilung und hier findet Ihr mehr Ergebnisse aus der Studie. Unsere Forderungen an die Politik sind [hier](https://www.send-ev.de/uploads/forderungen_corona_politik.pdf) hinterlegt. Wir freuen uns auf ein #GemeinsamWirken in dieser herausfordernden Zeit!
+[Hier](https://www.send-ev.de/uploads/pm_umfrage.pdf) geht es zu unserer heutigen Pressemitteilung und [hier](https://www.send-ev.de/uploads/factsheet_umfrage.pdf) findet Ihr mehr Ergebnisse aus der Studie. Unsere Forderungen an die Politik sind [hier](https://www.send-ev.de/uploads/forderungen_corona_politik.pdf) hinterlegt. Wir freuen uns auf ein #GemeinsamWirken in dieser herausfordernden Zeit!
