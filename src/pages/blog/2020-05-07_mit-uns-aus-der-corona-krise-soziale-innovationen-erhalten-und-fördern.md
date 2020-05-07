@@ -11,7 +11,7 @@ image: /uploads/header_umfrage_blog.jpg
 date: 2020-05-07T09:49:27.863Z
 category: news
 ---
-Seit gut zwei Monaten ist die halbe Welt im Stillstand. Dabei gibt es kaum Gewinner*innen in der Pandemie, ob DAX-Konzern oder Einzelunternehmen. Diesmal werden alle hart getroffen. Nur kann sich ein DAX Konzern - anders als Sozialunternehmen – relativ unkompliziert Finanzhilfen geben lassen.
+Seit gut zwei Monaten ist die halbe Welt im Stillstand. Dabei gibt es kaum Gewinner*innen in der Pandemie, ob DAX-Konzern oder Einzelunternehmen. Diesmal werden alle hart getroffen. Nur kann sich ein DAX Konzern – anders als Sozialunternehmen – relativ unkompliziert Finanzhilfen geben lassen.
 
 Um zu schauen, welche Auswirkung die Corona-Krise auf Sozialunternehmen hat, haben wir Ende März eine Umfrage unter Sozialunternehmer*innen durchgehführt und Politik und Ministerien mit Nachdruck auf die existenzbedrohenden Herausforderungen hingewiesen. Mit unserer zweiten Umfrage geben wir einen Einblick in die weitere Entwicklung der Herausforderungen von Social Entrepreneurs in Zeiten der Corona-Pandemie und haben uns näher mit den Lücken bestehender Hilfsprogramme beschäftigt.
 
