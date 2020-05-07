@@ -39,7 +39,7 @@ Insbesondere die Fördermittelvergabe der KfW geht bisher fast komplett an Sozia
 
 Dabei stellt die Corona Pandemie uns alle vor große Herausforderungen: Soziale Ungerechtigkeiten werden noch sichtbarer und es wird deutlich, wie systemrelevant die Arbeit von Organisationen mit einer Fokussierung auf gesellschaftliche Mehrwerte sind.
 
-Und es gibt auch Positives: die Umfrage zeigt, dass die soziale Wirkung der Social Entrepreneurs bei 23% unverändert bleibt und bei 35% sich sogar vergrößert.
+Und es gibt auch Positives: die Umfrage zeigt, dass die soziale Wirkung der Social Entrepreneurs bei 23% unverändert bleibt und bei 35% sich sogar vergrößert!
 
 ![](/uploads/wirkungsgrafik.jpg)
 
