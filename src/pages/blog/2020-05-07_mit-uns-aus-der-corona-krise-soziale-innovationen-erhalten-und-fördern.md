@@ -28,10 +28,10 @@ Die Ergebnisse verdeutlichen ein Problem, dass schon vor der Krise eine Herausfo
 Wir haben Sozialunternehmen gefragt, ob und welche öffentlichen Finanzierungsprogramme sie nutzen konnten. Die Aussagen sind frappierend:
 
 * Einmalzuschuss als Soforthilfe des Bundes oder Landes: 32,9%
-* Landesprogramm (eines spezifischen Bundesland) zur Liquiditätssicherung: 10,8%
+* Landesprogramm (eines spezifischen Bundeslandes) zur Liquiditätssicherung: 10,8%
 * KfW-Darlehen (90% Absicherung) und/oder KfW-Schnellkredit 2020 (100% Absicherung): 3,2%
 
-Insbesondere die Fördermittelvergabe der KfW geht bisher fast komplett an Sozialunternehmer*innen vorbei. Denn gefördert werden nur Unternehmen, die in den vergangenen Jahren Gewinne ausweisen konnten. Für Sozialunternehmen ist das Geschäftsmodell aber nur Mittel zum Zweck und Gewinne werden wieder in die gesellschaftliche Wirkung reinvestiert. Jetzt werden sie für ihren gesellschaftlichen Beitrag bestraft! Und gemeinnützige Organisationen sind von vorneherein von der Kreditvergabe ausgeschlossen.
+Insbesondere die Fördermittelvergabe der KfW geht bisher fast komplett an Sozialunternehmer*innen vorbei. Denn gefördert werden nur Unternehmen, die in den vergangenen Jahren Gewinne ausweisen konnten. Für Sozialunternehmen ist das Geschäftsmodell aber nur Mittel zum Zweck und Überschüsse werden wieder in die gesellschaftliche Wirkung reinvestiert. Jetzt werden sie für ihren gesellschaftlichen Beitrag bestraft! Und gemeinnützige Organisationen sind von vorneherein von der Kreditvergabe ausgeschlossen.
 
 > „Mein größter Wunsch \[an die Politik] wäre, die bestehenden Programme so für Sozialunternehmen zu öffnen bzw. anzupassen, dass deren spezifische Bedürfnisse abgedeckt werden.“ - Dr. Markus Freiburg, Geschäftsführer Finanzierungsagentur für Social Entrepreneurship (FASE)
 
@@ -55,4 +55,4 @@ Denn gerade jetzt kommt es auf unseren sozialen „Erfinder*innengeist“ an. Wi
 
 Du siehst an den Ergebnissen, dass Du nicht allein mit den Herausforderungen bist? Du möchtest an einer Lösung mitarbeiten? Dann trete mit Deinem zuständigen Bundestagsabgeordneten in Kontakt und bitte ihn um ein klärendes Gespräch zu Deiner Situation!
 
-Hier geht es zu unserer [Pressemitteilung](https://www.send-ev.de/uploads/pm_umfrage.pdf) und hier findet Ihr mehr Ergebnisse aus der Studie.
+[Hier](https://www.send-ev.de/uploads/pm_umfrage.pdf) geht es zu unserer heutigen Pressemitteilung und hier findet Ihr mehr Ergebnisse aus der Studie. Unsere Forderungen an die Politik sind [hier](https://www.send-ev.de/uploads/forderungen_corona_politik.pdf) hinterlegt. Wir freuen uns auf ein #GemeinsamWirken in dieser herausfordernden Zeit!
