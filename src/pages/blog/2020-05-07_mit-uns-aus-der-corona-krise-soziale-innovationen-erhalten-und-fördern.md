@@ -55,4 +55,4 @@ Denn gerade jetzt kommt es auf unseren sozialen „Erfinder*innengeist“ an. Wi
 
 Du siehst an den Ergebnissen, dass Du nicht allein mit den Herausforderungen bist? Du möchtest an einer Lösung mitarbeiten? Dann trete mit Deinem zuständigen Bundestagsabgeordneten in Kontakt und bitte ihn um ein klärendes Gespräch zu Deiner Situation!
 
-[Hier](https://www.send-ev.de/uploads/pm_umfrage.pdf) geht es zu unserer heutigen Pressemitteilung und [hier](https://www.send-ev.de/uploads/factsheet_umfrage.pdf) findet Ihr mehr Ergebnisse aus der Studie. Unsere Forderungen an die Politik sind [hier](https://www.send-ev.de/uploads/forderungen_corona_politik.pdf) hinterlegt. Wir freuen uns auf ein #GemeinsamWirken in dieser herausfordernden Zeit!
+[Hier](https://www.send-ev.de/uploads/pm_umfrage.pdf) geht es zu unserer heutigen Pressemitteilung und [hier](https://www.send-ev.de/uploads/factsheet_umfrage.pdf) findet Ihr mehr Ergebnisse aus der Studie. Unsere Forderungen an die Politik sind [hier](https://www.send-ev.de/uploads/forderungen_corona_politik2.pdf) hinterlegt. Wir freuen uns auf ein #GemeinsamWirken in dieser herausfordernden Zeit!
