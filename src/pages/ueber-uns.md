@@ -11,18 +11,12 @@ section_1:
     systemische Lösungen für gesamtgesellschaftliche Probleme zu finden. 
 
 
-    Um Sozialunternehmer*innen zu stärken und soziale Innovationen mit dem
-    erforderlichen Nachdruck voranzutreiben, hat sich im Dezember 2016 unter dem
-    Dach vom Bundesverband Deutsche Startups e.V. (BVDS) eine Arbeitsgruppe zu
-    Social Entrepreneurship gebildet. Im Juni 2017 haben diese Akteure das
-    Social Entrepreneurship Netzwerk Deutschland e.V. gegründet. Im September
-    2017 konnten wir dank einer erfolgreichen Crowdfundingkampagne den Aufbau
-    eines schlagkräftigen Netzwerks starten.
+    Um Sozialunternehmer*innen zu stärken und soziale Innovationen mit dem erforderlichen Nachdruck voranzutreiben, hat sich im Dezember 2016 unter dem Dach vom Bundesverband Deutsche Startups e.V. (BVDS) eine Arbeitsgruppe zu Social Entrepreneurship gebildet. Im Juni 2017 haben diese Akteure das Social Entrepreneurship Netzwerk Deutschland e.V. gegründet. Im September 2017 konnten wir dank einer erfolgreichen Crowdfundingkampagne den Aufbau eines schlagkräftigen Netzwerks starten.
   title: Gründungsgeschichte
 section_2:
-  paragraph: >-
-    Der im Oktober 2019 neu gewählte Vorstand setzt sich aus sieben engagierten
-    Menschen zusammen, die für zwei Jahre im Amt sind und ehrenamtlich arbeiten.
+  paragraph: Der im Oktober 2019 neu gewählte Vorstand setzt sich aus sieben
+    engagierten Menschen zusammen, die für zwei Jahre im Amt sind und
+    ehrenamtlich arbeiten.
   title: Vorstand
 section_3:
   profile_boxes:
@@ -46,29 +40,22 @@ section_4:
           Bayern 
 
 
-          > Ansprechpartner*innen für die Regionalgruppe Bayern sind Andrea
-          Mörike und Raphael Brandmiller. Erreichen könnt Ihr die beiden unter
-          <mailto:bayern@send-ev.de>.
+          > Ansprechpartner*innen für die Regionalgruppe Bayern sind Andrea Mörike und Raphael Brandmiller. Erreichen könnt Ihr die beiden unter <mailto:bayern@send-ev.de>.
       - row: >-
           Berlin
 
 
-          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok.
-          Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
+          > Ansprechpartnerin für die Regionalgruppe Berlin ist Sabrina Konzok. Sie kann unter <mailto:berlin@send-ev.de> erreicht werden.
       - row: >-
           NRW
 
 
-          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und
-          Sebastian Grothaus. Erreichen könnt Ihr die beiden unter
-          <mailto:nrw@send-ev.de>.
+          > Ansprechpartner für die Regionalgruppe NRW sind Daniel Bartel und Sebastian Grothaus. Erreichen könnt Ihr die beiden unter <mailto:nrw@send-ev.de>.
       - row: >-
           Sachsen
 
 
-          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela
-          Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter
-          <mailto:sachsen@send-ev.de>.
+          > Ansprechpartner*innen für die Regionalgruppe Sachsen sind Angela Kiefl und Tino Kreßner. Erreichen könnt Ihr die beiden unter <mailto:sachsen@send-ev.de>.
     title: Regionalgruppen
   column_2:
     rows:
@@ -78,18 +65,15 @@ section_4:
       - row: Politik
       - row: Rechtsform
     title: Plattformen
-  paragraph: >-
-    SEND Mitglieder sind bundesweit aktiv und entwickeln innovative Lösungen für
-    unterschiedlichste Herausforderungen. Für eine effektive Kommunikation und
-    Vernetzung organisieren wir uns über einen eigenen SLACK – Kanal und
-    tauschen uns virtuell und real in Regional- und Fachgruppen aus. Folgende
-    Regionen haben sich bereits zusammengeschlossen:
+  paragraph: "SEND Mitglieder sind bundesweit aktiv und entwickeln innovative
+    Lösungen für unterschiedlichste Herausforderungen. Für eine effektive
+    Kommunikation und Vernetzung organisieren wir uns über einen eigenen SLACK –
+    Kanal und tauschen uns virtuell und real in Regional- und Fachgruppen aus.
+    Folgende Regionen haben sich bereits zusammengeschlossen:"
   title: Regionalgruppen
 cta_sticky:
-  hexColor: '#ff007b'
-  link: >-
-    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  hexColor: "#ff007b"
+  link: https://docs.google.com/forms/d/1SK6https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewformRcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
   showOnPage: true
   text: Jetzt Mitglied werden!
 ---
-
