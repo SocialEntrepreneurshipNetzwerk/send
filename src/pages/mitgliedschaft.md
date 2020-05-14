@@ -30,14 +30,10 @@ section_1:
       der Mitgliederversammlung kein Stimmrecht haben.
 
 
-
-
       Möchtest Du SEND darüber hinaus unterstützen?
 
 
-
-
-      Für alle Organisationen und Institutionen, aber auch Privatpersonen, besteht die Option einer **Förderpartnerschaft**. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte Katrin unter: katrin.elsemann@send-ev.de
+      Für alle Organisationen und Institutionen, aber auch Privatpersonen, besteht die Option einer **Förderpartnerschaft**. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte [Katrin Elsemann](katrin.elsemann@send-ev.de).
     title: Privat<span></span>personen
   title: Mitgliedschaftsarten
 cta_sticky:
