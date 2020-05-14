@@ -8,7 +8,7 @@ cta_link:
   link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
 cta_download:
   label: Zur Beitragsordnung
-  link: /uploads/neue-beitragsordnung-1-.pdf
+  link: /uploads/beitragsordnung.pdf
 section_1:
   column_1:
     paragraph: Als **Sozialunternehmen** / **Organisation aus dem Sektor** seid Ihr
