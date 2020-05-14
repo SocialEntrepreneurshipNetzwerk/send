@@ -37,7 +37,7 @@ section_1:
 
 
 
-      Für alle Organisationen und Institutionen, aber auch Privatpersonen, besteht die Option einer **Förderpartnerschaft**. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte [Katrin Elsemann](mailto:Katrin.elsemann@send-ev.de) unter katrin.elsemann@send-ev.de.
+      Für alle Organisationen und Institutionen, aber auch Privatpersonen, besteht die Option einer **Förderpartnerschaft**. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte [Katrin Elsemann](mailto:Katrin.elsemann@send-ev.de).
     title: Privat<span></span>personen
   title: Mitgliedschaftsarten
 cta_sticky:
