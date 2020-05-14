@@ -5,7 +5,7 @@ title: Mitgliedschaft
 image: /uploads/website_header_mitglieder.jpg
 cta_link:
   label: Jetzt Mitglied werden
-  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
 cta_download:
   label: Zur Beitragsordnung
   link: /uploads/neue-beitragsordnung-1-.pdf
@@ -42,7 +42,7 @@ section_1:
   title: Mitgliedschaftsarten
 cta_sticky:
   text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
   showOnPage: false
   hexColor: "#ff007b"
 ---
