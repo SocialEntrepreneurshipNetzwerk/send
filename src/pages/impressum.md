@@ -1,31 +1,27 @@
 ---
 title: Social Entrepreneurship Netzwerk Deutschland e. V.
 templateKey: impressum
-address: >-
-  Social Entrepreneurship Netzwerk Deutschland e. V.<br>c/o Bundesverband
-  Deutsche Startups e. V.<br>im Haus der Bundespressekonferenz
-  <br>Schiffbauerdamm 40 <br>10117 Berlin <br> Telefonnummer: 030-64477658
+address: "Social Entrepreneurship Netzwerk Deutschland e. V.<br>c/o
+  Bundesverband Deutsche Startups e. V.<br>im Haus der Bundespressekonferenz
+  <br>Schiffbauerdamm 40 <br>10117 Berlin <br> Telefonnummer: 030-64477658"
 email: info@send-ev.de
-bank: >-
-  **Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525 00<br>BIC:
-  GENODEM1GLS
+bank: "**Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525
+  00<br>BIC: GENODEM1GLS"
 section_1:
   content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
   cta:
     label: Satzung herunterladen
-    link: /uploads/Satzung SEND 29.11.2017-final.pdf
+    link: /uploads/satzung.pdf
   title: Satzung
 section_2:
-  content: >-
-    Lade hier unsere neue Beitragsordnung, welche ab dem 01.01.2019 gilt,
-    herunter. 
+  content: "Lade hier unsere neue Beitragsordnung, welche ab dem 01.01.2019 gilt,
+    herunter. "
   cta:
     label: Beitragsordnung herunterladen
-    link: /uploads/neue-beitragsordnung-1-.pdf
+    link: /uploads/beitragsordnung.pdf
   title: Beitragsordnung
 section_3:
-  content: >-
-    Markus Sauerhammer (Vorsitzender), Birgit Heilig, Sally Ollech, Sabrina
+  content: Markus Sauerhammer (Vorsitzender), Birgit Heilig, Sally Ollech, Sabrina
     Konzok, Philipp von der Wippel, Julia Post, Laura Haverkamp
   title: Vorstand
 section_4:
