@@ -8,14 +8,16 @@ email: info@send-ev.de
 bank: "**Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525
   00<br>BIC: GENODEM1GLS"
 section_1:
-  content: Lade hier unsere Satzung in der Fassung vom 29.11.2017 herunter
+  content: Lade hier unsere Satzung in der Fassung vom 09.10.2019, gültig ab
+    01.01.2020, herunter
   cta:
     label: Satzung herunterladen
     link: /uploads/satzung.pdf
   title: Satzung
 section_2:
-  content: "Lade hier unsere neue Beitragsordnung, welche ab dem 01.01.2019 gilt,
-    herunter. "
+  content: |-
+    Lade hier unsere Beitragsordnung in der Fassung vom 06.05.2020,
+    basierend auf unserer aktuellen Satzung (gültig seit 01.01.2020), herunter. 
   cta:
     label: Beitragsordnung herunterladen
     link: /uploads/beitragsordnung.pdf
