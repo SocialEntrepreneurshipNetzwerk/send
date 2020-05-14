@@ -8,7 +8,7 @@ email: info@send-ev.de
 bank: "**Bankverbindung:**<br>GLS Bank<br>IBAN: DE20 4306 0967 1214 6525
   00<br>BIC: GENODEM1GLS"
 section_1:
-  content: Lade hier unsere Satzung in der Fassung vom 09.10.2019, gültig ab
+  content: Lade hier unsere Satzung in der Fassung vom 09.10.2019, gültig seit
     01.01.2020, herunter
   cta:
     label: Satzung herunterladen
