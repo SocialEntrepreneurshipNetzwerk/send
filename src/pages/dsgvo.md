@@ -6,12 +6,12 @@ Wir freuen uns über Euer Interesse an unserem Unternehmen und möchten, dass Ih
 
 1. Mitgliedsantrag
 
-   1. Über unseren [Mitgliedsantrag](https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform) erheben wir personenbezogene Daten. Diese nutzen wir zunächst ausschließlich, um zu prüfen, ob der Antrag auf Mitgliedschaft gemäß unserer [Satzung](https://www.send-ev.de/uploads/Satzung%20SEND%2029.11.2017-final.pdf) bewilligt werden kann. Wird der Antrag nicht bewilligt, werden die Daten gelöscht. 
+   1. Über unseren [Mitgliedsantrag](https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform) erheben wir personenbezogene Daten. Diese nutzen wir zunächst ausschließlich, um zu prüfen, ob der Antrag auf Mitgliedschaft gemäß unserer [Satzung](https://www.send-ev.de/uploads/satzung.pdf) bewilligt werden kann. Wird der Antrag nicht bewilligt, werden die Daten gelöscht. 
    2. Ist der Antrag bewilligt, nutzen wir die Daten unserer Mitglieder für die folgenden Zwecke:
    3. Kontaktaufnahme und fortlaufende Kommunikation (hauptsächlich via Email oder Telefon)
    4. Kategorisieren der Mitglieder nach Alter, Region, Branche, Zielsetzung, Bedarf und Interessen
    5. Aggregierung der Mitgliedschaftszahlen nach den verschiedenen Kategorien
-   6. Festlegung des Mitgliedsbeitrags (gemäß [Beitragsordnung](https://www.send-ev.de/uploads/SEND_Beitragsordnung_170719.pdf))
+   6. Festlegung des Mitgliedsbeitrags (gemäß [Beitragsordnung](https://www.send-ev.de/uploads/beitragsordnung.pdf))
    7. Erstellung eines öffentlichen Profils auf der Webseite. Genutzt werden folgende Daten aus dem Mitgliedschaftsantrag: Name, Webseite, betrieblich Emailadresse, Foto bzw. Logo
    8. Darstellen der geografischen Lage auf einer virtuellen Karte. Auch hier bedarf jegliche Veröffentlichung von Daten der expliziten Zustimmung der Mitglieder.
    9. Zur Abwicklung des Mitgliedsbeitrags geben wir Kontaktdaten (ausschließlich Name, Adresse und Email) sowie die Höhe des Mitgliedsbeitrags an unseren Vertragspartner [clubcollect](http://www.clubcollect.com), der diese Daten gemäß seiner [Datenschutzrichtlinien](https://chargingio.s3.amazonaws.com/assets/legal/de-privacy.pdf) ausschließlich für den Zahlungsvorgang verwendet.
@@ -22,7 +22,8 @@ Wir freuen uns über Euer Interesse an unserem Unternehmen und möchten, dass Ih
 3. Links zu Internetseiten anderer Anbieter Unsere Webseite kann Links zu Internetseiten anderer Anbieter enthalten. Wir weisen darauf hin, dass diese Datenschutzerklärung ausschließlich für die Webseite des Social Entrepreneurship Netzwerks Deutschland gilt. Wir haben keinen Einfluss darauf und kontrollieren nicht, dass andere Anbieter die geltenden Datenschutzbestimmungen einhalten.
 4. Cookies oder Google Analytics Unsere Webseite verwendet keine Instrumente die Besucherdaten speichern
 5. Eure Rechte Eure Daten gehören Euch! Ihr habt gegenüber uns folgende Rechte hinsichtlich der Euch betreffenden personenbezogenen Daten
-       1. Recht auf Auskunft
-       2. Recht auf Berichtigung oder Löschung
-       3.  Recht auf Einschränkung der Verarbeitung
-       4.  Recht auf Widerspruch gegen die Verarbeitung
+
+   1. Recht auf Auskunft
+   2. Recht auf Berichtigung oder Löschung
+   3. Recht auf Einschränkung der Verarbeitung
+   4.  Recht auf Widerspruch gegen die Verarbeitung
