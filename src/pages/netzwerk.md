@@ -3,18 +3,16 @@ templateKey: netzwerk
 clip: clip_netzwerk
 title: Netzwerk
 section_1:
-  paragraph: >-
-    Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
+  paragraph: "Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
     Sozialunternehmen, aufstrebende Social Start Ups, engagierte
     Sozialunternehmer*innen, sowie Förderpartner aus Wirtschaft und
     Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt
-    wird.
+    wird."
   title: Unsere Mitglieder
 section_2:
   cta:
     label: Jetzt mitmachen!
-    link: >-
-      https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+    link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
   paragraph: >-
     Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
     gesellschaftlichen Herausforderungen   zeitgemäße Lösungen brauchen? Setzt
@@ -23,41 +21,29 @@ section_2:
     Innovationen gefördert werden?
 
 
-    **Dann werde Teil von SEND.** Ob als Sozialunternehmer*in, als Social
-    Startup oder als Fördermitglied.
+    **Dann werde Teil von SEND.** Ob als Sozialunternehmer*in, als Social Startup oder als Fördermitglied.
 
 
-    * Du wirst Teil eines wachsenden Netzwerks von Sozialunternehmer*innen in
-    Deutschland
+    * Du wirst Teil eines wachsenden Netzwerks von Sozialunternehmer*innen in Deutschland
 
-    * Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in
-    Deutschland aktiv mitgestalten
+    * Du kannst die politischen Rahmenbedingungen von Social Entrepreneurship in Deutschland aktiv mitgestalten
 
     * In thematischen und regionalen Gruppen kannst Du Dich effektiv vernetzen
 
-    * Du erhältst bevorzugten Zugang zu Workshops von SEND oder von
-    Partner*innen 
+    * Du wirst zu Workshops von SEND oder von Partner*innen eingeladen
 
-    * Du bekommst einen vergünstigten Zugang zu Events von SEND oder von
-    Partner*innen
+    * Wir machen deine Organisation über unsere Webseite, Social Media und Auftritte auf Veranstaltungen sichtbar
 
-    * Du vergrößert Deine Sichtbarkeit über unsere Webseite, Social Media und
-    Auftritte auf Veranstaltungen
+    * Wir vernetzen Dich mit externen Organisationen und Akteur*innen aus der Politik und Gesellschaft
 
-    * Wir matchen Dich mit externen Unternehmen und Akteur*innen aus der Politik
-    und Gesellschaft
-
-    * Als Mitglied unterstützt Du die Entwicklung einer Zukunft, die für
-    kommende Generationen tauglich ist!
+    * Als Mitglied trägst du zur Entwicklung einer nachhaltigen Zukunft bei
 
 
-    **Lass uns Gemeinsam. Wirken.**
+    **Lass uns #GemeinsamWirken**
   title: Mitglied werden
 cta_sticky:
-  hexColor: '#ff007b'
-  link: >-
-    https://docs.google.com/forms/d/1SK6RcT-AMB_sZgGIkqQY8EOhIz_bnMuVSuJ7zCmd4Mg/viewform?edit_requested=true
+  hexColor: "#ff007b"
+  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
   showOnPage: true
   text: Jetzt Mitglied werden!
 ---
-
