@@ -11,29 +11,28 @@ cta_download:
   link: /uploads/beitragsordnung.pdf
 section_1:
   column_1:
-    paragraph: Als **Sozialunternehmen** / **Organisation aus dem Sektor** seid Ihr
-      ein **ordentliches Mitglied** und erhaltet alle oben genannten
-      Möglichkeiten und die Freiheit Euren Beitrag (Spende) selbst festzulegen.
-      Los geht es ab 75,00 EUR im Jahr. Dabei könnt Ihr Euch am Umsatz und Alter
-      Eurer Organsiation orientieren. Bitte meldet Euch mit Euren Unternehmen
-      an, selbst wenn sich diese noch in Gründung befinden. Wir freuen uns auch
-      über alle Organisationen die ebenfalls den Sektor unterstützen
+    paragraph: >-
+      Als **Sozialunternehmen** / **Organisation aus dem Sektor** seid Ihr ein
+      **ordentliches Mitglied** und erhaltet alle oben genannten Möglichkeiten
+      und die Freiheit Euren Beitrag (Spende) selbst festzulegen. Los geht es ab
+      75,00 EUR im Jahr. Dabei könnt Ihr Euch am Umsatz und Alter Eurer
+      Organisation orientieren. Bitte meldet Euch mit Euren Unternehmen an,
+      selbst wenn sich dieses noch in Gründung befindet. Wir freuen uns auch
+      über alle Organisationen, die ebenfalls den Sektor unterstützen
       (Metaakteure).
+
+
+
+
+      Alle Organisationen und Institutionen, die außerhalb des Sektors aktiv sind, können **Fördermitglied** von SEND werden. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte [Katrin Elsemann](mailto:Katrin.elsemann@send-ev.de).
     title: Unternehmen
   column_2:
-    paragraph: >-
-      Auch **Privatpersonen** können bei SEND Mitglied werden. Als Privatperson
-      bist Du ein **Fördermitglied** des Vereins, erhälst alle oben genannten
-      Möglichkeiten und hast die Freiheit Deinen Beitrag (Spende) selbst
-      festzulegen. Los geht es ab 75,00 EUR im Jahr. Fördermitglieder haben die
-      gleichen Rechte wie ordentliche Mitglieder mit der Ausnahme, dass sie in
-      der Mitgliederversammlung kein Stimmrecht haben.
-
-
-      Möchtest Du SEND darüber hinaus unterstützen?
-
-
-      Für alle Organisationen und Institutionen, aber auch Privatpersonen, besteht die Option einer **Förderpartnerschaft**. Die Möglichkeiten und Rahmenbedingungen besprechen wir individuell und persönlich mit Euch. Kontaktiert hierzu bitte [Katrin Elsemann](mailto:Katrin.elsemann@send-ev.de).
+    paragraph: Auch **Privatpersonen** können bei SEND Mitglied werden. Als
+      Privatperson bist Du ein **Fördermitglied** des Vereins, erhälst alle oben
+      genannten Möglichkeiten und hast die Freiheit Deinen Beitrag (Spende)
+      selbst festzulegen. Los geht es ab 75,00 EUR im Jahr. Fördermitglieder
+      haben die gleichen Rechte wie ordentliche Mitglieder mit der Ausnahme,
+      dass sie in der Mitgliederversammlung kein Stimmrecht haben.
     title: Privat<span></span>personen
   title: Mitgliedschaftsarten
 cta_sticky:
