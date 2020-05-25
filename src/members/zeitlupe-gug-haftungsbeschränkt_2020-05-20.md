@@ -1,5 +1,5 @@
 ---
-title: Zeitlupe gUG (haftungsbeschränkt)
+title: Zeitlupe
 description: Wir sind eine gemeinnützige Gesellschaft zur Erhaltung
   untergehender Kulturgüter. Im Themengebiet "Land" befassen wir uns mit dem
   Erhalt alter Obstsorten, in dem wir Bäume pflanzen, Flächen neu anlegen und
