@@ -11,8 +11,8 @@ description: >
   Fördermitteln die Teams mit diversen Veranstaltungen und vielseitigen
   Bildungsangeboten wie z.B. Workshops und Trainings.
 impactArea:
-  - Armut
-  - Gesundheit
+  - Bildung
+  - Entrepreneurshipförderung
 organization: true
 image: /uploads/enactus.png
 email: team@enactus.de
