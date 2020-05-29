@@ -5,9 +5,8 @@ title: Netzwerk
 section_1:
   paragraph: "Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
     Sozialunternehmen, aufstrebende Social Start Ups, engagierte
-    Sozialunternehmer*innen, sowie Förderpartner aus Wirtschaft und
-    Gesellschaft. Hier eine erste kleine Auswahl, die sukzessive vervollständigt
-    wird."
+    Sozialunternehmer*innen, sowie Förderer aus Wirtschaft und Gesellschaft.
+    Hier eine erste kleine Auswahl, die sukzessive vervollständigt wird."
   title: Unsere Mitglieder
 section_2:
   cta:
