@@ -2,6 +2,14 @@
 templateKey: downloads
 title: Downloads
 downloadMaterial:
+  - downloadHeadline: Antrag zur Förderung von Sozialen Innovationen im Bundestag beschlossen
+    downloadText: Seit der Gründung vor 2,5 Jahren setzt sich das Social
+      Entrepreneurship Netzwerk Deutschland (SEND) für bessere
+      Rahmenbedingungen für Sozialunternehmen ein. Der fraktionsübergreifende
+      Beschluss ist ein Meilenstein für die Förderung von Sozialen
+      Innovationen in Deutschland.
+    link: https://www.send-ev.de/uploads/pm_antrag.pdf
+    buttonText: Pressemitteilung
   - link: https://www.send-ev.de/uploads/pm_umfrage.pdf
     buttonText: Pressemitteilung
     downloadHeadline: Mit uns aus der COVID-19-Krise – Soziale Innovationen erhalten und fördern
