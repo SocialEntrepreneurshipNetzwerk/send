@@ -13,7 +13,7 @@ category: news
 ---
 Wir sind begeistert! Nach Bündnis 90/Die Grünen und der Linken haben heute auch FDP und die beiden Regierungsfraktionen einen Antrag zu Sozialen Innovationen/Social Entrepreneurship in den Bundestag eingebracht. Vielen Dank an die Pioniere unter den Politiker*innen, die das möglich gemacht haben.
 
-Der heute beschlossene Antrag ist ein Meilenstein für die Förderung von Sozialen Innovationen in Deutschland! Gerade im Hinblick auf unsere großen gesellschaftlichen Herausforderungen gilt es, die nun beschlossenen Punkte zügig umzusetzen und im Hinblick auf einen ganzheitlichen Ansatz verbleibende Lücken im Antrag zu schließen. Und da gibt es noch einige!
+Der heute [beschlossene Antrag](https://www.bundestag.de/dokumente/textarchiv/2020/kw22-de-soziale-innovation-696120) ist ein Meilenstein für die Förderung von Sozialen Innovationen in Deutschland! Gerade im Hinblick auf unsere großen gesellschaftlichen Herausforderungen gilt es, die nun beschlossenen Punkte zügig umzusetzen und im Hinblick auf einen ganzheitlichen Ansatz verbleibende Lücken im Antrag zu schließen. Und da gibt es noch einige!
 
 Doch werfen wir einen kritischen Blick auf die Themen des Antrags und ordnen diese ein.
 
