@@ -3,7 +3,7 @@ templateKey: netzwerk
 clip: clip_netzwerk
 title: Netzwerk
 section_1:
-  paragraph: "Unser Netzwerk zählt bereits über 400 Mitglieder: innovative
+  paragraph: "Unser Netzwerk zählt bereits über 450 Mitglieder: innovative
     Sozialunternehmen, aufstrebende Social Start Ups, engagierte
     Sozialunternehmer*innen, sowie Förderer aus Wirtschaft und Gesellschaft.
     Hier eine erste kleine Auswahl, die sukzessive vervollständigt wird."
