@@ -10,9 +10,8 @@ impactArea:
 organization: true
 image: /uploads/givetastic.PNG
 email: info@givetastic.org
-link: www.givetastic.org
+link: https://de.givetastic.org/
 city: Hannover
 postalCode: 30163
 federalState: Niedersachsen
 ---
-
