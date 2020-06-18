@@ -20,6 +20,6 @@ image: /uploads/serve-the-city.png
 email: christine@servethecity.berlin
 link: www.servethecity.berlin
 city: Berlin
-postalCode: 10243
+postalCode: 10437
 federalState: Berlin
 ---
