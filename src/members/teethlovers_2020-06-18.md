@@ -11,7 +11,7 @@ impactArea:
   - Umwelt– & Klimaschutz
 organization: true
 image: /uploads/teethlovers.png
-email: marie@teethlovers.de
+email: info@teethlovers.de
 link: www.teethlovers.de
 city: Oldenburg
 postalCode: 26128
