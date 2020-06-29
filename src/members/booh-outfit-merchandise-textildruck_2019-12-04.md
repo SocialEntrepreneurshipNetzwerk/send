@@ -1,22 +1,15 @@
 ---
 title: Booh Outfit Merchandise &Textildruck
-description: >
+description: >-
   Wir sind ein freier Unternehmerbetrieb der Textildruckbranche in der JVA
-  Plötzensee, welcher wirtschaftlich arbeitet, aber einen Teil der Gewinne
-  reinvestiert bzw. in Resozialisierungsmaßnahmen und Projekte finanziert.
+  Plötzensee und schaffen Arbeitsplätze für Insassen der Haftanstalt.
   Resozialisierung stellt für uns ein gesamt gesellschaftliches Problem dar. Wir
-  sehen uns als Vorbild Verantwortung zu übernehmen und durch unternehmerische
+  sehen uns als Vorbild Verantwortung zu übernehmen und durch unternehmerische
   Methoden sozialen Mehrwert zu generieren und Probleme nachhaltig zu lösen.
-  Derzeit bieten wir 10 Arbeitsplätze für Strafgefangene Männer. Die Häftlinge
-  werden täglich von einer sozialpädagogischen Fachkraft begleitet, ganz
-  individuell, ressourcenorientiert gefördert und unterstützt. Durch Arbeit
-  bekommt der Tag im Gefängnis eine Struktur. Soziale Interaktionen und die
-  Pflege von sozialen Beziehungen werden möglich und verhelfen somit zu
-  psychischer Stabilität. Neben fachlicher Kompetenz werden ganz nebenbei
-  soziale Kompetenzen erworben, die wesentlich für ein Leben in Freiheit sind.
-  Die Arbeit gibt den Häftlingen einen täglichen Sinn, ein Gefühl der Wertigkeit
-  und Anerkennung. Unser oberstes Ziel ist es, diese Arbeitsplätze stetig
-  auszubauen und zu erweitern.
+  Unser Unternehmen arbeitet wirtschaftlich, reinvestiert aber einen Teil der
+  Gewinne in Resozialisierungsmaßnahmen und soziale Projekte.
+
+  Neben fachlicher Kompetenz erlangen die Inhaftierten bei uns, ganz nebenbei soziale Kompetenzen, die wesentlich für ein straffreies Leben in Freiheit sind. 
 impactArea:
   - Integration
 organization: true
