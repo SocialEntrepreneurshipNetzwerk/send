@@ -1,4 +1,4 @@
 ---
 templateKey: about
-title: test
+title: Test
 ---
