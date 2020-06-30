@@ -377,6 +377,13 @@ collections:
           - {label: "Page Title ", name: "title", widget: "string"}
           - {label: "Template Key", name: "templateKey", widget: "hidden"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/test.md"
+        label: "Test"
+        name: "test"
+        fields:
+          - {label: "Page Title ", name: "title", widget: "string"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/downloads.md"
         label: "Downloads"
         name: "downloads"
