@@ -18,7 +18,7 @@ Das Förderprogramm Sozialinnovator Hessen unterstützt Personen, die ein Sozial
 * Community und Netzwerk
 * Workshops und Veranstaltung
 
-Habt Ihr Interesse? Dann meldet Euch einfach bei [](norbert.lang@send-ev.de)[norbert.lang@send-ev.de](mailto:Norbert.lang@send-ev.de) und Ihr könnt innerhalb der nächsten Tage schon Unterstützung erhalten.
+Habt Ihr Interesse? Dann meldet Euch einfach bei Norbert Lang ([](norbert.lang@send-ev.de)[norbert.lang@send-ev.de](mailto:Norbert.lang@send-ev.de)) und Ihr könnt innerhalb der nächsten Tage schon Unterstützung erhalten.
 
 ## Wie wir unterstützen
 
