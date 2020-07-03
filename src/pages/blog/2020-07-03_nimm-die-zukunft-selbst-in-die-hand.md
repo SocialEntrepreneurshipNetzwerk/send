@@ -18,11 +18,11 @@ Das Förderprogramm Sozialinnovator Hessen unterstützt Personen, die ein Sozial
 * Community und Netzwerk
 * Workshops und Veranstaltung
 
-Habt Ihr Interesse? Dann meldet Euch einfach bei [norbert.lang@send-ev.de](norbert.lang@send-ev.de) und Ihr könnt innerhalb der nächsten Tage schon Unterstützung erhalten.
+Habt Ihr Interesse? Dann meldet Euch einfach bei [](norbert.lang@send-ev.de)[norbert.lang@send-ev.de](mailto:Norbert.lang@send-ev.de) und Ihr könnt innerhalb der nächsten Tage schon Unterstützung erhalten.
 
-Seid ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops [hier](<https://www.eventbrite.de/e/111986464530 >) an:
+Seid ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops [hier](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530) an:
 
-**15.07.2020 I 15:00 – 17:00 Uhr  [Wie gründe ich ein Sozialunternehmen? ](<https://www.eventbrite.de/e/111986464530 >)**
+**15.07.2020 I 15:00 – 17:00 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530)
 
 ## Wie wir unterstützen
 
@@ -30,13 +30,10 @@ Sobald Ihr Euch bei uns angemeldet habt, erhaltet Ihr ein Erstgespräch durch ei
 
 Je nach unserem Angebot und Eurem Bedürfnis unterstützen wir Euch bei:
 
-1) Fachberatung: Rechtberatung, Social Media, Marketing, Steuerberatung etc.: Wir schauen in unserem Netzwerk nach geeigneten Expert*innen und bezahlen für Eure Beratungsstunden.
-
-2) Co-Working-Plätze: Einige unserer Kooperationspartner bieten für Euch Co-Working-Plätze an.
-
-3) Online-Community: Damit Ihr auch unter den schweren Zeiten von Corona mit anderen Gründer*innen in den Austausch kommst, erhaltet Ihr Zugriff auf eine Online-Plattform.
-
-4) Veranstaltungen: In Workshops erfahrt Ihr die wichtigsten Tipps und Tricks bei der Gründung eines Sozialunternehmens.
+1. Fachberatung: Rechtberatung, Social Media, Marketing, Steuerberatung etc.: Wir schauen in unserem Netzwerk nach geeigneten Expert*innen und bezahlen für Eure Beratungsstunden.
+2. Co-Working-Plätze: Einige unserer Kooperationspartner bieten für Euch Co-Working-Plätze an.
+3. Online-Community: Damit Ihr auch unter den schweren Zeiten von Corona mit anderen Gründer*innen in den Austausch kommst, erhaltet Ihr Zugriff auf eine Online-Plattform.
+4. Veranstaltungen: In Workshops erfahrt Ihr die wichtigsten Tipps und Tricks bei der Gründung eines Sozialunternehmens.
 
 Alle Angebote sind für Euch dank der Förderung durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen kostenlos!
 
