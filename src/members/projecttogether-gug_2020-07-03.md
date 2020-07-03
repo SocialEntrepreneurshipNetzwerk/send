@@ -13,7 +13,7 @@ impactArea:
   - Bildung
   - Entrepreneurshipförderung
 organization: true
-image: /uploads/projecttogether_final.jpg
+image: /uploads/projecttogether.jpg
 email: info@projecttogether.org
 link: www.projecttogether.org
 city: Berlin
