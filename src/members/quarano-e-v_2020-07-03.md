@@ -7,7 +7,7 @@ description: "Wir haben eine Quarantäne-App im Rahmen des #WirVsVirus Hackathon
 impactArea:
   - Gesundheit
 organization: true
-image: /uploads/quarano.png
+image: /uploads/quarano_ev.png
 email: info@quarano.de
 link: www.quarano.de
 city: Berlin
