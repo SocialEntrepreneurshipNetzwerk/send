@@ -20,10 +20,6 @@ Das Förderprogramm Sozialinnovator Hessen unterstützt Personen, die ein Sozial
 
 Habt Ihr Interesse? Dann meldet Euch einfach bei [](norbert.lang@send-ev.de)[norbert.lang@send-ev.de](mailto:Norbert.lang@send-ev.de) und Ihr könnt innerhalb der nächsten Tage schon Unterstützung erhalten.
 
-Seid ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops [hier](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530) an:
-
-**15.07.2020 I 15:00 – 17:00 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530)
-
 ## Wie wir unterstützen
 
 Sobald Ihr Euch bei uns angemeldet habt, erhaltet Ihr ein Erstgespräch durch eine\*n unserer Gründungsberater\*innen. Diese besprechen mit Euch Eure Bedarfe, ob und wie wir sie durch das Förderprogramm abdecken können. In regelmäßigen Abständen (z.B. wöchentlich oder alle 3 Wochen, je nach Eurem Bedarf) besprecht Ihr mit Eurer individuellen Gründungsberater*in Euren Fortschritt.
@@ -36,6 +32,16 @@ Je nach unserem Angebot und Eurem Bedürfnis unterstützen wir Euch bei:
 4. Veranstaltungen: In Workshops erfahrt Ihr die wichtigsten Tipps und Tricks bei der Gründung eines Sozialunternehmens.
 
 Alle Angebote sind für Euch dank der Förderung durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen kostenlos!
+
+## Workshops
+
+Seid Ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops hier an:
+
+**15.07.2020 I 15:00 – 17:30 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530)
+
+**13.08.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-3-hessen-edition-tickets-112203491664)
+
+Weitere Workshops können nach Bedarf folgen.
 
 ## Hintergrund
 
