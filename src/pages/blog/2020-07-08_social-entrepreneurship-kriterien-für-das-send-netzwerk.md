@@ -41,7 +41,7 @@ Ein weiterer wichtiger Punkt ist die Frage nach dem **Innovationsgrad** des Prod
 
 Sozialunternehmen bedienen sich steuernder und kontrollierender Mechanismen, um die positive gesellschaftliche Wirkung dauerhaft zu wahren. 
 
-Dazu gehört insbesondere auch der **Umgang mit potenziellen Gewinnen**. Hier erwarten wir, dass Gewinne größtenteils, vorzugsweise ausschließlich, für den Zweck der Organisation eingesetzt oder gespendet werden. Eine Privatisierung der Gewinne ist ein Ausschlusskriterium.
+Dazu gehört insbesondere auch der **Umgang mit potenziellen Gewinnen**. Hier erwarten wir, dass Gewinne größtenteils, vorzugsweise ausschließlich, für den Zweck der Organisation eingesetzt oder gespendet werden. Eine **Privatisierung der Gewinne ist ein Ausschlusskriterium**.
 
 Ein weiteres Kriterium ist die nachhaltige Verankerung der Gemeinwohlorientierung in der Organisation. Das geht am eindeutigsten über eine klassische Gemeinnützigkeit, die ca. die Hälfte aller Mitgliedsorganisationen bei SEND auch hat. Da das Gemeinnützigkeitsrecht aber nicht alle Wirkungsbereiche oder Geschäftsmodelle von Sozialunternehmen abdeckt, können andere Belege herangezogen werden, die in Kombination mit den genannten Kriterien ein eindeutiges Bild einer Gemeinwohlorientierung wiedergeben. Dazu gehört zum Beispiel die B-Corp Zertifizierung, eine Gemeinwohl-Bilanzierung, oder die Firmierung als ein Purpose-Unternehmen. Außerdem erwarten wir, dass die soziale Mission in der Unternehmensstrategie und/oder Satzung verankert ist. 
 
