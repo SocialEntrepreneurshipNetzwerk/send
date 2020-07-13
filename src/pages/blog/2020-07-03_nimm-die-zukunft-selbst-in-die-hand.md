@@ -60,3 +60,9 @@ Der Sozialinnovator Hessen ist ein durch das Hessische Ministerium für Wirtscha
 [UNIKAT](https://www.uni-kassel.de/einrichtung/ukt/unikat-von-der-idee-zur-gruendung) der Universität Kassel
 
 Außerdem arbeiten wir innerhalb des Projekts mit der [Social Entrepreneurship Akademie](https://seakademie.org/) an einer Online-Weiterbildung für Gründungsberater*innen, mit der bestehenden Gründungsberatungen einen vertiefenden Einblick in Social Entrepreneurship erhalten und ihr Beratungsangebot erweitern können.
+
+
+
+Der Sozialinnovator Hessen wird finanziell gefördert durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen. 
+
+![](/uploads/hmwevw_logo_4c.jpg)
