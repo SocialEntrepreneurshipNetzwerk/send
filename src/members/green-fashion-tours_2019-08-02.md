@@ -7,19 +7,15 @@ description: >
   issues of the fashion industry, while presenting alternative options for an
   ethical consumption.
 
-
-  Green Fashion Tours’ urban excursions lead the customers to the most exciting
-  sustainable fashion spots, discovering hidden gems and showing the behind the
-  scenes of eco-friendly businesses and the stories of their creators.
+  Green Fashion Tours’ urban excursions lead the customers to the most exciting sustainable fashion spots, discovering hidden gems and showing the behind the scenes of eco-friendly businesses and the stories of their creators.
 impactArea:
   - Bildung
   - Umwelt– & Klimaschutz
 organization: true
 image: /uploads/greenfashiontours.png
 email: arianna@greenfashiontours.com
-link: 'https://www.greenfashiontours.com'
+link: https://www.greenfashiontours.com
 city: Berlin
 postalCode: 10119
 federalState: Berlin
 ---
-
