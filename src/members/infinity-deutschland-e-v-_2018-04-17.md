@@ -1,18 +1,16 @@
 ---
 title: Infinity Deutschland e.V.
-description: "Sustify ist eine Web-App für Sozial- und Umweltstandards in
-  Fabriken in Entwicklungs- und Schwellenländern. Es hilft Unternehmen bei der
-  Einhaltung der Rechtskonformität (Compliance) in globalen Lieferketten und
-  damit der Steigerung ihrer Leistungsfähigkeit und Resilienz. Oft werden
-  bereits Capacity building Programme bei strategischen Lieferanten durchgeführt
-  („Beyond auditing“-Ansatz), bisher jedoch nicht in digitaler Form. Durch die
-  Digitalisierung werden Impact Maßnahmen messbar und Trainings von
-  ArbeiterInnen können auch trotz COVID19 weiterhin durchgeführt werden. "
+description: Studierende fördern soziale sowie ökologische Nachhaltigkeit mit
+  unternehmerischen Mitteln und erzielen damit eine langfristige Wirkung für die
+  Gesellschaft. Unser Ziel ist es, einen Raum zu schaffen, in dem sich
+  Studierende aller Fachrichtungen willkommen fühlen, miteinander in Austausch
+  treten und ihre Kenntnisse nutzen und weiterentwickeln, um nachhaltige
+  Projekte für eine zukunftsfähige Gesellschaft zu realisieren.
 impactArea:
   - Bildung
   - Entrepreneurshipförderung
 organization: true
-image: /uploads/sustify.png
+image: /uploads/infinity-deutschland_logo-ii.png
 email: duc.nguyen@infinity-deutschland.de
 link: https://infinity-mannheim.de/
 city: Mannheim
