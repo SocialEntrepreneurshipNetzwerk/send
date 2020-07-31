@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/everding-akademie.png
 email: " rike@everding-akademie.de"
-link: www.everding-akademie.de
+link: https://www.everding-akademie.de
 city: Herrsching am Ammersee
 postalCode: 82211
 federalState: Bayern
