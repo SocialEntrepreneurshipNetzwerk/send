@@ -14,7 +14,7 @@ impactArea:
 organization: true
 image: /uploads/filterfreunde.png
 email: info@filterfreunde.com
-link: www.filterfreunde.com
+link: https://www.filterfreunde.com/
 city: Oldenburg
 postalCode: 26121
 federalState: Niedersachsen
