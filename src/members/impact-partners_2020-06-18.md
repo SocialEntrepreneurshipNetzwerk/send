@@ -17,7 +17,7 @@ impactArea:
 organization: true
 image: /uploads/impact-partners.png
 email: contact@impact.fr
-link: www.impact.fr
+link: https://www.impact.fr
 city: Frankfurt
 postalCode: 60487
 federalState: Hessen
