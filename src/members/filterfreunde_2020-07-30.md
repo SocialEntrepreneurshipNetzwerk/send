@@ -12,7 +12,7 @@ impactArea:
   - Umwelt– & Klimaschutz
   - Armut
 organization: true
-image: /uploads/filterfreunde.png
+image: /uploads/00100dportrait_00100_burst20180411170336901_cover.jpg
 email: info@filterfreunde.com
 link: https://www.filterfreunde.com/
 city: Oldenburg
