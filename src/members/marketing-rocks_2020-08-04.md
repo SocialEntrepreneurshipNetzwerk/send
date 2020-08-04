@@ -11,7 +11,7 @@ description: Hey, wir sind marketing rocks und wir sind die Social Media-Agentur
 impactArea:
   - Dienstleistungen für Sozialunternehmen
 organization: true
-image: /uploads/marketinrocks.png
+image: /uploads/marketinrocksreal.png
 email: hello@marke-ting.rocks
 link: https://www.marketingrocks.online/
 city: Mönchengladbach
