@@ -37,9 +37,11 @@ Alle Angebote sind für Euch dank der Förderung durch das Hessische Ministerium
 
 Seid Ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops hier an:
 
-**15.07.2020 I 15:00 – 17:30 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-2-hessen-edition-tickets-111986464530)
+**15.09.2020 I 15:00 – 17:30 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-4-hessen-edition-tickets-116997423443)
 
-**13.08.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-3-hessen-edition-tickets-112203491664)
+**12.10.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-5-hessen-edition-tickets-116997638085)
+
+**18.11.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-6-hessen-edition-tickets-116997634073)
 
 Weitere Workshops können nach Bedarf folgen.
 
@@ -60,8 +62,6 @@ Der Sozialinnovator Hessen ist ein durch das Hessische Ministerium für Wirtscha
 [UNIKAT](https://www.uni-kassel.de/einrichtung/ukt/unikat-von-der-idee-zur-gruendung) der Universität Kassel
 
 Außerdem arbeiten wir innerhalb des Projekts mit der [Social Entrepreneurship Akademie](https://seakademie.org/) an einer Online-Weiterbildung für Gründungsberater*innen, mit der bestehenden Gründungsberatungen einen vertiefenden Einblick in Social Entrepreneurship erhalten und ihr Beratungsangebot erweitern können.
-
-
 
 Der Sozialinnovator Hessen wird finanziell gefördert durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen. 
 
