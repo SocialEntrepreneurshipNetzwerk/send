@@ -37,9 +37,15 @@ Alle Angebote sind für Euch dank der Förderung durch das Hessische Ministerium
 
 Seid Ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr gründen wollt? Dann meldet Euch zu einem unserer Workshops hier an:
 
+**10.09. + 11.09.2020 I 10:00 – 18:00 Uhr** [Entwickle Deine sozialunternehmerische Idee](https://www.eventbrite.de/e/entwickle-deine-sozialunternehmerische-idee-hessen-edition-tickets-117002269939)
+
 **15.09.2020 I 15:00 – 17:30 Uhr**  [Wie gründe ich ein Sozialunternehmen? ](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-4-hessen-edition-tickets-116997423443)
 
+**08.10. + 09.10.2020 I 10:00 – 18:00 Uhr** [Entwickle Deine sozialunternehmerische Idee](https://www.eventbrite.de/e/entwickle-deine-sozialunternehmerische-idee-hessen-edition-tickets-117002275957)
+
 **12.10.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-5-hessen-edition-tickets-116997638085)
+
+**16.11. + 17.11.2020 I 10:00 – 18:00 Uhr** [Entwickle Deine sozialunternehmerische Idee](https://www.eventbrite.de/e/entwickle-deine-sozialunternehmerische-idee-hessen-edition-tickets-117002277963)
 
 **18.11.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-6-hessen-edition-tickets-116997634073)
 
