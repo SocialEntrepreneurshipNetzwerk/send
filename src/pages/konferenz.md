@@ -4,17 +4,23 @@ clip: clip_article
 title: "#abhängenistnichtmehr"
 image: /uploads/Blog_BildA_DSEM2019.jpg
 ---
-Abhängen ist nicht mehr? Aber wieso eigentlich? Und was verbirgt sich hinter dem Social Entrepreneurship Netzwerk Deutschland (kurz SEND) und unserer Kampagne? Das erfährst Du hier!
+Abhängen ist nicht mehr? Aber wieso eigentlich? Und was verbirgt sich hinter dem Social Entrepreneurship Netzwerk Deutschland (kurz SEND) und unserer #abhängenistnichtmehr-Kampagne? Das erfährst Du hier!
 
 Das SEND ist die Anlaufstelle für das Thema Social Entrepreneurship und soziale Innovationen in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme.
 
 ## So weit, so gut – aber was genau ist Social Entrepreneurship?
 
-Das primäre Ziel von Social Entrepreneurship (=Sozialunternehmertum) ist die Lösung gesellschaftlicher Herausforderungen. Das kann z.B. die Rettung von Lebensmitteln vor der Mülltonne sein (SirPlus Video einblenden/verlinken) oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für Mensch und Umwelt zu stiften (Afb Video).
+Das primäre Ziel von Social Entrepreneurship (=Sozialunternehmertum) ist die Lösung gesellschaftlicher Herausforderungen. Das kann z.B. die Rettung von Lebensmitteln vor der Mülltonne sein, wie unser Mitglied Sirplus tut.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bitNuGlS4aw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für Mensch und Umwelt zu stiften.
 
-In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwehrts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. Hier könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rGbzDiOZIvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Unser Mitglied AfB
+
+In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwerts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. Hier könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
 
 Diese Sozialunternehmen vernetzt und stärkt SEND, sodass sie #gemeinsamwirken können. Wir setzen uns dafür ein, dass das Verständnis sowie die Sichtbarkeit von Social Entrepreneurship auf politischer wie gesellschaftlicher Ebene wachsen, und Organisationen gefördert werden, die unternehmerisch einen sozial-ökologischen Mehrwert schaffen.
 
