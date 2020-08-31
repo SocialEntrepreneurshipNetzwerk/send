@@ -30,6 +30,8 @@ Diese Sozialunternehmen vernetzt und stärkt SEND, sodass sie #gemeinsamwirken k
 
 Zusammen als Netzwerk können wir mehr bewirken und Social Entrepreneurship auch auf die Agenda für die Bundestagswahl 2021 bringen.
 
+## Die #abhängenistnichtmehr-Kampagne
+
 Mit #abhängenistnichtmehr möchten wir deshalb noch mehr Mitglieder für SEND mobilisieren, um zu zeigen, wie wirkungsvoll Sozialunternehmen bereits sind.
 
 Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Konferenz haben sich deshalb bisherige SEND Mitglieder an die Stange gehängt und erklärt, warum sie nicht mehr abhängen. Entstanden sind viele tolle Videosclips mit denen wir andere Social Entrepreneurs aufrufen möchten sich uns anzuschließen! Sagt uns, warum ihr nicht mehr abhängt und werdet Mitglied bei SEND.
