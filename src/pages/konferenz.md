@@ -38,7 +38,7 @@ Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450
 
 **Wir. Jetzt. Zusammen. Sei auch Du dabei und werde Teil des Netzwerks!**
 
-Wenn wir Dein Interesse geweckt haben, und Du jetzt mehr über Social Entrepreneurship oder eine Mitgliedschaft als Privatperson oder Sozialunternehmen erfahren möchtest, findest Du hier weitere Informationen:
+Wenn wir Dein Interesse geweckt haben, und Du jetzt mehr über Social Entrepreneurship und eine Mitgliedschaft als Privatperson oder Sozialunternehmen erfahren möchtest, findest Du hier weitere Informationen:
 
 * [Mitgliedschaft](https://www.send-ev.de/mitgliedschaft) 
 * [Unsere Positionen](https://www.send-ev.de/positionen)
