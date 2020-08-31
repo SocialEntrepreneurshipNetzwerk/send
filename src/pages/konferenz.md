@@ -20,7 +20,7 @@ Oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für M
 
 Unser Mitglied AfB
 
-In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwerts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. Hier könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
+In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwerts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. [Hier](https://www.send-ev.de/2020-07-08_social-entrepreneurship-kriterien-für-das-send-netzwerk) könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
 
 Diese Sozialunternehmen vernetzt und stärkt SEND, sodass sie #gemeinsamwirken können. Wir setzen uns dafür ein, dass das Verständnis sowie die Sichtbarkeit von Social Entrepreneurship auf politischer wie gesellschaftlicher Ebene wachsen, und Organisationen gefördert werden, die unternehmerisch einen sozial-ökologischen Mehrwert schaffen.
 
@@ -30,9 +30,9 @@ Zusammen als Netzwerk können wir mehr bewirken und Social Entrepreneurship auch
 
 Mit #abhängenistnichtmehr möchten wir deshalb noch mehr Mitglieder für SEND mobilisieren, um zu zeigen, wie wirkungsvoll Sozialunternehmen bereits sind.
 
-Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Mitgliederversammlung haben sich deshalb bisherige SEND Mitglieder an die Stange gehängt, um weitere Sozialunternehmen zum Mitmachen zu nominieren. Wenn sie die Herausforderung annehmen und eine (Video-)botschaft aufnehmen mit der Nachricht “Wir machen XY, denn #abhängenistnichtmehr" bekommen sie von dem nominierenden Social Entrepreneur das erste Jahr der SEND Mitgliedschaft gesponsert!
+Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Mitgliederversammlung haben sich deshalb bisherige SEND Mitglieder an die Stange gehängt und erklärt, warum sie nicht mehr abhängen. Entstanden sind viele tolle Videosclips mit denen wir andere Social Entrepreneurs aufrufen möchten sich uns anzuschließen! Sagt uns, warum ihr nicht mehr abhängt und werdet Mitglied bei SEND.
 
-Wir. Jetzt. Zusammen. Sei auch Du dabei und werde Teil des SEND!
+Wir. Jetzt. Zusammen. Sei auch Du dabei und werde Teil des Netzwerks!
 
 Wenn wir dein Interesse geweckt haben, und Du jetzt mehr über Social Entrepreneurship erfahren möchtest, findest du hier weitere Informationen:
 
