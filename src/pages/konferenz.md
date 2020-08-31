@@ -1,81 +1,37 @@
 ---
 templateKey: article
 clip: clip_article
-title: 'Social Entrepreneurship: Raus aus der Nische <br> 16. und 17. Mai in Berlin'
-image: /uploads/SEND_01.02.18_Internet-256.jpg
+title: "#abhängenistnichtmehr"
+image: /uploads/Blog_BildA_DSEM2019.jpg
 ---
-[→ hier geht es zur Anmeldung](https://www.eventbrite.de/e/social-entrepreneurship-raus-aus-der-nische-tickets-58867434080)
+Abhängen ist nicht mehr? Aber wieso eigentlich? Und was verbirgt sich hinter dem Social Entrepreneurship Netzwerk Deutschland (kurz SEND) und unserer Kampagne? Das erfährst Du hier!
 
-## 16. Mai: <br> 09.00 – 17.00: Entwicklung Social Entrepreneurship Netzwerk Deutschland (exklusiv für SEND – Mitglieder)
+Das SEND ist die Anlaufstelle für das Thema Social Entrepreneurship und soziale Innovationen in Deutschland. Wir vernetzen den Sektor und geben ihm eine Stimme.
 
-* Mitgliederversammlung
-* Strategie- und Netzwerkentwicklung
-* Workshops zu den Wirkungsbereichen der Mitglieder, z.B. Integration, Internationale Zusammenarbeit, Umweltschutz, Gesundheit,  etc.
+## So weit, so gut – aber was genau ist Social Entrepreneurship?
 
-## 18:30: Parlamentarischer Abend mit Vertreter*innen der Bundespolitik
+Das primäre Ziel von Social Entrepreneurship (=Sozialunternehmertum) ist die Lösung gesellschaftlicher Herausforderungen. Das kann z.B. die Rettung von Lebensmitteln vor der Mülltonne sein (SirPlus Video einblenden/verlinken) oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für Mensch und Umwelt zu stiften (Afb Video).
 
-Wir sehen in vielen Ländern Europas eine zunehmende Verbesserung der politischen
-Rahmenbedingungen für Social Entrepreneurs– auch in Deutschland? Wo stehen wir mit der
-Umsetzung der Vorhaben aus dem Koalitionsvertrag? Was können wir von unseren europäischen
-Nachbarn lernen? Diese und weitere Fragen wollen wir gemeinsam mit Bundestagsabgeordneten aus
-Regierung und Opposition diskutieren.
 
-**Impuls**
-„Social Entrepreneurship in Europa: Blick über den Tellerrand“; Dr. Ulla Engelmann, Europäische Kommission
 
-**Policy Pitch & Podiumsdiskussion**
-Die Bundestagsabgeordneten pitchen jeweils 4 Minuten, zur eigenen Arbeit für den Social
-Entrepreneurship Sektor.
+In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwehrts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. Hier könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
 
-Teilnehmer*innen Podium:
+Diese Sozialunternehmen vernetzt und stärkt SEND, sodass sie #gemeinsamwirken können. Wir setzen uns dafür ein, dass das Verständnis sowie die Sichtbarkeit von Social Entrepreneurship auf politischer wie gesellschaftlicher Ebene wachsen, und Organisationen gefördert werden, die unternehmerisch einen sozial-ökologischen Mehrwert schaffen.
 
-* Dr. Andreas Lenz, MdB CDU/CSU-Fraktion
-* Sabine Poschmann, MdB SPD-Fraktion
-* Thomas Sattelberger, MdB FDP-Fraktion
-* Dieter Janecek, MdB Fraktion Bündnis 90/Die Grünen
+Denn: #abhängenistnichtmehr! Wir stehen als Gesellschaft vor drängenden Herausforderungen und müssen jetzt handeln. Doch eine Transformation hin zu einer enkeltauglichen Zukunft schaffen wir nur gemeinsam.
 
-Moderation: Leon Reiner, CEO Impact Hub Berlin & Vorstand SEND
+Zusammen als Netzwerk können wir mehr bewirken und Social Entrepreneurship auch auf die Agenda für die Bundestagswahl 2021 bringen.
 
-## 17. Mai: <br> 09.00 – 18.00: Social Entrepreneurship: Raus aus der Nische
+Mit #abhängenistnichtmehr möchten wir deshalb noch mehr Mitglieder für SEND mobilisieren, um zu zeigen, wie wirkungsvoll Sozialunternehmen bereits sind.
 
-09.00: Einlass und Registrierung
+Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Mitgliederversammlung haben sich deshalb bisherige SEND Mitglieder an die Stange gehängt, um weitere Sozialunternehmen zum Mitmachen zu nominieren. Wenn sie die Herausforderung annehmen und eine (Video-)botschaft aufnehmen mit der Nachricht “Wir machen XY, denn #abhängenistnichtmehr" bekommen sie von dem nominierenden Social Entrepreneur das erste Jahr der SEND Mitgliedschaft gesponsert!
 
-09.30: Begrüßung und Kennenlernen
+Wir. Jetzt. Zusammen. Sei auch Du dabei und werde Teil des SEND!
 
-10:30: Impuls : Das Milliardenpotenzial Sozialer Innovationen, Laura Brämswig (Ashoka) und Katharina Wagner (McKinsey)
+Wenn wir dein Interesse geweckt haben, und Du jetzt mehr über Social Entrepreneurship erfahren möchtest, findest du hier weitere Informationen:
 
-10:45: Kaffeepause
+Überlegen, was wir verlinken wollen
 
-11:15 [Workshops mit Expert*innen ](https://www.send-ev.de/uploads/beschreibung-workshops.pdf)
+Und wenn Du sehen willst, wie sich ganz viele Sozialunternehmer kopfüber an eine Stange hängen, dann klick hier! Dort erfährst Du, wie vielseitig SocEnt ist, und welche tollen Lösungen unsere Mitglieder für gesellschaftliche Herausforderungen gefunden haben!
 
-* Definition von Social Entrepreneurship: Ergebnisse unserer wissenschaftlichen Studie
-* Unternehmenseigentum neu denken: New Work braucht New Ownership
-* Lobby4Good: politische Arbeit für die gute Sache
-* Finanzierung: Transparenz und neue Finanzierungsinstrumente
-
-13:00 Mittagspause
-
-14:00 Podiumsdiskussion „Neue Kooperationen für Soziale Innovationen“ mit
-
-* Dr. Ulla Engelmann, Europäische Kommission
-* Dr. Anna  Hochreuter, Berliner Senatsverwaltung für Wirtschaft
-* Michael Sommer, Caritas
-* Till Behnke, nebenan.de
-
-Moderation: Sabrina Konzok, Regionalgruppensprecherin SEND Berlin
-
-14:45 Barcamp „Kooperationen für Soziale Innovationen“ (in Zusammenarbeit mit dem Berliner
-Senat und der Europäischen Kommission) - Themen werden am Tag selbst ausgewählt – hier eine mögliche Auswahl:
-
-* Wie gelingt innovative Integrationsarbeit?
-* Was sind gute Beispiele für soziale Innovationen in der Pflege?
-* Welche Rolle können Social Startups in der internationalen Zusammenarbeit spielen?
-* Wie können nachhaltige Innovationen zum Schutz der Umwelt gefördert werden?
-* Wie können wir die Nutzung von neuen Technologien für soziale Mehrwerte stärker
-  fördern?
-
-17:30 Zusammenfassung der Ergebnisse  und nächste Schritte
-
-## Ab 19.00: gemeinsamer Ausklang und Party
-
-[→ hier geht es zur Anmeldung](https://www.eventbrite.de/e/social-entrepreneurship-raus-aus-der-nische-tickets-58867434080)
+[(Zu allen Videos der #abhängenistnichtmehr Kampagne kommst Du hier)](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp)
