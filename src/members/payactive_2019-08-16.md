@@ -10,7 +10,7 @@ impactArea:
   - Dienstleistungen für Sozialunternehmen
   - Umwelt– & Klimaschutz
 organization: true
-image: /uploads/payactive.png
+image: /uploads/payactive_real.png
 email: manuel.born@payactive.de
 link: https://www.payactive.de
 city: Köln
