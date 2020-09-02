@@ -1,5 +1,5 @@
 ---
-title: Deutschland Forstet Auf gUG
+title: Deutschland Forstet Auf
 description: Wir vernetzen Menschen, die etwas anpacken wollen. Mit Hilfe
   unserer Plattform werden Forstleute, Waldbesitzende und Freiwillige gemeinsam
   in den nächsten Jahren 100 Millionen Bäume pflanzen.
