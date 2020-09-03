@@ -2,7 +2,7 @@
 templateKey: article
 clip: clip_article
 title: "#abhängenistnichtmehr"
-image: /uploads/Blog_BildA_DSEM2019.jpg
+image: /uploads/header_webseite.jpg
 ---
 Abhängen ist nicht mehr? Aber wieso eigentlich? Und was verbirgt sich hinter dem Social Entrepreneurship Netzwerk Deutschland (kurz SEND) und unserer #abhängenistnichtmehr-Kampagne? Das erfährst Du hier!
 
