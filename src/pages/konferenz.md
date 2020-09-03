@@ -10,17 +10,11 @@ Das SEND ist die Anlaufstelle für das Thema Social Entrepreneurship und soziale
 
 ## So weit, so gut – aber was genau ist Social Entrepreneurship?
 
-Das primäre Ziel von Social Entrepreneurship (=Sozialunternehmertum) ist die Lösung gesellschaftlicher Herausforderungen. Das kann z.B. die Rettung von Lebensmitteln vor der Mülltonne sein oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für Mensch und Umwelt zu stiften - so wie unsere Mitglieder Sirplus und AfB tun.
-
-
+Das primäre Ziel von Social Entrepreneurship (=Sozialunternehmertum) ist die Lösung gesellschaftlicher Herausforderungen. Das kann z.B. die Rettung von Lebensmitteln vor der Mülltonne sein oder auch die Aufbereitung gebrauchter Firmen-Hardware, um einen Mehrwert für Mensch und Umwelt zu stiften - so wie unsere Mitglieder Sirplus und AfB es tun.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bitNuGlS4aw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rGbzDiOZIvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 In einem Sozialunternehmen geht es also nicht um das große Geldverdienen, sondern um das Schaffen eines konkreten gesellschaftlichen Mehrwerts durch unternehmerische Mittel. Für eine Welt, in der alle vom Fortschritt profitieren. [Hier](https://www.send-ev.de/2020-07-08_social-entrepreneurship-kriterien-für-das-send-netzwerk) könnt Ihr genauer nachlesen, was das für die Kriterien für unser Netzwerk bedeutet.
 
