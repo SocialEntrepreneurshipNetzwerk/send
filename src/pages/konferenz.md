@@ -36,7 +36,7 @@ Wenn wir Dein Interesse geweckt haben, und Du jetzt mehr über Social Entreprene
 
 * [Mitgliedschaft](https://www.send-ev.de/mitgliedschaft) 
 * [Unsere Positionen](https://www.send-ev.de/positionen)
-* [Über den Newsletter informiert bleiben!](https://send-ev.us16.list-manage.com/subscribe?u=0bd9d2e440fd70368ee268dc7&id=db3ae0b8fc)
+* Über den [Newsletter](https://send-ev.us16.list-manage.com/subscribe?u=0bd9d2e440fd70368ee268dc7&id=db3ae0b8fc) informiert bleiben!
 * Spannende Unternehmen und ihre Wirkung auf [Instagram](https://www.instagram.com/send_netzwerk/) entdecken!
 
 Und wenn Du sehen willst, wie sich ganz viele Sozialunternehmer kopfüber an eine Stange hängen, dann [klick hier](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp)! Dort erfährst Du, wie vielseitig SocEnt ist, und welche tollen Lösungen unsere Mitglieder für gesellschaftliche Herausforderungen gefunden haben!
