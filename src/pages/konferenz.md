@@ -39,6 +39,6 @@ Wenn wir Dein Interesse geweckt haben, und Du jetzt mehr über Social Entreprene
 * Über den [Newsletter](https://send-ev.us16.list-manage.com/subscribe?u=0bd9d2e440fd70368ee268dc7&id=db3ae0b8fc) informiert bleiben!
 * Spannende Unternehmen und ihre Wirkung auf [Instagram](https://www.instagram.com/send_netzwerk/) entdecken!
 
-Und wenn Du sehen willst, wie sich ganz viele Sozialunternehmer kopfüber an eine Stange hängen, dann [klick hier](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp)! Dort erfährst Du, wie vielseitig SocEnt ist, und welche tollen Lösungen unsere Mitglieder für gesellschaftliche Herausforderungen gefunden haben!
+Und wenn Du sehen willst, wie sich ganz viele Sozialunternehmer kopfüber an eine Stange hängen, dann schau Dir doch noch mehr [Videos der Kampagne #abhängenistnichtmehr](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp) an! So erfährst Du, wie vielseitig Social Entrepreneurship ist, und welche tollen Lösungen unsere Mitglieder für gesellschaftliche Herausforderungen gefunden haben!
 
-[Zu allen Videos der #abhängenistnichtmehr Kampagne kommst Du hier!](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp)
+[](https://www.youtube.com/playlist?list=PLFQDAfhHWK1SGq73rNGWpNnghLLWmaKxp)
