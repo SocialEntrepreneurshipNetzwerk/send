@@ -24,7 +24,11 @@ Mit dem Projekt unterstützen wir die unterschiedlichen Akteure der Sozialen Ök
 Konkret können wir Euch mit folgenden kostenfreien Angeboten unterstützen:
 
 1. Vernetzung und Weiterbildung durch Fachworkshops und Netzwerkveranstaltungen ab Herbst 2020 (Termine folgen)
+
+
 2. (Vor-) Gründungsberatung für Sozialunternehmer*innen und Organisationen der Sozialen Ökonomie in Berlin
+
+
 3. Mögliche Teilnahme an der Konferenz zur Social Economy Berlin im Frühjahr 2021
 
 Das Projekt Social Economy Berlin (SEB) wird unterstützt durch den [Berliner Senat für Wirtschaft, Energie und Betriebe](https://www.berlin.de/sen/wirtschaft/) und gemeinsam mit unserem Projektpartner [Technologie-Netzwerk Berlin e.V.](https://www.technet-berlin.de) (TechNet) umgesetzt. Es läuft vom 01.08.2020 bis 31.12.2021.
