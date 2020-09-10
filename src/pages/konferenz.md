@@ -28,7 +28,7 @@ Zusammen als Netzwerk können wir mehr bewirken und Social Entrepreneurship auch
 
 Mit #abhängenistnichtmehr möchten wir deshalb noch mehr Mitglieder für SEND mobilisieren, um zu zeigen, wie wirkungsvoll Sozialunternehmen bereits sind.
 
-Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Konferenz haben sich deshalb bisherige SEND Mitglieder an die Stange gehängt und erklärt, warum sie nicht mehr abhängen. Entstanden sind viele tolle Videosclips mit denen wir andere Social Entrepreneurs aufrufen möchten sich uns anzuschließen! Sagt uns, warum ihr nicht mehr abhängt und werdet Mitglied bei SEND.
+Und wer weiß besser, wer unbedingt noch bei SEND dabei sein muss als unsere 450 Mitglieder? Bei unserer letzten Konferenz haben sich deshalb einige bisherige SEND Mitglieder an die Stange gehängt und erklärt, warum sie nicht mehr abhängen. Entstanden sind viele tolle Videosclips mit denen wir andere Social Entrepreneurs aufrufen möchten sich uns anzuschließen! Sagt uns, warum ihr nicht mehr abhängt und werdet Mitglied bei SEND.
 
 **Wir. Jetzt. Zusammen. Sei auch Du dabei und werde Teil des Netzwerks!**
 
