@@ -12,7 +12,7 @@ category: news
 ---
 Ob Klimawandel, Altersarmut oder die Integration von Flüchtlingen, Social Entrepreneurs bieten Lösungen für die dringendsten gesellschaftlichen Probleme unserer Zeit. Wirkungsorientiert gründen ist allerdings kein leichtes Unterfangen. Mehr als die Hälfte aller deutschen Social Entrepreneurs beklagen einen Mangel an adäquaten Unterstützungsangeboten (siehe [Social Entrepreneurship Monitor 2019](https://www.send-ev.de/uploads/DSEM2019.pdf)).
 
-## Doch woran liegt das? 
+## Doch woran liegt das?
 
 Social Entrepreneurs brauchen auf ihre Bedürfnisse zugeschnittenen Rat zu Themen wie Steuern, Rechtsform und Finanzierung, doch das Angebot ist meist auf konventionelle Gründungen zugeschnitten. In Anlaufstellen der Gründungsberatung z. B. bei IHKs, Inkubatoren und Förderbanken herrschen häufig noch Unklarheiten über Gründer*innen mit einer sozialunternehmerischen Geschäftsidee. Es fehlt oft noch an Tools und Know-how für eine zielgerichtete Beratung von sozialökologisch-orientierten Unternehmen.
 
@@ -26,13 +26,13 @@ Damit alle relevanten Akteure und Stakeholder eine gemeinsame Idee davon entwick
 * Wie berücksichtigt man Wirkungsorientierung?
 * Welche Fördermöglichkeiten gibt es?
 
-Mit einfachen Erklärungen öffnet die Publikation Gründungsberater*innen die Tür zu Gründungen mit einem Impact-Fokus und gibt einen Überblick über die Besonderheiten von Social Entrepreneurship in der Gründungs- und Nachgründungsphase. Darüber hinaus werden Beispiele für bereits bestehende Förderprogramme vorgestellt, wie der [Grünhof Freiburg](https://gruenhof.org/%22%20/), wo Sozialunternehmen Unterstützung und Beratung finden. Besonders spannend ist auch das Kapital zu bereits bestehenden Förderprogrammen für Social Entrepreneurs.
+Mit einfachen Erklärungen öffnet die Publikation Gründungsberater*innen die Tür zu Gründungen mit einem Impact-Fokus und gibt einen Überblick über die Besonderheiten von Social Entrepreneurship in der Gründungs- und Nachgründungsphase. Darüber hinaus werden Beispiele für bereits bestehende Förderprogramme vorgestellt, wie der [Grünhof Freiburg](https://gruenhof.org), wo Sozialunternehmen Unterstützung und Beratung finden. Besonders spannend ist auch das Kapital zu bereits bestehenden Förderprogrammen für Social Entrepreneurs.
 
 > „Die Weichen für einen Erfolg oder das Scheitern sozialer Innovationen werden \[…] oft bereits in der Gründungsphase gestellt. Umso wichtiger ist es, diese Gründer*innen von Anfang an mit einer passgenauen Beratung und Begleitung zu unterstützen.“ (Dr. Aischa Astou Saw, Geschäftsführerin KfW Stiftung).
 
 Das Whitepaper ist ein Kooperationsprojekt zwischen SEND, der KfW Stiftung, dem Bundesverband Deutscher Innovations-, Technologie- und Gründerzentren (BVIZ), dem RKW Kompetenzzentrum sowie der Universität Trier.
 
-## Für wen ist es? 
+## Für wen ist es?
 
 Das Whitepaper adressiert alle Mitarbeiter\*innen, Gründungsberater\*innen und Fachberater*innen aus privaten und öffentlichen Organisationen der Gründungsunterstützung. Dazu gehören u. a.:
 
@@ -41,8 +41,6 @@ Das Whitepaper adressiert alle Mitarbeiter\*innen, Gründungsberater\*innen und 
 * IHKs und Handelskammern
 * Inkubatoren, Company Builder und Acceleratoren
 * Landesförderbanken
-
-
 
 > „Ein Social-Entrepreneurship-Mindset zu entwickeln, gehört \[…] zu den weiteren Herausforderungen – nicht jedem ist klar, dass man mit guten Ideen auch Geld verdienen darf.“ (Raphael von Galen, Social Innovation Center Hannover)
 
