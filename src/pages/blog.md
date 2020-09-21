@@ -5,8 +5,8 @@ title: Blog
 section_1:
   title: Aktuelles
 cta_sticky:
-  text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+  text: Jetzt an der Umfrage für den 3.DSEM teilnehmen!
+  link: http://bit.ly/DSEM-3
   showOnPage: true
   hexColor: "#ff007b"
 ---
