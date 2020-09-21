@@ -78,7 +78,7 @@ section_2:
       project: Chancenwerk e.V.
 cta_sticky:
   hexColor: "#ff007b"
-  link: https://www.lehrevaluation.ovgu.de/index.php/survey/21/1/newCode/send/lang/1
-  showOnPage: false
-  text: "DSEM 2019: Gib dem Sektor eine Stimme und mach mit!"
+  link: http://bit.ly/DSEM-3
+  showOnPage: true
+  text: Umfrage zum 3.DSEM gestartet. Nimm jetzt teil!
 ---
