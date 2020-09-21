@@ -59,4 +59,4 @@ Den DSEM 2019 findet Ihr [hier.](https://www.send-ev.de/uploads/DSEM2019.pdf)
 
 ![](/uploads/esem_dsem_iii.jpg)
 
-Mehr Informationen zum ESEM findet Ihr \[hier](<https://euclidnetwork.eu/portfolio-posts/european-social-enterprise-monitor-esem/)!
+Mehr Informationen zum ESEM findet Ihr [hier](https://euclidnetwork.eu/portfolio-posts/european-social-enterprise-monitor-esem).
