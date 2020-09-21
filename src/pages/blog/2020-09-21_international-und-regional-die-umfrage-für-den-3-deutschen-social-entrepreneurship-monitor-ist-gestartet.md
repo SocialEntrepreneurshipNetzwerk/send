@@ -47,8 +47,6 @@ Du bist Social Entrepreneur? Nimm Dir die Zeit, die Umfrage zum DSEM auszufülle
 
 [Hier jetzt an der Umfrage teilnehmen!](http://bit.ly/DSEM-3)
 
-\----
-
 Der DSEM entsteht aus einer Kooperation zwischen dem Social Entrepreneurship Netzwerk Deutschland e.V. und der Otto-von-Guericke-Universität Magdeburg und wird ermöglicht durch SAP und die Bertelsmann Stiftung.
 
 ![](/uploads/dse_dsem_iii.jpg)
