@@ -15,11 +15,9 @@ Wie überzeugt Ihr Euer Gegenüber von einer guten Sache, etwas das Euch wichtig
 
 Nach wie vor gibt es allerdings nur wenige Zahlen zu Social Entrepreneurship in Deutschland. Um der Politik, der Wirtschaft und der Zivilgesellschaft einen Überblick über den Sektor und eine entsprechende Handlungsfähigkeit zu geben, sind systematische Erhebungen grundlegend. Deshalb führen wir auch dieses Jahr wieder eine Umfrage für den Deutschen Social Entrepreneurship Monitor durch.
 
-### [Hier an der Umfrage teilnehmen!](http://bit.ly/DSEM-3)
+[Hier jetzt an der Umfrage teilnehmen!](http://bit.ly/DSEM-3)
 
 ![](/uploads/dsem_iii_blogzitat_michaelwunsch.jpg)
-
-
 
 ## Europäischer Social Entrepreneurship Monitor (ESEM)
 
@@ -47,7 +45,7 @@ Mit Eurer Teilnahme an der Umfrage des DSEMs, tragt Ihr dazu bei, die Situation 
 
 Du bist Social Entrepreneur? Nimm Dir die Zeit, die Umfrage zum DSEM auszufüllen und helfe, das Potential von Social Entrepreneurship sichtbar zu machen.
 
-### [Hier an der Umfrage teilnehmen!](http://bit.ly/DSEM-3)
+[Hier jetzt an der Umfrage teilnehmen!](http://bit.ly/DSEM-3)
 
 \----
 
@@ -61,4 +59,4 @@ Den DSEM 2019 findet Ihr [hier.](https://www.send-ev.de/uploads/DSEM2019.pdf)
 
 ![](/uploads/esem_dsem_iii.jpg)
 
-Mehr Informationen zum ESEM findet Ihr [hier](<https://euclidnetwork.eu/portfolio-posts/european-social-enterprise-monitor-esem/)!
+Mehr Informationen zum ESEM findet Ihr \[hier](<https://euclidnetwork.eu/portfolio-posts/european-social-enterprise-monitor-esem/)!
