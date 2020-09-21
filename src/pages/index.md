@@ -80,5 +80,5 @@ cta_sticky:
   hexColor: "#ff007b"
   link: http://bit.ly/DSEM-3
   showOnPage: true
-  text: Jetzt an der Umfrage zum 3. DSEM teilnehmen!
+  text: Jetzt an der Umfrage für den 3.DSEM teilnehmen!
 ---
