@@ -21,7 +21,7 @@ Nach wie vor gibt es allerdings nur wenige Zahlen zu Social Entrepreneurship in 
 
 ## Europäischer Social Entrepreneurship Monitor (ESEM)
 
-Das Besondere in diesem Jahr: Der Deutsche Social Entrepreneurship Monitor wird europäisch. D.h. der DSEM wird in ein europäisches Projekt eingebunden, dass SEND zusammen mit [Euclid Network](https://euclidnetwork.eu/) initiiert hat. Zusätzlich zur deutschen Auswertung werden Dänemark, Estland, Kroatien, Portugal, Schweden, Spanien und das Vereinigte Königreich parallel für ihr Land an der Studie teilnehmen - eine tolle Möglichkeit unseren Sektor mit anderen Ländern zu vergleichen!
+Das Besondere in diesem Jahr: Der Deutsche Social Entrepreneurship Monitor wird europäisch. D.h. der DSEM wird in ein von der Europäischen Kommission gefördertes Projekt eingebunden, dass SEND zusammen mit [Euclid Network](https://euclidnetwork.eu/) initiiert hat. Zusätzlich zur deutschen Auswertung werden Dänemark, Estland, Kroatien, Portugal, Schweden, Spanien und das Vereinigte Königreich parallel für ihr Land an der Studie teilnehmen - eine tolle Möglichkeit unseren Sektor mit anderen Ländern zu vergleichen!
 
 Jedes dieser Länder wird seinen eigenen Monitor veröffentlichen. Hinzu kommt eine länderübergreifende Publikation: der European Social Enterprise Monitor (ESEM), in dem auch Deutschland repräsentiert ist.
 
@@ -29,7 +29,7 @@ Jedes dieser Länder wird seinen eigenen Monitor veröffentlichen. Hinzu kommt e
 
 ## Regional
 
-Gleichzeitig werden wir auch einen Fokus auf regionale Auswertungen legen, soweit dies möglich ist. Für jede **Region/ jedes Bundesland, in dem mehr als 50 Social Entrepreneurs** teilgenommen haben, soll es eine Sonderauswertung für den regionalen Bedarf geben. So können zukünftig auch regionale Entscheider*innen Social-Entrepreneurship-Daten in Ihrem Wirkungsbereich nutzen. Um dies zu erreichen brauchen wir dieses Jahr besonders viele motivierte Social Entrepreneurs, die an unserer Umfrage teilnehmen!
+Gleichzeitig werden wir auch einen Fokus auf regionale Auswertungen legen, soweit dies möglich ist. Für jede Region/ jedes Bundesland, in dem mehr als 50 Social Entrepreneurs teilgenommen haben, soll es eine Sonderauswertung für den regionalen Bedarf geben. So können zukünftig auch regionale Entscheider*innen Social-Entrepreneurship-Daten in Ihrem Wirkungsbereich nutzen. Um dies zu erreichen brauchen wir dieses Jahr besonders viele motivierte Social Entrepreneurs, die an unserer Umfrage teilnehmen!
 
 ## National
 
