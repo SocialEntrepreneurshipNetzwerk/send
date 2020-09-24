@@ -15,7 +15,7 @@ impactArea:
   - Entrepreneurshipförderung
 organization: true
 image: /uploads/futurepreneur.png
-email: janine.masermann@futurepreneur.de
+email: info@futurepreneur.de
 link: https://www.futurepreneur.de/
 city: Hamburg
 postalCode: 22761
