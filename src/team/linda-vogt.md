@@ -2,7 +2,6 @@
 name: Fabienne Milke
 image: /uploads/fabienne_milke.jpg
 role: Team
-description: Praktikantin
-mail: ''
+description: Werkstudentin
+mail: ""
 ---
-
