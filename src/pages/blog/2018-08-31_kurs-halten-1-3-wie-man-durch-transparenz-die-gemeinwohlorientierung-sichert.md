@@ -1,15 +1,14 @@
 ---
 templateKey: article
 clip: clip_article
-title: 'Kurs halten (3/3)! Wie man durch die DNA die Gemeinwohlorientierung sichert. '
-excerpt: >-
-  Ob Social Startup oder etabliertes Unternehmen, die Gemeinwohlorientierung
-  auch bei Skalierung, Eigentümer*innen- oder Managementwechsel, anderen großen
-  Umbrüchen oder über lange Zeit zu wahren, kann schwierig sein. In diesem
-  letzten Teil beleuchten wir, welche Rolle die DNA des Unternehmens dabei
-  spielt....
+title: "Kurs halten (3/3)! Wie man durch die DNA die Gemeinwohlorientierung sichert. "
+excerpt: Ob Social Startup oder etabliertes Unternehmen, die
+  Gemeinwohlorientierung auch bei Skalierung, Eigentümer*innen- oder
+  Managementwechsel, anderen großen Umbrüchen oder über lange Zeit zu wahren,
+  kann schwierig sein. In diesem letzten Teil beleuchten wir, welche Rolle die
+  DNA des Unternehmens dabei spielt....
 image: /uploads/polarstern_5.jpg
-date: '2018-09-17'
+date: 2018-09-17
 category: news
 ---
 In dieser Blogreihe beleuchten wir drei Bereiche, die es uns ermöglichen, die Gemeinwohlorientierung von Sozialunternehmen zu gewährleisten. Dieser Teil der Reihe befasst sich damit, welche Rolle die DNA des Unternehmens dabei spielt. Dazu stellen wir drei unterschiedliche Konzepte vor.
@@ -56,4 +55,4 @@ Die Zwecke der menschheit.org-Unternehmen orientieren sich dabei an den Sustaina
 
 \-----------------------------------------------------------------------------
 
-Nun haben wir aus drei verschiedenen Bereichen je drei Methoden vorgestellt, mit denen gemeonwohlorientierte Organisationen genau diese Orientierung beibehalten können und somit sicherstellen, dass die ursprüngliche Mission nicht aus den Augen verloren wird - Da kann ja eigentlich jetzt gar nichts mehr schief gehen.
+Nun haben wir aus drei verschiedenen Bereichen je drei Methoden vorgestellt, mit denen gemeinwohlorientierte Organisationen genau diese Orientierung beibehalten können und somit sicherstellen, dass die ursprüngliche Mission nicht aus den Augen verloren wird - Da kann ja eigentlich jetzt gar nichts mehr schief gehen.
