@@ -7,11 +7,10 @@ description: >
 impactArea:
   - Bildung
 organization: true
-image: /uploads/tandem.png
+image: /uploads/prima-tandems.png
 email: Jens.Richter@prima-tandems.de
-link: 'https://www.prima-tandems.de'
+link: https://www.prima-tandems.de
 city: Dresden
 postalCode: 1097
 federalState: Sachsen
 ---
-
