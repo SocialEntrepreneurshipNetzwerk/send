@@ -1,6 +1,6 @@
 ---
 name: Birgit Heilig
-image: /uploads/awp_8207.jpg
+image: /uploads/birgit.jpg
 role: Team
 description: Projektleiterin Hessen
 ---
