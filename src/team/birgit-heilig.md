@@ -2,6 +2,6 @@
 name: Birgit Heilig
 image: /uploads/birgit_n.jpg.png
 role: Vorstand
-description: Social Impact
+description: SEND
 mail: ""
 ---
