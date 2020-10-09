@@ -1,13 +1,14 @@
 ---
 title: Green Fashion Tours
-description: >
-  Green Fashion Tours is a project focusing on sustainable fashion, offering
-  guided tours and educational programs throughout Berlin, Munich and Hamburg
-  which have the goal of educating the public about the environmental and social
-  issues of the fashion industry, while presenting alternative options for an
-  ethical consumption.
-
-  Green Fashion Tours’ urban excursions lead the customers to the most exciting sustainable fashion spots, discovering hidden gems and showing the behind the scenes of eco-friendly businesses and the stories of their creators.
+description: Green Fashion Tours ist ein Projekt, das sich auf nachhaltige Mode
+  konzentriert und in Berlin, München und Hamburg Führungen und
+  Bildungsprogramme anbietet, die das Ziel haben, die Öffentlichkeit über die
+  ökologischen und sozialen Fragen der Modeindustrie aufzuklären und
+  gleichzeitig alternative Optionen für einen ethischen Konsum aufzuzeigen. Die
+  städtischen Exkursionen von Green Fashion Tours führen die Kunden zu den
+  spannendsten nachhaltigen Modespots, entdecken verborgene Schätze und zeigen
+  die Hintergründe von umweltfreundlichen Unternehmen und die Geschichten ihrer
+  Schöpfer.
 impactArea:
   - Bildung
   - Umwelt– & Klimaschutz
