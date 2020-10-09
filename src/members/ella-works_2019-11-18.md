@@ -13,7 +13,6 @@ description: >
 
   • Flexible Kinderbetreuung 
 
-
   Unser Angebot für Unternehmen umfasst:
 
   • Anmietung von Arbeitsplätzen für Mitarbeiterinnen als Alternative zum Homeoffice 
