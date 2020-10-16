@@ -14,6 +14,7 @@ impactArea:
 organization: true
 image: /uploads/one-love-capital-lda.png
 email: sabine@tchambalakate.de
+link: https://www.linkedin.com/company/onelovecapital
 city: Maputo
 postalCode: 10000
 federalState: Berlin
