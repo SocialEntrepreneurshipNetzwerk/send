@@ -16,7 +16,7 @@ organization: true
 image: /uploads/schutzraum.jpg
 email: info@schutzraum-medienkompetenz.de
 link: https://www.schutzraum-medienkompetenz.de
-city: Köln
+city: Hürth
 postalCode: 50354
 federalState: Nordrhein-Westfalen
 ---
