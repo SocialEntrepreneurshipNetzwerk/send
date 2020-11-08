@@ -39,6 +39,10 @@ Seid Ihr Euch noch gar nicht sicher, was ein Sozialunternehmen ist oder ob Ihr g
 
 **18.11.2020 I 15:00 - 17:30 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-6-hessen-edition-tickets-116997634073)
 
+**19.11.2020 I 14:00 - 15:00 Uhr** [Wie gründe ich ein Sozialunternehmen?](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-tickets-122383732037?aff=erelpanelorg)
+
+**19.11.2020 I 14:00 - 15:00 Uhr** [Wie gründe ich ein Sozialunternehmen? - Mainzer Gründerwoche](https://www.eventbrite.de/e/wie-grunde-ich-ein-sozialunternehmen-mainzer-grunderwoche-tickets-122700688061?aff=erelpanelorg)
+
 Weitere Workshops können nach Bedarf folgen.
 
 ## Hintergrund
