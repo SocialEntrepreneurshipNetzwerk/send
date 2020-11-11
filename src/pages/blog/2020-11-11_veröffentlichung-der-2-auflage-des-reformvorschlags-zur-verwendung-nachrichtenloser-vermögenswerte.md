@@ -6,7 +6,7 @@ title: Veröffentlichung der 2. Auflage des Reformvorschlags zur Verwendung
 excerpt: Die zweite Auflage des Berichts verarbeitet Reaktionen auf den ersten
   Reformvorschlag und gibt so zusätzlich einen Überblick über die Lage in
   anderen Ländern und den Status quo in Deutschland. Außerdem wird noch einmal
-  präziser auf das Sytem und die Funktionsweise des Social Impact Fonds
+  präziser auf das System und die Funktionsweise des Social Impact Fonds
   eingegangen.
 image: /uploads/nachrichtenlose_assets_blog_header.jpg
 date: 2020-11-12T20:33:54.236Z
