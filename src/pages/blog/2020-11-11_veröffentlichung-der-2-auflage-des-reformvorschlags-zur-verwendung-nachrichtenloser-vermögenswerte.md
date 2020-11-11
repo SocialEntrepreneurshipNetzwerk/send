@@ -12,8 +12,6 @@ image: /uploads/nachrichtenlose_assets_blog_header.jpg
 date: 2020-11-12T20:33:54.236Z
 category: news
 ---
-## 2. AUFLAGE: SOCIAL IMPACT FONDS ÜBER NACHRICHTENLOSE VERMÖGENSWERTE
-
 Nach der Veröffentlichung der 1. Auflage zu unserem Reformvorschlag für die Verwendung nachrichtenloser Vermögenswerte als Finanzierungsquelle für soziale Innovationen im Oktober 2019 wurde in den Medien viel und durchgängig positiv berichtet:
 
 [Handelsblatt](https://www.handelsblatt.com/politik/deutschland/vermoegen-bis-zu-neun-milliarden-euro-schlummern-auf-herrenlosen-bankkonten/25110234.html?ticket=ST-33143338-xjWs9jyW0Xb7c4XV6Va7-ap5) I [n-tv](https://www.n-tv.de/mediathek/videos/wirtschaft/Auf-herrenlosen-deutschen-Konten-liegen-Milliarden-article21328507.html) I [Spiegel online](https://www.spiegel.de/wirtschaft/soziales/verein-will-geld-von-herrenlosen-konten-in-soziale-zwecke-investieren-a-1291335.html) I [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/verwaiste-konten-deutschlands-banken-horten-bis-zu-neun-milliarden-euro-von-toten/25132056.html) I [Ecoreporter](https://www.ecoreporter.de/artikel/herrenlose-bankkonten-9-milliarden-euro-fur-eine-bessere-welt/) I [Buten un Binnen](https://www.butenunbinnen.de/nachrichten/politik/verwaiste-konten-nachrichtenlose-guthaben-erbenermittler-banken-100.html) I [Perspective Daily](https://www.perspective-daily.de/article/1024/probiere) I [NRZ](https://www.nrz.de/staedte/moers-und-umland/mehrere-millionen-euro-schlummern-auf-vergessenen-konten-id227384335.html) I [Deutschlandfunk Nova](https://www.deutschlandfunknova.de/beitrag/nachrichtenlose-konten-wenn-banken-geld-erben) I [ZEIT](https://www.zeit.de/2019/52/antonis-schwarz-andreas-zubrod-nachrichtenlose-konten-investments) I [Westdeutsche Zeitung](https://www.wz.de/politik/inland/verwaistes-geld-wem-stehen-vergessene-bankkonten-zu_aid-46885987)
@@ -24,8 +22,6 @@ Wie funktioniert diese Idee genau?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8DSq01Rn4rs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## WAS IST NEU?
 
 Mit der [2. Auflage unseres Berichts](https://www.send-ev.de/uploads/nachrichtenlose_assets.pdf) wollen wir erhaltene Reaktionen auf die 1. Auflage verarbeiten und haben diesen daher um folgende Punkte erweitert:
@@ -35,8 +31,6 @@ Mit der [2. Auflage unseres Berichts](https://www.send-ev.de/uploads/nachrichten
 * Eine noch präzisere Ausformulierung des Systems des Social Impact Fonds und seiner Funktionsweise
 
 Wir sind überzeugt, dass die Einführung eines Social Impact Fonds bereits vor der Corona-Krise der richtige Weg war, in der jetzigen Situation jedoch noch bedeutender ist. Wir brauchen eine finanzielle Infrastruktur für soziale Innovationen, die zur Krisenbewältigung einen wichtigen Beitrag leisten und echte Wirkung erzielen können, gerade wenn man die gesellschaftlichen Folgekosten der Corona-Krise ins Auge fasst. Daher ist es unverständlich, dass die Gelder nachrichtenloser Assets nicht produktiv eingesetzt werden, solange und soweit das Eigentumsrecht von den Kund*innen nicht geltend gemacht wird. 
-
- 
 
 > „Gerade in Zeiten der Corona-Krise ist die Finanzierung sozialer Innovationen für den Zusammenhalt unserer Gesellschaft und die Lösung der anstehenden Herausforderungen unabdingbar. Dringend benötigtes Kapital auf „toten“ Konten nicht zu nutzen, wäre fatal für unsere Zukunft.“ 
 >
