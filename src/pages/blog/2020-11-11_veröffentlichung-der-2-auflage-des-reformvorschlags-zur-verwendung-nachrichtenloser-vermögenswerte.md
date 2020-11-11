@@ -66,5 +66,3 @@ Ein herzlicher Dank geht neben den vielen Unterstützer\*innen vor allem auch an
 **Weitere Informationen:**
 
 [2. Auflage des vollständigen Berichts](https://www.send-ev.de/uploads/nachrichtenlose_assets.pdf)
-
-Pressemitteilung
