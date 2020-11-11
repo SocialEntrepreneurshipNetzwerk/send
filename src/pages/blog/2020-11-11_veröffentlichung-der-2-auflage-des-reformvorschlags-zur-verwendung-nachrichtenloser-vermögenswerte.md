@@ -3,10 +3,11 @@ templateKey: article
 clip: clip_article
 title: Veröffentlichung der 2. Auflage des Reformvorschlags zur Verwendung
   nachrichtenloser Vermögenswerte
-excerpt: Die zweite Auflage des Berichts verarbeitet Reaktionen auf die
-  1.Auflage und gibt somit zusätzlich einen Überblick über die Lage in anderen
-  Ländern und des Status quo in Deutschland. Außerdem wird noch einmal präziser
-  auf das Sytem und die Funktionsweise des Social Impact Fonds eingegangen.
+excerpt: Die zweite Auflage des Berichts verarbeitet Reaktionen auf den ersten
+  Reformvorschlag und gibt so zusätzlich einen Überblick über die Lage in
+  anderen Ländern und den Status quo in Deutschland. Außerdem wird noch einmal
+  präziser auf das Sytem und die Funktionsweise des Social Impact Fonds
+  eingegangen.
 image: /uploads/nachrichtenlose_assets_blog_header.jpg
 date: 2020-11-12T20:33:54.236Z
 category: news
