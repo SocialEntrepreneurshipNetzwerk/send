@@ -47,7 +47,7 @@ Weitere Workshops können nach Bedarf folgen.
 
 ## Hintergrund
 
-Der Sozialinnovator Hessen ist ein durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen gefördertes Projekt. Es läuft vom 01.05. bis 31.12.2020. Ziel des Projekts ist es, Gründungen im Bereich Social Entrepreneurship in Hessen zu fördern. Die Projektpartner sind in den verschiedenen Regionen Hessens aktiv:
+Der Sozialinnovator Hessen ist ein durch das Hessische Ministerium für Wirtschaft, Energie, Verkehr und Wohnen gefördertes Projekt das bis Ende 2021 läuft. Ziel des Projekts ist es, Gründungen im Bereich Social Entrepreneurship in Hessen zu fördern. Die Projektpartner sind in den verschiedenen Regionen Hessens aktiv:
 
 [HIGHEST](https://www.highest.tu-darmstadt.de/highest/index.de.jsp) der TU Darmstadt
 
