@@ -124,4 +124,17 @@ downloadMaterial:
       wenn es um die Entwicklung von Social Startups geht. Dafür hat SEND eine
       Broschüre mit konkreten Handlungsempfehlungen veröffentlicht.
     link: https://drive.google.com/file/d/11THzLp9J-GUIQ1u_9DheEFAH9JcFzXod/view
+  - file: /uploads/200909_opensocialinnovation.pdf
+    link: ""
+    downloadHeadline: "Open Social Innovation als agiler gesellschaftlicher
+      Problemlösungsprozess "
+    downloadText: >-
+      Open Social Innovation ist ein breiter, inklusiver Beteiligungsprozess
+      (Open), um gesellschaftliche Herausforderungen (Social) mit neuen Lösungen
+      (Innovation) anzugehen. Um Herausforderungen ganzheitlich anzugehen,
+      werden konkrete Problemstellungen zu einem Thema mit Betroffenen und
+      Expert:innen erarbeitet und eine Vielzahl an Lösungen
+
+      aus der Zivilgesellschaft zu diesem Thema unterstützt. Innovative Ideen aus der Zivilgesellschaft werden mit der Skalierungskraft des Staates verbunden.
+    buttonText: Positionspapier
 ---
