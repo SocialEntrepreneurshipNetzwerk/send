@@ -12,7 +12,7 @@ section_1:
     01.01.2020, herunter
   cta:
     label: Satzung herunterladen
-    link: /uploads/satzung.pdf
+    link: /uploads/satzung_02122020.pdf
   title: Satzung
 section_2:
   content: |-
@@ -20,7 +20,7 @@ section_2:
     basierend auf unserer aktuellen Satzung (gültig seit 01.01.2020), herunter. 
   cta:
     label: Beitragsordnung herunterladen
-    link: /uploads/beitragsordnung.pdf
+    link: /uploads/beitragsordnung_02122020.pdf
   title: Beitragsordnung
 section_3:
   content: Markus Sauerhammer (Vorsitzender), Birgit Heilig, Sally Ollech, Sabrina
