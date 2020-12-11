@@ -13,9 +13,9 @@ category: news
 ---
 ## Was für ein Jahr!
 
-Zum ersten Mal seit Gründung konnten wir in diesem Jahr unsere Mitglieder nicht zu einem gemeinsamen Treffen einladen, sondern mussten eine virtuelle Alternative schaffen. Zwar haben wir wohl alle mehr als genug von vielen kleinen Bildschirmen statt echten Begegnungen, aber die Energie und der Zusammenhalt der Community wurde bei unserer digitalen SEND Konferenz am Mittwoch, 2.12. trotzdem spürbar! Bis zu 200 engagierte und interessierte Menschen beteiligten sich, tauschten sich aus und gaben uns eine ganze Menge Rückenwind!
+Zum ersten Mal seit Gründung konnten wir in diesem Jahr unsere Mitglieder nicht zu einem gemeinsamen Treffen einladen, sondern mussten eine virtuelle Alternative schaffen. Zwar haben wir wohl alle mehr als genug von vielen kleinen Bildschirmen statt echten Begegnungen, aber die Energie und der Zusammenhalt der Community wurde bei unserer digitalen SEND Konferenz am Mittwoch, den 02.12. trotzdem spürbar! Bis zu 200 engagierte und interessierte Menschen beteiligten sich, tauschten sich aus und gaben uns eine ganze Menge Rückenwind!
 
-Und wie man eine virtuelle Konferenz für 200 Teilnehmer*innen mit bis zu 20 Break-Out Räumen, wechselnden Speakern, Präsentationen und digitalen Abstimmungen fast fehlerfrei hinbekommt, das wissen wir jetzt auch :-)
+Und wie man eine virtuelle Konferenz für 200 Teilnehmer:innen mit bis zu 20 Break-Out Räumen, wechselnden Speakern, Präsentationen und digitalen Abstimmungen fast fehlerfrei hinbekommt, das wissen wir jetzt auch :-)
 
 ## Auftakt mit Social Economy Berlin
 
@@ -23,19 +23,19 @@ Bereits am Morgen starteten wir mit dem digitalen Netzwerktreffen von [Social Ec
 
 ![](/uploads/bilder_blog_3.jpg)
 
-*Das Social Economy Team!*
+*Das Social Economy Berlin Team!*
 
 ## Podiumsdiskussion: Mit Sozialen Innovationen aus der Krise?!
 
-Weiter ging‘s mit der öffentlichen Podiumsdiskussion zum Thema „Mit Sozialen Innovationen aus der Krise“. Eingeladen hatten wir dazu die parlamentarischen Vertreter*innen aus dem BMWi Thomas Jarzombek, dem BMBF Dr. Michael Meister, und dem BMU Rita Schwarzelühr-Sutter. Außerdem mit auf dem Podium war Zarah Bruhn, Gründerin und Geschäftsführerin von Socialbee.
+Weiter ging‘s mit der öffentlichen Podiumsdiskussion zum Thema „Mit Sozialen Innovationen aus der Krise“. Eingeladen hatten wir dazu die parlamentarischen Vertreter:innen aus dem BMWi Thomas Jarzombek, dem BMBF Dr. Michael Meister, und dem BMU Rita Schwarzelühr-Sutter. Außerdem mit auf dem Podium war Zarah Bruhn, Gründerin und Geschäftsführerin von Socialbee.
 
 ![](/uploads/bilder_blog_1.jpg)
 
 Unser 1. Vorsitzender Markus Sauerhammer ließ in seiner Keynote vorab nochmal das Jahr Revue passieren, in dem sich in den genannten Ministerien einiges zu Sozialen Innovationen bewegte, aber wo sich auch gezeigt hat, dass „gut gemeint“ nicht immer auch „gut gemacht“ bedeutet.
 
-Wie wenig bedarfsgerecht viele der bisherigen Maßnahmen sind, erklärte eindrücklich Zarah von Socialbee. Als gemeinnütziges Unternehmen ohne finanzielle Rücklagen sind sie von den meisten Finanzierungsinstrumenten ausgeschlossen. Große Zustimmung unter den 150 Zuschauer*innen erhielt auch Zarahs Vorschlag, den Gewinn von Unternehmen nicht länger rein am finanziellen Umsatz festzumachen, sondern die Sozialrendite (in ihrem Fall die Einsparungen an Transferleistungen, die die Integration in Arbeit bringt) einzuberechnen!
+Wie wenig bedarfsgerecht viele der bisherigen Maßnahmen sind, erklärte eindrücklich Zarah von Socialbee. Als gemeinnütziges Unternehmen ohne finanzielle Rücklagen sind sie von den meisten Finanzierungsinstrumenten ausgeschlossen. Große Zustimmung unter den 150 Zuschauer:innen erhielt auch Zarahs Vorschlag, den Gewinn von Unternehmen nicht länger rein am finanziellen Umsatz festzumachen, sondern die Sozialrendite (in ihrem Fall die Einsparungen an Transferleistungen, die die Integration in Arbeit bringt) einzuberechnen!
 
-SEND Geschäftsführerin Katrin Elsemann legte als Moderatorin auch den Finger in die Wunde und fragte nach konkreten nächsten Schritten zur Förderung von Sozialen Innovationen. Dr. Meister berichtete von den Ressortabstimmung [zum beschlossenen Koalitionsantrag u](https://www.send-ev.de/2020-05-29_bundestag-beschließt-antrag-zur-förderung-von-sozialen-innovationen)nd dem aktuellen Förderprogramm für Soziale Innovationen „Gesellschaft der Ideen“, Frau Schwarzelühr-Sutter machte uns neugierig auf eine geplante Plattform für sozial-ökologische Innovationen und Herr Jarzombek brachte auch ein Geschenk für die Community mit: ein [Förderprogramm zur Beratung und Qualifizierung für Social Entrepreneurs](https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2020/12/20201202-jarzombek-social-entrepeneurs-erhalten-kuenftig-speziell-auf-ihre-beduerfnisse-zugeschnittene-foerderung.html), [](applewebdata://37A84D2D-51F8-44E0-9600-D034489A4551#_msocom_1)dass in Q2 im nächsten Jahr starten soll.
+SEND Geschäftsführerin Katrin Elsemann legte als Moderatorin auch den Finger in die Wunde und fragte nach konkreten nächsten Schritten zur Förderung von Sozialen Innovationen. Dr. Meister berichtete von den Ressortabstimmung zum [beschlossenen Koalitionsantrag](https://www.send-ev.de/2020-05-29_bundestag-beschließt-antrag-zur-förderung-von-sozialen-innovationen/) und dem aktuellen Förderprogramm für Soziale Innovationen „Gesellschaft der Ideen“, Frau Schwarzelühr-Sutter machte uns neugierig auf eine geplante Plattform für sozial-ökologische Innovationen und Herr Jarzombek brachte auch ein Geschenk für die Community mit: ein [Förderprogramm zur Beratung und Qualifizierung für Social Entrepreneurs](https://www.bmwi.de/Redaktion/DE/Pressemitteilungen/2020/12/20201202-jarzombek-social-entrepeneurs-erhalten-kuenftig-speziell-auf-ihre-beduerfnisse-zugeschnittene-foerderung.html), [](applewebdata://37A84D2D-51F8-44E0-9600-D034489A4551#_msocom_1)dass in Q2 im nächsten Jahr starten soll.
 
 Wir freuen uns auf die weitere Zusammenarbeit mit den Ministerien und werden auch im nächsten Jahr darauf achten, dass auf Worte auch Taten folgen.
 
@@ -69,7 +69,7 @@ Neben der inhaltlichen Vernetzung wurde auch in Arbeitsgruppen an konkreten, von
 
 Wie es sich für eine Mitgliederversammlung gehört, wurden auch der finanzielle Jahresabschluss von 2019 abgestimmt und der Vorstand dazu entlastet. Kleinere [Satzungs- und Beitragsänderung](https://www.send-ev.de/impressum) wurde ebenfalls abgestimmt.
 
-Wir endeten mit einer Zukunftsvision für das nächste Jahr, in der Social Entrepreneurship in jedem Koalitionsvertrag auf Bund und Landesebene eine starke Rolle spielt und in der die Community noch enger zusammenrückt. Und auch die Mitglieder haben uns ein paar Aufgaben mitgegeben:
+Wir endeten mit einer Zukunftsvision für das nächste Jahr, in der Social Entrepreneurship in jedem Koalitionsvertrag auf Bund und Landesebene eine starke Rolle spielt und in der die Community noch enger zusammenrückt. Und auch die Mitglieder haben uns ein paar Aufgaben mitgegeben - wie Ihr in dieser Wordcloud seht.
 
 ![](/uploads/bilder_blog_5.jpg)
 
