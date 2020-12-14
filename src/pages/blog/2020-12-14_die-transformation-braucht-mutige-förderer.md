@@ -45,3 +45,7 @@ Entgegen vieler anderer Förderer haben diese eben nicht einzelne (SEND-)Projekt
 Um strukturelle Veränderungen zu ermöglichen, um das #BusinessAsUsual zu verlassen, braucht es auch mutige Pioniere in der Förderlandschaft. #FundingAsUsual geht zwar noch, bringt aber nicht unbedingt die größtmögliche Wirkung. Es ist an der Zeit, dass noch mehr Förderpartner:innen sich auf den Weg machen und projektunabhängig Strukturen der Transformation finanzieren – nicht nur bei SEND, sondern auch bei anderen Organisationen. 
 
 2021 wird das wichtigste Jahr in der jungen Geschichte von SEND! Deswegen suchen wir weitere mutige Förderpartner:innen, mit denen wir im neuen Jahr noch mehr #GemeinsamWirken können! Lasst uns gemeinsam den Weg für soziale Innovationen ebnen. Für weitere Informationen gerne direkt bei [Markus](markus.sauerhammer@send-ev.de) melden.
+
+
+
+Bild: Chris Lawton / Unsplash
