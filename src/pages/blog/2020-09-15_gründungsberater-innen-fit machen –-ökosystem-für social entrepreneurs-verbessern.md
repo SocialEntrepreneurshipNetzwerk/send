@@ -20,11 +20,7 @@ Unser [Whitepaper](http://bit.ly/SocEntunterstuetzen) macht Gründungsberater*in
 
 Zudem bieten wir auch Grundseminare zu *Social Entrepreneurs in der Gründung begleiten* an, für die Ihr euch hier anmelden könnt:
 
-08.12.2020: [](https://bit.ly/FFSWS1?fbclid=IwAR3ARlLvrJeNyf5jvt2pjIi-4JfD5AQXopKYS_go1BPyi6JykRZxH4jJja0)[http://bit.ly/FFSWS1](https://bit.ly/FFSWS1?fbclid=IwAR3ARlLvrJeNyf5jvt2pjIi-4JfD5AQXopKYS_go1BPyi6JykRZxH4jJja0)
-
 09.02.2021: [http://bit.ly/FFSWS2](https://bit.ly/FFSWS2?fbclid=IwAR0GRZ7VkAb86zNF4iJxNVi3hcB3gktkkPK_Flrs6BaE4DRw5vaRfvPGB-Q) 
-
-
 
 Damit alle relevanten Akteure und Stakeholder eine gemeinsame Idee davon entwickeln, was Social Enterprises sind und was nicht, beantworten wir wichtige Fragen und Unsicherheiten zum Thema soziale Unternehmensgründung:
 
