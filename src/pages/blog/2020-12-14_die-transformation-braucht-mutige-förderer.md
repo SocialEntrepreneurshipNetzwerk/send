@@ -15,6 +15,10 @@ Ob Corona-Krise, demografischer Wandel oder die Klimakrise: Wir wissen, dass 
 
 Zwar gibt es bereits viele Antworten auf die dringenden Probleme unserer Zeit, allerdings kommen sie aufgrund rückwärtsgewandter Rahmenbedingungen und einer einseitigen Innovations- und Gründungspolitik bislang schwer zur Entfaltung. Vor fast vier Jahren haben wir deshalb SEND gegründet, um das zu ändern. Unsere Mission ist es, Lösungsgestalter:innen zu vernetzen, zu stärken, ihnen Sichtbarkeit zu geben und auf bessere Rahmenbedingungen hinzuarbeiten.   
 
+> SEND stärkt die Strukturen für alle Sozialunternehmen, schafft ein Klima für innovative und unternehmerische Lösungen gesellschaftlicher Probleme und – ganz wichtig – bezieht die Politik mit ein bzw. nimmt sie in die Pflicht. Dahinter steht ein tolles Team! Wir sind überzeugt, dass wir als Schöpflin Stiftung mit einer strukturellen Unterstützung von SEND große und nachhaltige Wirkung für das Thema Sozialunternehmertum insgesamt entfalten können.
+>
+> Lukas Harlan
+
 Und unsere Arbeit wirkt. Neben einer Stärkung des Ökosystems für innovative Sozialunternehmen haben wir 2020 vor allem an der Schnittstelle zu Politik und Verwaltung einen Aufbruch erlebt. Folgend ein paar Highlights aus diesem Jahr, an denen wir gemeinsam mit weiteren tollen Akteuren an der ein oder anderen Stelle mitwirken konnten:  
 
 * [Globaldarlehen für gemeinnützige Organisationen](https://www.kfw.de/inlandsfoerderung/%85ffentliche-Einrichtungen/Soziale-Organisationen-und-Vereine/F%9Arderprodukte/Globaldarlehen-gemeinn%9Ftzige-Organisationen-(279)/) (KfW) 
@@ -45,7 +49,5 @@ Entgegen vieler anderer Förderer haben diese eben nicht einzelne (SEND-)Projekt
 Um strukturelle Veränderungen zu ermöglichen, um das #BusinessAsUsual zu verlassen, braucht es auch mutige Pioniere in der Förderlandschaft. #FundingAsUsual geht zwar noch, bringt aber nicht unbedingt die größtmögliche Wirkung. Es ist an der Zeit, dass noch mehr Förderpartner:innen sich auf den Weg machen und projektunabhängig Strukturen der Transformation finanzieren – nicht nur bei SEND, sondern auch bei anderen Organisationen. 
 
 2021 wird das wichtigste Jahr in der jungen Geschichte von SEND! Deswegen suchen wir weitere mutige Förderpartner:innen, mit denen wir im neuen Jahr noch mehr #GemeinsamWirken können! Lasst uns gemeinsam den Weg für soziale Innovationen ebnen. Für weitere Informationen gerne direkt bei [Markus ](<mailto: markus.sauerhammer@send-ev.de>)melden.
-
-
 
 Bild: Chris Lawton / Unsplash
