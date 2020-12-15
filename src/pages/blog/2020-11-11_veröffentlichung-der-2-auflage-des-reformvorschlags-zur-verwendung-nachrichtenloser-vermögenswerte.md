@@ -8,7 +8,7 @@ excerpt: Die zweite Auflage des Berichts verarbeitet Reaktionen auf den ersten
   anderen Ländern und den Status quo in Deutschland. Außerdem wird noch einmal
   präziser auf das System und die Funktionsweise des Social Impact Fonds
   eingegangen.
-image: /uploads/nachrichtenlose_assets_blog_header.jpg
+image: /uploads/header_blog_sif_2auflage.jpg
 date: 2020-11-12T20:33:54.236Z
 category: news
 ---
