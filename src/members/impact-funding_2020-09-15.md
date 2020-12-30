@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/impact-funding.png
 email: info@impact-funding.org
-link: www.impact-funding.org
+link: https://www.impact-funding.org
 city: Berlin
 postalCode: 10119
 federalState: Berlin
