@@ -13,7 +13,7 @@ impactArea:
   - Bildung
   - Gesundheit
 organization: true
-image: /uploads/just-real.png
+image: /uploads/just-jugend-stärken-real.png
 email: just.jugendstaerken@gmail.com
 link: http://www.just-your-mindset.com
 city: Berg bei Neumarkt in der Oberpfalz
