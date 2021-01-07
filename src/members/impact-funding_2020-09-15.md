@@ -2,7 +2,7 @@
 title: Impact Funding
 description: "Impact Funding ist eine Finanzierungsplattform auf der
   AnlegerInnen in nachhaltige Kapitalanlagen investieren können. Das Besondere:
-  AnlegerInnen werden zu jeder Finanzierung nicht nur über das Finanziel,
+  AnlegerInnen werden zu jeder Finanzierung nicht nur über das Finanzielle,
   sondern auch über den Beitrag zur Nachhaltigkeit aufgeklärt. Kern der
   Plattform ist die Messbarkeit von Nachhaltigkeit (genannt Impact), die
   AnlegerInnen außerdem über den Verlauf der Finanzierung über eine Datenbank
