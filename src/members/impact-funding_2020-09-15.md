@@ -1,10 +1,17 @@
 ---
 title: Impact Funding
-description: >
-  Impact Funding finanziert Impact Unternehmen. Während einer
-  Finanzierungskampagne werden das Unternehmen sowie deren Gründer auf einer
-  Plattform präsentiert und erklärt. Dabei wird Kapital von Privatanlegern
-  eingesammelt und gleichzeitig der Reach des Unternehmens maximiert.
+description: "Impact Funding ist eine Finanzierungsplattform auf der Anleger und
+  Anlegerinnen in nachhaltige Kapitalanlagen investieren können. Das Besondere:
+  Anleger werden zu jeder Finanzierung nicht nur über das Finanziel, sondern
+  auch über den Beitrag zur Nachhaltigkeit aufgeklärt. Kern der Plattform ist
+  die Messbarkeit von Nachhaltigkeit (genannt Impact), die Anleger außerdem über
+  den Verlauf der Finanzierung über eine Datenbank weiterverfolgen können.
+  Impact Funding orientiert sich dabei am Rahmenwerk der Nachhaltigen
+  Entwicklungsziele der Vereinten Nationen (auf englisch Sustainable Development
+  Goals / SDG). Das erklärte Ziel ist es zudem jungen, sozialen und nachhaltigen
+  Unternehmen eine Plattform zu bieten, damit diese schneller wachsen können –
+  denn der Erfolg von Impact Unternehmen soll der Wirtschaft, Gesellschaft und
+  der Umwelt nützen."
 impactArea:
   - Dienstleistungen für Sozialunternehmen
   - Entrepreneurshipförderung
