@@ -8,9 +8,7 @@ description: >-
 
   Mit dem Verein IdealEkleiden e.V. fördern wir das Gemeinwohl und die kulturelle Vielfalt in unserer Stadt. 
 
-  Wir möchten Teil einer gerechten Wirtschaft sein deswegen sind soziale und ökologische Werte für uns von höchster Priorität. 
-
-  Daher stehen beiden Organisationen hinter den Idealen: Toleranz, Respekt und Liebe.
+  Wir möchten Teil einer gerechten Wirtschaft sein deswegen sind soziale und ökologische Werte für uns von höchster Priorität. Daher stehen beiden Organisationen hinter den Idealen: Toleranz, Respekt und Liebe.
 impactArea:
   - Bildung
   - Integration
