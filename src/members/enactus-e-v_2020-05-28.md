@@ -1,5 +1,5 @@
 ---
-title: Enactus e.V.
+title: Enactus Germany e.V.
 description: >
   Als gemeinnütziger Verein sind wir Teil eines internationalen Netzwerks aus
   studentischen Teams, Advisorn, Förderern und Sponsoren sowie Alumni. In
