@@ -16,7 +16,7 @@ impactArea:
 organization: true
 image: /uploads/enactus.png
 email: team@enactus.de
-link: www.enactus.de
+link: https://www.enactus.de/
 city: Köln
 postalCode: 50674
 federalState: Nordrhein-Westfalen
