@@ -13,5 +13,5 @@ description: >-
   *2*\
 
   Steffen Ganders - Director Corporate Affairs
-link: https://www.samsung.com
+link: https://www.samsung.com/de/
 ---
