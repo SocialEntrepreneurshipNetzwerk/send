@@ -1,8 +1,7 @@
 ---
 name: Laura Haverkamp
-image: /uploads/laura-haverkamp.jpg
+image: /uploads/laura_haverkamp.jpg
 role: Vorstand
 description: Ashoka
-mail: ''
+mail: ""
 ---
-
