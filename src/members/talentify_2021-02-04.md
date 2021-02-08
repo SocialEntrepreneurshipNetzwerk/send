@@ -11,7 +11,7 @@ impactArea:
 organization: true
 image: /uploads/talentify.png
 email: gerhard@talentify.berlin
-link: https://www.junge-tueftler.de/
+link: https://www.talentify.me
 city: Berlin
 postalCode: 10969
 federalState: Berlin
