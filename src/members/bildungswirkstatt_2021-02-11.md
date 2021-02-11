@@ -19,7 +19,7 @@ impactArea:
   - Menschenrechte
 organization: true
 image: /uploads/bildungswirkstatt.png
-email: tinasarnes@googlemail.com
+email: bettina@bildungswirkstatt.com
 link: http://www.bildungswirkstatt.com
 city: Stuttgart
 postalCode: 70376
