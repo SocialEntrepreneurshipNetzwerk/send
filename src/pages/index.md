@@ -26,7 +26,7 @@ section_1:
 section_2:
   cta:
     label: Jetzt Mitglied werden
-    link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+    link: https://mitglieder.send-ev.de/antrag/
   subtitle: Netzwerk
   title: gemeinsam. wirken.
   paragraph: >-
