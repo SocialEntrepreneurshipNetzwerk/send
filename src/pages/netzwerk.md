@@ -11,7 +11,7 @@ section_1:
 section_2:
   cta:
     label: Jetzt mitmachen!
-    link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+    link: https://mitglieder.send-ev.de/antrag/
   paragraph: >-
     Du teilst unsere Überzeugung, dass wir zur Bewältigung unserer
     gesellschaftlichen Herausforderungen   zeitgemäße Lösungen brauchen? Setzt
@@ -42,7 +42,7 @@ section_2:
   title: Mitglied werden
 cta_sticky:
   hexColor: "#ff007b"
-  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+  link: https://mitglieder.send-ev.de/antrag/
   showOnPage: true
   text: Jetzt Mitglied werden!
 ---
