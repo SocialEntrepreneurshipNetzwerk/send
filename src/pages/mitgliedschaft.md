@@ -5,7 +5,7 @@ title: Mitgliedschaft
 image: /uploads/website_header_mitglieder.jpg
 cta_link:
   label: Jetzt Mitglied werden
-  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+  link: https://mitglieder.send-ev.de/antrag/
 cta_download:
   label: Zur Beitragsordnung
   link: /uploads/beitragsordnung.pdf
@@ -37,7 +37,7 @@ section_1:
   title: Mitgliedschaftsarten
 cta_sticky:
   text: Jetzt Mitglied werden!
-  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+  link: https://mitglieder.send-ev.de/antrag/
   showOnPage: false
   hexColor: "#ff007b"
 ---
