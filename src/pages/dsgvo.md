@@ -6,7 +6,7 @@ Wir freuen uns über Euer Interesse an unserem Unternehmen und möchten, dass Ih
 
 1. Mitgliedsantrag
 
-   1. Über unseren [Mitgliedsantrag](https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform) erheben wir personenbezogene Daten. Diese nutzen wir zunächst ausschließlich, um zu prüfen, ob der Antrag auf Mitgliedschaft gemäß unserer [Satzung](https://www.send-ev.de/uploads/satzung.pdf) bewilligt werden kann. Wird der Antrag nicht bewilligt, werden die Daten gelöscht. 
+   1. Über unseren [Mitgliedsantrag ](https://mitglieder.send-ev.de/antrag/)erheben wir personenbezogene Daten. Diese nutzen wir zunächst ausschließlich, um zu prüfen, ob der Antrag auf Mitgliedschaft gemäß unserer [Satzung](https://www.send-ev.de/uploads/satzung.pdf) bewilligt werden kann. Wird der Antrag nicht bewilligt, werden die Daten gelöscht. 
    2. Ist der Antrag bewilligt, nutzen wir die Daten unserer Mitglieder für die folgenden Zwecke:
    3. Kontaktaufnahme und fortlaufende Kommunikation (hauptsächlich via Email oder Telefon)
    4. Kategorisieren der Mitglieder nach Alter, Region, Branche, Zielsetzung, Bedarf und Interessen
