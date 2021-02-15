@@ -50,7 +50,7 @@ section_2:
   title: Positionen
 cta_sticky:
   hexColor: "#ff007b"
-  link: https://docs.google.com/forms/d/e/1FAIpQLScaqnH0l_kFvxLm9Ren-YlvyocbpNm4w46565noI9xQPkLodQ/viewform
+  link: https://mitglieder.send-ev.de/antrag/
   showOnPage: true
   text: Jetzt Mitglied werden!
 ---
