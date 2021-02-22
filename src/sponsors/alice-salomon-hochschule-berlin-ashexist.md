@@ -1,6 +1,7 @@
 ---
 title: "Alice Salomon Hochschule Berlin - ASHEXIST "
 image: /uploads/ashberlin.png
-homepage: https://www.ash-berlin.eu/hochschule/vernetzung/alumni-netzwerk/karriereplanung/services/
+homepage: "https://www.ash-berlin.eu/studium/einrichtungen-fuer-studierende/kar\
+  riereplanung "
 organization: true
 ---
