@@ -1,7 +1,7 @@
 ---
 title: REC Reimers EDV-Consulting GmbH
 image: /uploads/rec-reimers.png
-homepage: reimers-consulting.de
+homepage: https://www.wolkenhof.com
 mail: ""
 organization: true
 ---
