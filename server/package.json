@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "elasticlunr": "^0.9.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gray-matter": "^4.0.2",
     "uuid": "^7.0.3"
   }
